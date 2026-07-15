@@ -1,0 +1,40 @@
+[
+  {
+    "opendb_id": "apple-vision-pro-m5",
+    "manufacturer": "苹果",
+    "series": "Vision Pro 系列",
+    "name": "Apple Vision Pro (M5)",
+    "image": "https://cdn.jsdelivr.net/gh/c99806413/-/1372.png",
+    "model_number": "A3416",
+    "screen": "2×Micro-OLED(内向) + 1×EyeSight OLED(外向)，1.41英寸，每只眼睛2300万像素，92% DCI-P3，分辨率3660×3200，刷新率90Hz/96Hz/100Hz/120Hz",
+    "chip": "Apple M5 (10核，4性能核心+6能效核心) + Apple R1协处理器(256GB/s带宽)，芯片工艺 TSMC N3P，神经引擎 16核 38 TOPS",
+    "ram": "16GB/24GB/32GB 统一内存",
+    "storage": "256GB/512GB/1TB",
+    "camera": "立体3D主摄系统，18mm焦距 ƒ/2.00光圈，两个高分辨率主摄，六个外界追踪摄像头，四个眼动追踪摄像头，原深感摄像头，激光雷达扫描仪",
+    "battery": "外置电池（3166 mAh，35.9 Wh），续航：一般使用2.5h，视频播放3h",
+    "release_date": "2025.10.15",
+    "tech_doc_url": "https://support.apple.com/zh-cn/125436",
+    "supported_os": "visionOS 26.0 → 最新",
+    "dimensions": "750-800g(不含头带)，电池重量 353g",
+    "model_identifier": "RealityDevice17,1"
+  },
+  {
+    "opendb_id": "apple-vision-pro",
+    "manufacturer": "苹果",
+    "series": "Vision Pro 系列",
+    "name": "Apple Vision Pro",
+    "image": "https://cdn.jsdelivr.net/gh/c99806413/-/1373.png",
+    "model_number": "A2117",
+    "screen": "2×Micro-OLED(内向) + 1×EyeSight OLED(外向)，1.41英寸，每只眼睛2300万像素，92% DCI-P3，分辨率3660×3200，刷新率90Hz/96Hz/100Hz",
+    "chip": "Apple M2 (8核，4性能核心+4能效核心) + Apple R1协处理器(256GB/s带宽)，芯片工艺 TSMC N5P，神经引擎 16核 15.8 TOPS",
+    "ram": "16GB 统一内存",
+    "storage": "256GB/512GB/1TB",
+    "camera": "立体3D主摄系统，18mm焦距 ƒ/2.00光圈，两个高分辨率主摄，六个外界追踪摄像头，四个眼动追踪摄像头，原深感摄像头，激光雷达扫描仪",
+    "battery": "外置电池（3166 mAh，35.9 Wh），续航：一般使用2h，视频播放2.5h",
+    "release_date": "2023.06.06",
+    "tech_doc_url": "https://support.apple.com/zh-cn/117810",
+    "supported_os": "visionOS 1.0 → 最新",
+    "dimensions": "600-650g(不含头带)，电池重量 353g",
+    "model_identifier": "RealityDevice14,1"
+  }
+]
