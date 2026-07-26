@@ -1,0 +1,28 @@
+[
+  {
+    "name": "MU系列",
+    "manufacturer": "建兴",
+    "series": "MU系列",
+    "opendb_id": "mu",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "120GB/240GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "缓存": "32MB SDR/512MB SDR",
+      "读取速度": "430MB/s/540MB/s",
+      "写入速度": "130MB/s/310MB/s",
+      "4K随机读": "110MB/s/130MB/s",
+      "4K随机写": "100MB/s/210MB/s",
+      "平均无故障时间": "100万小时",
+      "系统要求": "Microsoft Windows OS，Linux OS，Mac OS",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "防震能力": "500G",
+      "外形尺寸": "100×69.85×6.8mm/100×69.85×7mm",
+      "产品重量": "55g",
+      "工作温度": "0-70℃",
+      "其它特点": "安规认证：UL，CE，BSMI，VCCI，KCC，FCC，RCM，TUV，EAC，CB，WHQL，ROHS/安规认证：UL，CE，BSMI，VCCI，KCC，FCC，RCM，TUV，EAC，CB，WHQL，ROHS震动：80-2000Hz，20Grms（操作震動）命令集支援：TRIM，S.M.A.R.T.，NCQ，ATA/ATAPI-8"
+    }
+  }
+]

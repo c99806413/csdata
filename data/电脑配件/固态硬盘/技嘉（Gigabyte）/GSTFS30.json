@@ -1,0 +1,20 @@
+[
+  {
+    "name": "GSTFS30",
+    "manufacturer": "技嘉",
+    "series": "GSTFS30",
+    "opendb_id": "gstfs30",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "256GB/120GB/240GB/480GB",
+      "接口类型": "SATA3（6Gbps）",
+      "闪存架构": "TLC三层单元",
+      "读取速度": "530MB/s/500MB/s",
+      "写入速度": "500MB/s/380MB/s/420MB/s",
+      "4K随机读": "70000 IOPS/80000 IOPS/50000 IOPS",
+      "4K随机写": "40000 IOPS/75000 IOPS",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM"
+    }
+  }
+]

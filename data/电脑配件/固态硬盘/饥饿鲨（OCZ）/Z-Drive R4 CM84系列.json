@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Z-Drive R4 CM84系列",
+    "manufacturer": "饥饿鲨",
+    "series": "Z-Drive R4 CM84系列",
+    "opendb_id": "z_drive_r4_cm84",
+    "metadata": {
+      "产品定位": "工控类/企业级",
+      "存储容量": "1.2TB/600GB/300GB",
+      "接口类型": "PCI-E接口",
+      "主控芯片": "SandForce SF-2582",
+      "电源功耗": "待机功率：14.5W读写功率：16W/待机：14.5W读写：16W",
+      "平均无故障时间": "200万小时",
+      "系统要求": "Windows 7，Windows Server 2008/2008 R2，Red Hat Linux Enterprise 6.1",
+      "性能评分": "43564",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "外形尺寸": "168.55×68.91×17.14mm",
+      "产品重量": "131g",
+      "其它性能": "板载四颗SandForce SF-2582主控制器，性能方面持续读写速度最高均为2.0GB/s，随机写入性能8KB 160000 IOPS，4KB 2500000 IOPS，最大IOPS 260000",
+      "其它特点": "技术支持方面有TRIM/SCSI unmap，S.M.A.R.T.及企业级属性，128/256-bit AES加密，ECC错误校验，支持掉电保护和数据写入保证（DataWrite Assurance）技术"
+    }
+  }
+]

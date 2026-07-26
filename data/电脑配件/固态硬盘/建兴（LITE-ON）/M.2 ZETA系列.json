@@ -1,0 +1,28 @@
+[
+  {
+    "name": "M.2 ZETA系列",
+    "manufacturer": "建兴",
+    "series": "M.2 ZETA系列",
+    "opendb_id": "m_2_zeta",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "256GB/512GB/128GB",
+      "接口类型": "M.2 SATA接口（NGFF）",
+      "缓存": "256MB DDR3/512MB DDR3/128MB DDR3",
+      "读取速度": "520MB/s",
+      "写入速度": "190MB/s/430MB/s/150MB/s",
+      "4K随机读": "77500 IOPS/78500 IOPS/67500 IOPS",
+      "4K随机写": "72500 IOPS/80000 IOPS/37500 IOPS",
+      "平均无故障时间": "150万小时",
+      "系统要求": "Microsoft Windows OS，Linux OS",
+      "性能评分": "12345",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "防震能力": "1500G",
+      "外形尺寸": "80×22×2.3mm/80×22×2.65mm",
+      "产品重量": "10g",
+      "工作温度": "0-70℃",
+      "其它特点": "安规认证：BSMI，UL，TUV，C-Tick，CE，KCC，VCCI，FCC，ROHS，CB"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Agility 4系列",
+    "manufacturer": "饥饿鲨",
+    "series": "Agility 4系列",
+    "opendb_id": "agility_4",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "256GB/64GB/512GB/128GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC多层单元",
+      "读取速度": "420MB/s/300MB/s",
+      "写入速度": "410MB/s/200MB/s/300MB/s",
+      "电源功耗": "低功耗：1.3W空闲：2.5W",
+      "平均寻道时间": "1ms",
+      "平均无故障时间": "200万小时",
+      "系统要求": "Windows XP 32-bit，64-bit，Windows Vista 32-bit，64-bit，Windows 7，32-bit，64-bit，Linux，Mac OS X",
+      "外形尺寸": "99.8×69.63×9.3mm",
+      "存储温度": "0-70℃/-45-85℃",
+      "其它性能": "-45-85℃"
+    }
+  }
+]
