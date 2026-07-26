@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Power eSATA_USB SSD系列",
+    "manufacturer": "广颖电通",
+    "series": "Power eSATA_USB SSD系列",
+    "opendb_id": "power_esata_usb_ssd",
+    "metadata": {
+      "存储容量": "8GB/16GB/32GB",
+      "接口类型": "eSATA，Mini USB type B",
+      "系统要求": "Windows ME，Windows 2000，Windows XP，Windows 2003，Vista，Linux",
+      "外形尺寸": "79.2*29.8*10.95mm",
+      "产品重量": "32",
+      "其它性能": "支援eSATA/USB 热插拔",
+      "其它特点": "2年质保"
+    }
+  }
+]

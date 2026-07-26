@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Force系列",
+    "manufacturer": "海盗船",
+    "series": "Force系列",
+    "opendb_id": "force",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "200GB/100GB",
+      "接口类型": "SATA3（6Gbps）/SATA2",
+      "闪存架构": "配备SF-1200控制器芯片，MLC闪存，支持TRIM",
+      "写入数据传输率": "275 MB/s（最大）读取数据传输率：285 MB/s（最大）",
+      "其它性能": "MTBF时间为100万小时"
+    }
+  }
+]

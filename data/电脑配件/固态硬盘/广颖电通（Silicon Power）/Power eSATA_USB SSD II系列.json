@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Power eSATA_USB SSD II系列",
+    "manufacturer": "广颖电通",
+    "series": "Power eSATA_USB SSD II系列",
+    "opendb_id": "power_esata_usb_ssd_ii",
+    "metadata": {
+      "存储容量": "32GB/64GB",
+      "接口类型": "eSATA接口和USB2.0",
+      "读取速度": "300",
+      "系统要求": "Windows Vista，Win XP，Win 2000，Mac OS 9.0 & higher，Linux 2.4.0",
+      "写入数据传输率": "eSATA：Read90MB/s，Write42MB/s（Max）miniUSB：Read30MB/s，Write25MB/s（Max）",
+      "外形尺寸": "76.4*27*11.4mm",
+      "产品重量": "20g",
+      "其它特点": "两年质保"
+    }
+  }
+]

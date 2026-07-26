@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Professional",
+    "manufacturer": "光威",
+    "series": "Professional",
+    "opendb_id": "professional",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "512GB/2TB/1TB",
+      "接口类型": "M.2 PCIe接口",
+      "闪存架构": "TLC三层单元",
+      "通道": "Gen4×4",
+      "读取速度": "5000MB/s",
+      "写入速度": "4700MB/s",
+      "平均无故障时间": "150万小时",
+      "外形尺寸": "80×22×5mm",
+      "其它性能": "300TBW/1200TBW/600TBW"
+    }
+  }
+]

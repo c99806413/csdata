@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Neutron系列",
+    "manufacturer": "海盗船",
+    "series": "Neutron系列",
+    "opendb_id": "neutron",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "120GB/128GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "缓存": "256MB",
+      "读取速度": "555MB/s/540MB/s",
+      "写入速度": "211MB/s",
+      "IOPS读取": "86K IOPS/94K IOPS",
+      "IOPS写入": "50K IOPS/51K IOPS",
+      "平均无故障时间": "200万小时",
+      "其它性能": "PC Mark Vantage 成绩74KAS SSD Overall成绩878尺寸：7mm high2.5英寸-3.5英寸转接架/PC Mark Vantage成绩85KAS SSD Overall 成绩912尺寸：7mmhigh2.5英寸-3.5英寸转接架最高工作高度：3048m（up to 10000 ft）最高非工作高度：12192m（up to 40000 ft）"
+    }
+  }
+]
