@@ -1,0 +1,274 @@
+[
+  {
+    "name": "联想ThinkCentre M57 6075A61",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M57 塔式 639513C",
+    "opendb_id": "thinkcentre_m57_639513c_a61",
+    "metadata": {
+      "操作系统": "DOS",
+      "CPU系列": "酷睿2双核",
+      "CPU频率": "2660GHz",
+      "总线规格": "1333",
+      "核心/线程数": "双核",
+      "内存容量": "1GBGB",
+      "内存类型": "DDRII",
+      "硬盘容量": "160GB",
+      "光驱类型": "DVD-ROM",
+      "显卡芯片": "Intel GMA3100",
+      "显示器尺寸": "15英寸",
+      "显示器描述": "LCD",
+      "有线网卡": "1000Mbps以太网卡"
+    }
+  },
+  {
+    "name": "联想ThinkCentre M57 9088A36",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M57 塔式 639513C",
+    "opendb_id": "thinkcentre_m57_639513c_a36",
+    "metadata": {
+      "操作系统": "Windows Vista Business",
+      "CPU系列": "酷睿2双核",
+      "CPU频率": "3000GHz",
+      "总线规格": "1333",
+      "核心/线程数": "双核",
+      "内存容量": "2GB",
+      "硬盘容量": "250GB",
+      "光驱类型": "Rambo",
+      "显卡芯片": "ATI Radeon HD 2400XT",
+      "显示器尺寸": "15英寸",
+      "显示器描述": "LCD"
+    }
+  },
+  {
+    "name": "联想ThinkCentre M57 9174A91",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M57 塔式 639513C",
+    "opendb_id": "thinkcentre_m57_639513c_a91",
+    "metadata": {
+      "操作系统": "Windows XP 中文家庭版",
+      "CPU系列": "Intel 酷睿2双核 E6850(3.0GHz)",
+      "CPU频率": "3000GHz",
+      "总线规格": "1333",
+      "核心/线程数": "双核",
+      "内存容量": "2GB",
+      "内存类型": "2G PC2-5300 DDR2 SDRAM 667MHz",
+      "硬盘容量": "500GB",
+      "光驱类型": "Rambo",
+      "显卡芯片": "ATI",
+      "显示器尺寸": "19英寸",
+      "显示器描述": "液晶",
+      "有线网卡": "集成 Intel PRO/1000 千兆以太网卡"
+    }
+  },
+  {
+    "name": "联想ThinkCentre M57 9181A21",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M57 塔式 639513C",
+    "opendb_id": "thinkcentre_m57_639513c_a21",
+    "metadata": {
+      "操作系统": "Linux",
+      "CPU系列": "酷睿2双核",
+      "CPU频率": "2400GHz",
+      "总线规格": "800",
+      "核心/线程数": "双核",
+      "内存容量": "1GBGB",
+      "硬盘容量": "160GB",
+      "光驱类型": "Rambo",
+      "显卡芯片": "Intel GMA3100",
+      "显示器尺寸": "15英寸",
+      "显示器描述": "液晶"
+    }
+  },
+  {
+    "name": "联想ThinkCentre M57 9181A86",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M57 塔式 639513C",
+    "opendb_id": "thinkcentre_m57_639513c_a86",
+    "metadata": {
+      "操作系统": "Windows Vista Home Basic",
+      "CPU系列": "酷睿2双核",
+      "CPU频率": "2400GHz",
+      "总线规格": "1000",
+      "核心/线程数": "双核",
+      "内存容量": "1GBGB",
+      "内存类型": "DDRII",
+      "硬盘容量": "160GB",
+      "光驱类型": "Rambo",
+      "显卡芯片": "Intel GMA3100",
+      "显示器尺寸": "15英寸",
+      "显示器描述": "LCD",
+      "有线网卡": "1000Mbps以太网卡"
+    }
+  },
+  {
+    "name": "联想ThinkCentre M57 9181A88",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M57 塔式 639513C",
+    "opendb_id": "thinkcentre_m57_639513c_a88",
+    "metadata": {
+      "操作系统": "Windows Vista Home Basic",
+      "CPU系列": "酷睿2双核",
+      "CPU频率": "3000GHz",
+      "总线规格": "1333",
+      "核心/线程数": "双核",
+      "内存容量": "2GB",
+      "内存类型": "DDRII",
+      "硬盘容量": "250GB",
+      "光驱类型": "Rambo",
+      "显卡芯片": "ATI Radeon HD 2400XT",
+      "显示器尺寸": "15英寸",
+      "显示器描述": "LCD",
+      "视频接口": "8 USB 2.0 (2 front, 6 back) External Display External microphone (front) External Microphone / Line in (back) Headphone Headphone / Line out (back) RJ-45",
+      "有线网卡": "1000Mbps以太网卡"
+    }
+  },
+  {
+    "name": "联想ThinkCentre M57 塔式 6071A4C",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M57 塔式 639513C",
+    "opendb_id": "thinkcentre_m57_639513c_a4c",
+    "metadata": {
+      "操作系统": "Windows Vista Home Basic",
+      "CPU系列": "Intel 酷睿2双核 E6550(2.33GHz)",
+      "CPU频率": "2330GHz",
+      "总线规格": "1333",
+      "核心/线程数": "双核",
+      "内存容量": "1GBGB",
+      "内存类型": "PC2 5300",
+      "硬盘容量": "160GB",
+      "光驱类型": "Rambo",
+      "显卡芯片": "GMA3100",
+      "显示器尺寸": "15英寸",
+      "显示器描述": "液晶",
+      "视频接口": "USB接口（2前+6后）"
+    }
+  },
+  {
+    "name": "联想ThinkCentre M57 塔式 6072A2C",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M57 塔式 639513C",
+    "opendb_id": "thinkcentre_m57_639513c_a2c",
+    "metadata": {
+      "操作系统": "Windows Vista Home Basic",
+      "CPU系列": "Intel 酷睿2双核 E6550(2.33GHz)",
+      "CPU频率": "2330GHz",
+      "总线规格": "1333",
+      "核心/线程数": "双核",
+      "内存容量": "1GBGB",
+      "内存类型": "PC2 5300",
+      "硬盘容量": "160GB",
+      "光驱类型": "DVD-ROM",
+      "显卡芯片": "GMA3100",
+      "显示器尺寸": "15英寸",
+      "显示器描述": "液晶",
+      "视频接口": "USB接口（2前+6后）"
+    }
+  },
+  {
+    "name": "联想ThinkCentre M57 塔式 6074A3C",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M57 塔式 639513C",
+    "opendb_id": "thinkcentre_m57_639513c_a3c",
+    "metadata": {
+      "操作系统": "Windows Vista Home Basic",
+      "CPU系列": "Intel 酷睿2双核 E6550(2.33GHz)",
+      "CPU频率": "2330GHz",
+      "总线规格": "1333",
+      "核心/线程数": "双核",
+      "内存容量": "1GBGB",
+      "内存类型": "PC2 5300",
+      "硬盘容量": "160GB",
+      "光驱类型": "DVD-ROM",
+      "显卡芯片": "GMA3100",
+      "显示器尺寸": "15英寸",
+      "显示器描述": "液晶",
+      "视频接口": "USB接口（2前+6后）"
+    }
+  },
+  {
+    "name": "联想ThinkCentre M57 塔式 639513C (A1C)",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M57 塔式 639513C",
+    "opendb_id": "thinkcentre_m57_639513c_a1c",
+    "metadata": {
+      "操作系统": "Windows Vista Home Basic",
+      "CPU系列": "Intel 酷睿2双核 E6550(2.33GHz)",
+      "CPU频率": "2330GHz",
+      "总线规格": "1333",
+      "核心/线程数": "双核",
+      "内存容量": "1GBGB",
+      "内存类型": "PC2 5300",
+      "硬盘容量": "160GB",
+      "光驱类型": "Rambo",
+      "显卡芯片": "GMA3100",
+      "显示器尺寸": "15英寸",
+      "显示器描述": "液晶",
+      "视频接口": "USB接口（2前+6后）"
+    }
+  },
+  {
+    "name": "联想ThinkCentre M57 塔式 639513C (未知CPU)",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M57 塔式 639513C",
+    "opendb_id": "thinkcentre_m57_639513c_cpu",
+    "metadata": {
+      "操作系统": "Windows Vista Home Basic/Windows XP 中文专业版/Windows XP 中文家庭版/Windows Vista Business/Linux/DOS",
+      "CPU系列": "Intel 奔腾 双核 E2160(1.8GHz)/Intel 酷睿2双核 E4500(2.2GHz)/Intel 酷睿2双核 E8200(2.66GHz)/酷睿2四核/酷睿2双核/Intel 酷睿2双核 E6550(2.33GHz)/英特尔 奔腾双核",
+      "CPU频率": "1800GHz/2200GHz/2660GHz/3000GHz/2500GHz/2300GHz/2330GHz/2400GHz/2530GHz",
+      "总线规格": "800/1333/1066",
+      "核心/线程数": "双核/四核",
+      "内存容量": "1GBGB/2GB/4GB/512MBGB",
+      "内存类型": "PC2-5300/DDRII 667MHz/DDRII/PC2-5300 DDRII SDRAM 667MHz/PC2-5300 DDR2 SDRAM 667MHz/DDRII PC2 5300",
+      "硬盘容量": "80GB/160GB/500GB/250GB",
+      "光驱类型": "DVD-ROM/Rambo/COMBO",
+      "显卡芯片": "GMA3100/ATI X2400/ATI/ATI Radeon HD 2600XT/DVMT/Intel Graphics Media Accelerator 3100/GM3100/Intel GMA3100",
+      "显示器尺寸": "15英寸/22英寸",
+      "显示器描述": "液晶/LCD",
+      "视频接口": "8 USB 2.0/8 USB 2.0 (2 front6 back)/8 USB 2.0 (2 front, 6 back) External Display External microphone (front) External Microphone / Line in (back) Headphone Headphone / Line out (back) RJ-45/USB接口（2前+6后）",
+      "有线网卡": "1000Mbps以太网卡/集成千兆以太网卡/集成 Intel PRO/1000 千兆以太网卡"
+    }
+  },
+  {
+    "name": "联想ThinkCentre M57 塔式 9181A49",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M57 塔式 639513C",
+    "opendb_id": "thinkcentre_m57_639513c_a49",
+    "metadata": {
+      "操作系统": "Linux",
+      "CPU系列": "Intel 酷睿2双核 E4500(2.2GHz)",
+      "CPU频率": "2200GHz",
+      "总线规格": "800",
+      "核心/线程数": "双核",
+      "内存容量": "1GBGB",
+      "内存类型": "DDRII 5300",
+      "硬盘容量": "160GB",
+      "光驱类型": "DVD-ROM",
+      "显卡芯片": "Intel GMA3100",
+      "显示器尺寸": "15英寸",
+      "显示器描述": "液晶",
+      "视频接口": "USB接口（2前+6后）"
+    }
+  },
+  {
+    "name": "联想ThinkCentre M57 塔式 9181A51",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M57 塔式 639513C",
+    "opendb_id": "thinkcentre_m57_639513c_a51",
+    "metadata": {
+      "操作系统": "Windows Vista Home Basic",
+      "CPU系列": "Intel 酷睿2双核 E4500(2.2GHz)",
+      "CPU频率": "2200GHz",
+      "总线规格": "800",
+      "核心/线程数": "双核",
+      "内存容量": "1GBGB",
+      "内存类型": "PC2 5300 DDRII",
+      "硬盘容量": "160GB",
+      "光驱类型": "Rambo",
+      "显卡芯片": "ATI 2400XT",
+      "显示器尺寸": "15英寸",
+      "显示器描述": "液晶",
+      "视频接口": "8USB接口（2前+6后）",
+      "有线网卡": "集成 Intel PRO/1000 千兆以太网卡"
+    }
+  }
+]
