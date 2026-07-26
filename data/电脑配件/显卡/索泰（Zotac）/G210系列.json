@@ -1,0 +1,87 @@
+[
+  {
+    "name": "G210系列 (1GB)",
+    "manufacturer": "索泰",
+    "series": "G210系列",
+    "opendb_id": "g210_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce G210",
+      "显示芯片系列": "NVIDIA GT200系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GT218",
+      "核心频率": "590MHz/520MHz",
+      "CUDA核心": "16个",
+      "显存频率": "1000MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "1GB",
+      "显存位宽": "64bitbit",
+      "I/O接口": "DVI接口/VGA接口",
+      "其它特点": "支持PhysX物理加速技术，支持节能技术/支持PhysX物理加速技术，支持节能技术显卡功耗：31W"
+    }
+  },
+  {
+    "name": "G210系列 (256GB)",
+    "manufacturer": "索泰",
+    "series": "G210系列",
+    "opendb_id": "g210_256gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce G210",
+      "显示芯片系列": "NVIDIA GT200系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GT218",
+      "核心频率": "590MHz",
+      "CUDA核心": "16个",
+      "显存频率": "1400MHz/800MHz",
+      "显存类型": "GDDR3/GDDR2",
+      "显存容量": "256GB",
+      "显存位宽": "64bitbit",
+      "I/O接口": "DVI接口/VGA接口/HDMI接口/DVI接口/VGA接口",
+      "其它特点": "支持PhysX物理加速技术，支持节能技术，显存容量可扩展到512MB/支持PhysX物理加速技术，支持节能技术/支持PhysX物理加速技术，支持节能技术，显存容量可扩展到1024MB",
+      "产品特性1": "半高卡"
+    }
+  },
+  {
+    "name": "G210系列 (128GB)",
+    "manufacturer": "索泰",
+    "series": "G210系列",
+    "opendb_id": "g210_128gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce G210",
+      "显示芯片系列": "NVIDIA GT200系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GT218",
+      "核心频率": "590MHz",
+      "CUDA核心": "16个",
+      "显存频率": "1400MHz/800MHz",
+      "显存类型": "GDDR3/GDDR2",
+      "显存容量": "128GB",
+      "显存位宽": "64bitbit",
+      "I/O接口": "DVI接口/VGA接口/HDMI接口/DVI接口/VGA接口",
+      "其它特点": "支持PhysX物理加速技术，支持节能技术"
+    }
+  },
+  {
+    "name": "G210系列 (512GB)",
+    "manufacturer": "索泰",
+    "series": "G210系列",
+    "opendb_id": "g210_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce G210",
+      "制作工艺": "40纳米",
+      "核心代号": "GT218",
+      "核心频率": "589MHz/590MHz",
+      "显存频率": "800MHz",
+      "显存类型": "GDDR2",
+      "显存容量": "512GB",
+      "显存位宽": "64bitbit",
+      "I/O接口": "HDMI/HDMI接口/DVI接口/VGA接口",
+      "其它特点": "支持PhysX物理加速技术支持NVIDIA CUDA技术支持PureVideo HD技术支持高清硬件解码H.264支持GeForce 3D Vision",
+      "显示芯片系列": "NVIDIA GT200系列",
+      "CUDA核心": "16个"
+    }
+  }
+]

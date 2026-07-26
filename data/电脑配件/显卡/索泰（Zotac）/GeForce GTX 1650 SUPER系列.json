@@ -1,0 +1,36 @@
+[
+  {
+    "name": "GeForce GTX 1650 SUPER系列 (4GB)",
+    "manufacturer": "索泰",
+    "series": "GeForce GTX 1650 SUPER系列",
+    "opendb_id": "geforce_gtx_1650_super_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1650 SUPER",
+      "显示芯片系列": "NVIDIA GTX 16 SUPER系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU116-250/TU116",
+      "核心频率": "1530-1740MHz/1530-1725MHz",
+      "CUDA核心": "1280个",
+      "显存频率": "12000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×DisplayPort接口，1×HDMI接口，1×DVI接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热（9cm）+单热管散热/散热风扇（高效太阳花散热器，9cm风扇）/双风扇散热+热管散热",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是，HDCP 2.2",
+      "RGB": "支持",
+      "产品尺寸": "206×114×42.6mm/150×115×41mm/206×115×41mm",
+      "最大功耗": "100W",
+      "建议电源": "500W",
+      "其它特点": "支持 NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNC支持Game Ready 驱动程序支持NVIDIA GPU Boost支持VRNVIDIA Encoder",
+      "上市日期": "2020年04月/2019年11月",
+      "其他参数": "风扇配置：PWM，自动调速PCB长度：7寸，17.8CM/所占槽数：2槽"
+    }
+  }
+]
