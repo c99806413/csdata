@@ -1,0 +1,30 @@
+[
+  {
+    "name": "华硕ROG STRIX 650W",
+    "manufacturer": "华硕",
+    "series": "ROG STRIX系列",
+    "opendb_id": "__rog_strix_650w",
+    "metadata": {
+      "电源类型": "台式机电源",
+      "电源模组": "模组电源",
+      "80PLUS认证": "金牌",
+      "额定功率": "650W",
+      "风扇描述": "轴流式风扇Axial专利风扇",
+      "其他特点": "华硕最新技术能将噪音降至最低IP5X级别的防尘能力"
+    }
+  },
+  {
+    "name": "华硕ROG STRIX 750W",
+    "manufacturer": "华硕",
+    "series": "ROG STRIX系列",
+    "opendb_id": "__rog_strix_750w",
+    "metadata": {
+      "电源类型": "台式机电源",
+      "电源模组": "模组电源",
+      "80PLUS认证": "金牌",
+      "额定功率": "750W",
+      "风扇描述": "轴流式风扇Axial专利风扇",
+      "其他特点": "华硕最新技术能将噪音降至最低IP5X级别的防尘能力"
+    }
+  }
+]

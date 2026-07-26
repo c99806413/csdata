@@ -1,0 +1,102 @@
+[
+  {
+    "name": "be quiet! STRAIGHT POWER 11 750W",
+    "manufacturer": "德商德静界",
+    "series": "be-quiet! STRAIGHT POWER",
+    "opendb_id": "be_quiet__straight_power_11_750w",
+    "metadata": {
+      "电源类型": "台式机电源",
+      "主板接口": "20+4pin",
+      "PFC类型": "主动式",
+      "电源模组": "模组电源",
+      "80PLUS认证": "金牌",
+      "电容": "日系电容",
+      "额定功率": "750W",
+      "风扇描述": "135mm",
+      "电源尺寸": "170×150×86mm",
+      "电源重量": "3.04kg",
+      "CPU接口（4+4pin）": "2个",
+      "显卡接口（8Pin）": "2个",
+      "硬盘接口": "11个",
+      "软驱接口（小4pin）": "1个",
+      "供电接口（大4pin）": "1个",
+      "交流输入": "100-240V",
+      "转换效率": "93%",
+      "安规认证": "3C，CE，CB，FCC，cTUVus，RCM，BSMI，CU"
+    }
+  },
+  {
+    "name": "be quiet! SYSTEM POWER U9 500W",
+    "manufacturer": "德商德静界",
+    "series": "be-quiet! STRAIGHT POWER",
+    "opendb_id": "be_quiet__system_power_u9_500w",
+    "metadata": {
+      "电源类型": "台式机电源",
+      "主板接口": "20+4pin",
+      "PFC类型": "主动式",
+      "电源模组": "非模组电源",
+      "80PLUS认证": "铜牌",
+      "额定功率": "500W",
+      "风扇描述": "120mm",
+      "电源尺寸": "140×150×86mm",
+      "电源重量": "1.9kg",
+      "CPU接口（4+4pin）": "2个",
+      "显卡接口（8Pin）": "2个",
+      "硬盘接口": "8个",
+      "供电接口（大4pin）": "1个",
+      "交流输入": "100-240V",
+      "转换效率": "89%",
+      "安规认证": "3C，CE，CB，T?V，FCC，cTUVus，RCM，BSMI，CU"
+    }
+  },
+  {
+    "name": "be quiet! SYSTEM POWER U9 400W",
+    "manufacturer": "德商德静界",
+    "series": "be-quiet! STRAIGHT POWER",
+    "opendb_id": "be_quiet__system_power_u9_400w",
+    "metadata": {
+      "电源类型": "台式机电源",
+      "主板接口": "20+4pin",
+      "PFC类型": "主动式",
+      "电源模组": "非模组电源",
+      "80PLUS认证": "铜牌",
+      "额定功率": "400W",
+      "风扇描述": "120mm",
+      "电源尺寸": "140×150×86mm",
+      "电源重量": "1.9kg",
+      "CPU接口（4+4pin）": "1个",
+      "显卡接口（8Pin）": "2个",
+      "硬盘接口": "7个",
+      "供电接口（大4pin）": "1个",
+      "交流输入": "100-240V",
+      "转换效率": "89%",
+      "安规认证": "3C，CE，CB，FCC，cTUVus，RCM，BSMI，CU"
+    }
+  },
+  {
+    "name": "be quiet! STRAIGHT POWER 11 550W",
+    "manufacturer": "德商德静界",
+    "series": "be-quiet! STRAIGHT POWER",
+    "opendb_id": "be_quiet__straight_power_11_550w",
+    "metadata": {
+      "电源类型": "台式机电源",
+      "主板接口": "20+4pin",
+      "PFC类型": "主动式",
+      "电源模组": "模组电源",
+      "80PLUS认证": "金牌",
+      "电容": "日系电容",
+      "额定功率": "550W",
+      "风扇描述": "135mm",
+      "电源尺寸": "160×150×86mm",
+      "电源重量": "1.51kg",
+      "CPU接口（4+4pin）": "1个",
+      "显卡接口（8Pin）": "2个",
+      "硬盘接口": "11个",
+      "软驱接口（小4pin）": "1个",
+      "供电接口（大4pin）": "1个",
+      "交流输入": "100-240V",
+      "转换效率": "93%",
+      "安规认证": "3C，CE，CB，FCC，cTUVus，RCM，BSMI，CU"
+    }
+  }
+]
