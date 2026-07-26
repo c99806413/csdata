@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Intel 奔腾3 1.0GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 1.0GHz",
+    "opendb_id": "intel_3_1_0ghz",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "1GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 450",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 450",
+    "opendb_id": "intel_3_450",
+    "metadata": {
+      "制作工艺": "0.25微米",
+      "CPU主频": "0.45GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "512KB",
+      "插槽类型": "Slot 1",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 500",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 500",
+    "opendb_id": "intel_3_500",
+    "metadata": {
+      "制作工艺": "0.25微米",
+      "CPU主频": "0.5GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "512KB",
+      "插槽类型": "Slot 1",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 500E",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 500E",
+    "opendb_id": "intel_3_500e",
+    "metadata": {
+      "制作工艺": "256KB",
+      "CPU主频": "0.5GHz",
+      "一级缓存": "256KB",
+      "二级缓存": "64KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 533B",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 533B",
+    "opendb_id": "intel_3_533b",
+    "metadata": {
+      "制作工艺": "0.25微米",
+      "CPU主频": "0.533GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "512KB",
+      "插槽类型": "Slot 1",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 533EB",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 533EB",
+    "opendb_id": "intel_3_533eb",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.533GHz",
+      "一级缓存": "256KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 550",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 550",
+    "opendb_id": "intel_3_550",
+    "metadata": {
+      "制作工艺": "0.25微米",
+      "CPU主频": "0.55GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "512KB",
+      "插槽类型": "Slot 1",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 550E",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 550E",
+    "opendb_id": "intel_3_550e",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.55GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 600E",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 600E",
+    "opendb_id": "intel_3_600e",
+    "metadata": {
+      "制作工艺": "0.18微米（6层金属）",
+      "CPU主频": "0.6GHz",
+      "一级缓存": "64KB",
+      "二级缓存": "256KB",
+      "插槽类型": "2",
+      "指令集": "64"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 600EB",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 600EB",
+    "opendb_id": "intel_3_600eb",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.6GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Slot 1",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 650",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 650",
+    "opendb_id": "intel_3_650",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.65GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 650E",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 650E",
+    "opendb_id": "intel_3_650e",
+    "metadata": {
+      "制作工艺": "0.18微米（6层金属）",
+      "CPU主频": "0.65GHz",
+      "一级缓存": "64KB",
+      "二级缓存": "256KB",
+      "插槽类型": "2",
+      "指令集": "64"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 667",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 667",
+    "opendb_id": "intel_3_667",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.667GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Slot 1",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 700",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 700",
+    "opendb_id": "intel_3_700",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.7GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 733",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 733",
+    "opendb_id": "intel_3_733",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.733GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 750",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 750",
+    "opendb_id": "intel_3_750",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.75GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 800",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 800",
+    "opendb_id": "intel_3_800",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.8GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Slot 1",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 800E",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 800E",
+    "opendb_id": "intel_3_800e",
+    "metadata": {
+      "制作工艺": "0.18微米（6层金属）",
+      "CPU主频": "0.8GHz",
+      "一级缓存": "64KB",
+      "二级缓存": "256KB",
+      "插槽类型": "2",
+      "指令集": "64"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 800EB",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 800EB",
+    "opendb_id": "intel_3_800eb",
+    "metadata": {
+      "制作工艺": "0.18微米（6层金属）",
+      "CPU主频": "0.8GHz",
+      "一级缓存": "64KB",
+      "二级缓存": "256KB",
+      "插槽类型": "2",
+      "指令集": "64"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 850",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 850",
+    "opendb_id": "intel_3_850",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.85GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Slot 1",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 866",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 866",
+    "opendb_id": "intel_3_866",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.866GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集/32"
+    }
+  },
+  {
+    "name": "Intel 奔腾3 933EB",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 933EB",
+    "opendb_id": "intel_3_933eb",
+    "metadata": {
+      "CPU主频": "0.933GHz",
+      "一级缓存": "64KB",
+      "二级缓存": "256KB",
+      "插槽类型": "2",
+      "指令集": "64",
+      "制作工艺": "0.18微米（6层金属）"
+    }
+  }
+]

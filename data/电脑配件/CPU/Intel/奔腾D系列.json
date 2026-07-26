@@ -1,0 +1,415 @@
+[
+  {
+    "name": "Intel 奔腾D 805",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 805",
+    "opendb_id": "intel_d_805",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾双核",
+      "制作工艺": "90纳米",
+      "核心代号": "Smithfield",
+      "CPU架构": "64位",
+      "CPU主频": "2.66GHz",
+      "核心数量": "双核心",
+      "一级缓存": "64KB",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾D 820",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 820",
+    "opendb_id": "intel_d_820",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾双核",
+      "制作工艺": "90纳米",
+      "核心代号": "Smithfield",
+      "CPU架构": "X86-64",
+      "CPU主频": "2.8GHz",
+      "核心数量": "双核心",
+      "一级缓存": "64KB",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾D 830",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 830",
+    "opendb_id": "intel_d_830",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾D",
+      "制作工艺": "90纳米",
+      "核心代号": "Smithfield",
+      "CPU架构": "64位",
+      "CPU主频": "3GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "130W",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾D 840",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 840",
+    "opendb_id": "intel_d_840",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾D",
+      "制作工艺": "90纳米",
+      "核心代号": "SmithField/Smithfield",
+      "CPU架构": "64位",
+      "CPU主频": "3.2GHz",
+      "核心数量": "双核心",
+      "一级缓存": "64KB",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "130W",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "MMX、SSE、SSE2、SSE3、X86-64"
+    }
+  },
+  {
+    "name": "Intel 奔腾D 840EE",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 840EE",
+    "opendb_id": "intel_d_840ee",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "核心代号": "Smithfield",
+      "CPU主频": "3.2GHz",
+      "核心数量": "双核心",
+      "一级缓存": "16KB",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "MMX, SSE, SSE2, SSE3, EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾D 915",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 915",
+    "opendb_id": "intel_d_915",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾双核",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU架构": "64位",
+      "CPU主频": "2.8GHz",
+      "核心数量": "双核心",
+      "一级缓存": "64KB",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "指令集": "MMX、SSE、SSE2、SSE3、EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾D 925",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 925",
+    "opendb_id": "intel_d_925",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾双核",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU架构": "64位",
+      "CPU主频": "3GHz",
+      "核心数量": "双核心",
+      "一级缓存": "64KB",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "指令集": "支持MMX、SSE、SSE2、SSE3、EM64T、XD bit硬件防毒"
+    }
+  },
+  {
+    "name": "Intel 奔腾D 930",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 930",
+    "opendb_id": "intel_d_930",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾D",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU架构": "X86-64/64位",
+      "CPU主频": "3GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,EM64T/MMX/SSE/SSE2/SSE3/EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾D 935",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 935",
+    "opendb_id": "intel_d_935",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾D",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU主频": "3.2GHz",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "LGA 775",
+      "指令集": "支持MMX、SSE、SSE2、SSE3、EM64T、XD bit硬件防毒"
+    }
+  },
+  {
+    "name": "Intel 奔腾D 940",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 940",
+    "opendb_id": "intel_d_940",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾D",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU架构": "X86-64",
+      "CPU主频": "3.2GHz",
+      "核心数量": "双核心",
+      "一级缓存": "28KB",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾D 945",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 945",
+    "opendb_id": "intel_d_945",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾D",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU架构": "64位",
+      "CPU主频": "3.4GHz",
+      "核心数量": "双核心",
+      "一级缓存": "32KB",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持"
+    }
+  },
+  {
+    "name": "Intel 奔腾D 950",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 950",
+    "opendb_id": "intel_d_950",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾D",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU主频": "3.4GHz",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "130W",
+      "插槽类型": "LGA 775",
+      "指令集": "MMX、SSE、SSE2、SSE3、EM64T",
+      "超线程技术": "不支持"
+    }
+  },
+  {
+    "name": "Intel 奔腾D 955 至尊版",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 955 至尊版",
+    "opendb_id": "intel_d_955",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾D",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU主频": "3.46GHz",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "115W",
+      "插槽类型": "LGA 775",
+      "指令集": "MMX、SSE、SSE2、SSE3、EM64T、XD bit硬件防毒"
+    }
+  },
+  {
+    "name": "Intel 奔腾D 960",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 960",
+    "opendb_id": "intel_d_960",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾D",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU架构": "64位",
+      "CPU主频": "3.6GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "LGA 775"
+    }
+  },
+  {
+    "name": "Intel 奔腾D 965（至尊版/散）",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D 965（至尊版/散）",
+    "opendb_id": "intel_d_965",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾D",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU主频": "3.73GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "115W",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "MMX、SSE、SSE2、SSE3、EM64T、XD bit硬件防毒"
+    }
+  },
+  {
+    "name": "Intel 奔腾D双核 805",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D双核 805",
+    "opendb_id": "intel_d_805",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾双核",
+      "制作工艺": "90纳米",
+      "核心代号": "Smithfield",
+      "CPU架构": "64位",
+      "CPU主频": "2.66GHz",
+      "核心数量": "双核心",
+      "一级缓存": "64KB",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾D双核 915",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D双核 915",
+    "opendb_id": "intel_d_915",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾双核",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU架构": "64位",
+      "CPU主频": "2.8GHz",
+      "核心数量": "双核心",
+      "一级缓存": "64KB",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "指令集": "MMX、SSE、SSE2、SSE3、EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾D双核 925",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D双核 925",
+    "opendb_id": "intel_d_925",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾双核",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU架构": "64位",
+      "CPU主频": "3GHz",
+      "核心数量": "双核心",
+      "一级缓存": "64KB",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "指令集": "支持MMX、SSE、SSE2、SSE3、EM64T、XD bit硬件防毒"
+    }
+  },
+  {
+    "name": "Intel 奔腾D双核 935",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D双核 935",
+    "opendb_id": "intel_d_935",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾D",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU主频": "3.2GHz",
+      "核心数量": "双核心",
+      "一级缓存": "64KB",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "LGA 775",
+      "指令集": "支持MMX、SSE、SSE2、SSE3、EM64T、XD bit硬件防毒"
+    }
+  },
+  {
+    "name": "Intel 奔腾D双核 940",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D双核 940",
+    "opendb_id": "intel_d_940",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾D",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU架构": "X86-64",
+      "CPU主频": "3.2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×2MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾D双核 945",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾D双核 945",
+    "opendb_id": "intel_d_945",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾双核",
+      "制作工艺": "65纳米",
+      "核心代号": "Presler",
+      "CPU架构": "64位",
+      "CPU主频": "3.4GHz",
+      "核心数量": "双核心",
+      "一级缓存": "32KB",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "LGA 775"
+    }
+  }
+]

@@ -1,0 +1,1022 @@
+[
+  {
+    "name": "Intel 奔腾3 2.8CGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾3 2.8CGHz",
+    "opendb_id": "intel_3_2_8cghz",
+    "metadata": {
+      "CPU系列": "奔腾4",
+      "制作工艺": "130纳米",
+      "CPU主频": "2.8GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "支持",
+      "指令集": "支持MMX、SSE、SSE2,HT指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 1.3GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 1.3GHz",
+    "opendb_id": "intel_4_1_3ghz",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "1.3GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 423",
+      "指令集": "SSE2（68组SSE+76组SSE2=144组指令集）"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 1.4GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 1.4GHz",
+    "opendb_id": "intel_4_1_4ghz",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "1.433GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 423",
+      "指令集": "全新的SEE2指令（新增加的144条指令），128位整数MMX寄存器 128位SIMD整数运算操作，128位双精密度浮点运算操作"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 1.5GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 1.5GHz",
+    "opendb_id": "intel_4_1_5ghz",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "1.5GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 478/Socket 423",
+      "指令集": "SEE2/SEE/MMX"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 1.6AGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 1.6AGHz",
+    "opendb_id": "intel_4_1_6aghz",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "CPU主频": "1.6GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "指令集": "SEE2/SEE/MMX"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 1.6GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 1.6GHz",
+    "opendb_id": "intel_4_1_6ghz",
+    "metadata": {
+      "CPU系列": "奔腾4",
+      "制作工艺": "0.18微米",
+      "CPU主频": "1.6GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 478/Socket 423",
+      "指令集": "SEE2，SEE，MMX/SEE2/SEE/MMX"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 1.7GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 1.7GHz",
+    "opendb_id": "intel_4_1_7ghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "0.18微米",
+      "CPU主频": "1.7GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 478/Socket 423",
+      "指令集": "全新的SEE2指令（新增加的144条指令），128位整数MMX寄存器 128位SIMD整数运算操作，128位双精密度浮点运算操作"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 1.8AGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 1.8AGHz",
+    "opendb_id": "intel_4_1_8aghz",
+    "metadata": {
+      "CPU系列": "奔腾4",
+      "制作工艺": "0.13微米",
+      "CPU主频": "1.8GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "指令集": "SSE2，SSE，MMX/SSE2/SSE/MMX"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 1.8GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 1.8GHz",
+    "opendb_id": "intel_4_1_8ghz",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "1.8GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 423/Socket 478",
+      "指令集": "SEE2/SEE/MMX"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 1.9GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 1.9GHz",
+    "opendb_id": "intel_4_1_9ghz",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "1.9GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 423",
+      "指令集": "全新的SEE2指令（新增加的144条指令），128位整数MMX寄存器 128位SIMD整数运算操作，128位双精密度浮点运算操作"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.0AGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.0AGHz",
+    "opendb_id": "intel_4_2_0aghz",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "CPU主频": "2GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "指令集": "SEE2硬件支持，MMX，FXSAVE/FXRSTOR，SSE硬件支持，SSE OS支持/MMX,SSE,SSE2"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.0GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.0GHz",
+    "opendb_id": "intel_4_2_0ghz",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "2GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 478",
+      "指令集": "SEE2/SEE/MMX"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.26GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.26GHz",
+    "opendb_id": "intel_4_2_26ghz",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "CPU主频": "2.26GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "指令集": "MMX/SSE2/SSE指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.4AGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.4AGHz",
+    "opendb_id": "intel_4_2_4aghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "2.4GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "不支持",
+      "指令集": "MMX/SSE2/SSE指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.4BGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.4BGHz",
+    "opendb_id": "intel_4_2_4bghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "130纳米",
+      "CPU主频": "2.4GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "不支持",
+      "指令集": "MMX/SSE2/SSE指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.4CGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.4CGHz",
+    "opendb_id": "intel_4_2_4cghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "0.13微米",
+      "CPU主频": "2.4GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "不支持",
+      "指令集": "支持MMX、SSE、SSE2,HT指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.4EGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.4EGHz",
+    "opendb_id": "intel_4_2_4eghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "CPU主频": "2.4GHz",
+      "二级缓存": "1024KB",
+      "插槽类型": "Socket 478"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.53BGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.53BGHz",
+    "opendb_id": "intel_4_2_53bghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "CPU主频": "2.53GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "指令集": "MMX/SSE2/SSE指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.53GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.53GHz",
+    "opendb_id": "intel_4_2_53ghz",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "CPU主频": "2.53GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "指令集": "MMX/SSE2/SSE指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.66GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.66GHz",
+    "opendb_id": "intel_4_2_66ghz",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "CPU主频": "2.66GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "不支持",
+      "指令集": "MMX/SSE2/SSE指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.6CGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.6CGHz",
+    "opendb_id": "intel_4_2_6cghz",
+    "metadata": {
+      "CPU系列": "奔腾4",
+      "制作工艺": "130纳米",
+      "CPU主频": "2.6GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "支持",
+      "指令集": "支持MMX、SSE、SSE2,HT指令集",
+      "适用类型": "台式机"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.8AGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.8AGHz",
+    "opendb_id": "intel_4_2_8aghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "CPU主频": "2.8GHz",
+      "二级缓存": "1000KB",
+      "插槽类型": "Socket 478",
+      "指令集": "SSE3；SSE2；SSE"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.8BGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.8BGHz",
+    "opendb_id": "intel_4_2_8bghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "130纳米",
+      "CPU主频": "2.8GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "不支持",
+      "指令集": "MMX/SSE2/SSE指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.8CGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.8CGHz",
+    "opendb_id": "intel_4_2_8cghz",
+    "metadata": {
+      "CPU系列": "奔腾4",
+      "制作工艺": "130纳米",
+      "CPU主频": "2.8GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "不支持",
+      "指令集": "支持MMX、SSE、SSE2,HT指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 2.8EGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 2.8EGHz",
+    "opendb_id": "intel_4_2_8eghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "2.8GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "不支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,HT"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 3.06GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 3.06GHz",
+    "opendb_id": "intel_4_3_06ghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "CPU主频": "3.06GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "指令集": "MMX,SSE,SSE2,HT",
+      "CPU系列": "奔腾4",
+      "超线程技术": "支持"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 3.0CGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 3.0CGHz",
+    "opendb_id": "intel_4_3_0cghz",
+    "metadata": {
+      "CPU系列": "奔腾4",
+      "制作工艺": "130纳米",
+      "CPU主频": "3GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "支持",
+      "指令集": "支持MMX、SSE、SSE2,HT指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 3.0EGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 3.0EGHz",
+    "opendb_id": "intel_4_3_0eghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,HT"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 3.2CGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 3.2CGHz",
+    "opendb_id": "intel_4_3_2cghz",
+    "metadata": {
+      "CPU系列": "奔腾4",
+      "制作工艺": "130纳米",
+      "CPU主频": "3.2GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "支持",
+      "指令集": "MMX,SSE,SSE2,HT"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 3.2EE",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 3.2EE",
+    "opendb_id": "intel_4_3_2ee",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "CPU主频": "3.2GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 3.2EGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 3.2EGHz",
+    "opendb_id": "intel_4_3_2eghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.2GHz",
+      "二级缓存": "1000KB/1024KB",
+      "插槽类型": "Socket 478",
+      "指令集": "MMX,SSE,SSE2,SSE3,HT"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 3.4EGHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 3.4EGHz",
+    "opendb_id": "intel_4_3_4eghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.4GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 478",
+      "指令集": "SSE3；SSE2；SSE ；MMX"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 3.4GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 3.4GHz",
+    "opendb_id": "intel_4_3_4ghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "CPU主频": "3.4GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478",
+      "指令集": "MMX,SSE,SSE2,HT"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 506",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 506",
+    "opendb_id": "intel_4_506",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾单核/奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "2.66GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "指令集": "支持EM64T",
+      "集成显卡": "不支持"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 511",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 511",
+    "opendb_id": "intel_4_511",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "2.8GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "指令集": "MMX，SSE，SSE2，SSE3，EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 516",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 516",
+    "opendb_id": "intel_4_516",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "2.93GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 517",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 517",
+    "opendb_id": "intel_4_517",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "CPU主频": "2.93GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 519",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 519",
+    "opendb_id": "intel_4_519",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "CPU主频": "3.06GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 520",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 520",
+    "opendb_id": "intel_4_520",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "2.8GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,HT"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 521",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 521",
+    "opendb_id": "intel_4_521",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "2.8GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 524",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 524",
+    "opendb_id": "intel_4_524",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.06GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 530",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 530",
+    "opendb_id": "intel_4_530",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "指令集": "MMX，SSE，SSE2，SSE3，HT",
+      "集成显卡": "不支持"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 530J",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 530J",
+    "opendb_id": "intel_4_530j",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "CPU主频": "3GHz",
+      "二级缓存": "1024KB",
+      "插槽类型": "LGA 775",
+      "指令集": "MMX,SSE,SSE2,SSE3,HT"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 531",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 531",
+    "opendb_id": "intel_4_531",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "支持 MMX SSE SSE2 SSE3 EMT64 HT"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 540",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 540",
+    "opendb_id": "intel_4_540",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.2GHz",
+      "二级缓存": "1024KB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "MMX, SSE, SSE2, SSE3"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 541",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 541",
+    "opendb_id": "intel_4_541",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.2GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "支持"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 550",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 550",
+    "opendb_id": "intel_4_550",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.4GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 551",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 551",
+    "opendb_id": "intel_4_551",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.4GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "MMX+、SSE、SSE2、SSE3、XD-bit、EM64T指令集"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 560",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 560",
+    "opendb_id": "intel_4_560",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.6GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 560J",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 560J",
+    "opendb_id": "intel_4_560j",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.6GHz",
+      "二级缓存": "1024KB",
+      "插槽类型": "LGA 775",
+      "指令集": "MMX,SSE,SSE2,SSE3,HT"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 570",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 570",
+    "opendb_id": "intel_4_570",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.8GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "MMX,SSE,SSE2"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 570J",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 570J",
+    "opendb_id": "intel_4_570j",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.8GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "MMX,SSE,SSE2,EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 571",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 571",
+    "opendb_id": "intel_4_571",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.8GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 620",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 620",
+    "opendb_id": "intel_4_620",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "2.8GHz",
+      "二级缓存": "2MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,HT,EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 630",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 630",
+    "opendb_id": "intel_4_630",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3GHz",
+      "二级缓存": "2MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,HT,EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 631",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 631",
+    "opendb_id": "intel_4_631",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾单核/奔腾4",
+      "制作工艺": "65纳米",
+      "CPU主频": "3GHz",
+      "二级缓存": "2MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "支持MMX、SSE、SSE2、SSE3、EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 640(6散)",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 640(6散)",
+    "opendb_id": "intel_4_640_6",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.2GHz",
+      "二级缓存": "2MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,X86-64"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 640(6盒)",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 640(6盒)",
+    "opendb_id": "intel_4_640_6",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.2GHz",
+      "二级缓存": "2MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,X86-64"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 641",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 641",
+    "opendb_id": "intel_4_641",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "65纳米",
+      "CPU主频": "3.2GHz",
+      "二级缓存": "2MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "MMX、SSE、SSE2、SSE3"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 650",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 650",
+    "opendb_id": "intel_4_650",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.4GHz",
+      "二级缓存": "2048",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "MMX,SSE,SSE2,SSE3,X86-64"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 651",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 651",
+    "opendb_id": "intel_4_651",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "65纳米",
+      "CPU主频": "3.4GHz",
+      "二级缓存": "2MB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 660",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 660",
+    "opendb_id": "intel_4_660",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.6GHz",
+      "二级缓存": "2048",
+      "插槽类型": "LGA 775",
+      "指令集": "MMX,SSE,SSE2,SSE3,X86-64"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 661",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 661",
+    "opendb_id": "intel_4_661",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾单核",
+      "制作工艺": "65纳米",
+      "CPU主频": "3.6GHz",
+      "二级缓存": "2MB",
+      "插槽类型": "LGA 775"
+    }
+  },
+  {
+    "name": "Intel 奔腾4 670",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4 670",
+    "opendb_id": "intel_4_670",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "CPU主频": "3.8GHz",
+      "二级缓存": "2MB",
+      "插槽类型": "LGA 775",
+      "指令集": "支持MMX、SSE、SSE2、SSE3、EM64T"
+    }
+  },
+  {
+    "name": "Intel 奔腾4EE 3.4",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4EE 3.4",
+    "opendb_id": "intel_4ee_3_4",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "CPU主频": "3.4GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478"
+    }
+  },
+  {
+    "name": "Intel 奔腾4EE 3.46G",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4EE 3.46G",
+    "opendb_id": "intel_4ee_3_46g",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "CPU主频": "3.46GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "LGA 775",
+      "指令集": "MMX,SSE,SSE2,SSE3,HT/MMX,SSE,SSE2,HT"
+    }
+  },
+  {
+    "name": "Intel 奔腾4EE 3.46GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4EE 3.46GHz",
+    "opendb_id": "intel_4ee_3_46ghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾4",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.46GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "支持MMX、SSE、SSE2、SSE3、EM64T、XD bit硬件防毒"
+    }
+  },
+  {
+    "name": "Intel 奔腾4EE 3.4G",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4EE 3.4G",
+    "opendb_id": "intel_4ee_3_4g",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "CPU主频": "3.4GHz",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 478"
+    }
+  },
+  {
+    "name": "Intel 奔腾4EE 3.73GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾4EE 3.73GHz",
+    "opendb_id": "intel_4ee_3_73ghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "奔腾EE",
+      "制作工艺": "90纳米",
+      "CPU主频": "3.73GHz",
+      "二级缓存": "2048",
+      "插槽类型": "LGA 775",
+      "超线程技术": "支持",
+      "指令集": "支持MMX、SSE、SSE2、SSE3、EM64T、XD bit硬件防毒"
+    }
+  }
+]

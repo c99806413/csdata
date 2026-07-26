@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Intel 奔腾2 400",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾2 400",
+    "opendb_id": "intel_2_400",
+    "metadata": {
+      "制作工艺": "0.25微米",
+      "CPU主频": "0.4GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "512KB",
+      "插槽类型": "Slot 1",
+      "指令集": "MMX SIMD指令集技术"
+    }
+  },
+  {
+    "name": "Intel 奔腾2 450",
+    "manufacturer": "Intel",
+    "series": "Intel 奔腾2 450",
+    "opendb_id": "intel_2_450",
+    "metadata": {
+      "制作工艺": "0.25微米（5层金属）",
+      "CPU主频": "0.45GHz",
+      "一级缓存": "32KB/64KB",
+      "二级缓存": "512KB",
+      "插槽类型": "Slot 1/2",
+      "指令集": "MMX SIMD指令集技术/64"
+    }
+  }
+]

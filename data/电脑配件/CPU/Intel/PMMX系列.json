@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Intel PMMX 200",
+    "manufacturer": "Intel",
+    "series": "Intel PMMX 200",
+    "opendb_id": "intel_pmmx_200",
+    "metadata": {
+      "制作工艺": "0.35微米",
+      "CPU主频": "0.2GHz/200GHz",
+      "一级缓存": "32KB",
+      "插槽类型": "Socket 7",
+      "指令集": "57条MMX多媒体指令（处理音频、视频 等数据）"
+    }
+  },
+  {
+    "name": "Intel PMMX 233",
+    "manufacturer": "Intel",
+    "series": "Intel PMMX 233",
+    "opendb_id": "intel_pmmx_233",
+    "metadata": {
+      "制作工艺": "0.35微米",
+      "CPU主频": "0.233GHz",
+      "一级缓存": "32KB",
+      "插槽类型": "Socket 7",
+      "指令集": "57条MMX多媒体指令（处理音频、视频 等数据）"
+    }
+  }
+]
