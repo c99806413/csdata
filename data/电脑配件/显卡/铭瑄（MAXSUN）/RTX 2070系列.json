@@ -1,0 +1,30 @@
+[
+  {
+    "name": "RTX 2070系列 (8GB)",
+    "manufacturer": "铭瑄",
+    "series": "RTX 2070系列",
+    "opendb_id": "rtx_2070_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2070",
+      "显示芯片系列": "NVIDIA RTX 20系列",
+      "制作工艺": "12纳米",
+      "核心频率": "1419MHz/1410MHz；核心动态加速频率：1620MHz/1410MHz；核心动态加速频率：1710MHz",
+      "CUDA核心": "2304个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1× USB Type-C接口，3×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "6pin+8pin/8pin",
+      "显卡类型": "发烧级",
+      "3D API": "DirectX 12,Shader Model 5.0,OpenGL 4.5",
+      "支持HDCP": "是",
+      "最大功耗": "185W以上/175W以上",
+      "建议电源": "600W以上/500W以上",
+      "其它特点": "系统要求：Windows 10，Windows 8&8.1，Windows 7，Windows Vista，Linux，FreeBSD x86/系统要求：Windows 10，VR Ready级别显卡/支持NVIDIA SLI技术，VR Ready级别显卡，系统要求：Windows 10支持Simultaneous Multi-ProjectionVR图像矫正技术，VRWorks Audio虚拟现实音频技术，Ansel截图功能，PhysX物理加速技术，NVIDIA CUDA，PureVideo HD高清硬件解码，动态超级分辨率，MFAA，GeForce 3D Vision，GameWorks，G-Sync-Ready，GameStream-Ready，GeForce ShadowPlay，GPU Boost 3.0；SLi多卡互联技术/系统要求：Windows 10，VR Ready级别显卡VR Ready级别显卡"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "R7 260X系列 (1GB)",
+    "manufacturer": "铭瑄",
+    "series": "R7 260X系列",
+    "opendb_id": "r7_260x_1gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon R7 260X",
+      "显示芯片系列": "AMD R7系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Bonaire",
+      "核心频率": "1000MHz",
+      "流处理单元": "896个",
+      "显存频率": "5000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×VGA接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11.2，OpenGL 4.3",
+      "支持HDCP": "是",
+      "其它特点": "PowerPlay节能技术，UVD3高清硬件解码引擎，Eyefinity多屏显示技术，支持CrossFire技术"
+    }
+  },
+  {
+    "name": "R7 260X系列 (2GB)",
+    "manufacturer": "铭瑄",
+    "series": "R7 260X系列",
+    "opendb_id": "r7_260x_2gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon R7 260X",
+      "显示芯片系列": "AMD R7系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Bonaire",
+      "核心频率": "1000MHz",
+      "流处理单元": "896个",
+      "显存频率": "5000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×VGA接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11.2，OpenGL 4.3",
+      "支持HDCP": "是",
+      "其它特点": "PowerPlay节能技术，UVD3高清硬件解码引擎，Eyefinity多屏显示技术，支持CrossFire技术"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "name": "GTX1050系列 (2GB)",
+    "manufacturer": "铭瑄",
+    "series": "GTX1050系列",
+    "opendb_id": "gtx1050_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1050",
+      "显示芯片系列": "NVIDIA GTX 10系列",
+      "制作工艺": "14纳米",
+      "核心代号": "GP107-300",
+      "核心频率": "1354/1455MHz",
+      "CUDA核心": "640个",
+      "显存频率": "7000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热+热管散热",
+      "3D API": "DirectX 12，Shader Model 5.0，OpenGL 4.5",
+      "支持HDCP": "是",
+      "最大功耗": "75W",
+      "建议电源": "350W以上",
+      "其它特点": "支持Simultaneous Multi-ProjectionVR图像矫正技术，VRWorks Audio虚拟现实音频技术，Ansel截图功能，PhysX物理加速技术，NVIDIA CUDA，PureVideo HD高清硬件解码，动态超级分辨率，MFAA，GeForce 3D Vision，GameWorks，G-Sync-Ready，GameStream-Ready，GeForce ShadowPlay，GPU Boost 3.0技术，支持4K显示",
+      "上市日期": "2016年10月/2017年06月"
+    }
+  }
+]

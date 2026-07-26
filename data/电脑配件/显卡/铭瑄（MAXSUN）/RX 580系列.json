@@ -1,0 +1,61 @@
+[
+  {
+    "name": "RX 580系列 (8GB)",
+    "manufacturer": "铭瑄",
+    "series": "RX 580系列",
+    "opendb_id": "rx_580_8gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 580",
+      "显示芯片系列": "AMD RX 500系列",
+      "制作工艺": "14纳米",
+      "核心代号": "Polaris 20 XL/Polaris 20 XTX",
+      "核心频率": "1168-1284MHz/1257/1340MHz",
+      "流处理单元": "2048个/2304个",
+      "显存频率": "7000MHz/8000MHz/7008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "4096×2160/7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "Blade刀锋散热器/双风扇散热+热管散热/三风扇散热/双风扇散热/双风扇散热+热管散热（双9cm温控风扇，4*6mm复合热管）",
+      "3D API": "DirectX 12.1，OpenGL 4.5/DirectX 12，Shader Model 5.0，OpenGL 4.5",
+      "产品尺寸": "245×115×42mm",
+      "最大功耗": "150W/185W",
+      "建议电源": "550W以上/450W以上",
+      "其它特点": "VR Ready级别显卡支持CrossFire技术/双10cm大风扇、独立式供电散热片、铝挤鳍片复合式散热模组、金属背板、4根复合式热管、全接口5屏数字输出支持CrossFire技术/支持CrossFire技术/支持PowerPlay节能技术，UVD3高清硬件解码引擎，Eyefinity多屏显示技术/系统要求：Windows 10,Windows 8 & 8.1, Windows 7, Windows Vista, Linux, FreeBSD x86VR Ready级别显卡/系统要求：Windows 10,Windows 8 & 8.1, Windows 7, Windows Vista, Linux, FreeBSD x86支持CrossFire技术",
+      "上市日期": "2019年/2016年10月"
+    }
+  },
+  {
+    "name": "RX 580系列 (4GB)",
+    "manufacturer": "铭瑄",
+    "series": "RX 580系列",
+    "opendb_id": "rx_580_4gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 580",
+      "显示芯片系列": "AMD RX 500系列",
+      "制作工艺": "14纳米",
+      "核心代号": "Polaris 20 XL/Polaris 20 XTX",
+      "核心频率": "1168-1284MHz/1257/1340MHz",
+      "流处理单元": "2048个/2304个",
+      "显存频率": "7000MHz/7008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "4096×2160/7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin/6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "PWM智能温控/双风扇散热+热管散热（双9cm温控风扇，4*6mm复合热管）/双风扇散热/闪电风暴散热",
+      "3D API": "DirectX 12.1，Shader Model 5.0，OpenGL 4.5/DirectX 12，Shader Model 5.0，OpenGL 4.5",
+      "最大功耗": "150W/185W",
+      "其它特点": "VR Ready级别显卡支持CrossFire技术/系统要求：Windows 10,Windows 8 & 8.1, Windows 7, Windows Vista, Linux, FreeBSD x86VR Ready级别显卡/系统要求：Windows 10,Windows 8 & 8.1, Windows 7, Windows Vista, Linux, FreeBSD x86支持CrossFire技术"
+    }
+  }
+]

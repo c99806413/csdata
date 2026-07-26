@@ -1,0 +1,35 @@
+[
+  {
+    "name": "RTX 2060 SUPER系列 (8GB)",
+    "manufacturer": "铭瑄",
+    "series": "RTX 2060 SUPER系列",
+    "opendb_id": "rtx_2060_super_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2060 SUPER",
+      "显示芯片系列": "NVIDIA RTX SUPER系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU106-410",
+      "核心频率": "核心频率：1470MHz核心动态加速频率：1650MHz/1470MHz，核心动态加速频率：1650MHz",
+      "CUDA核心": "2176个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit/192bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口，1×DVI接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热（第四代太极散热系统）/三风扇散热+热管散热/双风扇散热/三风扇散热（iCraft散热系统）",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "RGB": "RGB电竞氛围灯/RGB信仰灯",
+      "产品尺寸": "246×117×47mm",
+      "最大功耗": "175W",
+      "建议电源": "600W以上/450W以上",
+      "其它特点": "支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术/支持Simultaneous Multi-ProjectionVR图像矫正技术，VRWorks Audio虚拟现实音频技术，Ansel截图功能，PhysX物理加速技术，NVIDIA CUDA，PureVideo HD高清硬件解码，动态超级分辨率，MFAA，GeForce 3D Vision，GameWorks，G-Sync-Ready，GameStream-Ready，GeForce ShadowPlay，GPU Boost",
+      "上市日期": "2019年07月"
+    }
+  }
+]

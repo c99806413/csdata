@@ -1,0 +1,33 @@
+[
+  {
+    "name": "RTX 3080 Ti (12GB)",
+    "manufacturer": "铭瑄",
+    "series": "RTX 3080 Ti",
+    "opendb_id": "rtx_3080_ti_12gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 3080 Ti",
+      "显示芯片系列": "NVIDIA RTX 30系列",
+      "制作工艺": "8纳米",
+      "核心代号": "GA102",
+      "核心频率": "1365-1665MHz/1365MHz",
+      "CUDA核心": "10240个",
+      "显存频率": "19000MHz",
+      "显存类型": "GDDR6X",
+      "显存容量": "12GB",
+      "显存位宽": "384bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热",
+      "3D API": "DirectX 12，Shader Model 5.0，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "294×112×56mm/327×135×63mm/317×115×60mm",
+      "最大功耗": "350W/显卡：350W 推荐电源：750W",
+      "建议电源": "750W",
+      "其它特点": "支持Simultaneous Multi-ProjectionVR图像矫正技术，VRWorks Audio虚拟现实音频技术，Ansel截图功能，PhysX物理加速技术，NVIDIA CUDA，NVIDIA REFLEX，PureVideo HD高清硬件解码，动态超级分辨率，MFAA，GeForce 3D Vision，GameWorks，G-Sync-Ready，GameStream-Ready，GeForce ShadowPlay，GPU Boost/支持Simultaneous Multi-ProjectionVR图像矫正技术VRWorks Audio虚拟现实音频技术Ansel截图功能PhysX物理加速技术NVIDIA CUDA，NVIDIA REFLEXPureVideo HD高清硬件解码动态超级分辨率"
+    }
+  }
+]
