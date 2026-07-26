@@ -1,0 +1,59 @@
+[
+  {
+    "name": "HP xw4550(Opteron 1214)",
+    "manufacturer": "惠普",
+    "series": "HP xw4550",
+    "opendb_id": "hp_xw4550_1_amd_opteron_1214",
+    "metadata": {
+      "CPU类型": "AMD Opteron",
+      "CPU型号": "标配1个AMD Opteron 1214处理器",
+      "CPU主频": "2.2GHz",
+      "最大CPU数量": "2颗",
+      "扩展槽": "1个PCI Express (x16)显卡插槽,1个PCI Express(x4 机械、x1 电子)插槽,2个全高和全长PCI插槽",
+      "内存类型": "ECC REG DDR2",
+      "内存大小": "2GB",
+      "最大内存容量": "4GB",
+      "硬盘容量": "160GB",
+      "硬盘描述": "SATA",
+      "驱动器托架": "3个外置5.25 英寸托架和1个外置3.5英寸托架(用于可选软驱)",
+      "软驱": "无软驱",
+      "显卡芯片": "ATI Radeon X1250",
+      "显存容量": "最高共享显存达256MB",
+      "音频系统/声卡": "集成高保真音频 (Realtek ALC260),可选 PCI Sound Blaster X-Fi XtremeGamer",
+      "网卡描述": "集成 Broadcom 5755 NetXtreme 千兆 PCIe 局域网",
+      "支持操作系统": "正版 Windows Vista Business 32-bit、正版 Windows Vista Business 64-bit、正版 Windows Vista 32-bit 到正版 Windows XP Professional 32-bit、HP Linux 安装套件",
+      "机箱类型": "立卧可转换微型立式",
+      "产品重量": "最小配置:13.3Kg;标准配置:14.9Kg;最大配置:17.3Kgkg",
+      "I/O接口": "正面:耳机插孔、麦克风插孔、2个USB 2.0端口和1个可选的 IEEE 1394A端口;背面:6个USB 2.0端口、1个标准串行端口、1个RJ-45 集成千兆局域网接口、音频输入和输出端口、2个USB 2.0(内置)端口"
+    }
+  },
+  {
+    "name": "HP xw4550(Opteron 1216)",
+    "manufacturer": "惠普",
+    "series": "HP xw4550",
+    "opendb_id": "hp_xw4550_1_amd_opteron_1216",
+    "metadata": {
+      "CPU类型": "AMD Opteron",
+      "CPU型号": "标配1个AMD Opteron 1216处理器",
+      "CPU主频": "2.4GHz",
+      "最大CPU数量": "2颗",
+      "扩展槽": "1个PCI Express (x16)显卡插槽,1个PCI Express(x4 机械、x1 电子)插槽,2个全高和全长PCI插槽",
+      "内存类型": "ECC REG DDR2",
+      "内存大小": "2GB",
+      "最大内存容量": "4GB",
+      "硬盘容量": "160GB",
+      "硬盘描述": "SATA",
+      "驱动器托架": "3个外置5.25 英寸托架和1个外置3.5英寸托架(用于可选软驱)",
+      "光驱类型": "DVD-ROM",
+      "软驱": "可选软驱",
+      "显卡芯片": "NVIDIA Quadro FX 370",
+      "显存容量": "256MB",
+      "音频系统/声卡": "集成高保真音频 (Realtek ALC260),可选 PCI Sound Blaster X-Fi XtremeGamer",
+      "网卡描述": "集成 Broadcom 5755 NetXtreme 千兆 PCIe 局域网",
+      "支持操作系统": "正版 Windows Vista Business 32-bit、正版 Windows Vista Business 64-bit、正版 Windows Vista 32-bit 到正版 Windows XP Professional 32-bit、HP Linux 安装套件",
+      "机箱类型": "立卧可转换微型立式",
+      "产品重量": "最小配置:13.3Kg;标准配置:14.9Kg;最大配置:17.3Kgkg",
+      "I/O接口": "正面:耳机插孔、麦克风插孔、2个USB 2.0端口和1个可选的 IEEE 1394A端口;背面:6个USB 2.0端口、1个标准串行端口、1个RJ-45 集成千兆局域网接口、音频输入和输出端口、2个USB 2.0(内置)端口"
+    }
+  }
+]
