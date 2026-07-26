@@ -1,0 +1,33 @@
+[
+  {
+    "name": "1660Ti (6GB)",
+    "manufacturer": "华硕",
+    "series": "1660Ti",
+    "opendb_id": "1660ti_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1660 Ti/GeForce GTX 1660Ti",
+      "显示芯片系列": "NVIDIA GTX 16系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU116-400",
+      "核心频率": "超频模式-GPU加速频率：1845MHz，GPU基础频率：1530MHz游戏模式(默认)-GPU加速频率：1815MHz，GPU基础频率：1500MHz/加速频率：1815-1845MHz/超频模式-GPU加速频率：1830MHz，GPU基础频率：1530MHz游戏模式(默认)-GPU加速频率：1800MHz，GPU基础频率：1500MHz/超频模式-GPU加速频率：1815MHz，GPU基础频率：1530MHz游戏模式(默认)-GPU加速频率：1785MHz，GPU基础频率：1500MHz/超频模式-GPU加速频率：1890MHz，GPU基础频率：1530MHz游戏模式(默认)-GPU加速频率：1860MHz，GPU基础频率：1500MHz/超频模式-GPU加速频率：1800MHz，GPU基础频率：1530MHz游戏模式(默认)-GPU加速频率：1770MHz，GPU基础频率：1500MHz",
+      "CUDA核心": "1536个",
+      "显存频率": "12002MHz/14000MHz/12000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "6GB",
+      "显存位宽": "192bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "2×HDMI接口，1×DVI接口，1×DisplayPort接口/2×HDMI2.0b接口，1×DVI接口，1×DisplayPort1.4a接口/2×HDMI接口，2×DisplayPort接口/1×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热/散热风扇/三风扇散热",
+      "3D API": "DirectX 12.1，OpenGL 4.5",
+      "支持HDCP": "是/是，HDCP2.2",
+      "产品尺寸": "205×123×46mm/206×124×46mm/215×121×44mm/177×121×39mm/301×132×50mm/340×133×46.5mm/240×133×46.5mm/174×121×39mm",
+      "建议电源": "450W/450W以上/450以上/500W",
+      "其它特点": "支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术/VR Ready级别显卡，NVIDIA G-SYNC技术/支持最多3屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术",
+      "上市日期": "2019年02月/2019年"
+    }
+  }
+]

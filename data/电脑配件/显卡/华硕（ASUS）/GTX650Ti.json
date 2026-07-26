@@ -1,0 +1,56 @@
+[
+  {
+    "name": "GTX650Ti (1GB)",
+    "manufacturer": "华硕",
+    "series": "GTX650Ti",
+    "opendb_id": "gtx650ti_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 650 Ti",
+      "显示芯片系列": "NVIDIA GTX 600系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK106",
+      "核心频率": "1033MHz/928MHz/954MHz",
+      "CUDA核心": "768个",
+      "显存频率": "5400MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "HDMI接口/双DVI接口/VGA接口/HDMI接口/DVI接口/VGA接口",
+      "电源接口": "6pin",
+      "散热方式": "散热风扇+散热片（静音）+热管散热/散热风扇",
+      "3D API": "DirectX 11.1/DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术显卡功耗：150W/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  },
+  {
+    "name": "GTX650Ti (2GB)",
+    "manufacturer": "华硕",
+    "series": "GTX650Ti",
+    "opendb_id": "gtx650ti_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 650 Ti",
+      "显示芯片系列": "NVIDIA GTX 600系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK106",
+      "核心频率": "928MHz",
+      "CUDA核心": "768个",
+      "显存频率": "5400MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "HDMI接口/双DVI接口/VGA接口",
+      "电源接口": "6pin",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  }
+]

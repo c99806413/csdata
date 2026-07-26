@@ -1,0 +1,33 @@
+[
+  {
+    "name": "1650 (4GB)",
+    "manufacturer": "华硕",
+    "series": "1650",
+    "opendb_id": "1650_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1650",
+      "显示芯片系列": "NVIDIA GTX 16系列/NVIDIA GTX 1650系列/GeForce GTX 1650",
+      "制作工艺": "12纳米",
+      "核心代号": "TU117",
+      "CUDA核心": "896个",
+      "显存频率": "8000MHz/12000MHz/8002MHz",
+      "显存类型": "GDDR5/GDDR6",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热/单风扇散热/散热风扇",
+      "3D API": "DirectX 12.1，OpenGL 4.5/OpenGL 4.6",
+      "支持HDCP": "是，HDCP 2.2/是",
+      "产品尺寸": "204×115×37mm/206×125×46mm/204.5×124.9×45.6mm/174×126×39mm/200×124×39mm/190×110×38mm/182×122×40mm/242×127×38.4mm",
+      "建议电源": "300W/300W以上",
+      "其它特点": "支持最多3屏输出支持NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNCGame Ready 驱动程序支持NVIDIA GPU BoostNVIDIA Encoder (NVENC)/ASUS GPU Tweak II/支持最多3屏输出/轴流风扇设计GPU Tweak II 智能超频软件/轴流风扇设计不锈钢支架/航天级润滑油IP5X 防尘认证/IP5X防尘认证GPU Tweak II 智能超频软件/IP5X防尘认证双滚珠轴承风扇GPU Tweak II 智能超频软件/支持最多4屏输出支持NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNCGame Ready 驱动程序支持NVIDIA GPU BoostNVIDIA Encoder (NVENC)",
+      "上市日期": "2019年04月/2019年8月/2020年04月",
+      "其他参数": "Slot：2槽/总线标准：PCI Express 3.0/半高式刀版设计"
+    }
+  }
+]

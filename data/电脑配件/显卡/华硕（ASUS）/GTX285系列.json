@@ -1,0 +1,60 @@
+[
+  {
+    "name": "GTX285系列 (1GB)",
+    "manufacturer": "华硕",
+    "series": "GTX285系列",
+    "opendb_id": "gtx285_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTX 285",
+      "核心代号": "GT200",
+      "核心频率": "662MHz/669MHz/648MHz",
+      "显存频率": "2484MHz/2600MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "1GB",
+      "显存位宽": "512bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI/S-video接口(TV-Out)/S-video接口(TV-Out)",
+      "散热方式": "涡轮风扇/巨型涡轮散热器",
+      "3D API": "DirectX 10"
+    }
+  },
+  {
+    "name": "GTX285系列 (512GB)",
+    "manufacturer": "华硕",
+    "series": "GTX285系列",
+    "opendb_id": "gtx285_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTX 285",
+      "核心代号": "GT200",
+      "核心频率": "712MHz",
+      "显存频率": "2760MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "512GB",
+      "显存位宽": "512bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "散热方式": "涡轮风扇",
+      "3D API": "DirectX 10"
+    }
+  },
+  {
+    "name": "GTX285系列 (未知显存)",
+    "manufacturer": "华硕",
+    "series": "GTX285系列",
+    "opendb_id": "gtx285",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTX 285",
+      "核心代号": "GT200",
+      "显存类型": "GDDR3",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "散热方式": "涡轮风扇",
+      "3D API": "DirectX 10"
+    }
+  }
+]

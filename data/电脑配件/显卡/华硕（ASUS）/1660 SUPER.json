@@ -1,0 +1,34 @@
+[
+  {
+    "name": "1660 SUPER (6GB)",
+    "manufacturer": "华硕",
+    "series": "1660 SUPER",
+    "opendb_id": "1660_super_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1660 SUPER",
+      "显示芯片系列": "NVIDIA GTX 16 SUPER系列/NVIDIA GTX 16系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU116",
+      "CUDA核心": "1408个",
+      "显存频率": "14000MHz/14002MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "6GB",
+      "显存位宽": "192bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口/2×HDMI接口，2×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热/三风扇散热/散热风扇",
+      "3D API": "DirectX 12，OpenGL 4.6/OpenGL 4.6/DirectX 12.1，OpenGL 4.5",
+      "支持HDCP": "是，HDCP 2.2/是",
+      "产品尺寸": "242×130×53mm/264×130×55mm/206×124×46mm/174×121×39mm/243×130×47mm/197×121×39mm",
+      "最大功耗": "125W",
+      "建议电源": "450W",
+      "其它特点": "支持最多3屏输出，支持NVIDIA GeForce Experience，支持NVIDIA Ansel，支持NVIDIA Highlights，支持NVIDIA G-SYNC，Game Ready 驱动程序，支持NVIDIA GPU Boost，支持VR，NVIDIA Encoder (NVENC)/支持最多3屏输出，ASUS GPU Tweak II/轴流风扇设计0dB静音技术/支持最多3屏输出，支持NVIDIA Ansel/支持最多3屏输出，支持ASUS GPU Tweak II/轴流风扇设计0dB静音技术双 Bios",
+      "上市日期": "2019年10月",
+      "其他参数": "Slot：2.7Slot/Slot：2Slot"
+    }
+  }
+]

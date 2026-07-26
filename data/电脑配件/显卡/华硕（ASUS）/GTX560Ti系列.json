@@ -1,0 +1,80 @@
+[
+  {
+    "name": "GTX560Ti系列 (1GB)",
+    "manufacturer": "华硕",
+    "series": "GTX560Ti系列",
+    "opendb_id": "gtx560ti_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 560 Ti",
+      "显示芯片系列": "NVIDIA GTX500系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF114",
+      "核心频率": "830MHz/900MHz",
+      "CUDA核心": "384个",
+      "显存频率": "4000MHz/4200MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "Mini HDMI接口/双DVI接口",
+      "电源接口": "6pin+6pin",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术电源需求：500W以上"
+    }
+  },
+  {
+    "name": "GTX560Ti系列 (2GB)",
+    "manufacturer": "华硕",
+    "series": "GTX560Ti系列",
+    "opendb_id": "gtx560ti_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 560 Ti",
+      "显示芯片系列": "NVIDIA GTX500系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF114",
+      "核心频率": "830MHz/900MHz",
+      "CUDA核心": "384个",
+      "显存频率": "4000MHz/4008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "I/O接口": "双DVI接口/Mini HDMI接口",
+      "散热方式": "散热风扇",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术电源需求：500W以上/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术",
+      "接口类型": "PCI Express 2.0 16X",
+      "电源接口": "6pin+6pin",
+      "3D API": "DirectX 11"
+    }
+  },
+  {
+    "name": "GTX560Ti系列 (1280GB)",
+    "manufacturer": "华硕",
+    "series": "GTX560Ti系列",
+    "opendb_id": "gtx560ti_1280gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 560 Ti",
+      "显示芯片系列": "NVIDIA GTX500系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF114",
+      "核心频率": "732MHz",
+      "CUDA核心": "448个",
+      "显存频率": "3800MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1280GB",
+      "显存位宽": "320bitbit",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  }
+]

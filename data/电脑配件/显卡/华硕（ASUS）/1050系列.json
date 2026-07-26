@@ -1,0 +1,40 @@
+[
+  {
+    "name": "1050系列 (128GB)",
+    "manufacturer": "华硕",
+    "series": "1050系列",
+    "opendb_id": "1050_128gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon X1050",
+      "核心频率": "400MHz",
+      "显存频率": "500MHz",
+      "显存类型": "DDR",
+      "显存容量": "128GB",
+      "显存位宽": "64bitbit",
+      "接口类型": "PCI-E 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "散热方式": "散热风扇",
+      "3D API": "Microsoft DirectX 9.0"
+    }
+  },
+  {
+    "name": "1050系列 (256GB)",
+    "manufacturer": "华硕",
+    "series": "1050系列",
+    "opendb_id": "1050_256gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon X1050",
+      "核心频率": "400MHz",
+      "显存频率": "666MHz",
+      "显存类型": "DDR",
+      "显存容量": "256GB",
+      "显存位宽": "128bitbit",
+      "接口类型": "PCI-E 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "散热方式": "散热风扇",
+      "3D API": "Microsoft DirectX 9.0"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "name": "2080Ti (11GB)",
+    "manufacturer": "华硕",
+    "series": "2080Ti",
+    "opendb_id": "2080ti_11gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2080 Ti",
+      "显示芯片系列": "NVIDIA RTX 20系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU102-300A",
+      "核心频率": "超频模式-GPU动态提速频率：1665MHz，GPU基础频率: 1350MHz游戏模式(默认)-GPU动态提速频率: 1650MHz，GPU基础频率：1350MHz/GPU动态提速频率：1560MHzGPU基础频率：1350MHz游戏模式(默认)-GPU动态提速频率: 1545MHz，GPU基础频率：1350MHz/超频模式-GPU 加速频率: 1815MHz，GPU 基础频率: 1350MHz游戏模式(默认)-GPU 加速频率: 1800MHz，GPU 基础频率: 1350MHz/超频模式：1590/1350MHz游戏模式：1575/1350MHz/GPU动态提速频率：1650MHzGPU基础频率：1350MHz游戏模式(默认)-GPU动态提速频率: 1635MHz，GPU基础频率：1350MHz/超频模式-GPU动态提速频率：1560MHz，GPU基础频率：1350MHz游戏模式(默认)-GPU动态提速频率：1545MHz，GPU基础频率：1350MHz/1350-1770MHz",
+      "CUDA核心": "4352个",
+      "显存频率": "14000MHZMHz/14000MHz/14800MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "11GB",
+      "显存位宽": "352bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "2×HDMI接口，2×DisplayPort接口，1×USB Type-C接口/1×HDMI接口，3×DisplayPort接口，1×USB Type-C接口/2×HDMI接口，1×USB Type-C接口，2×DisplayPort接口",
+      "电源接口": "8pin+8pin/8pin+8pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热，导风槽/散热风扇，导风槽/三风扇散热（INFINITY LOOP散热）/双风扇散热/三风扇散热",
+      "3D API": "DirectX 12，OpenGL 4.5/DirectX 12，OpenGL 4.6",
+      "支持HDCP": "是",
+      "产品尺寸": "304.7×130.4×54.1mm/268×114×58mm/305×130×54mm",
+      "建议电源": "650W以上/650W/700W以上",
+      "其它特点": "支持最多4屏输出，VR Ready级别显卡，支持NVIDIA NVLink技术/支持CrossFire技术，支持NVIDIA SLI技术，支持最多4屏输出，内置AIO系统，采用三插槽设计，VR Ready级别显卡，支持NVIDIA NVLink技术",
+      "上市日期": "2018年08月/2019年01月"
+    }
+  }
+]

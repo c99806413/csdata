@@ -1,0 +1,28 @@
+[
+  {
+    "name": "GTX580系列 (1.5GB)",
+    "manufacturer": "华硕",
+    "series": "GTX580系列",
+    "opendb_id": "gtx580_1_5gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 580",
+      "显示芯片系列": "NVIDIA GTX500系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF110",
+      "核心频率": "782MHz/816MHz",
+      "CUDA核心": "512个",
+      "显存频率": "4008MHz/4000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1.5GB",
+      "显存位宽": "384bitbit",
+      "接口类型": "PCI Express 2.0 16X/PCI Express 2.1 16X",
+      "I/O接口": "DisplayPort接口/HDMI接口/双DVI接口/Mini HDMI接口/双DVI接口",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术电源需求：700W以上/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "name": "GTX260系列 (896GB)",
+    "manufacturer": "华硕",
+    "series": "GTX260系列",
+    "opendb_id": "gtx260_896gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 260/Geforce GTX 260",
+      "制作工艺": "65纳米/55纳米",
+      "核心代号": "GT200",
+      "核心频率": "650MHz/576MHz/600MHz/601MHz",
+      "CUDA核心": "192个/216个",
+      "显存频率": "2300MHz/2000MHz/1998MHz/2214MHz",
+      "显存类型": "DDR3/GDDR3",
+      "显存容量": "896GB",
+      "显存位宽": "448bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "散热方式": "涡轮风扇/散热风扇",
+      "3D API": "DirectX 10"
+    }
+  },
+  {
+    "name": "GTX260系列 (未知显存)",
+    "manufacturer": "华硕",
+    "series": "GTX260系列",
+    "opendb_id": "gtx260",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTX 260",
+      "核心代号": "GT200",
+      "核心频率": "576MHz",
+      "显存频率": "1242MHz",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10"
+    }
+  }
+]

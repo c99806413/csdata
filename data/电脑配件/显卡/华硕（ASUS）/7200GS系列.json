@@ -1,0 +1,46 @@
+[
+  {
+    "name": "7200GS系列 (128GB)",
+    "manufacturer": "华硕",
+    "series": "7200GS系列",
+    "opendb_id": "7200gs_128gb",
+    "metadata": {
+      "芯片厂商": "nVIDIA",
+      "显卡芯片": "GeForce 7200GS",
+      "制作工艺": "0.09 微米",
+      "核心代号": "G72",
+      "核心频率": "450MHz",
+      "显存频率": "810MHz",
+      "显存类型": "DDRII",
+      "显存容量": "128GB",
+      "显存位宽": "64bitbit",
+      "最大分辨率": "2048*1536",
+      "接口类型": "PCI-E 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "散热方式": "散热片",
+      "3D API": "Microsoft DirectX 9.0"
+    }
+  },
+  {
+    "name": "7200GS系列 (256GB)",
+    "manufacturer": "华硕",
+    "series": "7200GS系列",
+    "opendb_id": "7200gs_256gb",
+    "metadata": {
+      "芯片厂商": "nVIDIA",
+      "显卡芯片": "GeForce 7200GS",
+      "制作工艺": "0.09 微米",
+      "核心代号": "G72",
+      "核心频率": "450MHz",
+      "显存频率": "666MHz",
+      "显存类型": "DDRII",
+      "显存容量": "256GB",
+      "显存位宽": "64bitbit",
+      "最大分辨率": "2048*1536",
+      "接口类型": "PCI-E 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "散热方式": "散热片",
+      "3D API": "Microsoft DirectX 9.0"
+    }
+  }
+]

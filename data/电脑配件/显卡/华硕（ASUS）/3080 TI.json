@@ -1,0 +1,27 @@
+[
+  {
+    "name": "3080 TI (12GB)",
+    "manufacturer": "华硕",
+    "series": "3080 TI",
+    "opendb_id": "3080_ti_12gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 3080 Ti",
+      "显示芯片系列": "NVIDIA RTX 30系列",
+      "制作工艺": "8纳米",
+      "核心代号": "GA102-225",
+      "CUDA核心": "10240个",
+      "显存频率": "19000MHz/19000MHzMHz",
+      "显存类型": "GDDR6X",
+      "显存容量": "12GB",
+      "显存位宽": "384bit/384bitbit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "2×HDMI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin/8pin+8pin+8pin/8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热",
+      "其它特点": "AURA SYNC神光同步轴流风扇设计双滚珠轴承风扇TUF级别组件GPU Tweak Ⅱ/轴流风扇设计2.9槽+镜面直触SAP Ⅱ超合金供电GPU Tweak Ⅱ/全覆盖均热板240mm 冷排/全覆盖均热板板载散热600mm 套管"
+    }
+  }
+]
