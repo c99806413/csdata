@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Tt 钢影 TOUGHRAM XG RGB 16GB（2×8GB）DDR4 4600（R016D408GX2-4600C19A）",
+    "manufacturer": "Tt",
+    "series": "ToughRam XG RGB",
+    "opendb_id": "tt____toughram_xg_rgb_16gb_2_8gb_ddr4_4600_r016d408gx2_4600c19a_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "4600MHz",
+      "插槽类型": "DIMM",
+      "散热片": "自带散热片",
+      "工作电压": "1.35V",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "16颗RGB灯光，铝合金盖板，10层PCB，10um厚镀金工艺"
+    }
+  },
+  {
+    "name": "Tt 钢影 TOUGHRAM XG RGB 16GB（2×8GB）DDR4 3600（R016D408GX2-3600C18A）",
+    "manufacturer": "Tt",
+    "series": "ToughRam XG RGB",
+    "opendb_id": "tt____toughram_xg_rgb_16gb_2_8gb_ddr4_3600_r016d408gx2_3600c18a_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3600MHz",
+      "插槽类型": "DIMM",
+      "散热片": "自带散热片",
+      "工作电压": "1.35V",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "16颗RGB灯光，铝合金盖板，10层PCB，10um厚镀金工艺"
+    }
+  },
+  {
+    "name": "Tt 钢影 TOUGHRAM XG RGB 16GB（2×8GB）DDR4 4000（R016D408GX2-4000C19A）",
+    "manufacturer": "Tt",
+    "series": "ToughRam XG RGB",
+    "opendb_id": "tt____toughram_xg_rgb_16gb_2_8gb_ddr4_4000_r016d408gx2_4000c19a_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "4000MHz",
+      "插槽类型": "DIMM",
+      "散热片": "自带散热片",
+      "工作电压": "1.35V",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "16颗RGB灯光，铝合金盖板，10层PCB，10um厚镀金工艺"
+    }
+  },
+  {
+    "name": "Tt 钢影 TOUGHRAM XG RGB 16GB（2×8GB）DDR4 4400（R016D408GX2-4400C19A）",
+    "manufacturer": "Tt",
+    "series": "ToughRam XG RGB",
+    "opendb_id": "tt____toughram_xg_rgb_16gb_2_8gb_ddr4_4400_r016d408gx2_4400c19a_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "4400MHz",
+      "插槽类型": "DIMM",
+      "散热片": "自带散热片",
+      "工作电压": "1.35V",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "16颗RGB灯光，铝合金盖板，10层PCB，10um厚镀金工艺"
+    }
+  }
+]

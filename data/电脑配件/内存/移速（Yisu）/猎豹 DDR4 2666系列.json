@@ -1,0 +1,32 @@
+[
+  {
+    "name": "移速猎豹 4GB DDR4 2666（YSMLB-4G26D4L）",
+    "manufacturer": "移速",
+    "series": "猎豹 DDR4 2666系列",
+    "opendb_id": "_____4gb_ddr4_2666_ysmlb_4g26d4l_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2666MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "移速猎豹 8GB DDR4 2666（YSMLB-8G26D4L）",
+    "manufacturer": "移速",
+    "series": "猎豹 DDR4 2666系列",
+    "opendb_id": "_____8gb_ddr4_2666_ysmlb_8g26d4l_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2666MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "工作电压": "1.2V"
+    }
+  }
+]
