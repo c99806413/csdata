@@ -1,0 +1,77 @@
+[
+  {
+    "name": "海盗船512MB DDR400(VS512MB400)",
+    "manufacturer": "海盗船",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___512mb_ddr400_vs512mb400_",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "TSOP-II",
+      "CL延迟": "2.5-3-3-7",
+      "其他特点": "Value Select"
+    }
+  },
+  {
+    "name": "海盗船1024MB DDR400(VS1G400)",
+    "manufacturer": "海盗船",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___1024mb_ddr400_vs1g400_",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "TSOP",
+      "CL延迟": "3"
+    }
+  },
+  {
+    "name": "海盗船512MB DDR400",
+    "manufacturer": "海盗船",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___512mb_ddr400",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz"
+    }
+  },
+  {
+    "name": "海盗船256MB DDR400(VS256MB400)",
+    "manufacturer": "海盗船",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___256mb_ddr400_vs256mb400_",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "TSOP-II",
+      "CL延迟": "3",
+      "其他特点": "Value Select"
+    }
+  },
+  {
+    "name": "海盗船256MB DDR400",
+    "manufacturer": "海盗船",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___256mb_ddr400",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz"
+    }
+  },
+  {
+    "name": "海盗船512MB DDR400(CMX512-3200CZ)",
+    "manufacturer": "海盗船",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___512mb_ddr400_cmx512_3200cz_",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "TSOP"
+    }
+  }
+]

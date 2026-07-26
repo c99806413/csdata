@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Acer 掠夺者 Apollo 16GB（2×8GB）DDR4 3600 B-Die颗粒",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Apollo系列",
+    "opendb_id": "acer_____apollo_16gb_2_8gb_ddr4_3600_b_die__",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3600MHz",
+      "针脚数": "288pin",
+      "颗粒配置": "B-Die颗粒",
+      "CL延迟": "16",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI",
+      "其他特点": "1600万色RGB灯效8个独立灯光区域10层PCB板纯铝散热"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Apollo 16GB（2×8GB）DDR4 3600 C14 B-Die颗粒",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Apollo系列",
+    "opendb_id": "acer_____apollo_16gb_2_8gb_ddr4_3600_c14_b_die__",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3600MHz",
+      "针脚数": "288pin",
+      "颗粒配置": "B-Die颗粒",
+      "CL延迟": "14-14-14-34",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI",
+      "其他特点": "1600万色RGB灯效8个独立灯光区域10层PCB板纯铝散热"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Apollo 16GB（2×8GB）DDR4 3200",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Apollo系列",
+    "opendb_id": "acer_____apollo_16gb_2_8gb_ddr4_3200",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3200MHz",
+      "针脚数": "288pin",
+      "CL延迟": "16-18-18-38",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI",
+      "其他特点": "1600万色RGB灯效8个独立灯光区域10层PCB板纯铝散热"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Apollo 32GB（2×16GB）DDR4 3600 C14 B-Die颗粒",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Apollo系列",
+    "opendb_id": "acer_____apollo_32gb_2_16gb_ddr4_3600_c14_b_die__",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3600MHz",
+      "针脚数": "288pin",
+      "颗粒配置": "B-Die颗粒",
+      "CL延迟": "14-14-14-34",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI",
+      "其他特点": "1600万色RGB灯效8个独立灯光区域10层PCB板纯铝散热"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Apollo 32GB（2×16GB）DDR4 3200",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Apollo系列",
+    "opendb_id": "acer_____apollo_32gb_2_16gb_ddr4_3200",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3200MHz",
+      "针脚数": "288pin",
+      "CL延迟": "16-18-18-38",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI",
+      "其他特点": "1600万色RGB灯效8个独立灯光区域10层PCB板纯铝散热"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Apollo 32GB（2×16GB）DDR4 3600",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Apollo系列",
+    "opendb_id": "acer_____apollo_32gb_2_16gb_ddr4_3600",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3600MHz",
+      "针脚数": "288pin",
+      "CL延迟": "18",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI",
+      "其他特点": "1600万色RGB灯效8个独立灯光区域10层PCB板纯铝散热"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Apollo 16GB（2×8GB）DDR4 3600",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Apollo系列",
+    "opendb_id": "acer_____apollo_16gb_2_8gb_ddr4_3600",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3600MHz",
+      "针脚数": "288pin",
+      "CL延迟": "18",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI",
+      "其他特点": "1600万色RGB灯效8个独立灯光区域10层PCB板纯铝散热"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Apollo 32GB（2×16GB）DDR4 3600 B-Die颗粒",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Apollo系列",
+    "opendb_id": "acer_____apollo_32gb_2_16gb_ddr4_3600_b_die__",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3600MHz",
+      "针脚数": "288pin",
+      "颗粒配置": "B-Die颗粒",
+      "CL延迟": "16",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI",
+      "其他特点": "1600万色RGB灯效8个独立灯光区域10层PCB板纯铝散热"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Apollo 16GB（2×8GB）DDR4 4000 B-Die颗粒",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Apollo系列",
+    "opendb_id": "acer_____apollo_16gb_2_8gb_ddr4_4000_b_die__",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "4000MHz",
+      "针脚数": "288pin",
+      "颗粒配置": "B-Die颗粒",
+      "CL延迟": "17",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI",
+      "其他特点": "1600万色RGB灯效8个独立灯光区域10层PCB板纯铝散热"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Apollo 16GB（2×8GB）DDR4 4133 B-Die颗粒",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Apollo系列",
+    "opendb_id": "acer_____apollo_16gb_2_8gb_ddr4_4133_b_die__",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "4133MHz",
+      "针脚数": "288pin",
+      "颗粒配置": "B-Die颗粒",
+      "CL延迟": "19",
+      "散热片": "支持散热",
+      "工作电压": "1.4V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI",
+      "其他特点": "1600万色RGB灯效8个独立灯光区域10层PCB板纯铝散热"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Apollo 32GB（2×16GB）DDR4 3200 B-Die颗粒",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Apollo系列",
+    "opendb_id": "acer_____apollo_32gb_2_16gb_ddr4_3200_b_die__",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3200MHz",
+      "针脚数": "288pin",
+      "颗粒配置": "B-Die颗粒",
+      "CL延迟": "14-14-14-34",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI",
+      "其他特点": "1600万色RGB灯效8个独立灯光区域10层PCB板纯铝散热"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Apollo 16GB（2×8GB）DDR4 3200 B-Die颗粒",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Apollo系列",
+    "opendb_id": "acer_____apollo_16gb_2_8gb_ddr4_3200_b_die__",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3200MHz",
+      "针脚数": "288pin",
+      "颗粒配置": "B-Die颗粒",
+      "CL延迟": "14-14-14-34",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI",
+      "其他特点": "1600万色RGB灯效8个独立灯光区域10层PCB板纯铝散热"
+    }
+  }
+]

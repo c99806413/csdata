@@ -1,0 +1,87 @@
+[
+  {
+    "name": "黑金刚1GB DDR400",
+    "manufacturer": "黑金刚",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___1gb_ddr400",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "CL延迟": "3",
+      "其他性能": "双色底板 红外线导热 侦错发亮"
+    }
+  },
+  {
+    "name": "黑金刚512MB DDR400",
+    "manufacturer": "黑金刚",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___512mb_ddr400",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "CL延迟": "3",
+      "其他性能": "双色底板 红外线导热 侦错发亮"
+    }
+  },
+  {
+    "name": "黑金刚512MB DDR400(悍将版)",
+    "manufacturer": "黑金刚",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___512mb_ddr400_____",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "CL延迟": "3"
+    }
+  },
+  {
+    "name": "黑金刚1GB DDR400(悍将版)",
+    "manufacturer": "黑金刚",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___1gb_ddr400_____",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "CL延迟": "3"
+    }
+  },
+  {
+    "name": "黑金刚2GB DDR400",
+    "manufacturer": "黑金刚",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___2gb_ddr400",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz"
+    }
+  },
+  {
+    "name": "黑金刚256MB DDR400",
+    "manufacturer": "黑金刚",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___256mb_ddr400",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "CL延迟": "3",
+      "其他性能": "双色底板 红外线导热 侦错发亮"
+    }
+  },
+  {
+    "name": "黑金刚1GB DDR400（金刚版）",
+    "manufacturer": "黑金刚",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___1gb_ddr400_____",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz"
+    }
+  }
+]

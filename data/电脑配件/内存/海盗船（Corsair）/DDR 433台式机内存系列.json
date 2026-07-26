@@ -1,0 +1,24 @@
+[
+  {
+    "name": "海盗船256MB DDR433",
+    "manufacturer": "海盗船",
+    "series": "DDR 433台式机内存系列",
+    "opendb_id": "___256mb_ddr433",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "433MHz"
+    }
+  },
+  {
+    "name": "海盗船512MB DDR433",
+    "manufacturer": "海盗船",
+    "series": "DDR 433台式机内存系列",
+    "opendb_id": "___512mb_ddr433",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "433MHz"
+    }
+  }
+]

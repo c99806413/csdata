@@ -1,0 +1,70 @@
+[
+  {
+    "name": "海盗船CM2X1024-5400C4",
+    "manufacturer": "海盗船",
+    "series": "DDR2 675台式机内存系列",
+    "opendb_id": "___cm2x1024_5400c4",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "675MHz",
+      "CL延迟": "4-4-4-12"
+    }
+  },
+  {
+    "name": "海盗船TWIN2X1024-5400C4(双条套装)",
+    "manufacturer": "海盗船",
+    "series": "DDR2 675台式机内存系列",
+    "opendb_id": "___twin2x1024_5400c4______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "675MHz",
+      "CL延迟": "5-5-5-12"
+    }
+  },
+  {
+    "name": "海盗船TWIN2X2048-5400C4(双条套装)",
+    "manufacturer": "海盗船",
+    "series": "DDR2 675台式机内存系列",
+    "opendb_id": "___twin2x2048_5400c4______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "675MHz"
+    }
+  },
+  {
+    "name": "海盗船TWIN2X2048-5400C4PRO(双条套装)",
+    "manufacturer": "海盗船",
+    "series": "DDR2 675台式机内存系列",
+    "opendb_id": "___twin2x2048_5400c4pro______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "675MHz"
+    }
+  },
+  {
+    "name": "海盗船CM2X512-5400C4PRO(双条套装)",
+    "manufacturer": "海盗船",
+    "series": "DDR2 675台式机内存系列",
+    "opendb_id": "___cm2x512_5400c4pro______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "675MHz"
+    }
+  },
+  {
+    "name": "海盗船1024MB DDRII675(TWIN2X1024A-5400UL)",
+    "manufacturer": "海盗船",
+    "series": "DDR2 675台式机内存系列",
+    "opendb_id": "___1024mb_ddrii675_twin2x1024a_5400ul_",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "675MHz"
+    }
+  }
+]

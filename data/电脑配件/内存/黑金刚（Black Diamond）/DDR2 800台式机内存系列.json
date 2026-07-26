@@ -1,0 +1,81 @@
+[
+  {
+    "name": "黑金刚1GB DDR2 800(悍将版)",
+    "manufacturer": "黑金刚",
+    "series": "DDR2 800台式机内存系列",
+    "opendb_id": "___1gb_ddr2_800_____",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "800MHz"
+    }
+  },
+  {
+    "name": "黑金刚2GB DDR2 800",
+    "manufacturer": "黑金刚",
+    "series": "DDR2 800台式机内存系列",
+    "opendb_id": "___2gb_ddr2_800",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "800MHz"
+    }
+  },
+  {
+    "name": "黑金刚2GB DDR2 800（悍将版）",
+    "manufacturer": "黑金刚",
+    "series": "DDR2 800台式机内存系列",
+    "opendb_id": "___2gb_ddr2_800_____",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "800MHz"
+    }
+  },
+  {
+    "name": "黑金刚1GB DDR2 800",
+    "manufacturer": "黑金刚",
+    "series": "DDR2 800台式机内存系列",
+    "opendb_id": "___1gb_ddr2_800",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "800MHz"
+    }
+  },
+  {
+    "name": "黑金刚2GB DDR2 800(悍将版)",
+    "manufacturer": "黑金刚",
+    "series": "DDR2 800台式机内存系列",
+    "opendb_id": "___2gb_ddr2_800_____",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "800MHz",
+      "其他性能": "帮助超频",
+      "其他特点": "完全采用最顶级原厂颗粒"
+    }
+  },
+  {
+    "name": "黑金刚512MB DDR2 800（悍将版）",
+    "manufacturer": "黑金刚",
+    "series": "DDR2 800台式机内存系列",
+    "opendb_id": "___512mb_ddr2_800_____",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "800MHz"
+    }
+  },
+  {
+    "name": "黑金刚512MB DDR2 800",
+    "manufacturer": "黑金刚",
+    "series": "DDR2 800台式机内存系列",
+    "opendb_id": "___512mb_ddr2_800",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "800MHz"
+    }
+  }
+]

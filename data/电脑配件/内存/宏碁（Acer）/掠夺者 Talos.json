@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Acer 掠夺者 Talos 16GB（2×8GB）DDR4 3600 B-Die颗粒",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Talos",
+    "opendb_id": "acer_____talos_16gb_2_8gb_ddr4_3600_b_die__",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3600MHz",
+      "针脚数": "288pin",
+      "CL延迟": "16-16-16-36",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Talos 32GB（2×16GB）DDR4 3600 B-Die颗粒",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Talos",
+    "opendb_id": "acer_____talos_32gb_2_16gb_ddr4_3600_b_die__",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3600MHz",
+      "针脚数": "288pin",
+      "CL延迟": "16-16-16-36",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Talos 16GB（2×8GB）DDR4 3000",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Talos",
+    "opendb_id": "acer_____talos_16gb_2_8gb_ddr4_3000",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3000MHz",
+      "针脚数": "288pin",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Talos 8GB DDR4 3200",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Talos",
+    "opendb_id": "acer_____talos_8gb_ddr4_3200",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3200MHz",
+      "针脚数": "288pin",
+      "CL延迟": "16-18-18-38",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Talos 16GB（2×8GB）DDR4 3200",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Talos",
+    "opendb_id": "acer_____talos_16gb_2_8gb_ddr4_3200",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3200MHz",
+      "针脚数": "288pin",
+      "CL延迟": "16-18-18-38",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Talos 8GB DDR4 3600",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Talos",
+    "opendb_id": "acer_____talos_8gb_ddr4_3600",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3600MHz",
+      "针脚数": "288pin",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI"
+    }
+  },
+  {
+    "name": "Acer 掠夺者 Talos 16GB（2×8GB）DDR4 3600",
+    "manufacturer": "Acer宏碁",
+    "series": "掠夺者 Talos",
+    "opendb_id": "acer_____talos_16gb_2_8gb_ddr4_3600",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3600MHz",
+      "针脚数": "288pin",
+      "CL延迟": "18",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "工作环境": "工作温度：0-85℃",
+      "XMP": "支持，XMP2.0",
+      "其他性能": "认证：CE，FCC，RoHS，VCCI，RCM，BSMI"
+    }
+  }
+]

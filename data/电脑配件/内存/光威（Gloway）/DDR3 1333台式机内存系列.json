@@ -1,0 +1,32 @@
+[
+  {
+    "name": "光威4GB DDR3 1333（战将WARRIOR）",
+    "manufacturer": "光威",
+    "series": "DDR3 1333台式机内存系列",
+    "opendb_id": "__4gb_ddr3_1333___warrior_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1333MHz",
+      "针脚数": "240pin",
+      "CL延迟": "9",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "光威2GB DDR3 1333（战将WARRIOR）",
+    "manufacturer": "光威",
+    "series": "DDR3 1333台式机内存系列",
+    "opendb_id": "__2gb_ddr3_1333___warrior_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（2GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1333MHz",
+      "针脚数": "240pin",
+      "CL延迟": "9",
+      "工作电压": "1.5V"
+    }
+  }
+]

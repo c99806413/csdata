@@ -1,0 +1,53 @@
+[
+  {
+    "name": "海盗船512MB DDR2 533(VS512MB533D2)",
+    "manufacturer": "海盗船",
+    "series": "DDR2 533台式机内存系列",
+    "opendb_id": "___512mb_ddr2_533_vs512mb533d2_",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "533MHz",
+      "颗粒封装": "BGA",
+      "CL延迟": "4-4-4-12"
+    }
+  },
+  {
+    "name": "海盗船1GB DDRII533(笔记本)",
+    "manufacturer": "海盗船",
+    "series": "DDR2 533台式机内存系列",
+    "opendb_id": "___1gb_ddrii533_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR2",
+      "内存主频": "533MHz",
+      "CL延迟": "4-4-4-12"
+    }
+  },
+  {
+    "name": "海盗船1GB DDRII533",
+    "manufacturer": "海盗船",
+    "series": "DDR2 533台式机内存系列",
+    "opendb_id": "___1gb_ddrii533",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "533MHz",
+      "颗粒封装": "FBGA",
+      "CL延迟": "4-4-4-12"
+    }
+  },
+  {
+    "name": "海盗船256MB DDRII533(VS256MB533D2)",
+    "manufacturer": "海盗船",
+    "series": "DDR2 533台式机内存系列",
+    "opendb_id": "___256mb_ddrii533_vs256mb533d2_",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "533MHz",
+      "颗粒封装": "BGA",
+      "CL延迟": "4"
+    }
+  }
+]
