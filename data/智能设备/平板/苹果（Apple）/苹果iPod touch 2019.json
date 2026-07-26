@@ -1,0 +1,32 @@
+[
+  {
+    "name": "苹果iPod touch 2019",
+    "manufacturer": "苹果",
+    "series": "苹果iPod touch 2019",
+    "opendb_id": "ipod_touch_2019",
+    "metadata": {
+      "产品类型": "iPod touch",
+      "芯片方案": "苹果 A10 Fusion",
+      "操作方式": "触摸式",
+      "传输接口": "Lightning接口，3.5mm耳机接口",
+      "无线网络": "WiFi：802.11a/b/g/n/ac",
+      "蓝牙": "支持，蓝牙4.1",
+      "操作系统": "iOS",
+      "屏幕尺寸": "4英寸",
+      "屏幕类型": "IPS屏幕",
+      "屏幕分辨率": "1136x640像素",
+      "ROM": "256GB/128GB/32GB",
+      "音频格式": "支持AAC-LC，HE-AAC，HE-AAC v2，Protected AAC，MP3，Linear PCM，Apple保真压缩，FLAC，Dolby Digital (AC-3)，Dolby Digital Plus (E-AC-3)，Audible (格式2、3、4，Audible Enhanced Audio，AAX ，AAX+)等格式",
+      "视频格式": "支持HEVC，H.264，MPEG-4 Part 2，Motion JPEG等格式",
+      "图片浏览格式": "支持HEIF，JPEG格式",
+      "图片功能": "支持",
+      "电池类型": "锂电池",
+      "续航时间": "音乐播放时间：最长可达40小时视频播放时间：最长可达8小时",
+      "其他描述": "800万像素摄像头，三轴陀螺仪，加速感应器",
+      "上市时间": "2019年05月",
+      "机身颜色": "深空灰色，金色，银色，粉红色，蓝色，红色",
+      "产品尺寸": "123.4×6.1×58.6mm",
+      "产品重量": "88g"
+    }
+  }
+]
