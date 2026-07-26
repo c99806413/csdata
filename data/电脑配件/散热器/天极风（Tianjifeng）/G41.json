@@ -1,0 +1,49 @@
+[
+  {
+    "name": "tianjifeng（天极风）G41 G6 双塔6热管（特价）",
+    "manufacturer": "天极风",
+    "series": "G41",
+    "opendb_id": "tianjifeng_____g41_g6___6______",
+    "metadata": {
+      "产品型号": "G41",
+      "散热器类型": "Intel 平台散热器",
+      "散热方式": "风冷",
+      "产品重量": "500g",
+      "风扇尺寸": "120X120X25MM*2mm",
+      "最高转数": "800RPM",
+      "噪音": "37dB",
+      "端子接口": "INTEL LGA1200，INTEL LGA1700",
+      "散热片尺寸": "135X125X148MMmm"
+    }
+  },
+  {
+    "name": "tianjifeng（天极风）G41 G20  2热管",
+    "manufacturer": "天极风",
+    "series": "G41",
+    "opendb_id": "tianjifeng_____g41_g20__2__",
+    "metadata": {
+      "产品型号": "G41",
+      "散热器类型": "Intel 平台散热器",
+      "散热方式": "风冷",
+      "风扇尺寸": "92X92X25MMmm",
+      "最高转数": "1900RPM",
+      "噪音": "37dB",
+      "散热片尺寸": "92X66X128MMmm"
+    }
+  },
+  {
+    "name": "tianjifeng（天极风）G41 G41 4热管 支持1700",
+    "manufacturer": "天极风",
+    "series": "G41",
+    "opendb_id": "tianjifeng_____g41_g41_4_____1700",
+    "metadata": {
+      "产品型号": "G41",
+      "散热器类型": "Intel 平台散热器",
+      "散热方式": "风冷",
+      "风扇尺寸": "120X120X25MMmm",
+      "最高转数": "800RPM",
+      "噪音": "37dB",
+      "散热片尺寸": "120X73X154MMmm"
+    }
+  }
+]

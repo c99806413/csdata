@@ -1,0 +1,107 @@
+[
+  {
+    "name": "alphacool Eisbaer 360-30mm",
+    "manufacturer": "alphacool",
+    "series": "Eisbaer",
+    "opendb_id": "alphacool_eisbaer_360_30mm",
+    "metadata": {
+      "产品型号": "Eisbaer",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "水冷",
+      "风扇数量": "3个",
+      "风扇尺寸": "120x120x25mm",
+      "扇叶数量": "7叶",
+      "转数描述": "1700±10%RPM",
+      "最大风量": "63.18CFM",
+      "风压": "2.19mmaq",
+      "噪音": "29dB",
+      "额定电压": "12V",
+      "额定功率": "0.18A",
+      "水冷排类型": "360冷排",
+      "水泵": "尺寸：51x48x9mm材质：塑料外壳,陶瓷轴承转速：RPM"
+    }
+  },
+  {
+    "name": "alphacool Eisbaer LT240-25mm",
+    "manufacturer": "alphacool",
+    "series": "Eisbaer",
+    "opendb_id": "alphacool_eisbaer_lt240_25mm",
+    "metadata": {
+      "产品型号": "Eisbaer",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "水冷",
+      "水冷排类型": "240mm冷排",
+      "水泵": "允许电压：7-13.5V DC消耗功率：3.2W流量：75L/h扬程：1m电源接口：3-Pin fan plug"
+    }
+  },
+  {
+    "name": "alphacool Eisbaer 280-30mm",
+    "manufacturer": "alphacool",
+    "series": "Eisbaer",
+    "opendb_id": "alphacool_eisbaer_280_30mm",
+    "metadata": {
+      "产品型号": "Eisbaer",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "水冷",
+      "风扇数量": "2个",
+      "风扇尺寸": "120x120x25mm",
+      "扇叶数量": "7叶",
+      "转数描述": "1700±10%RPM",
+      "最大风量": "63.18CFM",
+      "风压": "2.19mmaq",
+      "噪音": "29dB",
+      "额定电压": "12V",
+      "额定功率": "0.18A",
+      "水冷排类型": "280冷排",
+      "水泵": "尺寸：51x48x9mm材质：塑料外壳,陶瓷轴承转速：RPM"
+    }
+  },
+  {
+    "name": "alphacool Eisbaer 240-30mm",
+    "manufacturer": "alphacool",
+    "series": "Eisbaer",
+    "opendb_id": "alphacool_eisbaer_240_30mm",
+    "metadata": {
+      "产品型号": "Eisbaer",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "水冷",
+      "风扇数量": "2个",
+      "风扇尺寸": "120x120x25mm",
+      "扇叶数量": "7叶",
+      "转数描述": "1700±10%RPM",
+      "最大风量": "63.18CFM",
+      "风压": "2.19mmaq",
+      "噪音": "29dB",
+      "额定电压": "12V",
+      "额定功率": "0.18A",
+      "水冷排类型": "240冷排",
+      "水泵": "尺寸：51x48x9mm材质：塑料外壳,陶瓷轴承转速：RPM"
+    }
+  },
+  {
+    "name": "alphacool Eisbaer LT360-25mm",
+    "manufacturer": "alphacool",
+    "series": "Eisbaer",
+    "opendb_id": "alphacool_eisbaer_lt360_25mm",
+    "metadata": {
+      "产品型号": "Eisbaer",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "水冷",
+      "水冷排类型": "360mm冷排",
+      "水泵": "允许电压：7-13.5V DC消耗功率：3.2W流量：75L/h扬程：1m电源接口：3-Pin fan plug"
+    }
+  },
+  {
+    "name": "alphacool Eisbaer LT120-25mm",
+    "manufacturer": "alphacool",
+    "series": "Eisbaer",
+    "opendb_id": "alphacool_eisbaer_lt120_25mm",
+    "metadata": {
+      "产品型号": "Eisbaer",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "水冷",
+      "水冷排类型": "120mm冷排",
+      "水泵": "允许电压：7-13.5V DC消耗功率：3.2W流量：75L/h扬程：1m电源接口：3-Pin fan plug"
+    }
+  }
+]

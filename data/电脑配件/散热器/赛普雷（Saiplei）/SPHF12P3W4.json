@@ -1,0 +1,32 @@
+[
+  {
+    "name": "SOPLAY（赛普雷）SPHF12P3W4 SP-HF12P3-B4 黑色ARGB幻彩三只装",
+    "manufacturer": "赛普雷",
+    "series": "SPHF12P3W4",
+    "opendb_id": "soplay_____sphf12p3w4_sp_hf12p3_b4___argb_____",
+    "metadata": {
+      "产品型号": "SP-HF12P3-W4",
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "风扇尺寸": "120X 120 X 25mm",
+      "最高转数": "800RPM",
+      "噪音": "26(A)(Min)dB",
+      "散热片尺寸": "120X 120 X 25mm"
+    }
+  },
+  {
+    "name": "SOPLAY（赛普雷）SPHF12P3W4 SP-HF12P3-W4 白色ARGB幻彩三只装",
+    "manufacturer": "赛普雷",
+    "series": "SPHF12P3W4",
+    "opendb_id": "soplay_____sphf12p3w4_sp_hf12p3_w4___argb_____",
+    "metadata": {
+      "产品型号": "SP-HF12P3-W4",
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "风扇尺寸": "120X 120 X 25mm",
+      "最高转数": "800RPM",
+      "噪音": "26(A)(Min)dB",
+      "散热片尺寸": "120X 120 X 25mm"
+    }
+  }
+]

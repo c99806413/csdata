@@ -1,0 +1,134 @@
+[
+  {
+    "name": "raicold（锐冷）ARGB 黑色ARGB温控版 1只",
+    "manufacturer": "锐冷",
+    "series": "ARGB",
+    "opendb_id": "raicold____argb___argb____1_",
+    "metadata": {
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25MMmm",
+      "最高转数": "800RPM",
+      "散热片尺寸": "120*120*25MMmm"
+    }
+  },
+  {
+    "name": "raicold（锐冷）ARGB 白色ARGB温控版 1只",
+    "manufacturer": "锐冷",
+    "series": "ARGB",
+    "opendb_id": "raicold____argb___argb____1_",
+    "metadata": {
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25MMmm",
+      "最高转数": "800RPM",
+      "散热片尺寸": "120*120*25MMmm"
+    }
+  },
+  {
+    "name": "raicold（锐冷）ARGB 黑色ARGB温控版 3只+集线器",
+    "manufacturer": "锐冷",
+    "series": "ARGB",
+    "opendb_id": "raicold____argb___argb____3_____",
+    "metadata": {
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25MMmm",
+      "最高转数": "800RPM",
+      "散热片尺寸": "120*120*25MMmm"
+    }
+  },
+  {
+    "name": "raicold（锐冷）ARGB （ARGB主板同步+PWM调速）集线控制器",
+    "manufacturer": "锐冷",
+    "series": "ARGB",
+    "opendb_id": "raicold____argb__argb_____pwm________",
+    "metadata": {
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25MMmm",
+      "最高转数": "800RPM",
+      "散热片尺寸": "120*120*25MMmm"
+    }
+  },
+  {
+    "name": "raicold（锐冷）ARGB 白色ARGB温控版 3只+集线器",
+    "manufacturer": "锐冷",
+    "series": "ARGB",
+    "opendb_id": "raicold____argb___argb____3_____",
+    "metadata": {
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25MMmm",
+      "最高转数": "800RPM",
+      "散热片尺寸": "120*120*25MMmm"
+    }
+  },
+  {
+    "name": "raicold（锐冷）ARGB 黑色ARGB温控版 4只+集线器",
+    "manufacturer": "锐冷",
+    "series": "ARGB",
+    "opendb_id": "raicold____argb___argb____4_____",
+    "metadata": {
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25MMmm",
+      "最高转数": "800RPM",
+      "散热片尺寸": "120*120*25MMmm"
+    }
+  },
+  {
+    "name": "raicold（锐冷）ARGB 白色ARGB温控版 4只+集线器",
+    "manufacturer": "锐冷",
+    "series": "ARGB",
+    "opendb_id": "raicold____argb___argb____4_____",
+    "metadata": {
+      "散热方式": "风冷",
+      "风扇尺寸": "800~1600(±10%)RPMmm",
+      "最高转数": "800RPM",
+      "散热片尺寸": "800~1600(±10%)RPMmm"
+    }
+  },
+  {
+    "name": "raicold（锐冷）ARGB 白色ARGB温控版 5只+集线器",
+    "manufacturer": "锐冷",
+    "series": "ARGB",
+    "opendb_id": "raicold____argb___argb____5_____",
+    "metadata": {
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25MMmm",
+      "最高转数": "800RPM",
+      "散热片尺寸": "120*120*25MMmm"
+    }
+  },
+  {
+    "name": "raicold（锐冷）ARGB 黑色ARGB温控版 5只+集线器",
+    "manufacturer": "锐冷",
+    "series": "ARGB",
+    "opendb_id": "raicold____argb___argb____5_____",
+    "metadata": {
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25MMmm",
+      "最高转数": "800RPM",
+      "散热片尺寸": "120*120*25MMmm"
+    }
+  },
+  {
+    "name": "raicold（锐冷）ARGB 黑色ARGB温控版 6只+集线器",
+    "manufacturer": "锐冷",
+    "series": "ARGB",
+    "opendb_id": "raicold____argb___argb____6_____",
+    "metadata": {
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25MMmm",
+      "最高转数": "800RPM",
+      "散热片尺寸": "120*120*25MMmm"
+    }
+  },
+  {
+    "name": "raicold（锐冷）ARGB 白色ARGB温控版 6只+集线器",
+    "manufacturer": "锐冷",
+    "series": "ARGB",
+    "opendb_id": "raicold____argb___argb____6_____",
+    "metadata": {
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25MMmm",
+      "最高转数": "800RPM",
+      "散热片尺寸": "120*120*25MMmm"
+    }
+  }
+]

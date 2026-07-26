@@ -1,0 +1,62 @@
+[
+  {
+    "name": "alphacool core 1 Core系列黑色幻彩ARGB",
+    "manufacturer": "alphacool",
+    "series": "core 1",
+    "opendb_id": "alphacool_core_1_core______argb",
+    "metadata": {
+      "产品型号": "core 1",
+      "散热方式": "水冷",
+      "风扇尺寸": "无风扇mm",
+      "散热片尺寸": "其他mm"
+    }
+  },
+  {
+    "name": "alphacool core 1 Core系列黑色（无光）",
+    "manufacturer": "alphacool",
+    "series": "core 1",
+    "opendb_id": "alphacool_core_1_core________",
+    "metadata": {
+      "产品型号": "core 1",
+      "散热方式": "水冷",
+      "风扇尺寸": "无风扇mm",
+      "散热片尺寸": "其他mm"
+    }
+  },
+  {
+    "name": "alphacool core 1 Core系列银色（无光）",
+    "manufacturer": "alphacool",
+    "series": "core 1",
+    "opendb_id": "alphacool_core_1_core________",
+    "metadata": {
+      "产品型号": "core 1",
+      "散热方式": "水冷",
+      "风扇尺寸": "无风扇mm",
+      "散热片尺寸": "其他mm"
+    }
+  },
+  {
+    "name": "alphacool core 1 Core系列白色（无光）",
+    "manufacturer": "alphacool",
+    "series": "core 1",
+    "opendb_id": "alphacool_core_1_core________",
+    "metadata": {
+      "产品型号": "core 1",
+      "散热方式": "水冷",
+      "风扇尺寸": "无风扇mm",
+      "散热片尺寸": "其他mm"
+    }
+  },
+  {
+    "name": "alphacool core 1 Core系列银色幻彩ARGB",
+    "manufacturer": "alphacool",
+    "series": "core 1",
+    "opendb_id": "alphacool_core_1_core______argb",
+    "metadata": {
+      "产品型号": "core 1",
+      "散热方式": "水冷",
+      "风扇尺寸": "无风扇mm",
+      "散热片尺寸": "其他mm"
+    }
+  }
+]

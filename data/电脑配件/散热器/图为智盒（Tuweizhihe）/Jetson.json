@@ -1,0 +1,75 @@
+[
+  {
+    "name": "图为智盒Jetson Nano",
+    "manufacturer": "图为智盒",
+    "series": "Jetson",
+    "opendb_id": "____jetson_nano",
+    "metadata": {
+      "产品型号": "Jetson",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "500g",
+      "风扇尺寸": "4010mm",
+      "最高转数": "1000RPM",
+      "散热片尺寸": "59*39*17mm"
+    }
+  },
+  {
+    "name": "图为智盒Jetson Orin NX",
+    "manufacturer": "图为智盒",
+    "series": "Jetson",
+    "opendb_id": "____jetson_orin_nx",
+    "metadata": {
+      "产品型号": "Jetson",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "500g",
+      "风扇尺寸": "4010mm",
+      "最高转数": "1000RPM",
+      "散热片尺寸": "59*39*17mm"
+    }
+  },
+  {
+    "name": "图为智盒Jetson Xavier NX",
+    "manufacturer": "图为智盒",
+    "series": "Jetson",
+    "opendb_id": "____jetson_xavier_nx",
+    "metadata": {
+      "产品型号": "Jetson",
+      "散热方式": "风冷",
+      "风扇尺寸": "4010mm",
+      "最高转数": "1000RPM",
+      "散热片尺寸": "59*39*17mm"
+    }
+  },
+  {
+    "name": "图为智盒Jetson Orin Nano",
+    "manufacturer": "图为智盒",
+    "series": "Jetson",
+    "opendb_id": "____jetson_orin_nano",
+    "metadata": {
+      "产品型号": "Jetson",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "500g",
+      "风扇尺寸": "4010mm",
+      "最高转数": "1000RPM",
+      "散热片尺寸": "59*39*17mm"
+    }
+  },
+  {
+    "name": "图为智盒Jetson TX2_NX",
+    "manufacturer": "图为智盒",
+    "series": "Jetson",
+    "opendb_id": "____jetson_tx2_nx",
+    "metadata": {
+      "产品型号": "Jetson",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "500g",
+      "风扇尺寸": "4010mm",
+      "最高转数": "1000RPM",
+      "散热片尺寸": "59*39*17mm"
+    }
+  }
+]

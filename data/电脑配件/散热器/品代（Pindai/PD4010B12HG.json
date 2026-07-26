@@ -1,0 +1,93 @@
+[
+  {
+    "name": "pindai（品代）PD4010B12HG 12V【8500转】显卡2P",
+    "manufacturer": "品代",
+    "series": "PD4010B12HG",
+    "opendb_id": "pindai____pd4010b12hg_12v_8500____2p",
+    "metadata": {
+      "产品型号": "PD4010B12H-G",
+      "散热方式": "风冷",
+      "风扇尺寸": "40*40*10MMmm",
+      "最高转数": "8500RPM",
+      "散热片尺寸": "40*40*10MMmm"
+    }
+  },
+  {
+    "name": "pindai（品代）PD4010B12HG 5V【8500转】显卡2P",
+    "manufacturer": "品代",
+    "series": "PD4010B12HG",
+    "opendb_id": "pindai____pd4010b12hg_5v_8500____2p",
+    "metadata": {
+      "产品型号": "PD4010B12H-G",
+      "散热方式": "风冷",
+      "风扇尺寸": "40*40*10MMmm",
+      "最高转数": "8500RPM",
+      "散热片尺寸": "40*40*10MMmm"
+    }
+  },
+  {
+    "name": "pindai（品代）PD4010B12HG 12V【6500转】显卡2P",
+    "manufacturer": "品代",
+    "series": "PD4010B12HG",
+    "opendb_id": "pindai____pd4010b12hg_12v_6500____2p",
+    "metadata": {
+      "产品型号": "PD4010B12H-G",
+      "散热方式": "风冷",
+      "风扇尺寸": "40*40*10MMmm",
+      "最高转数": "6500RPM",
+      "散热片尺寸": "40*40*10MMmm"
+    }
+  },
+  {
+    "name": "pindai（品代）PD4010B12HG 5V【5500转】显卡2P",
+    "manufacturer": "品代",
+    "series": "PD4010B12HG",
+    "opendb_id": "pindai____pd4010b12hg_5v_5500____2p",
+    "metadata": {
+      "产品型号": "PD4010B12H-G",
+      "散热方式": "风冷",
+      "风扇尺寸": "40*40*10MMmm",
+      "最高转数": "5500RPM",
+      "散热片尺寸": "40*40*10MMmm"
+    }
+  },
+  {
+    "name": "pindai（品代）PD4010B12HG 5V【5500转】USB头",
+    "manufacturer": "品代",
+    "series": "PD4010B12HG",
+    "opendb_id": "pindai____pd4010b12hg_5v_5500__usb_",
+    "metadata": {
+      "产品型号": "PD4010B12H-G",
+      "散热方式": "风冷",
+      "风扇尺寸": "40*40*10MMmm",
+      "最高转数": "5500RPM",
+      "散热片尺寸": "40*40*10MMmm"
+    }
+  },
+  {
+    "name": "pindai（品代）PD4010B12HG 24V【8500转】显卡2P",
+    "manufacturer": "品代",
+    "series": "PD4010B12HG",
+    "opendb_id": "pindai____pd4010b12hg_24v_8500____2p",
+    "metadata": {
+      "产品型号": "PD4010B12H-G",
+      "散热方式": "风冷",
+      "风扇尺寸": "40*40*10MMmm",
+      "最高转数": "8500RPM",
+      "散热片尺寸": "40*40*10MMmm"
+    }
+  },
+  {
+    "name": "pindai（品代）PD4010B12HG 5V【8500转】USB头",
+    "manufacturer": "品代",
+    "series": "PD4010B12HG",
+    "opendb_id": "pindai____pd4010b12hg_5v_8500__usb_",
+    "metadata": {
+      "产品型号": "PD4010B12H-G",
+      "散热方式": "风冷",
+      "风扇尺寸": "40*40*10MMmm",
+      "最高转数": "8500RPM",
+      "散热片尺寸": "40*40*10MMmm"
+    }
+  }
+]
