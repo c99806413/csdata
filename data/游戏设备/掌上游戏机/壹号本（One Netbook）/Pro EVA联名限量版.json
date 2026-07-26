@@ -1,0 +1,52 @@
+[
+  {
+    "name": "壹号本One XPlayer飞行家F1 Pro EVA联名限量版（AI 9 370/32GB/2TB）",
+    "manufacturer": "壹号本",
+    "series": "Pro EVA联名限量版",
+    "opendb_id": "___one_xplayer___f1_pro_eva______ai_9_370_32gb_2tb_",
+    "metadata": {
+      "产品型号": "One XPlayer 飞行家F1 Pro EVA联名限量版",
+      "类别": "便携掌机Steam",
+      "CPU": "AMD Ryzen AI 9 HX 370，5.1GHz，12核心/24线程，36MB缓存",
+      "GPU": "AMD Radeon 890M，RDNA 3.5架构，2.9GHz",
+      "内存": "RAM：32GB LPDDR5x 7500MHzROM：2TB PCIe4.0 高速固态硬盘",
+      "屏幕": "7英寸OLED显示屏，支持10点触控刷新率：144Hz亮度：760nits分辨率：1920*1080像素密度：315PPI响应时间：0.6ms色域容积：sRGB 152%，DCI-P3 112%",
+      "音效配置": "Harman提供并调校扬声器，通过Harman音效认证",
+      "传感器": "3轴陀螺仪+3轴加速度传感器",
+      "储存卡": "1×micro SD插槽",
+      "无线通信": "WiFi 6E，蓝牙5.2",
+      "游戏载体": "OneXConsole Windows掌机游戏控制中心",
+      "主要端口": "2×USB-C 4.0接口，1×USB-A 3.0接口1×3.5mm音频接口",
+      "产品颜色": "红色",
+      "产品尺寸": "263.6×98.2×22.6mm",
+      "产品重量": "约599g",
+      "电源参数": "12600mA，48.5Wh，65W氮化镓快充适配器",
+      "产品特色": "RGB飞行翼铭牌定制"
+    }
+  },
+  {
+    "name": "壹号本One XPlayer飞行家F1 Pro EVA联名限量版（AI 9 370/64GB/2TB）",
+    "manufacturer": "壹号本",
+    "series": "Pro EVA联名限量版",
+    "opendb_id": "___one_xplayer___f1_pro_eva______ai_9_370_64gb_2tb_",
+    "metadata": {
+      "产品型号": "One XPlayer 飞行家F1 Pro EVA联名限量版",
+      "类别": "便携掌机Steam",
+      "CPU": "AMD Ryzen AI 9 HX 370，5.1GHz，12核心/24线程，36MB缓存",
+      "GPU": "AMD Radeon 890M，RDNA 3.5架构，2.9GHz",
+      "内存": "RAM：64GB LPDDR5x 7500MHzROM：2TB PCIe4.0 高速固态硬盘",
+      "屏幕": "7英寸OLED显示屏，支持10点触控刷新率：144Hz亮度：760nits分辨率：1920*1080像素密度：315PPI响应时间：0.6ms色域容积：sRGB 152%，DCI-P3 112%",
+      "音效配置": "Harman提供并调校扬声器，通过Harman音效认证",
+      "传感器": "3轴陀螺仪+3轴加速度传感器",
+      "储存卡": "1×micro SD插槽",
+      "无线通信": "WiFi 6E，蓝牙5.2",
+      "游戏载体": "OneXConsole Windows掌机游戏控制中心",
+      "主要端口": "2×USB-C 4.0接口，1×USB-A 3.0接口1×3.5mm音频接口",
+      "产品颜色": "红色",
+      "产品尺寸": "263.6×98.2×22.6mm",
+      "产品重量": "约599g",
+      "电源参数": "12600mA，48.5Wh，65W氮化镓快充适配器",
+      "产品特色": "RGB飞行翼铭牌定制"
+    }
+  }
+]

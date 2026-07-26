@@ -1,0 +1,110 @@
+[
+  {
+    "name": "壹号本OnexPlayer mini AMD版（1200P 16GB+2TB）",
+    "manufacturer": "壹号本",
+    "series": "OnexPlayer mini AMD版系列",
+    "opendb_id": "___onexplayer_mini_amd__1200p_16gb_2tb_",
+    "metadata": {
+      "类别": "PC",
+      "CPU": "AMD锐龙7 5800U",
+      "GPU": "AMD Radeon RX Vega 8核显",
+      "内存": "16GB LPDDR4X双通道，4266MHz高频率",
+      "屏幕": "7英寸全贴合IPS显示屏分辨率1920*120016:10点对点原生屏像素密度323PPI支持10点触控",
+      "无线通信": "WiFi 6.0，蓝牙5.0",
+      "插槽/接口": "USB-C 3.2*2，USB-A 3.0*1，3.5mm音频接口*1",
+      "产品尺寸": "260*106*23mm（至薄处）",
+      "产品重量": "约619g",
+      "电源参数": "12450mAh，48Wh/11.55V65W氮化镓快充"
+    }
+  },
+  {
+    "name": "壹号本OnexPlayer mini AMD版（800P 16GB+512GB）",
+    "manufacturer": "壹号本",
+    "series": "OnexPlayer mini AMD版系列",
+    "opendb_id": "___onexplayer_mini_amd__800p_16gb_512gb_",
+    "metadata": {
+      "类别": "PC",
+      "CPU": "AMD锐龙7 5800U",
+      "GPU": "AMD Radeon RX Vega 8核显",
+      "内存": "16GB LPDDR4X双通道，4266MHz高频率",
+      "屏幕": "7英寸全贴合IPS显示屏分辨率1280*80016:10点对点原生屏像素密度192PPI支持10点触控",
+      "无线通信": "WiFi 6.0，蓝牙5.0",
+      "插槽/接口": "USB-C 3.2*2，USB-A 3.0*1，3.5mm音频接口*1",
+      "产品尺寸": "260*106*23mm（至薄处）",
+      "产品重量": "约619g",
+      "电源参数": "12450mAh，48Wh/11.55V65W氮化镓快充"
+    }
+  },
+  {
+    "name": "壹号本OnexPlayer mini AMD版（800P 16GB+1TB）",
+    "manufacturer": "壹号本",
+    "series": "OnexPlayer mini AMD版系列",
+    "opendb_id": "___onexplayer_mini_amd__800p_16gb_1tb_",
+    "metadata": {
+      "类别": "PC",
+      "CPU": "AMD锐龙7 5800U",
+      "GPU": "AMD Radeon RX Vega 8核显",
+      "内存": "16GB LPDDR4X双通道，4266MHz高频率",
+      "屏幕": "7英寸全贴合IPS显示屏分辨率1280*80016:10点对点原生屏像素密度192PPI支持10点触控",
+      "无线通信": "WiFi 6.0，蓝牙5.0",
+      "插槽/接口": "USB-C 3.2*2，USB-A 3.0*1，3.5mm音频接口*1",
+      "产品尺寸": "260*106*23mm（至薄处）",
+      "产品重量": "约619g",
+      "电源参数": "12450mAh，48Wh/11.55V65W氮化镓快充"
+    }
+  },
+  {
+    "name": "壹号本OnexPlayer mini AMD版（800P 16GB+2TB）",
+    "manufacturer": "壹号本",
+    "series": "OnexPlayer mini AMD版系列",
+    "opendb_id": "___onexplayer_mini_amd__800p_16gb_2tb_",
+    "metadata": {
+      "类别": "PC",
+      "CPU": "AMD锐龙7 5800U",
+      "GPU": "AMD Radeon RX Vega 8核显",
+      "内存": "16GB LPDDR4X双通道，4266MHz高频率",
+      "屏幕": "7英寸全贴合IPS显示屏分辨率1280*80016:10点对点原生屏像素密度192PPI支持10点触控",
+      "无线通信": "WiFi 6.0，蓝牙5.0",
+      "插槽/接口": "USB-C 3.2*2，USB-A 3.0*1，3.5mm音频接口*1",
+      "产品尺寸": "260*106*23mm（至薄处）",
+      "产品重量": "约619g",
+      "电源参数": "12450mAh，48Wh/11.55V65W氮化镓快充"
+    }
+  },
+  {
+    "name": "壹号本OnexPlayer mini AMD版（1200P 16GB+512GB）",
+    "manufacturer": "壹号本",
+    "series": "OnexPlayer mini AMD版系列",
+    "opendb_id": "___onexplayer_mini_amd__1200p_16gb_512gb_",
+    "metadata": {
+      "类别": "PC",
+      "CPU": "AMD锐龙7 5800U",
+      "GPU": "AMD Radeon RX Vega 8核显",
+      "内存": "16GB LPDDR4X双通道，4266MHz高频率",
+      "屏幕": "7英寸全贴合IPS显示屏分辨率1920*120016:10点对点原生屏像素密度323PPI支持10点触控",
+      "无线通信": "WiFi 6.0，蓝牙5.0",
+      "插槽/接口": "USB-C 3.2*2，USB-A 3.0*1，3.5mm音频接口*1",
+      "产品尺寸": "260*106*23mm（至薄处）",
+      "产品重量": "约619g",
+      "电源参数": "12450mAh，48Wh/11.55V65W氮化镓快充"
+    }
+  },
+  {
+    "name": "壹号本OnexPlayer mini AMD版（1200P 16GB+1TB）",
+    "manufacturer": "壹号本",
+    "series": "OnexPlayer mini AMD版系列",
+    "opendb_id": "___onexplayer_mini_amd__1200p_16gb_1tb_",
+    "metadata": {
+      "类别": "PC",
+      "CPU": "AMD锐龙7 5800U",
+      "GPU": "AMD Radeon RX Vega 8核显",
+      "内存": "16GB LPDDR4X双通道，4266MHz高频率",
+      "屏幕": "7英寸全贴合IPS显示屏分辨率1920*120016:10点对点原生屏像素密度323PPI支持10点触控",
+      "无线通信": "WiFi 6.0，蓝牙5.0",
+      "插槽/接口": "USB-C 3.2*2，USB-A 3.0*1，3.5mm音频接口*1",
+      "产品尺寸": "260*106*23mm（至薄处）",
+      "产品重量": "约619g",
+      "电源参数": "12450mAh，48Wh/11.55V65W氮化镓快充"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "GPD Win Mini AMD R7 7840U",
+    "manufacturer": "GPD",
+    "series": "Win Mini",
+    "opendb_id": "gpd_win_mini_amd_r7_7840u",
+    "metadata": {
+      "CPU": "R7 7840U",
+      "屏幕": "7英寸窄边框屏幕分辨率为1920×1080刷新率高达120Hz",
+      "插槽/接口": "USB-C接口",
+      "产品重量": "500g",
+      "电源参数": "45Wh电池",
+      "产品特色": "翻盖设计"
+    }
+  },
+  {
+    "name": "GPD Win Mini AMD R5 7640U",
+    "manufacturer": "GPD",
+    "series": "Win Mini",
+    "opendb_id": "gpd_win_mini_amd_r5_7640u",
+    "metadata": {
+      "CPU": "R5 7640U",
+      "屏幕": "7英寸窄边框屏幕分辨率为1920×1080刷新率高达120Hz",
+      "插槽/接口": "USB-C接口",
+      "产品重量": "500g",
+      "电源参数": "45Wh电池",
+      "产品特色": "翻盖设计"
+    }
+  }
+]

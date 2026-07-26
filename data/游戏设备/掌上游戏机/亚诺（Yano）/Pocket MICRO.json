@@ -1,0 +1,59 @@
+[
+  {
+    "name": "AYANEO Pocket MICRO(8GB+128GB)",
+    "manufacturer": "亚诺",
+    "series": "Pocket MICRO",
+    "opendb_id": "ayaneo_pocket_micro_8gb_128gb_",
+    "metadata": {
+      "类别": "怀旧游戏机",
+      "CPU": "联发科 Helio G99",
+      "内存": "8GB+128GB",
+      "屏幕": "3.5英寸IPS原彩屏，960×640，330PPI，400nits，3:2，100%sRGB覆盖，115%sRGB容积",
+      "传感器": "六轴陀螺仪，X轴线性马达",
+      "储存卡": "支持Micro SD卡",
+      "无线通信": "WiFi5，蓝牙5.2",
+      "插槽/接口": "1个USB Type-C",
+      "产品尺寸": "156*63*18mm",
+      "产品重量": "233g",
+      "电源参数": "电池容量：2600mAh"
+    }
+  },
+  {
+    "name": "AYANEO Pocket MICRO(8GB+256GB)",
+    "manufacturer": "亚诺",
+    "series": "Pocket MICRO",
+    "opendb_id": "ayaneo_pocket_micro_8gb_256gb_",
+    "metadata": {
+      "类别": "怀旧游戏机",
+      "CPU": "联发科 Helio G99",
+      "内存": "8GB+256GB",
+      "屏幕": "3.5英寸IPS原彩屏，960×640，330PPI，400nits，3:2，100%sRGB覆盖，115%sRGB容积",
+      "传感器": "六轴陀螺仪，X轴线性马达",
+      "储存卡": "支持Micro SD卡",
+      "无线通信": "WiFi5，蓝牙5.2",
+      "插槽/接口": "1个USB Type-C",
+      "产品尺寸": "156*63*18mm",
+      "产品重量": "233g",
+      "电源参数": "电池容量：2600mAh"
+    }
+  },
+  {
+    "name": "AYANEO Pocket MICRO 复古灰(8GB+256GB)",
+    "manufacturer": "亚诺",
+    "series": "Pocket MICRO",
+    "opendb_id": "ayaneo_pocket_micro_____8gb_256gb_",
+    "metadata": {
+      "类别": "怀旧游戏机",
+      "CPU": "联发科 Helio G99",
+      "内存": "8GB+256GB",
+      "屏幕": "3.5英寸IPS原彩屏，960×640，330PPI，400nits，3:2，100%sRGB覆盖，115%sRGB容积",
+      "传感器": "六轴陀螺仪，X轴线性马达",
+      "储存卡": "支持Micro SD卡",
+      "无线通信": "WiFi5，蓝牙5.2",
+      "插槽/接口": "1个USB Type-C",
+      "产品尺寸": "156*63*18mm",
+      "产品重量": "233g",
+      "电源参数": "电池容量：2600mAh"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "AYANEO Pocket DMG(8GB+128GB)",
+    "manufacturer": "亚诺",
+    "series": "Pocket DMG",
+    "opendb_id": "ayaneo_pocket_dmg_8gb_128gb_",
+    "metadata": {
+      "类别": "怀旧游戏机",
+      "CPU": "高通 骁龙G3X Gen2",
+      "GPU": "高通 Adreno A32",
+      "内存": "8GB+128GB",
+      "屏幕": "3.92英寸OLED炫彩屏，1240×1080，419PPI，450nits，104%NTSC",
+      "传感器": "六轴陀螺仪",
+      "储存卡": "支持Micro SD卡",
+      "无线通信": "WiFi，蓝牙5.3",
+      "插槽/接口": "1个全功能USB3.2 Gen2 Type-C，1个DP1.4接口",
+      "产品尺寸": "91.5*151*15-22.3mm",
+      "产品重量": "278g",
+      "电源参数": "电池容量：6000mAh充电功率：25w"
+    }
+  },
+  {
+    "name": "AYANEO Pocket DMG(12GB+256GB)",
+    "manufacturer": "亚诺",
+    "series": "Pocket DMG",
+    "opendb_id": "ayaneo_pocket_dmg_12gb_256gb_",
+    "metadata": {
+      "类别": "怀旧游戏机",
+      "CPU": "高通 骁龙G3X Gen2",
+      "GPU": "高通 Adreno A32",
+      "内存": "12GB+256GB",
+      "屏幕": "3.92英寸OLED炫彩屏，1240×1080，419PPI，450nits，104%NTSC",
+      "传感器": "六轴陀螺仪",
+      "储存卡": "支持Micro SD卡",
+      "无线通信": "WiFi，蓝牙5.3",
+      "插槽/接口": "1个全功能USB3.2 Gen2 Type-C，1个DP1.4接口",
+      "产品尺寸": "91.5*151*15-22.3mm",
+      "产品重量": "278g",
+      "电源参数": "电池容量：6000mAh充电功率：25w"
+    }
+  },
+  {
+    "name": "AYANEO Pocket DMG(16GB+512GB)",
+    "manufacturer": "亚诺",
+    "series": "Pocket DMG",
+    "opendb_id": "ayaneo_pocket_dmg_16gb_512gb_",
+    "metadata": {
+      "类别": "怀旧游戏机",
+      "CPU": "高通 骁龙G3X Gen2",
+      "GPU": "高通 Adreno A32",
+      "内存": "16GB+512GB",
+      "屏幕": "3.92英寸OLED炫彩屏，1240×1080，419PPI，450nits，104%NTSC",
+      "传感器": "六轴陀螺仪",
+      "储存卡": "支持Micro SD卡",
+      "无线通信": "WiFi，蓝牙5.3",
+      "插槽/接口": "1个全功能USB3.2 Gen2 Type-C，1个DP1.4接口",
+      "产品尺寸": "91.5*151*15-22.3mm",
+      "产品重量": "278g",
+      "电源参数": "电池容量：6000mAh充电功率：25w"
+    }
+  },
+  {
+    "name": "AYANEO Pocket DMG(16GB+1TB)",
+    "manufacturer": "亚诺",
+    "series": "Pocket DMG",
+    "opendb_id": "ayaneo_pocket_dmg_16gb_1tb_",
+    "metadata": {
+      "类别": "怀旧游戏机",
+      "CPU": "高通 骁龙G3X Gen2",
+      "GPU": "高通 Adreno A32",
+      "内存": "16GB+1TB",
+      "屏幕": "3.92英寸OLED炫彩屏，1240×1080，419PPI，450nits，104%NTSC",
+      "传感器": "六轴陀螺仪",
+      "储存卡": "支持Micro SD卡",
+      "无线通信": "WiFi，蓝牙5.3",
+      "插槽/接口": "1个全功能USB3.2 Gen2 Type-C，1个DP1.4接口",
+      "产品尺寸": "91.5*151*15-22.3mm",
+      "产品重量": "278g",
+      "电源参数": "电池容量：6000mAh充电功率：25w"
+    }
+  }
+]

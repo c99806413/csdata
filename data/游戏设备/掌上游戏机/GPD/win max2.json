@@ -1,0 +1,192 @@
+[
+  {
+    "name": "GPD win max2 R7 6800U/32GB/1TB WiFi版",
+    "manufacturer": "GPD",
+    "series": "win max2",
+    "opendb_id": "gpd_win_max2_r7_6800u_32gb_1tb_wifi_",
+    "metadata": {
+      "CPU": "R7 6800U",
+      "GPU": "集显",
+      "内存": "32GB LPDDR5 6400",
+      "屏幕": "10.1英寸，299ppi，1920*1200，16:10，10点触控，康宁第5代大猩猩玻璃，IPS",
+      "摄像头": "200万像素",
+      "音效配置": "四扬声器",
+      "储存卡": "Micro SD卡及SD卡槽",
+      "无线通信": "WiFi6",
+      "产品尺寸": "227*160*23mm",
+      "产品重量": "1005g",
+      "电源参数": "67瓦时"
+    }
+  },
+  {
+    "name": "GPD win max2 R7 6800U/16GB/128GB WiFi版",
+    "manufacturer": "GPD",
+    "series": "win max2",
+    "opendb_id": "gpd_win_max2_r7_6800u_16gb_128gb_wifi_",
+    "metadata": {
+      "CPU": "R7 6800U",
+      "GPU": "集显",
+      "内存": "16GB LPDDR5 6400",
+      "屏幕": "10.1英寸，299ppi，1920*1200，16:10，10点触控，康宁第5代大猩猩玻璃，IPS",
+      "摄像头": "200万像素",
+      "音效配置": "四扬声器",
+      "储存卡": "Micro SD卡及SD卡槽",
+      "无线通信": "WiFi6",
+      "产品尺寸": "227*160*23mm",
+      "产品重量": "1005g",
+      "电源参数": "67瓦时"
+    }
+  },
+  {
+    "name": "GPD win max2 R7 6800U/16GB/128GB LTE版",
+    "manufacturer": "GPD",
+    "series": "win max2",
+    "opendb_id": "gpd_win_max2_r7_6800u_16gb_128gb_lte_",
+    "metadata": {
+      "CPU": "R7 6800U",
+      "GPU": "集显",
+      "内存": "16GB LPDDR5 6400",
+      "屏幕": "10.1英寸，299ppi，1920*1200，16:10，10点触控，康宁第5代大猩猩玻璃，IPS",
+      "摄像头": "200万像素",
+      "音效配置": "四扬声器",
+      "储存卡": "Micro SD卡及SD卡槽",
+      "无线通信": "WiFi6，LTE",
+      "产品尺寸": "227*160*23mm",
+      "产品重量": "1005g",
+      "电源参数": "67瓦时"
+    }
+  },
+  {
+    "name": "GPD win max2 R7 6800U/16GB/1TB WiFi版",
+    "manufacturer": "GPD",
+    "series": "win max2",
+    "opendb_id": "gpd_win_max2_r7_6800u_16gb_1tb_wifi_",
+    "metadata": {
+      "CPU": "R7 6800U",
+      "GPU": "集显",
+      "内存": "16GB LPDDR5 6400",
+      "屏幕": "10.1英寸，299ppi，1920*1200，16:10，10点触控，康宁第5代大猩猩玻璃，IPS",
+      "摄像头": "200万像素",
+      "音效配置": "四扬声器",
+      "储存卡": "Micro SD卡及SD卡槽",
+      "无线通信": "WiFi6",
+      "产品尺寸": "227*160*23mm",
+      "产品重量": "1005g",
+      "电源参数": "67瓦时"
+    }
+  },
+  {
+    "name": "GPD win max2 R7 6800U/16GB/1TB LTE版",
+    "manufacturer": "GPD",
+    "series": "win max2",
+    "opendb_id": "gpd_win_max2_r7_6800u_16gb_1tb_lte_",
+    "metadata": {
+      "CPU": "R7 6800U",
+      "GPU": "集显",
+      "内存": "16GB LPDDR5 6400",
+      "屏幕": "10.1英寸，299ppi，1920*1200，16:10，10点触控，康宁第5代大猩猩玻璃，IPS",
+      "摄像头": "200万像素",
+      "音效配置": "四扬声器",
+      "储存卡": "Micro SD卡及SD卡槽",
+      "无线通信": "WiFi6，LTE",
+      "产品尺寸": "227*160*23mm",
+      "产品重量": "1005g",
+      "电源参数": "67瓦时"
+    }
+  },
+  {
+    "name": "GPD win max2 R7 6800U/32GB/1TB LTE版",
+    "manufacturer": "GPD",
+    "series": "win max2",
+    "opendb_id": "gpd_win_max2_r7_6800u_32gb_1tb_lte_",
+    "metadata": {
+      "CPU": "R7 6800U",
+      "GPU": "集显",
+      "内存": "32GB LPDDR5 6400",
+      "屏幕": "10.1英寸，299ppi，1920*1200，16:10，10点触控，康宁第5代大猩猩玻璃，IPS",
+      "摄像头": "200万像素",
+      "音效配置": "四扬声器",
+      "储存卡": "Micro SD卡及SD卡槽",
+      "无线通信": "WiFi6，LTE",
+      "产品尺寸": "227*160*23mm",
+      "产品重量": "1005g",
+      "电源参数": "67瓦时"
+    }
+  },
+  {
+    "name": "GPD win max2 i7 1260P/16GB/1TB WiFi版",
+    "manufacturer": "GPD",
+    "series": "win max2",
+    "opendb_id": "gpd_win_max2_i7_1260p_16gb_1tb_wifi_",
+    "metadata": {
+      "CPU": "i7 1260P",
+      "GPU": "集显",
+      "内存": "16GB LPDDR5 6400",
+      "屏幕": "10.1英寸，299ppi，1920*1200，16:10，10点触控，康宁第5代大猩猩玻璃，IPS",
+      "摄像头": "200万像素",
+      "音效配置": "四扬声器",
+      "储存卡": "Micro SD卡及SD卡槽",
+      "无线通信": "WiFi6",
+      "产品尺寸": "227*160*23mm",
+      "产品重量": "1005g",
+      "电源参数": "67瓦时"
+    }
+  },
+  {
+    "name": "GPD win max2 R7 6800U/32GB/2TB WiFi版",
+    "manufacturer": "GPD",
+    "series": "win max2",
+    "opendb_id": "gpd_win_max2_r7_6800u_32gb_2tb_wifi_",
+    "metadata": {
+      "CPU": "R7 6800U",
+      "GPU": "集显",
+      "内存": "32GB LPDDR5 6400",
+      "屏幕": "10.1英寸，299ppi，1920*1200，16:10，10点触控，康宁第5代大猩猩玻璃，IPS",
+      "摄像头": "200万像素",
+      "音效配置": "四扬声器",
+      "储存卡": "Micro SD卡及SD卡槽",
+      "无线通信": "WiFi6",
+      "产品尺寸": "227*160*23mm",
+      "产品重量": "1005g",
+      "电源参数": "67瓦时"
+    }
+  },
+  {
+    "name": "GPD win max2 R7 6800U/32GB/2TB LTE版",
+    "manufacturer": "GPD",
+    "series": "win max2",
+    "opendb_id": "gpd_win_max2_r7_6800u_32gb_2tb_lte_",
+    "metadata": {
+      "CPU": "R7 6800U",
+      "GPU": "集显",
+      "内存": "32GB LPDDR5 6400",
+      "屏幕": "10.1英寸，299ppi，1920*1200，16:10，10点触控，康宁第5代大猩猩玻璃，IPS",
+      "摄像头": "200万像素",
+      "音效配置": "四扬声器",
+      "储存卡": "Micro SD卡及SD卡槽",
+      "无线通信": "WiFi6，LTE",
+      "产品尺寸": "227*160*23mm",
+      "产品重量": "1005g",
+      "电源参数": "67瓦时"
+    }
+  },
+  {
+    "name": "GPD win max2 i7 1260P/16GB/1TB LTE版",
+    "manufacturer": "GPD",
+    "series": "win max2",
+    "opendb_id": "gpd_win_max2_i7_1260p_16gb_1tb_lte_",
+    "metadata": {
+      "CPU": "i7 1260P",
+      "GPU": "集显",
+      "内存": "16GB LPDDR5 6400",
+      "屏幕": "10.1英寸，299ppi，1920*1200，16:10，10点触控，康宁第5代大猩猩玻璃，IPS",
+      "摄像头": "200万像素",
+      "音效配置": "四扬声器",
+      "储存卡": "Micro SD卡及SD卡槽",
+      "无线通信": "WiFi6，LTE",
+      "产品尺寸": "227*160*23mm",
+      "产品重量": "1005g",
+      "电源参数": "67瓦时"
+    }
+  }
+]

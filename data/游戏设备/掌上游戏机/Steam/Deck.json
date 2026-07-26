@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Steam Deck（64GB EMMC）",
+    "manufacturer": "Steam",
+    "series": "Deck",
+    "opendb_id": "steam_deck_64gb_emmc_",
+    "metadata": {
+      "CPU": "Zen24c/8t，2.4-3.5GHz（最高可达448GFlopsFP32）",
+      "GPU": "8RDA2CUs，1.0-1.6GHz（最高可达1.6TFlopsFP32)，APU功率：4-15W",
+      "内存": "64GB，256GB ，512GB",
+      "屏幕": "分辨率：1280×800px（16:10宽高比）类型：光学粘合的PS液晶屏屏幕大小：对角7英寸亮度：400尼特（典型值）刷新率：60Hz触控：是",
+      "传感器": "环境光传感器",
+      "储存卡": "micro SD卡",
+      "无线通信": "蓝牙：蓝牙5.0（支持控制器、配件和音频）Wi-Fi：2.4GHz和5GHz双频，2x2MIMO，IEEE 802.11a/b/g/n/ac",
+      "产品颜色": "黑色",
+      "产品尺寸": "298*117*49mm",
+      "产品重量": "669g",
+      "电源参数": "输入：45瓦USB Type-CPD3.0供电电池：40Whr电池，续航约2-8小时"
+    }
+  },
+  {
+    "name": "Steam Deck（512GB NVME SSD）",
+    "manufacturer": "Steam",
+    "series": "Deck",
+    "opendb_id": "steam_deck_512gb_nvme_ssd_",
+    "metadata": {
+      "CPU": "Zen24c/8t，2.4-3.5GHz（最高可达448GFlopsFP32）",
+      "GPU": "8RDA2CUs，1.0-1.6GHz（最高可达1.6TFlopsFP32)，APU功率：4-15W",
+      "内存": "64GB，256GB ，512GB",
+      "屏幕": "分辨率：1280×800px（16:10宽高比）类型：光学粘合的PS液晶屏屏幕大小：对角7英寸亮度：400尼特（典型值）刷新率：60Hz触控：是",
+      "传感器": "环境光传感器",
+      "储存卡": "micro SD卡",
+      "无线通信": "蓝牙：蓝牙5.0（支持控制器、配件和音频）Wi-Fi：2.4GHz和5GHz双频，2x2MIMO，IEEE 802.11a/b/g/n/ac",
+      "产品颜色": "黑色",
+      "产品尺寸": "298*117*49mm",
+      "产品重量": "669g",
+      "电源参数": "输入：45瓦USB Type-CPD3.0供电电池：40Whr电池，续航约2-8小时"
+    }
+  },
+  {
+    "name": "Steam Deck（256GB NVME SSD)",
+    "manufacturer": "Steam",
+    "series": "Deck",
+    "opendb_id": "steam_deck_256gb_nvme_ssd_",
+    "metadata": {
+      "CPU": "Zen24c/8t，2.4-3.5GHz（最高可达448GFlopsFP32）",
+      "GPU": "8RDA2CUs，1.0-1.6GHz（最高可达1.6TFlopsFP32)，APU功率：4-15W",
+      "内存": "64GB，256GB ，512GB",
+      "屏幕": "分辨率：1280×800px（16:10宽高比）类型：光学粘合的PS液晶屏屏幕大小：对角7英寸亮度：400尼特（典型值）刷新率：60Hz触控：是",
+      "传感器": "环境光传感器",
+      "储存卡": "micro SD卡",
+      "无线通信": "蓝牙：蓝牙5.0（支持控制器、配件和音频）Wi-Fi：2.4GHz和5GHz双频，2x2MIMO，IEEE 802.11a/b/g/n/ac",
+      "产品颜色": "黑色",
+      "产品尺寸": "298*117*49mm",
+      "产品重量": "669g",
+      "电源参数": "输入：45瓦USB Type-CPD3.0供电电池：40Whr电池，续航约2-8小时"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "索尼PSV（WiFi版）",
+    "manufacturer": "索尼",
+    "series": "PSV系列",
+    "opendb_id": "__psv_wifi__",
+    "metadata": {
+      "类别": "PSVITA",
+      "CPU": "ARM Cortex-A9 core（4核）",
+      "GPU": "SGX 543 MP4+",
+      "内存": "RAM：512MB，VRAM：128MB",
+      "屏幕": "5英寸（16:9）、960×544、约1677万色、OLED多点触摸屏",
+      "背触板": "前后触摸屏，多点触摸（电容）",
+      "摄像头": "前置摄像头+后置摄像头，最大分辨率640x480（VGA）拍摄帧率：120fps@320x240（QVGA），60fps@640x480（VGA）",
+      "音效配置": "内置麦克风，扬声器",
+      "传感器": "六轴动态感应系统（三轴加速计和三轴陀螺仪）三轴电子罗盘",
+      "储存卡": "支持",
+      "无线通信": "Wi-Fi：IEEE 802.11b/g/n标准蓝牙：Bluetooth 2.1+EDR标准（对应A2DP/AVRCP/HSP）内置GPS定位功能，Wi-Fi的定位服务",
+      "游戏载体": "专用存储卡",
+      "插槽/接口": "PS Vita卡插槽记忆卡插槽多用途插口（USB/充电等使用）耳机/麦克风插口Accessory端子",
+      "媒体格式": "音乐：MP3 MPEG-1/2 Audio Layer 3、MP4（MPEG-4AAC）、WAVE（Linear PCM）视频：MPEG-4 Simple Profile（AAC）、H.264/MPEG-4 AVCHi/Main/Baseline Profile（AAC）图片：JPEG（Exif 2.2.1）、TIFF、BMP、GIF、PNG",
+      "产品尺寸": "182×18.6×83.5mm",
+      "产品重量": "260g",
+      "电源参数": "锂电池（内置）AC电源适配器",
+      "产品特色": "派对、PS Store、near 朋友、群信息、奖杯、照片、浏览器、音乐 视频影像、遥控操作、内容管理、PlayStationNetwork"
+    }
+  },
+  {
+    "name": "索尼PSV（3G/Wi-Fi版）",
+    "manufacturer": "索尼",
+    "series": "PSV系列",
+    "opendb_id": "__psv_3g_wi_fi__",
+    "metadata": {
+      "类别": "PSVITA",
+      "CPU": "ARM Cortex-A9 core（4核）",
+      "GPU": "SGX 543 MP4+",
+      "内存": "RAM：512MB，VRAM：128MB",
+      "屏幕": "5英寸（16:9）、960×544、约1677万色、OLED多点触摸屏",
+      "背触板": "前后触摸屏，多点触摸（电容）",
+      "摄像头": "前置摄像头+后置摄像头，最大分辨率640x480（VGA）拍摄帧率：120fps@320x240（QVGA），60fps@640x480（VGA）",
+      "音效配置": "内置麦克风，扬声器",
+      "传感器": "六轴动态感应系统（三轴加速计和三轴陀螺仪）三轴电子罗盘",
+      "储存卡": "支持",
+      "无线通信": "移动网络通信3G机能Wi-Fi：IEEE 802.11b/g/n标准蓝牙：Bluetooth 2.1+EDR标准（对应A2DP/AVRCP/HSP）内置GPS定位功能，Wi-Fi的定位服务",
+      "游戏载体": "DocoMo SIM卡(附赠20小时套餐)",
+      "插槽/接口": "PS Vita卡插槽记忆卡插槽SIM卡插槽（3G/WiFi版独有）多用途插口（USB/充电等使用）耳机/麦克风插口Accessory端子",
+      "媒体格式": "音乐：MP3 MPEG-1/2 Audio Layer 3、MP4（MPEG-4AAC）、WAVE（Linear PCM）视频：MPEG-4 Simple Profile（AAC）、H.264/MPEG-4 AVCHi/Main/Baseline Profile（AAC）图片：JPEG（Exif 2.2.1）、TIFF、BMP、GIF、PNG",
+      "产品尺寸": "182×18.6×83.5mm",
+      "产品重量": "约279g",
+      "电源参数": "锂电池（内置）AC电源适配器",
+      "产品特色": "派对、PS Store、near 朋友、群信息、奖杯、照片、浏览器、音乐 视频影像、遥控操作、内容管理、PlayStationNetwork"
+    }
+  }
+]

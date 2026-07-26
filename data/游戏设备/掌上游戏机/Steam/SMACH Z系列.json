@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Steam SMACH Z（8GB RAM/128GB ROM）",
+    "manufacturer": "Steam",
+    "series": "SMACH Z系列",
+    "opendb_id": "steam_smach_z_8gb_ram_128gb_rom_",
+    "metadata": {
+      "类别": "SMACH",
+      "CPU": "AMD V1605B，4核8线程，2.0-3.6GHz",
+      "GPU": "Vega 8",
+      "内存": "8GB DDR4 2400MHz",
+      "屏幕": "6英寸，1920x1080",
+      "摄像头": "500万像素摄像头",
+      "无线通信": "WIFI 5.0GHz，蓝牙",
+      "插槽/接口": "USB3.0 Type-C",
+      "系统语言": "Steam OS/Windows",
+      "产品颜色": "黑色",
+      "产品重量": "600g"
+    }
+  },
+  {
+    "name": "Steam SMACH Z（4GB RAM/64GB ROM）",
+    "manufacturer": "Steam",
+    "series": "SMACH Z系列",
+    "opendb_id": "steam_smach_z_4gb_ram_64gb_rom_",
+    "metadata": {
+      "类别": "SMACH",
+      "CPU": "AMD V1605B，4核8线程，2.0-3.6GHz",
+      "GPU": "Vega 8",
+      "内存": "4GB DDR4 2400MHz",
+      "屏幕": "6英寸，1920x1080",
+      "无线通信": "WIFI 5.0GHz，蓝牙",
+      "插槽/接口": "USB3.0 Type-C",
+      "系统语言": "Steam OS/Windows",
+      "产品颜色": "黑色",
+      "产品重量": "600g"
+    }
+  },
+  {
+    "name": "Steam SMACH Z（16GB RAM/256GB ROM）",
+    "manufacturer": "Steam",
+    "series": "SMACH Z系列",
+    "opendb_id": "steam_smach_z_16gb_ram_256gb_rom_",
+    "metadata": {
+      "类别": "SMACH",
+      "CPU": "AMD V1605B，4核8线程，2.0-3.6GHz",
+      "GPU": "Vega 8",
+      "内存": "16GB DDR4 2400MHz",
+      "屏幕": "6英寸，1920x1080",
+      "摄像头": "500万像素摄像头",
+      "无线通信": "WIFI 5.0GHz，蓝牙",
+      "插槽/接口": "USB3.0 Type-C",
+      "系统语言": "Steam OS/Windows",
+      "产品颜色": "黑色",
+      "产品重量": "600g"
+    }
+  }
+]

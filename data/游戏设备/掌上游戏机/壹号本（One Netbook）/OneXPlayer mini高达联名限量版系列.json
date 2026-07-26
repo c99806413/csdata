@@ -1,0 +1,38 @@
+[
+  {
+    "name": "壹号本OneXPlayer mini高达联名限量版（i7-1260P 16GB+2TB）",
+    "manufacturer": "壹号本",
+    "series": "OneXPlayer mini高达联名限量版系列",
+    "opendb_id": "___onexplayer_mini________i7_1260p_16gb_2tb_",
+    "metadata": {
+      "类别": "PC",
+      "CPU": "Intel第12代智能酷睿Alder Lake i7-1260P",
+      "GPU": "Intel lris Xe核显",
+      "内存": "16GB LPDDR5 6400频率",
+      "屏幕": "7英寸全贴合IPS显示屏分辨率1920*1200支持16:10同比缩放像素密度323PPI支持10点触控100%SRGB",
+      "无线通信": "WiFi 6.0，蓝牙5.0",
+      "插槽/接口": "USB-C 4.0*1，USB-C 3.2*1，USB-A 3.0*1，3.5mm音频接口*1",
+      "产品尺寸": "260*106*23mm（至薄处）",
+      "产品重量": "约619g",
+      "电源参数": "12450mAh，48Wh/11.55V100W氮化镓快充"
+    }
+  },
+  {
+    "name": "壹号本OneXPlayer mini高达联名限量版（i7-1260P 16GB+1TB）",
+    "manufacturer": "壹号本",
+    "series": "OneXPlayer mini高达联名限量版系列",
+    "opendb_id": "___onexplayer_mini________i7_1260p_16gb_1tb_",
+    "metadata": {
+      "类别": "PC",
+      "CPU": "Intel第12代智能酷睿Alder Lake i7-1260P",
+      "GPU": "Intel lris Xe核显",
+      "内存": "16GB LPDDR5 5200频率",
+      "屏幕": "7英寸全贴合IPS显示屏分辨率1920*1200支持16:10同比缩放像素密度323PPI支持10点触控100%SRGB",
+      "无线通信": "WiFi 6.0，蓝牙5.0",
+      "插槽/接口": "USB-C 4.0*1，USB-C 3.2*1，USB-A 3.0*1，3.5mm音频接口*1",
+      "产品尺寸": "260*106*23mm（至薄处）",
+      "产品重量": "约619g",
+      "电源参数": "12450mAh，48Wh/11.55V100W氮化镓快充"
+    }
+  }
+]

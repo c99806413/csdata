@@ -1,0 +1,752 @@
+[
+  {
+    "name": "SONY（索尼）PlayStation5 标配 国行PS5【光驱版】+GT赛车7",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5______ps5______gt__7",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐一 国行PS5【光驱版】+瑞奇与叮当",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5___________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐二 国行PS5【光驱版】+哈利波特",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5__________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐三 国行PS5【光驱版】+卧龙 苍天陨落",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_____________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 标配 国行PS5【光驱版】",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5______ps5_____",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 标配 国行PS5【数字版】",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5______ps5_____",
+    "metadata": {
+      "产品型号": "PlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐一 国行PS5【光驱版】+对马岛之魂 导演剪辑版",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_________________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐一 国行PS5【数字版】",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_____",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐二 国行PS5【数字版】",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_____",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐三 国行PS5【数字版】",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_____",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐一 国行PS5【光驱版】",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_____",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 标配 国行PS5【光驱版】+暗影火炬城",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5______ps5___________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐二 国行PS5【光驱版】",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_____",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐一 国行PS5【光驱版】+暗影火炬城",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5___________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐二 国行PS5【光驱版】+暗影火炬城",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5___________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 标配 国行PS5【光驱版】+地平线2",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5______ps5_________2",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 标配 国行PS5【光驱版】+哈利波特",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5______ps5__________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 标配 国行PS5【光驱版】+对马岛之魂 导演剪辑版",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5______ps5_________________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 标配 国行PS5【光驱版】+艾尔登法环",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5______ps5___________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 标配 国行PS5【光驱版】+瑞奇与叮当",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5______ps5___________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐一 国行PS5【光驱版】+地平线2",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_________2",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 标配 国行PS5【光驱版】+卧龙 苍天陨落",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5______ps5_____________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐一 国行PS5【光驱版】+哈利波特",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5__________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 标配 国行PS5【光驱版】+战神5",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5______ps5________5",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐一 国行PS5【光驱版】+艾尔登法环",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5___________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐一 国行PS5【光驱版】+GT赛车7",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5______gt__7",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐一 国行PS5【光驱版】+卧龙 苍天陨落",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_____________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐一 国行PS5【光驱版】+战神5",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5________5",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐二 国行PS5【光驱版】+地平线2",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_________2",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐二 国行PS5【光驱版】+对马岛之魂 导演剪辑版",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_________________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐二 国行PS5【光驱版】+艾尔登法环",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5___________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐二 国行PS5【光驱版】+瑞奇与叮当",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5___________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐二 国行PS5【光驱版】+GT赛车7",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5______gt__7",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐二 国行PS5【光驱版】+卧龙 苍天陨落",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_____________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐二 国行PS5【光驱版】+战神5",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5________5",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐三 国行PS5【光驱版】",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_____",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐三 国行PS5【光驱版】+暗影火炬城",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5___________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐三 国行PS5【光驱版】+地平线2",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_________2",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐三 国行PS5【光驱版】+哈利波特",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5__________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐三 国行PS5【光驱版】+对马岛之魂 导演剪辑版",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5_________________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐三 国行PS5【光驱版】+艾尔登法环",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5___________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐三 国行PS5【光驱版】+GT赛车7",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5______gt__7",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐三 国行PS5【光驱版】+瑞奇与叮当",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5___________",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐三 国行PS5【光驱版】+战神5",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5________5",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "类别": "家用主机",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "插槽/接口": "HDMI 2.1",
+      "产品尺寸": "长450mm；宽400mm；高130mm",
+      "产品重量": "6.5kg"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 标配 国行PS5【光驱版】+VR2",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5______ps5______vr2",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐三 国行PS5【光驱版】+VR2",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5______vr2",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐二 国行PS5【光驱版】+VR2",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5______vr2",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  },
+  {
+    "name": "SONY（索尼）PlayStation5 套餐一 国行PS5【光驱版】+VR2",
+    "manufacturer": "索尼",
+    "series": "PlayStation5",
+    "opendb_id": "sony____playstation5_______ps5______vr2",
+    "metadata": {
+      "产品型号": "PlayStationPlayStation5",
+      "内存": "其他",
+      "储存卡": "专用硬盘",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "光盘",
+      "产品尺寸": "长450mm宽400mm高130mm"
+    }
+  }
+]

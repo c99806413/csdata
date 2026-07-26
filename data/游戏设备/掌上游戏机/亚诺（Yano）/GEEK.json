@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ayaneo GEEK GEEK幻黑(800P)16G+512G",
+    "manufacturer": "亚诺",
+    "series": "GEEK",
+    "opendb_id": "ayaneo_geek_geek___800p_16g_512g",
+    "metadata": {
+      "产品型号": "GEEK",
+      "内存": "512GB",
+      "储存卡": "通用存储卡",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "机身存储",
+      "产品尺寸": "长265mm宽120mm高30mm"
+    }
+  },
+  {
+    "name": "ayaneo GEEK GEEK幻黑(1200P)32G+2T",
+    "manufacturer": "亚诺",
+    "series": "GEEK",
+    "opendb_id": "ayaneo_geek_geek___1200p_32g_2t",
+    "metadata": {
+      "产品型号": "GEEK",
+      "内存": "2TB",
+      "储存卡": "通用存储卡",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "机身存储",
+      "产品尺寸": "长265mm；宽120mm；高30mm"
+    }
+  },
+  {
+    "name": "ayaneo GEEK GEEK幻黑(1200P)16G+1T",
+    "manufacturer": "亚诺",
+    "series": "GEEK",
+    "opendb_id": "ayaneo_geek_geek___1200p_16g_1t",
+    "metadata": {
+      "产品型号": "GEEK",
+      "内存": "1TB",
+      "储存卡": "通用存储卡",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "机身存储",
+      "产品尺寸": "长265mm宽120mm高30mm"
+    }
+  },
+  {
+    "name": "ayaneo GEEK GEEK幻黑(1200P)16G+2T",
+    "manufacturer": "亚诺",
+    "series": "GEEK",
+    "opendb_id": "ayaneo_geek_geek___1200p_16g_2t",
+    "metadata": {
+      "产品型号": "GEEK",
+      "内存": "1TB",
+      "储存卡": "通用存储卡",
+      "无线通信": "支持蓝牙",
+      "游戏载体": "机身存储",
+      "产品尺寸": "长265mm宽120mm高30mm"
+    }
+  }
+]

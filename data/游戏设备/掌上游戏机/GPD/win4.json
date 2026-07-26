@@ -1,0 +1,107 @@
+[
+  {
+    "name": "GPD win4 R7 6800U/32GB/2TB 背夹4G版",
+    "manufacturer": "GPD",
+    "series": "win4",
+    "opendb_id": "gpd_win4_r7_6800u_32gb_2tb___4g_",
+    "metadata": {
+      "产品型号": "Win4",
+      "CPU": "型号：AMD Ryzen 7 6800U核心/线程：8核/16线程CPU主频：2.70 GHz浮点性能：支持可达639.9 Gflops（FP32）,356.3 Gflops（FP64）支持睿频：4.70 GHz二级缓存：4MB三级缓存：16MB核心架构：ZEN3+制程工艺：6nm热设计功耗：28W",
+      "GPU": "显卡类型：核心显卡显卡芯片：AMD Radeon 680M动态频率：2.2 GHz执行单元：12CU着色器：768浮点性能：支持可达：6.84 TFlops（FP16），4.38 TFlops（FP32），136.7 GFlops（FP64）显存容量：共享内存HDMI2.1（TMDS）：3840x2160@60HzDP1.2：3840x2160@60HzDirectX：DX12，DX12.1，DX12旗舰版OpenGL：4.6",
+      "内存": "内存容量：16GB/32GB可选内存类型：LPDDR5内存通道：32-bit4通道硬盘类型：M.2 SSD硬盘接口：Socket 3硬盘规格：1×M.2（PC1e4.0）NVMe2280SSD，仅支持单面标配容量：M.2（PCle3.0）2280SSD1TB/2TB，可替换总线规范：PCle4.0×4传输协议：NVMe1.3/1.4",
+      "音效配置": "音频系统：内置音效芯片+高能效高PSRR低噪音智能功放多媒体：扬声器，内置2个线性扬声器麦克风：内置麦克风扬声器：2个",
+      "传感器": "3轴重力感应，3轴陀螺仪",
+      "无线通信": "4G版：SIM卡类型：Nano-SIM，单卡4G网络：TD-LTE（移动），FDD-LTE（联通/电信）3G网络：VCDMA/TD-SCDMA/CDMA2G网络：GSM支持频段：2G：GSM900/1800MHz3G：WCDMAB1/B8，TD-SCDMAB34/B39，CDMABCO4G：LTETDD B34/B38/B39/B40/B41，LTEFDD B1/B3/B5/B8WIFI：1EEE802.1",
+      "插槽/接口": "数据/充电/视频：1×USB4，40Gbps（满速）1×USB3.2Gen2Type-C全功能，10Gbps1×USB3.2Gen2Type-C仅限冲电（底座提供）4×USB3.2Gen2Type-A，10Gbps（机身1个，底座3个）1×HDM12.0（底座提供）microSD卡槽：总线接口：UHS-I速度等级：Class10高速速度等级：U3视频速度等级：V30I/O性能：A2读写速度：160MB/S，90MB/s支持容量：2TB网络接口：1×RJ45（底座提供）音频接口：1×3.5mm耳机/麦克风二合一接口，兼容苹果耳机（美规）BIOS复位孔：有",
+      "产品颜色": "黑色，白色",
+      "产品尺寸": "220×92×28mm",
+      "产品重量": "598g",
+      "电源参数": "电池类型：聚合物锂电池电池容量：45.62Wh续航时间：重度使用2小时，中度使用3-6小时，轻度使用10小时，视具体使用环境而定",
+      "产品特色": "外壳材质：LG-DOW121H抗冲击航空ABS合成树脂，V-0级防火，镁铝合金散热设计：主动式散热，大风扇，加厚双热管"
+    }
+  },
+  {
+    "name": "GPD win4 R7 6800U/32GB/1TB WIFI版",
+    "manufacturer": "GPD",
+    "series": "win4",
+    "opendb_id": "gpd_win4_r7_6800u_32gb_1tb_wifi_",
+    "metadata": {
+      "产品型号": "Win4",
+      "CPU": "型号：AMD Ryzen 7 6800U核心/线程：8核/16线程CPU主频：2.70 GHz浮点性能：支持可达639.9 Gflops（FP32）,356.3 Gflops（FP64）支持睿频：4.70 GHz二级缓存：4MB三级缓存：16MB核心架构：ZEN3+制程工艺：6nm热设计功耗：28W",
+      "GPU": "显卡类型：核心显卡显卡芯片：AMD Radeon 680M动态频率：2.2 GHz执行单元：12CU着色器：768浮点性能：支持可达：6.84 TFlops（FP16），4.38 TFlops（FP32），136.7 GFlops（FP64）显存容量：共享内存HDMI2.1（TMDS）：3840x2160@60HzDP1.2：3840x2160@60HzDirectX：DX12，DX12.1，DX12旗舰版OpenGL：4.6",
+      "内存": "内存容量：16GB/32GB可选内存类型：LPDDR5内存通道：32-bit4通道硬盘类型：M.2 SSD硬盘接口：Socket 3硬盘规格：1×M.2（PC1e4.0）NVMe2280SSD，仅支持单面标配容量：M.2（PCle3.0）2280SSD1TB/2TB，可替换总线规范：PCle4.0×4传输协议：NVMe1.3/1.4",
+      "音效配置": "音频系统：内置音效芯片+高能效高PSRR低噪音智能功放多媒体：扬声器，内置2个线性扬声器麦克风：内置麦克风扬声器：2个",
+      "传感器": "3轴重力感应，3轴陀螺仪",
+      "无线通信": "4G版：SIM卡类型：Nano-SIM，单卡4G网络：TD-LTE（移动），FDD-LTE（联通/电信）3G网络：VCDMA/TD-SCDMA/CDMA2G网络：GSM支持频段：2G：GSM900/1800MHz3G：WCDMAB1/B8，TD-SCDMAB34/B39，CDMABCO4G：LTETDD B34/B38/B39/B40/B41，LTEFDD B1/B3/B5/B8WIFI：1EEE802.1",
+      "插槽/接口": "数据/充电/视频：1×USB4，40Gbps（满速）1×USB3.2Gen2Type-C全功能，10Gbps1×USB3.2Gen2Type-C仅限冲电（底座提供）4×USB3.2Gen2Type-A，10Gbps（机身1个，底座3个）1×HDM12.0（底座提供）microSD卡槽：总线接口：UHS-I速度等级：Class10高速速度等级：U3视频速度等级：V30I/O性能：A2读写速度：160MB/S，90MB/s支持容量：2TB网络接口：1×RJ45（底座提供）音频接口：1×3.5mm耳机/麦克风二合一接口，兼容苹果耳机（美规）BIOS复位孔：有",
+      "产品颜色": "黑色，白色",
+      "产品尺寸": "220×92×28mm",
+      "产品重量": "598g",
+      "电源参数": "电池类型：聚合物锂电池电池容量：45.62Wh续航时间：重度使用2小时，中度使用3-6小时，轻度使用10小时，视具体使用环境而定",
+      "产品特色": "外壳材质：LG-DOW121H抗冲击航空ABS合成树脂，V-0级防火，镁铝合金散热设计：主动式散热，大风扇，加厚双热管"
+    }
+  },
+  {
+    "name": "GPD win4 R7 6800U/16GB/1TB 背夹4G版",
+    "manufacturer": "GPD",
+    "series": "win4",
+    "opendb_id": "gpd_win4_r7_6800u_16gb_1tb___4g_",
+    "metadata": {
+      "产品型号": "Win4",
+      "CPU": "型号：AMD Ryzen 7 6800U核心/线程：8核/16线程CPU主频：2.70 GHz浮点性能：支持可达639.9 Gflops（FP32）,356.3 Gflops（FP64）支持睿频：4.70 GHz二级缓存：4MB三级缓存：16MB核心架构：ZEN3+制程工艺：6nm热设计功耗：28W",
+      "GPU": "显卡类型：核心显卡显卡芯片：AMD Radeon 680M动态频率：2.2 GHz执行单元：12CU着色器：768浮点性能：支持可达：6.84 TFlops（FP16），4.38 TFlops（FP32），136.7 GFlops（FP64）显存容量：共享内存HDMI2.1（TMDS）：3840x2160@60HzDP1.2：3840x2160@60HzDirectX：DX12，DX12.1，DX12旗舰版OpenGL：4.6",
+      "内存": "内存容量：16GB/32GB可选内存类型：LPDDR5内存通道：32-bit4通道硬盘类型：M.2 SSD硬盘接口：Socket 3硬盘规格：1×M.2（PC1e4.0）NVMe2280SSD，仅支持单面标配容量：M.2（PCle3.0）2280SSD1TB/2TB，可替换总线规范：PCle4.0×4传输协议：NVMe1.3/1.4",
+      "音效配置": "音频系统：内置音效芯片+高能效高PSRR低噪音智能功放多媒体：扬声器，内置2个线性扬声器麦克风：内置麦克风扬声器：2个",
+      "传感器": "3轴重力感应，3轴陀螺仪",
+      "无线通信": "4G版：SIM卡类型：Nano-SIM，单卡4G网络：TD-LTE（移动），FDD-LTE（联通/电信）3G网络：VCDMA/TD-SCDMA/CDMA2G网络：GSM支持频段：2G：GSM900/1800MHz3G：WCDMAB1/B8，TD-SCDMAB34/B39，CDMABCO4G：LTETDD B34/B38/B39/B40/B41，LTEFDD B1/B3/B5/B8WIFI：1EEE802.1",
+      "插槽/接口": "数据/充电/视频：1×USB4，40Gbps（满速）1×USB3.2Gen2Type-C全功能，10Gbps1×USB3.2Gen2Type-C仅限冲电（底座提供）4×USB3.2Gen2Type-A，10Gbps（机身1个，底座3个）1×HDM12.0（底座提供）microSD卡槽：总线接口：UHS-I速度等级：Class10高速速度等级：U3视频速度等级：V30I/O性能：A2读写速度：160MB/S，90MB/s支持容量：2TB网络接口：1×RJ45（底座提供）音频接口：1×3.5mm耳机/麦克风二合一接口，兼容苹果耳机（美规）BIOS复位孔：有",
+      "产品颜色": "黑色，白色",
+      "产品尺寸": "220×92×28mm",
+      "产品重量": "598g",
+      "电源参数": "电池类型：聚合物锂电池电池容量：45.62Wh续航时间：重度使用2小时，中度使用3-6小时，轻度使用10小时，视具体使用环境而定",
+      "产品特色": "外壳材质：LG-DOW121H抗冲击航空ABS合成树脂，V-0级防火，镁铝合金散热设计：主动式散热，大风扇，加厚双热管"
+    }
+  },
+  {
+    "name": "GPD win4 R7 6800U/32GB/1TB 背夹4G版",
+    "manufacturer": "GPD",
+    "series": "win4",
+    "opendb_id": "gpd_win4_r7_6800u_32gb_1tb___4g_",
+    "metadata": {
+      "产品型号": "Win4",
+      "CPU": "型号：AMD Ryzen 7 6800U核心/线程：8核/16线程CPU主频：2.70 GHz浮点性能：支持可达639.9 Gflops（FP32）,356.3 Gflops（FP64）支持睿频：4.70 GHz二级缓存：4MB三级缓存：16MB核心架构：ZEN3+制程工艺：6nm热设计功耗：28W",
+      "GPU": "显卡类型：核心显卡显卡芯片：AMD Radeon 680M动态频率：2.2 GHz执行单元：12CU着色器：768浮点性能：支持可达：6.84 TFlops（FP16），4.38 TFlops（FP32），136.7 GFlops（FP64）显存容量：共享内存HDMI2.1（TMDS）：3840x2160@60HzDP1.2：3840x2160@60HzDirectX：DX12，DX12.1，DX12旗舰版OpenGL：4.6",
+      "内存": "内存容量：16GB/32GB可选内存类型：LPDDR5内存通道：32-bit4通道硬盘类型：M.2 SSD硬盘接口：Socket 3硬盘规格：1×M.2（PC1e4.0）NVMe2280SSD，仅支持单面标配容量：M.2（PCle3.0）2280SSD1TB/2TB，可替换总线规范：PCle4.0×4传输协议：NVMe1.3/1.4",
+      "音效配置": "音频系统：内置音效芯片+高能效高PSRR低噪音智能功放多媒体：扬声器，内置2个线性扬声器麦克风：内置麦克风扬声器：2个",
+      "传感器": "3轴重力感应，3轴陀螺仪",
+      "无线通信": "4G版：SIM卡类型：Nano-SIM，单卡4G网络：TD-LTE（移动），FDD-LTE（联通/电信）3G网络：VCDMA/TD-SCDMA/CDMA2G网络：GSM支持频段：2G：GSM900/1800MHz3G：WCDMAB1/B8，TD-SCDMAB34/B39，CDMABCO4G：LTETDD B34/B38/B39/B40/B41，LTEFDD B1/B3/B5/B8WIFI：1EEE802.1",
+      "插槽/接口": "数据/充电/视频：1×USB4，40Gbps（满速）1×USB3.2Gen2Type-C全功能，10Gbps1×USB3.2Gen2Type-C仅限冲电（底座提供）4×USB3.2Gen2Type-A，10Gbps（机身1个，底座3个）1×HDM12.0（底座提供）microSD卡槽：总线接口：UHS-I速度等级：Class10高速速度等级：U3视频速度等级：V30I/O性能：A2读写速度：160MB/S，90MB/s支持容量：2TB网络接口：1×RJ45（底座提供）音频接口：1×3.5mm耳机/麦克风二合一接口，兼容苹果耳机（美规）BIOS复位孔：有",
+      "产品颜色": "黑色，白色",
+      "产品尺寸": "220×92×28mm",
+      "产品重量": "598g",
+      "电源参数": "电池类型：聚合物锂电池电池容量：45.62Wh续航时间：重度使用2小时，中度使用3-6小时，轻度使用10小时，视具体使用环境而定",
+      "产品特色": "外壳材质：LG-DOW121H抗冲击航空ABS合成树脂，V-0级防火，镁铝合金散热设计：主动式散热，大风扇，加厚双热管"
+    }
+  },
+  {
+    "name": "GPD win4 R7 6800U/16GB/512GB 背夹4G版",
+    "manufacturer": "GPD",
+    "series": "win4",
+    "opendb_id": "gpd_win4_r7_6800u_16gb_512gb___4g_",
+    "metadata": {
+      "产品型号": "Win4",
+      "CPU": "型号：AMD Ryzen 7 6800U核心/线程：8核/16线程CPU主频：2.70 GHz浮点性能：支持可达639.9 Gflops（FP32）,356.3 Gflops（FP64）支持睿频：4.70 GHz二级缓存：4MB三级缓存：16MB核心架构：ZEN3+制程工艺：6nm热设计功耗：28W",
+      "GPU": "显卡类型：核心显卡显卡芯片：AMD Radeon 680M动态频率：2.2 GHz执行单元：12CU着色器：768浮点性能：支持可达：6.84 TFlops（FP16），4.38 TFlops（FP32），136.7 GFlops（FP64）显存容量：共享内存HDMI2.1（TMDS）：3840x2160@60HzDP1.2：3840x2160@60HzDirectX：DX12，DX12.1，DX12旗舰版OpenGL：4.6",
+      "内存": "内存容量：16GB/32GB可选内存类型：LPDDR5内存通道：32-bit4通道硬盘类型：M.2 SSD硬盘接口：Socket 3硬盘规格：1×M.2（PC1e4.0）NVMe2280SSD，仅支持单面标配容量：M.2（PCle3.0）2280SSD1TB/2TB，可替换总线规范：PCle4.0×4传输协议：NVMe1.3/1.4",
+      "音效配置": "音频系统：内置音效芯片+高能效高PSRR低噪音智能功放多媒体：扬声器，内置2个线性扬声器麦克风：内置麦克风扬声器：2个",
+      "传感器": "3轴重力感应，3轴陀螺仪",
+      "无线通信": "4G版：SIM卡类型：Nano-SIM，单卡4G网络：TD-LTE（移动），FDD-LTE（联通/电信）3G网络：VCDMA/TD-SCDMA/CDMA2G网络：GSM支持频段：2G：GSM900/1800MHz3G：WCDMAB1/B8，TD-SCDMAB34/B39，CDMABCO4G：LTETDD B34/B38/B39/B40/B41，LTEFDD B1/B3/B5/B8WIFI：1EEE802.1",
+      "插槽/接口": "数据/充电/视频：1×USB4，40Gbps（满速）1×USB3.2Gen2Type-C全功能，10Gbps1×USB3.2Gen2Type-C仅限冲电（底座提供）4×USB3.2Gen2Type-A，10Gbps（机身1个，底座3个）1×HDM12.0（底座提供）microSD卡槽：总线接口：UHS-I速度等级：Class10高速速度等级：U3视频速度等级：V30I/O性能：A2读写速度：160MB/S，90MB/s支持容量：2TB网络接口：1×RJ45（底座提供）音频接口：1×3.5mm耳机/麦克风二合一接口，兼容苹果耳机（美规）BIOS复位孔：有",
+      "产品颜色": "黑色，白色",
+      "产品尺寸": "220×92×28mm",
+      "产品重量": "598g",
+      "电源参数": "电池类型：聚合物锂电池电池容量：45.62Wh续航时间：重度使用2小时，中度使用3-6小时，轻度使用10小时，视具体使用环境而定",
+      "产品特色": "外壳材质：LG-DOW121H抗冲击航空ABS合成树脂，V-0级防火，镁铝合金散热设计：主动式散热，大风扇，加厚双热管"
+    }
+  }
+]

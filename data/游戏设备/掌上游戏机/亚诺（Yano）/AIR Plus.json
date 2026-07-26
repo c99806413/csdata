@@ -1,0 +1,70 @@
+[
+  {
+    "name": "AYANEO AIR Plus 16GB+512GB",
+    "manufacturer": "亚诺",
+    "series": "AIR Plus",
+    "opendb_id": "ayaneo_air_plus_16gb_512gb",
+    "metadata": {
+      "类别": "便携掌机",
+      "CPU": "AMD Ryzen 7 6800U",
+      "内存": "16GB+512GB",
+      "屏幕": "6英寸IPS原彩屏400NitsSRGB容积：120%DCI P3：85%1920*1080分辨率",
+      "无线通信": "连接方式：WiFi6，蓝牙5.2",
+      "插槽/接口": "Type-C接口3.5mm耳机接口",
+      "产品尺寸": "237*91.4*23.1mm",
+      "产品重量": "525g",
+      "电源参数": "46.2Wh电池"
+    }
+  },
+  {
+    "name": "AYANEO AIR Plus 16GB+1TB",
+    "manufacturer": "亚诺",
+    "series": "AIR Plus",
+    "opendb_id": "ayaneo_air_plus_16gb_1tb",
+    "metadata": {
+      "类别": "便携掌机",
+      "CPU": "AMD Ryzen 7 6800U",
+      "内存": "16GB+1TB",
+      "屏幕": "6英寸IPS原彩屏400NitsSRGB容积：120%DCI P3：85%1920*1080分辨率",
+      "无线通信": "连接方式：WiFi6，蓝牙5.2",
+      "插槽/接口": "Type-C接口3.5mm耳机接口",
+      "产品尺寸": "237*91.4*23.1mm",
+      "产品重量": "525g",
+      "电源参数": "46.2Wh电池"
+    }
+  },
+  {
+    "name": "AYANEO AIR Plus 32GB+2TB",
+    "manufacturer": "亚诺",
+    "series": "AIR Plus",
+    "opendb_id": "ayaneo_air_plus_32gb_2tb",
+    "metadata": {
+      "类别": "便携掌机",
+      "CPU": "AMD Ryzen 7 6800U",
+      "内存": "32GB+2TB",
+      "屏幕": "6英寸IPS原彩屏400NitsSRGB容积：120%DCI P3：85%1920*1080分辨率",
+      "无线通信": "连接方式：WiFi6，蓝牙5.2",
+      "插槽/接口": "Type-C接口3.5mm耳机接口",
+      "产品尺寸": "237*91.4*23.1mm",
+      "产品重量": "525g",
+      "电源参数": "46.2Wh电池"
+    }
+  },
+  {
+    "name": "AYANEO AIR Plus 32GB+1TB",
+    "manufacturer": "亚诺",
+    "series": "AIR Plus",
+    "opendb_id": "ayaneo_air_plus_32gb_1tb",
+    "metadata": {
+      "类别": "便携掌机",
+      "CPU": "AMD Ryzen 7 6800U",
+      "内存": "32GB+1TB",
+      "屏幕": "6英寸IPS原彩屏400NitsSRGB容积：120%DCI P3：85%1920*1080分辨率",
+      "无线通信": "连接方式：WiFi6，蓝牙5.2",
+      "插槽/接口": "Type-C接口3.5mm耳机接口",
+      "产品尺寸": "237*91.4*23.1mm",
+      "产品重量": "525g",
+      "电源参数": "46.2Wh电池"
+    }
+  }
+]

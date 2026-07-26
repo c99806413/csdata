@@ -1,0 +1,40 @@
+[
+  {
+    "name": "微星CLAW掌上游戏机(Ultra5 135H/16GB/512GB)",
+    "manufacturer": "msi微星",
+    "series": "CLAW掌上游戏机",
+    "opendb_id": "__claw______ultra5_135h_16gb_512gb_",
+    "metadata": {
+      "产品型号": "GL62MVR",
+      "类别": "便携掌机",
+      "CPU": "Intel Core Ultra 5 135H",
+      "内存": "RAM：16GB LPDDR5 6400MHzROM：512GB PCI-E 4.0",
+      "屏幕": "7英寸，16:9，1920*1080，触摸屏，100%sRGB，315PPI，120Hz（60/120）",
+      "音效配置": "双扬声器，纳美音效，AI降噪，Hi-Res Audio",
+      "储存卡": "支持MicroSD卡",
+      "无线通信": "WiFi7（802.11be）",
+      "插槽/接口": "Micro SD插槽",
+      "主要端口": "音频接口，Thunderbolt4",
+      "电源参数": "52瓦时"
+    }
+  },
+  {
+    "name": "微星CLAW掌上游戏机(Ultra7 155H/16GB/1TB)",
+    "manufacturer": "msi微星",
+    "series": "CLAW掌上游戏机",
+    "opendb_id": "__claw______ultra7_155h_16gb_1tb_",
+    "metadata": {
+      "产品型号": "GL62MVR",
+      "类别": "便携掌机",
+      "CPU": "Intel Core Ultra 7 155H",
+      "内存": "RAM：16GB LPDDR5 6400MHzROM：1TB PCI-E 4.0",
+      "屏幕": "7英寸，16:9，1920*1080，触摸屏，100%sRGB，315PPI，120Hz（60/120）",
+      "音效配置": "双扬声器，纳美音效，AI降噪，Hi-Res Audio",
+      "储存卡": "支持MicroSD卡",
+      "无线通信": "WiFi7（802.11be）",
+      "插槽/接口": "Micro SD插槽",
+      "主要端口": "音频接口，Thunderbolt4",
+      "电源参数": "52瓦时"
+    }
+  }
+]
