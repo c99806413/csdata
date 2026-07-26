@@ -1,0 +1,32 @@
+[
+  {
+    "name": "7800 XT (16GBGB)",
+    "manufacturer": "撼讯",
+    "series": "7800 XT",
+    "opendb_id": "7800_xt_16gbgb",
+    "metadata": {
+      "产品型号": "RX 7800 XT 16G-L/OC/RX 7800 XT 16G-F/OC/RX 7800 XT 16G-L/OC/SAKURA LIMITED/RX 7800 XT 16G-L/OC/WHITE/RX 7800 XT 16G-E/OC/RX 7800 XT 16G-E/OC/LIMITED/RX 7800 XT 16G-L/OC/SAKURA",
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 7800 XT",
+      "显示芯片系列": "AMD RX 7000系列",
+      "核心频率": "2169-2475MHz/2213-2520MHz/2254-2565MHz",
+      "流处理单元": "3840个",
+      "显存频率": "19500MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "16GBGB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI 2.1接口，3×DisplayPort 2.1接口",
+      "电源接口": "8pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热+热管散热",
+      "3D API": "DirectX 12",
+      "支持HDCP": "是",
+      "产品尺寸": "322×134×50mm/290×111×50mm/332×135×52mm",
+      "建议电源": "750W/800W",
+      "双BIOS切换": "支持",
+      "其它特点": "AMD Stream 技术，AMD Eyefinity技术，AMD Smart Access Memory 技术"
+    }
+  }
+]

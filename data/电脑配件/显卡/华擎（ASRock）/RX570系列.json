@@ -1,0 +1,62 @@
+[
+  {
+    "name": "RX570系列 (8GB)",
+    "manufacturer": "华擎",
+    "series": "RX570系列",
+    "opendb_id": "rx570_8gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 570",
+      "显示芯片系列": "AMD RX 500系列",
+      "制作工艺": "14纳米",
+      "核心代号": "Polaris 20 XL",
+      "核心频率": "1280MHz/1150MHz",
+      "流处理单元": "2048个",
+      "显存频率": "7000MHz/8200MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320/2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口/1×DVI接口",
+      "电源接口": "8pin/6pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热/散热风扇",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "278.81×126.78×41.91mm/215.14×128.98×43.65mm",
+      "其它特点": "支持最多5屏输出，ULTRA COOL XXL铝合金散热和热管设计，PHANTOM GAMING TWEAK软件，AMD Eyefinity技术/PHANTOM GAMING TWEAK软件，AMD Eyefinity技术",
+      "上市日期": "2018年04月"
+    }
+  },
+  {
+    "name": "RX570系列 (4GB)",
+    "manufacturer": "华擎",
+    "series": "RX570系列",
+    "opendb_id": "rx570_4gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 570",
+      "显示芯片系列": "AMD RX 500系列",
+      "制作工艺": "14纳米",
+      "核心代号": "Polaris 20 XL",
+      "核心频率": "1244MHz/1150MHz/1280MHz",
+      "流处理单元": "2048个",
+      "显存频率": "7000MHz/7600MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320/2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口/1×DVI接口",
+      "电源接口": "6pin/8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热/散热风扇",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "236.2×127.5×41.91mm/215.14×128.98×43.65mm/278.81×126.78×41.91mm",
+      "其它特点": "支持最多5屏输出，ULTRA COOL XXL铝合金散热和热管设计，PHANTOM GAMING TWEAK软件，AMD Eyefinity技术/PHANTOM GAMING TWEAK软件，AMD Eyefinity技术",
+      "上市日期": "2018年04月"
+    }
+  }
+]

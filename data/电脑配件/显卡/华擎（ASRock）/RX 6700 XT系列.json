@@ -1,0 +1,31 @@
+[
+  {
+    "name": "RX 6700 XT系列 (12GB)",
+    "manufacturer": "华擎",
+    "series": "RX 6700 XT系列",
+    "opendb_id": "rx_6700_xt_12gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 6700 XT",
+      "显示芯片系列": "AMD RX 6000系列",
+      "制作工艺": "7纳米",
+      "核心代号": "Navi 22",
+      "核心频率": "动态频率：2581MHz游戏频率：2424MHz/动态频率：2620MHz游戏频率：2474MHz基础频率：2375MHz/动态频率：2622MHz游戏频率：2474MHz基础频率：2375MHz/动态频率：2581MHz游戏频率：2424MHz基础频率：2321MHz",
+      "流处理单元": "2560个",
+      "显存频率": "16000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "12GB",
+      "显存位宽": "192bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "6pin+8pin/8pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "双风扇散热/三风扇散热",
+      "3D API": "DirectX 12，OpenGL 4.6",
+      "产品尺寸": "267×120×50mm/303×131×45mm/269×134×41mm",
+      "建议电源": "650W以上/700W以上",
+      "其他参数": "AMD RDNA 2 ArchitectureAMD FreeSync TechnologyRadeon Image SharpeningRadeon Anti-LagRadeon BoostRadeon Softwa/Striped Axial FanUltra-fit Heatpipe0dB静酷技术Super Alloy Graphics Card"
+    }
+  }
+]
