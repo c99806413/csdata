@@ -1,0 +1,39 @@
+[
+  {
+    "name": "DELL Inspiron 4100",
+    "manufacturer": "戴尔",
+    "series": "DELL Inspiron 4100",
+    "opendb_id": "dell_inspiron_4100_nvidia_geforce2_gotm_200_agp_4x",
+    "metadata": {
+      "总线规格": "移动便携式英特尔® 奔腾® III 处理器 1.0 GHz-M ，采用增强型英特尔 SpeedStepTM 技术，芯片内置 512KB 二级高速缓存",
+      "最大内存容量": "标准配置 64MB SDRAM，最高可升级至 512MB ，SDRAM 配置为 128、256 或 512MB ，2 个用户可抽换 SoDIMM 插槽",
+      "硬盘描述": "10、20 或 30 GB Ultra ATA 硬盘驱动器",
+      "显卡芯片": "nVidia® GeForce2 GoTM 200 AGP 4X 图形",
+      "显存类型": "32MB DDR",
+      "音频系统": "SoundBlaster® 兼容声卡，附带波表",
+      "有线网卡": "标准配置： 内置 10/100 Fast Ethernet",
+      "其它接口": "9 针串行连接器、25 孔并行连接器、串行红外线通信端口（符合 lrDA-1.1 标准）、音频插孔：耳机（即输出），外部麦克风输入、15 针显示器连接器、6 针 PS/2 型键盘、鼠标和数字小键盘、USB（通用串行总线）4 针连接?",
+      "电池类型": "10",
+      "续航时间": "3.5",
+      "电源适配器": "暂挂至 RAM 模式、状态保持模式、备用模式（关闭 LED 指示灯和硬盘驱动器）"
+    }
+  },
+  {
+    "name": "戴尔Inspiron 4100",
+    "manufacturer": "戴尔",
+    "series": "DELL Inspiron 4100",
+    "opendb_id": "dell_inspiron_4100_16mb_ddr_4x_agp_ati_mobility_radeon_m6",
+    "metadata": {
+      "最大内存容量": "标准配置 64MB SDRAM，最高可升级至 512MB，SDRAM 配置为 64、128、192、256、384、512 或 1024MB，2 个用户可抽换 SoDIMM 插槽",
+      "硬盘描述": "10、20 或 30 GB2 Ultra ATA 硬盘驱动器",
+      "显卡芯片": "16MB DDR 4X AGP ATI Mobility™ Radeon M6 视频卡",
+      "音频系统": "SoundBlaster® 兼容声卡，附带波表",
+      "有线网卡": "可选配置： Xircom® RealPort™ Ethernet 10/100 + 56 K 调制解调器组合 PC 卡",
+      "其它接口": "9 针串行连接器，25 孔并行连接器，串行红外线通信端口（符合 lrDA-1.1 标准），音频插孔：耳机（即输出），外部麦克风输入，15 针显示器连接器，6 针 PS/2 型键盘、鼠标和数字小键盘，USB（通用串行总线）4 针连接?",
+      "电池类型": "30",
+      "续航时间": "1.25",
+      "电源适配器": "暂挂至 RAM 模式，状态保持模式，备用模式（关闭 LED 指示灯和硬盘驱动器）",
+      "笔记本重量": "5.5Kg"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "name": "DELL Inspiron 4150",
+    "manufacturer": "戴尔",
+    "series": "DELL 4150",
+    "opendb_id": "dell_inspiron_4150",
+    "metadata": {
+      "CPU型号": "移动奔腾",
+      "总线规格": "移动 英特尔® 奔腾® 4 处理器 - M 1.6GHz、1.7GHz、1.9GHz 或 2.0GHz，支持增强型 英特尔 ® SpeedStepTM 技术，On-die 512 KB L2 缓存，400 MHz 外部总线频率",
+      "最大内存容量": "标配 PC2100 128 MB DDR SDRAM，最大可升级到 1024 MB",
+      "硬盘描述": "20, 30 或 40 GB (5400RPM) Ultra ATA 硬盘驱动器",
+      "显卡类型": "独立显卡",
+      "显卡芯片": "ATI Radeon 7500",
+      "显存容量": "16",
+      "显存类型": "16MB DDR",
+      "音频系统": "带波表的 SoundBlaster ® 兼容声频",
+      "其它接口": "连接器: 两个 I 类或 II 类卡或一个 III 类卡，支持 3.3 和 5V 卡，支持热交换功能，9针串行连接器、25针并行连接器、声频插座：耳机（同电话线输出）、外接麦克风输入、15针VGA、6针 PS/2型键盘、鼠标及键区、USB （万用串行总线）4针连接器、S-端子",
+      "指取设备": "轨迹导杆和触摸板",
+      "电池类型": "30",
+      "特色功能": "Norton AntiVirusTM 2002 OEM 版"
+    }
+  },
+  {
+    "name": "DELL Inspiron 4150(1.9G)",
+    "manufacturer": "戴尔",
+    "series": "DELL Inspiron 4150",
+    "opendb_id": "dell_inspiron_4150_cpu",
+    "metadata": {
+      "总线规格": "移动 英特尔® 奔腾® 4 处理器 - M 1.6GHz、1.7GHz、1.9GHz 或 2.0GHz，支持增强型 英特尔 ® SpeedStepTM 技术，On-die 512 KB L2 缓存，400 MHz 外部总线频率",
+      "最大内存容量": "标配 PC2100 128 MB DDR SDRAM，最大可升级到 1024 MB",
+      "硬盘描述": "20, 30 或 40 GB (5400RPM) Ultra ATA 硬盘驱动器",
+      "显卡芯片": "ATI 移动TM Radeon 7500C AGP 4X 显卡",
+      "显存类型": "32MB DDR",
+      "音频系统": "带波表的 SoundBlaster ® 兼容声频",
+      "其它接口": "9针串行连接器、25针并行连接器、串行红外通信端口（lrDA-1.1 兼容）、声频插座：耳机（同电话线输出）、外接麦克风输入、15针显示器连接器、6针 PS/2型键盘、鼠标及键区、USB （万用串行总线）4针连接器、S-端子，�",
+      "指取设备": "轨迹导杆和触摸板",
+      "电池类型": "66 WHr8-芯智能锂离子电池",
+      "有线网卡": "NIC"
+    }
+  }
+]

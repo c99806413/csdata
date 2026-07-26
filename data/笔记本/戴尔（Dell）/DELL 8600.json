@@ -1,0 +1,49 @@
+[
+  {
+    "name": "DELL Inspiron 8600",
+    "manufacturer": "戴尔",
+    "series": "DELL 8600",
+    "opendb_id": "dell_inspiron_8600",
+    "metadata": {
+      "操作系统": "Windows XP 家庭版 (简体中文)",
+      "CPU型号": "迅驰",
+      "CPU主频": "1.6GHz",
+      "内存容量": "512MB",
+      "内存类型": "DDR",
+      "最大内存容量": "2x256MB PC2700",
+      "硬盘容量": "80GB",
+      "屏幕尺寸": "15.4英寸",
+      "显卡芯片": "128MB DDR ATI(TM) Mobility Radeon 9600 Pro 图形卡",
+      "有线网卡": "集成网卡；英特尔(R) PRO 无线 2100 WLAN (802.11b) miniPCI 卡",
+      "其它接口": "含串口和并口, VGA & S-Video 输出口，红外口，IEEE1394火线接口和2各 USB2.0接口",
+      "电池类型": "9-芯 72Whr 锂离子主电池"
+    }
+  },
+  {
+    "name": "DELL Inspiron 8600 (奔腾-M(Dothan-400))",
+    "manufacturer": "戴尔",
+    "series": "DELL Inspiron 8600",
+    "opendb_id": "dell_inspiron_8600_m",
+    "metadata": {
+      "操作系统": "Windows XP Home",
+      "CPU型号": "奔腾-M(Dothan-400)",
+      "CPU主频": "1.8GHz/1.6GHz",
+      "总线规格": "400",
+      "内存容量": "512MB",
+      "内存类型": "DDR",
+      "硬盘容量": "60GB",
+      "屏幕尺寸": "15.4英寸",
+      "显卡类型": "独立显卡",
+      "显卡芯片": "ATI Radeon 9600Pro",
+      "显存容量": "128",
+      "无线网卡": "802.11b(11Mbps),英特尔 Pro Wireless 2100 (802.11b) Mini-PCI 无线卡",
+      "有线网卡": "10Mbps/100Mbps网卡",
+      "其它接口": "1个类型 I 或类型 II 卡，IEEE1394集成接口(1394连线和软件需要单独订购),音频插孔：立体声耳机/音箱微型接口（同电话输出端），麦克风微型接口,15 针VGA,2个 USB（通用串行总线）2.0兼容4针接口,S-Video电视输出接口:S-video, 合成影像",
+      "电池类型": "9芯智能锂离子电池，72 WHr",
+      "续航时间": "4.5",
+      "笔记本重量": "3.13Kg",
+      "音频系统": "集成立体声扬声器",
+      "指取设备": "触控板"
+    }
+  }
+]

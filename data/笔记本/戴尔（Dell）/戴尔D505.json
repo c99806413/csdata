@@ -1,0 +1,81 @@
+[
+  {
+    "name": "DELL Latitude D505 (未知GPU)",
+    "manufacturer": "戴尔",
+    "series": "DELL Latitude D505",
+    "opendb_id": "dell_latitude_d505_gpu",
+    "metadata": {
+      "操作系统": "Windows XP 专业版 SP1 版本",
+      "CPU型号": "奔腾-M(Dothan-400)",
+      "CPU主频": "1.4GHz/1.5GHz",
+      "总线规格": "400",
+      "内存容量": "256MB/512MB",
+      "内存类型": "DDR",
+      "最大内存容量": "333MHz/2x256MB 333MHz",
+      "硬盘容量": "30.000/40GB",
+      "硬盘描述": "Ultra ATA 硬盘",
+      "屏幕尺寸": "14.1英寸/15英寸",
+      "无线网卡": "802.11b(11Mbps),英特尔(R) PRO/Wireless 2100 WLAN (802.11b) MiniPCI 卡",
+      "电池类型": "4芯锂离子电池",
+      "续航时间": "65W 交流电适配器"
+    }
+  },
+  {
+    "name": "DELL Latitude D505 (集成,Intel Extreme2芯片)",
+    "manufacturer": "戴尔",
+    "series": "DELL Latitude D505",
+    "opendb_id": "dell_latitude_d505_intel_extreme2",
+    "metadata": {
+      "操作系统": "Windows XP Home Edition SP2",
+      "CPU型号": "奔腾-M(Dothan-400)",
+      "CPU主频": "1.7GHz/1.5GHz/1.6GHz",
+      "总线规格": "Intel Pentium M(Banias) 1.7G/Intel Pentium M(Banias) 1.5G/400/Intel Pentium M(Banias) 1.6G",
+      "内存容量": "1GB/512MB/256MB",
+      "内存类型": "DDR",
+      "硬盘容量": "60GB/40GB",
+      "硬盘描述": "ATA-100",
+      "屏幕尺寸": "14.1英寸",
+      "无线网卡": "无线网卡(选配)",
+      "电池类型": "4芯32WHr智能锂离子电池",
+      "显卡类型": "集成显卡",
+      "显卡芯片": "集成,Intel Extreme2芯片",
+      "显存类型": "动态共享内存",
+      "音频系统": "主板内置AC97芯片",
+      "其它接口": "并口,1个 IEEE1394a,VGA接口,S-VIDEO接口,串口,坞式端口/2个USB2.0/1个Type II",
+      "指取设备": "触摸板",
+      "笔记本重量": "2.17Kg",
+      "外壳材质": "镁铝合金材质"
+    }
+  },
+  {
+    "name": "DELL Latitude D505 (集成英特尔855GM芯片组)",
+    "manufacturer": "戴尔",
+    "series": "DELL Latitude D505",
+    "opendb_id": "dell_latitude_d505_855gm",
+    "metadata": {
+      "操作系统": "Windows XP Home",
+      "CPU型号": "奔腾-M(Dothan-400)",
+      "CPU主频": "1.6GHz/1.5GHz",
+      "总线规格": "400",
+      "内存容量": "256MB",
+      "内存类型": "DDR",
+      "硬盘容量": "40GB",
+      "屏幕尺寸": "15英寸/14.1英寸",
+      "无线网卡": "802.11b/g(54Mbps),英特尔PRO Wireless 2200 WLAN (802.11b/g) mini-PCI 无线网卡",
+      "电池类型": "4芯32WHr智能锂离子电池",
+      "显卡类型": "集成显卡",
+      "显卡芯片": "集成英特尔855GM芯片组",
+      "显存类型": "共享内存",
+      "音频系统": "立体声: 20 位立体声数字至模拟与 18 位立体声模拟至数字",
+      "其它接口": "1个(I类或II类PC卡插槽)，(一个) 9针接口；16550兼容；16字节缓冲,(一个) 25孔接口（单向、双向或 ECP）,一个端口，兼容IrDA标准1.1(高速 IR)和1.0(低速 IR),2个USB2.0兼容接口",
+      "指取设备": "Dell Track Pad",
+      "键盘描述": "87键美式键盘",
+      "笔记本重量": "2.3Kg",
+      "外壳材质": "镁铝合金外壳",
+      "工作温度": "0-35℃",
+      "工作湿度": "10%-90%",
+      "存储温度": "-40-65℃",
+      "存储湿度": "5%-95%"
+    }
+  }
+]
