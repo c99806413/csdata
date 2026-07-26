@@ -1,0 +1,16 @@
+[
+  {
+    "name": "XLRB CS3030",
+    "manufacturer": "PNY",
+    "series": "XLRB CS3030",
+    "opendb_id": "xlrb_cs3030",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "500GB/1TB/250GB",
+      "接口类型": "M.2 PCIe接口",
+      "通道": "Gen3×4",
+      "读取速度": "3500MB/s",
+      "写入速度": "3000MB/s/1500MB/s"
+    }
+  }
+]

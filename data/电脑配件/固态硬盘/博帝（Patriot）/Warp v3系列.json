@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Warp v3系列",
+    "manufacturer": "博帝",
+    "series": "Warp v3系列",
+    "opendb_id": "warp_v3",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "256GB/128GB",
+      "接口类型": "SATA2（3Gbps）/SATA2",
+      "硬盘尺寸": "2.5英寸",
+      "读取速度": "240MB/s",
+      "写入速度": "160MB/s",
+      "电源功耗": "DC 5V",
+      "系统要求": "Windows 2000，XP，Vista Linux，Mac OSX",
+      "外形尺寸": "99.88×69.63×9.3mm",
+      "产品重量": "91g"
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BWDSA18SIA系列",
+    "manufacturer": "佰维",
+    "series": "BWDSA18SIA系列",
+    "opendb_id": "bwdsa18sia",
+    "metadata": {
+      "存储容量": "32GB/64GB",
+      "接口类型": "SATA",
+      "硬盘尺寸": "1.8英寸",
+      "闪存架构": "SLC单层单元",
+      "读取速度": "读出：160MB/s，写入：130MB/s/读出：160MB/s，写入：140MB/s"
+    }
+  }
+]

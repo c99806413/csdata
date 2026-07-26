@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BWDSA25SIA系列",
+    "manufacturer": "佰维",
+    "series": "BWDSA25SIA系列",
+    "opendb_id": "bwdsa25sia",
+    "metadata": {
+      "存储容量": "64GB/32GB/16GB",
+      "接口类型": "SATA",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "SLC单层单元",
+      "读取速度": "读出：160MB/s，写入：140MB/s/读出：160MB/s，写入：130MB/s/读出：150MB/s，写入：120MB/s"
+    }
+  }
+]

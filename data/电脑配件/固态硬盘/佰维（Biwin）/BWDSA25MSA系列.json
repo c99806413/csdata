@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BWDSA25MSA系列",
+    "manufacturer": "佰维",
+    "series": "BWDSA25MSA系列",
+    "opendb_id": "bwdsa25msa",
+    "metadata": {
+      "存储容量": "128GB/16GB/64GB/32GB",
+      "接口类型": "SATA",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC多层单元",
+      "读取速度": "读出：160MB/s，写入：60MB/s/读出：120MB/s，写入：30MB/s/读出：150MB/s，写入：50MB/s/读出：130MB/s，写入：40MB/s"
+    }
+  }
+]

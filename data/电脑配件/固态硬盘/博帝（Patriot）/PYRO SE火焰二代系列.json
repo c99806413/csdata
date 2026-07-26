@@ -1,0 +1,19 @@
+[
+  {
+    "name": "PYRO SE火焰二代系列",
+    "manufacturer": "博帝",
+    "series": "PYRO SE火焰二代系列",
+    "opendb_id": "pyro_se",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "60GB/240GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "读取速度": "550MB/s",
+      "写入速度": "515MB/s",
+      "系统要求": "Windows XP，Vista，7，Mac OS，Linux",
+      "外形尺寸": "99×9×66mm",
+      "产品重量": "77g"
+    }
+  }
+]

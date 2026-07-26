@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BWDMA59SIA系列",
+    "manufacturer": "佰维",
+    "series": "BWDMA59SIA系列",
+    "opendb_id": "bwdma59sia",
+    "metadata": {
+      "存储容量": "32GB/16GB/8GB",
+      "接口类型": "MSATA",
+      "闪存架构": "SLC单层单元",
+      "读取速度": "读出：160MB/s，写入：130MB/s/读出：160MB/s，写入：120MB/s/读出：150MB/s，写入：110MB/s"
+    }
+  }
+]

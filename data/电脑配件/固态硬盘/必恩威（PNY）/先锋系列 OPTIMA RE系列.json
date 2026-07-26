@@ -1,0 +1,26 @@
+[
+  {
+    "name": "先锋系列 OPTIMA RE系列",
+    "manufacturer": "PNY",
+    "series": "先锋系列 OPTIMA RE系列",
+    "opendb_id": "optima_re",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "128GB/256GB/512GB/1TB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC多层单元",
+      "读取速度": "530MB/s/550MB/s/500MB/s",
+      "写入速度": "160MB/s/300MB/s/400MB/s/460MB/s",
+      "4K随机读": "55000 IOPS/70000 IOPS",
+      "4K随机写": "55000 IOPS/70000 IOPS",
+      "电源功耗": "工作：2.5W 待机：0.1W",
+      "平均无故障时间": "100万小时",
+      "系统要求": "Windows XP，Windows Vista，Windows 7/8/10，Mac OS X 10.X and later",
+      "外形尺寸": "100×70×7mm",
+      "产品重量": "80g",
+      "工作温度": "0-70℃",
+      "存储温度": "-45-85℃"
+    }
+  }
+]

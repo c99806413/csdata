@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BWDHF66MSB系列",
+    "manufacturer": "佰维",
+    "series": "BWDHF66MSB系列",
+    "opendb_id": "bwdhf66msb",
+    "metadata": {
+      "存储容量": "32GB/16GB/64GB",
+      "接口类型": "SATA Half Slim",
+      "闪存架构": "MLC多层单元",
+      "读取速度": "读出：130MB/s，写入：40MB/s/读出：120MB/s，写入：30MB/s/读出：150MB/s，写入：50MB/s"
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Wildfire系列",
+    "manufacturer": "博帝",
+    "series": "Wildfire系列",
+    "opendb_id": "wildfire",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "480GB/240GB/120GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "读取速度": "500MB/s"
+    }
+  }
+]
