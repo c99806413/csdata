@@ -1,0 +1,26 @@
+[
+  {
+    "name": "D10",
+    "manufacturer": "奥睿科",
+    "series": "D10",
+    "opendb_id": "d10",
+    "metadata": {
+      "产品型号": "ORICO-D10-128GB-GR-BP/ORICO-D10-256GB-GR-BP/ORICO-D10-512GB-GR-BP/ORICO-D10-1TB-GR-BP/ORICO-D10-2TB-GR-BP",
+      "产品定位": "消费类",
+      "存储容量": "128GB/256GB/512GB/1TB/2TB",
+      "接口类型": "M.2 PCIe接口",
+      "硬盘尺寸": "2280",
+      "闪存架构": "TLC三层单元",
+      "缓存": "无缓存",
+      "通道": "Gen3×4",
+      "读取速度": "1700MB/s/2500MB/s/3500MB/s/3600MB/s",
+      "写入速度": "1100MB/s/1800MB/s/2500MB/s/3000MB/s",
+      "IOPS写入": "3.3V ±5%",
+      "电源功耗": "工作电压：3.3V ±5%",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "外形尺寸": "22×80×2mm",
+      "其它性能": "TBW：50/TBW：100/TBW：200/TBW：400/TBW：800"
+    }
+  }
+]

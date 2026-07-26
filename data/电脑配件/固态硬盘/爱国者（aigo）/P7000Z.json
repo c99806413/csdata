@@ -1,0 +1,21 @@
+[
+  {
+    "name": "P7000Z",
+    "manufacturer": "aigo",
+    "series": "P7000Z",
+    "opendb_id": "p7000z",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "2TB/512GB/1TB",
+      "接口类型": "M.2 PCIe接口",
+      "闪存架构": "TLC三层单元",
+      "通道": "Gen4×4",
+      "读取速度": "7450MB/s/7050MB/s",
+      "写入速度": "6750MB/s/4200MB/s/6600MB/s",
+      "4K随机读": "860KIOPS/710KIOPS",
+      "4K随机写": "690KIOPS/640KIOPS/670KIOPS",
+      "外形尺寸": "80×22×2mm",
+      "其它性能": "3600TBW/900TBW/1800TBW"
+    }
+  }
+]

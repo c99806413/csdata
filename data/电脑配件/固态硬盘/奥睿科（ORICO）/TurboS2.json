@@ -1,0 +1,22 @@
+[
+  {
+    "name": "TurboS2",
+    "manufacturer": "奥睿科",
+    "series": "TurboS2",
+    "opendb_id": "turbos2",
+    "metadata": {
+      "产品型号": "ORICO-TurboS2",
+      "产品定位": "消费类",
+      "存储容量": "512GB/2TB/4TB/128GB/256GB/1TB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "读取速度": "560MB/s/500MB/s/550MB/s",
+      "写入速度": "510MB/s/450MB/s/500MB/s",
+      "4K随机读": "65000 IOPS/73000 IOPS/37000 IOPS/58000 IOPS",
+      "4K随机写": "72000 IOPS",
+      "平均无故障时间": "150万小时",
+      "外形设计": "铝合金",
+      "其它性能": "TBW：200TB/TBW：800TB/TBW：1600TB/TBW：50TB/TBW：100TB/TBW：400TB"
+    }
+  }
+]
