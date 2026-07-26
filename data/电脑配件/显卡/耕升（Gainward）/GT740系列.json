@@ -1,0 +1,46 @@
+[
+  {
+    "name": "GT740系列 (1GB)",
+    "manufacturer": "耕升",
+    "series": "GT740系列",
+    "opendb_id": "gt740_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GT740",
+      "显示芯片系列": "GeForce GT700系列/NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK107",
+      "核心频率": "1033MHz/1059MHz",
+      "CUDA核心": "384个",
+      "显存频率": "5000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bitbit/128bit",
+      "I/O接口": "Mini HDMI接口/DVI接口/VGA接口/1×Mini HDMI接口，1×DVI接口，1×VGA接口",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇"
+    }
+  },
+  {
+    "name": "GT740系列 (2GB)",
+    "manufacturer": "耕升",
+    "series": "GT740系列",
+    "opendb_id": "gt740_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GT 740",
+      "显示芯片系列": "NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK107",
+      "核心频率": "1033MHz",
+      "CUDA核心": "384个",
+      "显存频率": "5000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit",
+      "I/O接口": "1×Mini HDMI接口，1×DVI接口，1×VGA接口",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇"
+    }
+  }
+]

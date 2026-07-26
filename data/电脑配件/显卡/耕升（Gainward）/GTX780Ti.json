@@ -1,0 +1,21 @@
+[
+  {
+    "name": "GTX780Ti (3GB)",
+    "manufacturer": "耕升",
+    "series": "GTX780Ti",
+    "opendb_id": "gtx780ti_3gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 780 Ti/GeForce GTX 780",
+      "显示芯片系列": "NVIDIA GT700系列/NVIDIA GTX 700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK110",
+      "显存类型": "GDDR5",
+      "显存容量": "3GB",
+      "接口类型": "PCI Express 3.0 16X",
+      "显卡类型": "主流级",
+      "3D API": "DirectX 11.2/DirectX 11.1",
+      "支持HDCP": "是"
+    }
+  }
+]

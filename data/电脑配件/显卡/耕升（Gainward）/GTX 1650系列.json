@@ -1,0 +1,34 @@
+[
+  {
+    "name": "GTX 1650系列 (4GB)",
+    "manufacturer": "耕升",
+    "series": "GTX 1650系列",
+    "opendb_id": "gtx_1650_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1650",
+      "显示芯片系列": "NVIDIA GTX 16系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU117-300",
+      "核心频率": "1680MHz/1725MHz",
+      "CUDA核心": "896个",
+      "显存频率": "8000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "电源接口": "无外接电源接口",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热（风盾散热器）/双风扇散热（飓风之眼散热器）",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "283×139×42mm/244×140×39mm",
+      "最大功耗": "75W",
+      "建议电源": "300W",
+      "其它特点": "支持NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNCGame Ready 驱动程序支持NVIDIA GPU BoostNVIDIA Encoder (NVENC)/支持NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNCGame Ready 驱动程序支持NVIDIA GPU BoostNVIDIA Encoder (NVENC)炫光之眼、RGB灯效、菱形风扇",
+      "上市日期": "2019年04月"
+    }
+  }
+]

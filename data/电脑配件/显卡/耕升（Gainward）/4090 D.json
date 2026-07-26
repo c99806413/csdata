@@ -1,0 +1,33 @@
+[
+  {
+    "name": "4090 D (24GB)",
+    "manufacturer": "耕升",
+    "series": "4090 D",
+    "opendb_id": "4090_d_24gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 4090 D",
+      "显示芯片系列": "NVIDIA GeForce 40 系列",
+      "制作工艺": "4纳米",
+      "核心代号": "Ada Lovelace",
+      "核心频率": "2520MHz",
+      "CUDA核心": "14592个",
+      "显存频率": "21000MHz",
+      "显存类型": "GDDR6X",
+      "显存容量": "24GB",
+      "显存位宽": "384bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI 2.1接口，3×DisplayPort 1.4接口",
+      "电源接口": "12VHPWR",
+      "散热方式": "三风扇散热+热管散热，第三代风盾X3散热器/三风扇散热+热管散热，第二代炫之黑曜石散热器",
+      "支持HDCP": "是，2.3",
+      "产品尺寸": "含挡板：328*155*62mm不含挡板：316*139.5*61mmmm/含挡板：362*155*76mm不含挡板：350*140*76mmmm",
+      "最大功耗": "425W",
+      "建议电源": "850W",
+      "多屏设计": "4",
+      "VR Ready级别": "是",
+      "其它特点": "NVIDIA DLSS 3，支持 NVIDIA Reflex，支持 NVIDIA Broadcast，支持 NVIDIA GeForce Experience，支持 Game Ready 驱动，支持 NVIDIA ShadowPlay，支持 NVIDIA Highlights，\t支持 NVIDIA Ansel"
+    }
+  }
+]
