@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Professional",
+    "manufacturer": "雷克沙",
+    "series": "Professional",
+    "opendb_id": "professional",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "1TB/500GB",
+      "接口类型": "USB Type-C接口",
+      "硬盘尺寸": "2.5英寸",
+      "读取速度": "950MB/s",
+      "写入速度": "900MB/s",
+      "系统要求": "Mac®OSX10.6+Windows®10/7/8标准USB（Type-A或Type-C）端口/Mac OSX10.6+Windows 10/7/8标准USB（Type-A或Type-C）端口",
+      "外形设计": "颜色：黑色",
+      "外形尺寸": "55×73.4×10.8mm",
+      "产品重量": "70.5g",
+      "工作温度": "0-70℃",
+      "存储温度": "-40-85℃"
+    }
+  }
+]
