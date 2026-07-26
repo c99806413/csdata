@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MTS400S",
+    "manufacturer": "创见",
+    "series": "MTS400S",
+    "opendb_id": "mts400s",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "64GB/128GB",
+      "接口类型": "SATA3（6Gbps）",
+      "闪存架构": "mlc",
+      "缓存": "512m",
+      "读取速度": "530mb/s",
+      "写入速度": "105mb/s"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SATA系列",
+    "manufacturer": "创见",
+    "series": "SATA系列",
+    "opendb_id": "sata",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "32GB/64GB",
+      "接口类型": "SATA",
+      "硬盘尺寸": "2.5英寸",
+      "读取速度": "30MB/s/116MB/s",
+      "电源功耗": "5.0V",
+      "平均寻道时间": "0.8ms",
+      "系统要求": "Windows 2000，XP，Vista；Mac OS 10.4；Linux Kernel 2.4",
+      "写入数据传输率": "22 MB/s/43 MB/s",
+      "其它性能": "抗震1500G"
+    }
+  }
+]

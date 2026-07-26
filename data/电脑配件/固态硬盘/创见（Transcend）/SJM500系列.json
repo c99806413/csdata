@@ -1,0 +1,22 @@
+[
+  {
+    "name": "SJM500系列",
+    "manufacturer": "创见",
+    "series": "SJM500系列",
+    "opendb_id": "sjm500",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "1TB/256GB/512GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "读取速度": "440MB/s",
+      "写入速度": "300MB/s",
+      "电源功耗": "工作电压：15V Thunderbolt",
+      "系统要求": "Microsoft Windows 7，Microsoft Windows 8，Mac OS X 10.7或更新版本",
+      "外形尺寸": "121.2×75.2×13.5mm",
+      "产品重量": "136g",
+      "工作温度": "5-55℃",
+      "其它特点": "安规认证：CE，FCC，BSMI"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MTS430S系列",
+    "manufacturer": "创见",
+    "series": "MTS430S系列",
+    "opendb_id": "mts430s",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "64GB/128GB/256GB/512GB",
+      "接口类型": "SATA3（6Gbps）",
+      "闪存架构": "TLC三层单元",
+      "读取速度": "520MB/s",
+      "写入速度": "480MB/s"
+    }
+  }
+]

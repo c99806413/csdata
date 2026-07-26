@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Air",
+    "manufacturer": "创见",
+    "series": "Air",
+    "opendb_id": "air",
+    "metadata": {
+      "产品型号": "DM500 Air",
+      "产品定位": "消费类",
+      "存储容量": "960GB/240GB/480GB",
+      "接口类型": "pci-e"
+    }
+  }
+]
