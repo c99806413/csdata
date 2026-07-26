@@ -1,0 +1,18 @@
+[
+  {
+    "name": "海拉 Hela",
+    "manufacturer": "阿斯加特",
+    "series": "海拉 Hela",
+    "opendb_id": "hela",
+    "metadata": {
+      "产品型号": "Asgard HEL 512GS3-S7/Asgard HEL 1TS3-S7",
+      "产品定位": "消费类",
+      "存储容量": "512GB/1TB",
+      "接口类型": "SATA3（6Gbps）",
+      "缓存": "无缓存",
+      "读取速度": "500MB/s",
+      "写入速度": "460MB/s",
+      "TRIM功能": "支持TRIM"
+    }
+  }
+]

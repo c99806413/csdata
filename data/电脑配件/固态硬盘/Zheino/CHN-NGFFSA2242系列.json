@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CHN-NGFFSA2242系列",
+    "manufacturer": "Zheino",
+    "series": "CHN-NGFFSA2242系列",
+    "opendb_id": "chn_ngffsa2242",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "256GB/512GB/128GB",
+      "接口类型": "M.2 SATA接口（NGFF）",
+      "主控芯片": "SMI2258XT",
+      "读取速度": "540MB/s/510MB/s",
+      "写入速度": "480MB/s/490MB/s/450MB/s",
+      "工作温度": "0-70℃"
+    }
+  }
+]

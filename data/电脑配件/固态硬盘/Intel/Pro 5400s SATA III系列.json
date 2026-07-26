@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Pro 5400s SATA III系列",
+    "manufacturer": "Intel",
+    "series": "Pro 5400s SATA III系列",
+    "opendb_id": "pro_5400s_sata_iii",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "120GB/480GB/1TB/360GB/240GB/180GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "TLC三层单元",
+      "读取速度": "560MB/s",
+      "写入速度": "400MB/s/480MB/s/475MB/s",
+      "4K随机读": "60000 IOPS/78000 IOPS/74000 IOPS/71000 IOPS",
+      "4K随机写": "50000 IOPS/85000 IOPS",
+      "电源功耗": "活动：90mW Typical闲置：50mW Typical",
+      "平均寻道时间": "0.5ms",
+      "平均无故障时间": "160万小时",
+      "防震能力": "1500G",
+      "外形设计": "光刻类型：16nm",
+      "工作温度": "0-70℃",
+      "其它性能": "AES 256 bit加密",
+      "其它特点": "英特尔智能响应技术，Intel Rapid Start Technology"
+    }
+  }
+]

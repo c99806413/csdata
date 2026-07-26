@@ -1,0 +1,27 @@
+[
+  {
+    "name": "DC S3610系列",
+    "manufacturer": "Intel",
+    "series": "DC S3610系列",
+    "opendb_id": "dc_s3610",
+    "metadata": {
+      "产品定位": "企业级",
+      "存储容量": "200GB/400GB/480GB/1.2TB/800GB/1.6TB/100GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC多层单元",
+      "读取速度": "500MB/s/550MB/s/540MB/s",
+      "写入速度": "220MB/s/370MB/s/450MB/s/500MB/s/380MB/s/520MB/s",
+      "4K随机读": "70000 IOPS/84000 IOPS/82000 IOPS",
+      "4K随机写": "11000 IOPS/22000 IOPS/28000 IOPS/17000 IOPS/27000 IOPS/6500 IOPS",
+      "电源功耗": "2.9W/工作：4.5W待机：0.55W/工作：5.2W待机：0.56W/活动：3.3W闲置：0.53W",
+      "平均无故障时间": "200万小时",
+      "系统要求": "Windows 7 和Windows 8，和Windows 8.1Windows Server 2012 R2Windows Server 2012Windows Server 2008企业32/64bit SP2Windows Server 2008 R2 SP1Windows Server 2003 R2 64bit SP2 企业VMware5.1，5.5",
+      "防震能力": "1000G/1500G",
+      "产品重量": "82g/88±2g/82±2g/94g/94±2g",
+      "工作温度": "0-70℃",
+      "存储温度": "-50-95℃",
+      "其它性能": "可靠性：震动操作：2.17 GRMS(5-700Hz)震动不操作：3.13 GRMS(5-800Hz)无法纠正的位错误速率（UBER）：1 sector per 10-17 bits read增强的停电数据保护功能硬件加密：AES 256 bit高耐用技术温度监测和记录端到端数据保护/25nm制程的闪存颗粒年化失效率为0.44%震动操作：2.17 GRMS（5-700Hz）震动不操作：3.13 GRMS（5-800Hz）增强的停电数据保护功能硬件加密：AES 256 bit高耐用技术温度监测和记录端到端数据保护/25nm制程的闪存颗粒年化失效率为0.44%"
+    }
+  }
+]

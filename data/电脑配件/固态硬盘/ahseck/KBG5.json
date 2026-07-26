@@ -1,0 +1,15 @@
+[
+  {
+    "name": "KBG5",
+    "manufacturer": "ahseck",
+    "series": "KBG5",
+    "opendb_id": "kbg5",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "256GB/512GB",
+      "接口类型": "M.2 PCIe 3.0接口（2242）",
+      "读取速度": "3500MB/s",
+      "写入速度": "2900MB/s/3100MB/s"
+    }
+  }
+]

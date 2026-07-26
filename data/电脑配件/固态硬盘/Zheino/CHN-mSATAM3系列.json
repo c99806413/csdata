@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CHN-mSATAM3系列",
+    "manufacturer": "Zheino",
+    "series": "CHN-mSATAM3系列",
+    "opendb_id": "chn_msatam3",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "512GB/256GB/128GB",
+      "接口类型": "mSATA接口",
+      "主控芯片": "SMI2258XT",
+      "读取速度": "540MB/s/534MB/s/541MB/s",
+      "写入速度": "480MB/s/473MB/s/457MB/s",
+      "工作温度": "0-70℃"
+    }
+  }
+]

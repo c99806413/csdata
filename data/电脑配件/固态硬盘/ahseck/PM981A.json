@@ -1,0 +1,15 @@
+[
+  {
+    "name": "PM981A",
+    "manufacturer": "ahseck",
+    "series": "PM981A",
+    "opendb_id": "pm981a",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "512GB/256GB/1TB",
+      "接口类型": "M.2 PCIe 3.0接口（2242）",
+      "读取速度": "3350MB/s/2900MB/s",
+      "写入速度": "2900MB/s/2350MB/s/2950MB/s"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "DC S3710系列",
+    "manufacturer": "Intel",
+    "series": "DC S3710系列",
+    "opendb_id": "dc_s3710",
+    "metadata": {
+      "产品定位": "企业级",
+      "存储容量": "400GB/200GB/800GB/1.2TB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC多层单元",
+      "读取速度": "550MB/s",
+      "写入速度": "470MB/s/300MB/s/460MB/s/520MB/s",
+      "4K随机读": "85000 IOPS",
+      "4K随机写": "43000 IOPS/39000 IOPS/45000 IOPS",
+      "平均无故障时间": "200万小时",
+      "系统要求": "Windows 7与Windows 8和Windows 8.1Windows Server 2012−R2Windows Server 2012Windows Server 2008 64位SP2/32Windows Server 2008 R2 SP164位Windows Server 2003 R2 SP2企业VMware 5.5×5.1Linux：5.5，5.6，6.1",
+      "防震能力": "700G",
+      "产品重量": "94g",
+      "工作温度": "0-70℃",
+      "存储温度": "13-55℃",
+      "其它性能": "高耐用技术温度监测和记录"
+    }
+  }
+]

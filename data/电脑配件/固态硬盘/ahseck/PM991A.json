@@ -1,0 +1,15 @@
+[
+  {
+    "name": "PM991A",
+    "manufacturer": "ahseck",
+    "series": "PM991A",
+    "opendb_id": "pm991a",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "512GB/256GB/1TB/128GB",
+      "接口类型": "M.2 PCIe 3.0接口（2230）",
+      "读取速度": "3000MB/s/2900MB/s/3100MB/s/1750MB/s",
+      "写入速度": "1900MB/s/1750MB/s/1950MB/s/1300MB/s"
+    }
+  }
+]

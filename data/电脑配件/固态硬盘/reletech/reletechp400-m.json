@@ -1,0 +1,21 @@
+[
+  {
+    "name": "reletechp400-m",
+    "manufacturer": "reletech",
+    "series": "reletechp400-m",
+    "opendb_id": "reletechp400_m",
+    "metadata": {
+      "产品型号": "reletechp400-m",
+      "存储容量": "240-256gb/480-512gb/960gb-1tb",
+      "接口类型": "m.2接口(nvme协议)",
+      "硬盘尺寸": "长89mm；宽24mm；高3mm",
+      "闪存架构": "tlc",
+      "缓存": "无缓存",
+      "读取速度": "3500mb/s",
+      "写入速度": "2000mb/s",
+      "产品重量": "200.00g",
+      "工作温度": "50",
+      "存储温度": "50"
+    }
+  }
+]
