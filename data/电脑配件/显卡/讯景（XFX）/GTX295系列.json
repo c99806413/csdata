@@ -1,0 +1,44 @@
+[
+  {
+    "name": "GTX295系列 (896*2GB)",
+    "manufacturer": "XFX讯景",
+    "series": "GTX295系列",
+    "opendb_id": "gtx295_896_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTX 295",
+      "制作工艺": "55纳米",
+      "核心代号": "GT200",
+      "核心频率": "576MHz",
+      "CUDA核心": "240*2个",
+      "显存类型": "GDDR3",
+      "显存容量": "896*2GB",
+      "显存位宽": "448bit*2bit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI",
+      "散热方式": "巨型涡轮散热器",
+      "3D API": "DirectX 10"
+    }
+  },
+  {
+    "name": "GTX295系列 (1792GB)",
+    "manufacturer": "XFX讯景",
+    "series": "GTX295系列",
+    "opendb_id": "gtx295_1792gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTX 295",
+      "核心代号": "GT200",
+      "核心频率": "576MHz",
+      "CUDA核心": "480个",
+      "显存类型": "GDDR3",
+      "显存容量": "1792GB",
+      "显存位宽": "896bit",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "DVI接口/VGA接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10"
+    }
+  }
+]

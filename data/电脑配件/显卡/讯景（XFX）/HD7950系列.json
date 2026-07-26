@@ -1,0 +1,32 @@
+[
+  {
+    "name": "HD7950系列 (3GB)",
+    "manufacturer": "XFX讯景",
+    "series": "HD7950系列",
+    "opendb_id": "hd7950_3gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon HD 7950",
+      "显示芯片系列": "AMD 7900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Tahiti Pro",
+      "核心频率": "800MHz/900MHz",
+      "CUDA核心": "1792个",
+      "显存频率": "5000MHz/5500MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "3GB",
+      "显存位宽": "384bitbit/384bit",
+      "最大分辨率": "2560×1600/4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "双Mini DisplayPort接口/HDMI接口/DVI接口/2×Mini DisplayPort接口，1×HDMI接口，1×DVI接口",
+      "电源接口": "6pin+6pin",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11.1",
+      "支持HDCP": "是",
+      "最大功耗": "200W",
+      "建议电源": "500W以上",
+      "其它特点": "支持CrossFire技术，支持节能技术/支持CrossFire技术，支持节能技术显卡功耗：240W电源需求：500W以上"
+    }
+  }
+]

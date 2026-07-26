@@ -1,0 +1,56 @@
+[
+  {
+    "name": "HD5970系列 (2GB)",
+    "manufacturer": "XFX讯景",
+    "series": "HD5970系列",
+    "opendb_id": "hd5970_2gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon HD 5970",
+      "显示芯片系列": "ATI 5900系列",
+      "制作工艺": "40纳米",
+      "核心代号": "Hemlock",
+      "核心频率": "725MHz",
+      "CUDA核心": "3200个",
+      "显存频率": "4000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "256bit*2bit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "Mini HDMI接口/双DVI接口/Mini DisplayPort接口/HDMI接口/双DVI接口",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇/涡轮风扇",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持CrossFire技术，支持节能技术"
+    }
+  },
+  {
+    "name": "HD5970系列 (4GB)",
+    "manufacturer": "XFX讯景",
+    "series": "HD5970系列",
+    "opendb_id": "hd5970_4gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon HD 5970",
+      "显示芯片系列": "ATI 5900系列",
+      "制作工艺": "40纳米",
+      "核心代号": "Hemlock",
+      "核心频率": "850MHz",
+      "CUDA核心": "3200个",
+      "显存频率": "4800MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "512bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "6个mini DisplayPort",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "单PCB双GPU支持6屏同时输出"
+    }
+  }
+]

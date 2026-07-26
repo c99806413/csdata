@@ -1,0 +1,52 @@
+[
+  {
+    "name": "HD7850系列 (1GB)",
+    "manufacturer": "XFX讯景",
+    "series": "HD7850系列",
+    "opendb_id": "hd7850_1gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon HD 7850",
+      "显示芯片系列": "AMD 7800系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Pitcairn Pro",
+      "核心频率": "860MHz/1000MHz",
+      "显存频率": "4800MHz/5000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit/256bit",
+      "最大分辨率": "2560×1600/4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "双Mini DisplayPort接口/HDMI接口/双DVI接口/2×Mini DisplayPort接口，1×HDMI接口，2×DVI接口/六Mini DisplayPort接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11/DirectX 11.1",
+      "支持HDCP": "是",
+      "其它特点": "支持CrossFire技术，支持节能技术"
+    }
+  },
+  {
+    "name": "HD7850系列 (2GB)",
+    "manufacturer": "XFX讯景",
+    "series": "HD7850系列",
+    "opendb_id": "hd7850_2gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon HD 7850",
+      "显示芯片系列": "AMD 7800系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Pitcairn Pro",
+      "核心频率": "860MHz/975MHz/1000MHz",
+      "显存频率": "4800MHz/5000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "256bitbit/256bit",
+      "最大分辨率": "4096×2160/2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "双Mini DisplayPort接口/HDMI接口/双DVI接口/2×Mini DisplayPort接口，1×HDMI接口，2×DVI接口/六1×Mini DisplayPort接口",
+      "散热方式": "散热风扇/散热风扇+散热片",
+      "3D API": "DirectX 11/DirectX 11.1",
+      "支持HDCP": "是",
+      "其它特点": "支持CrossFire技术，支持节能技术显卡功耗：130W电源需求：500W以上/支持CrossFire技术，支持节能技术"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "G210系列 (128GB)",
+    "manufacturer": "XFX讯景",
+    "series": "G210系列",
+    "opendb_id": "g210_128gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce G210",
+      "显示芯片系列": "NVIDIA GT200系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GT218",
+      "核心频率": "589MHz",
+      "CUDA核心": "16个",
+      "显存频率": "1600MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "128GB",
+      "显存位宽": "64bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10.1",
+      "支持HDCP": "是"
+    }
+  },
+  {
+    "name": "G210系列 (未知显存)",
+    "manufacturer": "XFX讯景",
+    "series": "G210系列",
+    "opendb_id": "g210",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce G210",
+      "制作工艺": "40纳米",
+      "核心代号": "GT218",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10"
+    }
+  }
+]

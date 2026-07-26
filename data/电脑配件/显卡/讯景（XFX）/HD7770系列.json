@@ -1,0 +1,50 @@
+[
+  {
+    "name": "HD7770系列 (1GB)",
+    "manufacturer": "XFX讯景",
+    "series": "HD7770系列",
+    "opendb_id": "hd7770_1gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon HD 7770",
+      "显示芯片系列": "AMD 7700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Cape Verde XT",
+      "核心频率": "1000MHz/1120MHz/1100MHz/1095MHz",
+      "显存频率": "4500MHz/5200MHz/5000MHz/4980MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bitbit/128bit",
+      "最大分辨率": "2560×1600/4096×2160",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口/Mini DisplayPort接口/HDMI接口/双DVI接口/1×HDMI接口，1×DVI接口，1×VGA接口/六Mini DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口/HDMI接口/DVI接口/VGA接口/Mini DisplayPort接口/SMART HDMI接口/双DVI接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11/DirectX 11.1，OpenGL 4.2",
+      "支持HDCP": "是",
+      "其它特点": "支持CrossFire技术，支持节能技术/支持CrossFire技术，支持节能技术，支持显卡六屏输出/支持CrossFire技术，支持节能技术显卡功耗：125W电源需求：400W以上"
+    }
+  },
+  {
+    "name": "HD7770系列 (2GB)",
+    "manufacturer": "XFX讯景",
+    "series": "HD7770系列",
+    "opendb_id": "hd7770_2gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon HD 7770",
+      "显示芯片系列": "AMD 7700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Cape Verde XT",
+      "核心频率": "1000MHz",
+      "显存频率": "4500MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bitbit",
+      "最大分辨率": "2560×1600",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持CrossFire技术，支持节能技术"
+    }
+  }
+]
