@@ -1,0 +1,27 @@
+[
+  {
+    "name": "宏基Aspire 1400 1400XV",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基Aspire 1400 1400XV",
+    "opendb_id": "aspire_1400_1400xv",
+    "metadata": {
+      "CPU主频": "1.7GHz",
+      "总线规格": "Intel®Pentium®4 1.7GHz 集成 256KB L2缓存，400MHz 处理器系统总线",
+      "内存容量": "256MB",
+      "最大内存容量": "标准 128/256MB SDRAM，可升级至1024MB",
+      "硬盘容量": "20GB",
+      "硬盘描述": "内置 20GB 或更大容量DMA-100 HDD",
+      "显卡芯片": "ATI 移动 RADEONTM 4x AGP 规格控制器，支持双屏显示，支持硬件 3D影像，具备MPEG-2/DVD影像加速功能",
+      "显存类型": "16MB DDR",
+      "音频系统": "兼容MS DirectSound，3D 音效系统和两个喇叭，4 x音效 /CD控制键 播放/暂停，停止/退出，前进，后退",
+      "有线网卡": "10/100Mbps自适应网卡",
+      "其它接口": "1 x Type III 或 2 x Type II/I CardBus PCMCIA 接口，1 x RJ11 modem接口，1 x RJ45接口，1 x DC-in适配器接口，1 x ECP/EPP接口，1 x PS/2-兼容 keyboard/mouse接口，1 x 外接 VGA接口，1 x speaker-/headphone-",
+      "指取设备": "内置触板设计及鼠标模块",
+      "键盘描述": "87/88/91键盘 with Windowsa应用程序键，19mm 空间，3mm (min.) 按键间距，CD音效控制面板，内嵌数字键，国际语言支持",
+      "电池类型": "87Wh锂离子电池",
+      "续航时间": "3/3小时电池使用时间；9小时使用时充电",
+      "电源适配器": "省电模式的ACPI 2.0 电源管理标准支持待机和Hibernation 模式",
+      "笔记本重量": "3.5Kg"
+    }
+  }
+]
