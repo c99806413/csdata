@@ -1,0 +1,23 @@
+[
+  {
+    "name": "方正文祥 E620 BWE620-115",
+    "manufacturer": "方正",
+    "series": "方正文祥 E620 BWE620-115",
+    "opendb_id": "e620_bwe620_115",
+    "metadata": {
+      "CPU系列": "Intel 奔腾4/VIA Cyrix MIII/赛扬",
+      "CPU频率": "1800GHz/2400GHz/2660GHz/800GHz/1300GHz/1700GHz",
+      "内存容量": "128MBGB/256MBGB",
+      "硬盘容量": "40GB/60GB",
+      "硬盘描述": "5400转/7200转/5400转 IDE/无/5400转/IDE",
+      "光驱类型": "CD-ROM/DVD-ROM",
+      "显卡类型": "Geforce2 mx400 32M/Geforce2 mx400 64M/Geforce4 MX400 64MB DDR/集成显卡",
+      "显示器尺寸": "15英寸",
+      "显示器描述": "显示器",
+      "有线网卡": "集成10M-100M网卡/10/100M PCI",
+      "视频接口": "4个USB接口、音频接口、PS/2接口/4个USB接口、音频接口、PS/2接口、1并口、2串口/USB2.0；PS/2；1×DVI-D；1×HDMI；1×VGA；1×RJ45（网络接口）；1×S/PDIF输出；3×8声道音频接口；1×电源接口/4个USB接口、音频接口、VGA接口、PS/2接口",
+      "操作系统": "DOS",
+      "电源": "200W电源/200W"
+    }
+  }
+]
