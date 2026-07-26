@@ -1,0 +1,54 @@
+[
+  {
+    "name": "三星512MB DDR 333(笔记本-金条)",
+    "manufacturer": "三星",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__512mb_ddr_333________",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "TSOP-II",
+      "CL延迟": "2.5",
+      "内存校验": "否"
+    }
+  },
+  {
+    "name": "三星1GB DDR 333(笔记本-金条)",
+    "manufacturer": "三星",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__1gb_ddr_333________",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "TSOP-II",
+      "CL延迟": "2.5",
+      "内存校验": "否"
+    }
+  },
+  {
+    "name": "三星256MB DDR 333(笔记本-金条)",
+    "manufacturer": "三星",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__256mb_ddr_333________",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "TSOP-II",
+      "CL延迟": "2.5"
+    }
+  },
+  {
+    "name": "三星512MB DDR333",
+    "manufacturer": "三星",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__512mb_ddr333",
+    "metadata": {
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "TSOP-II"
+    }
+  }
+]

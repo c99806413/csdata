@@ -1,0 +1,38 @@
+[
+  {
+    "name": "三星1GB DDRII400(金条)",
+    "manufacturer": "三星",
+    "series": "DDR2 400台式机内存系列",
+    "opendb_id": "__1gb_ddrii400____",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "400MHz"
+    }
+  },
+  {
+    "name": "三星512MB DDRII400(SEC400D2U3/512)",
+    "manufacturer": "三星",
+    "series": "DDR2 400台式机内存系列",
+    "opendb_id": "__512mb_ddrii400_sec400d2u3_512_",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "400MHz"
+    }
+  },
+  {
+    "name": "三星256MB DDRII400(金条)",
+    "manufacturer": "三星",
+    "series": "DDR2 400台式机内存系列",
+    "opendb_id": "__256mb_ddrii400____",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "400MHz",
+      "颗粒封装": "FBGA",
+      "CL延迟": "3",
+      "内存校验": "否"
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "name": "三星256MB SDRAM PC133(16片)",
+    "manufacturer": "三星",
+    "series": "SDRAM PC133台式机内存系列",
+    "opendb_id": "__256mb_sdram_pc133_16__",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "SDRAM",
+      "内存主频": "133MHz"
+    }
+  },
+  {
+    "name": "三星256MB SDRAM PC133(8片)",
+    "manufacturer": "三星",
+    "series": "SDRAM PC133台式机内存系列",
+    "opendb_id": "__256mb_sdram_pc133_8__",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "SDRAM",
+      "内存主频": "133MHz"
+    }
+  },
+  {
+    "name": "三星128MB SDRAM PC133",
+    "manufacturer": "三星",
+    "series": "SDRAM PC133台式机内存系列",
+    "opendb_id": "__128mb_sdram_pc133",
+    "metadata": {
+      "内存类型": "SDRAM",
+      "内存主频": "133MHz",
+      "颗粒封装": "CSP",
+      "制作工艺": "6层PCB板"
+    }
+  },
+  {
+    "name": "三星256MB SDRAM PC133(M366S3253D-7A)",
+    "manufacturer": "三星",
+    "series": "SDRAM PC133台式机内存系列",
+    "opendb_id": "__256mb_sdram_pc133_m366s3253d_7a_",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "SDRAM",
+      "内存主频": "133MHz"
+    }
+  },
+  {
+    "name": "三星512MB SDRAM PC133(M390S6450-7A)",
+    "manufacturer": "三星",
+    "series": "SDRAM PC133台式机内存系列",
+    "opendb_id": "__512mb_sdram_pc133_m390s6450_7a_",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "SDRAM",
+      "内存主频": "133MHz"
+    }
+  },
+  {
+    "name": "三星512MB SDRAM PC133",
+    "manufacturer": "三星",
+    "series": "SDRAM PC133台式机内存系列",
+    "opendb_id": "__512mb_sdram_pc133",
+    "metadata": {
+      "内存类型": "SDRAM",
+      "内存主频": "133MHz",
+      "颗粒封装": "TSOP-II"
+    }
+  },
+  {
+    "name": "三星256MB SDRAM PC133",
+    "manufacturer": "三星",
+    "series": "SDRAM PC133台式机内存系列",
+    "opendb_id": "__256mb_sdram_pc133",
+    "metadata": {
+      "内存类型": "SDRAM",
+      "内存主频": "133MHz",
+      "颗粒封装": "54TSOP(II)"
+    }
+  }
+]
