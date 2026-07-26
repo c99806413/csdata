@@ -1,0 +1,57 @@
+[
+  {
+    "name": "联想扬天 E2800C (A64)",
+    "manufacturer": "联想",
+    "series": "联想扬天 E2800C",
+    "opendb_id": "e2800c_a64",
+    "metadata": {
+      "产品类型": "商用电脑",
+      "操作系统": "XPH",
+      "CPU系列": "AMD Athlon64",
+      "CPU频率": "2200GHz/2000GHz/1800GHz",
+      "内存容量": "512MBGB",
+      "内存类型": "512MB DDR/512M DDR/DDR400 512MB/512MB DDR400",
+      "硬盘容量": "160GB/120GB",
+      "硬盘描述": "7200转",
+      "光驱类型": "康宝",
+      "显卡类型": "GeForce 6200TC 128MB/6200TC 128M PCIE高性能显卡/FX5200 128M",
+      "显示器尺寸": "15英寸",
+      "显示器描述": "液晶",
+      "有线网卡": "10/100M",
+      "视频接口": "1串+1并+6USB(2前4后)+2组Audio+2PS/2",
+      "扩展插槽": "3个PCI，1个 PCI Express X16/3PCI+1AGP",
+      "电源": "180W",
+      "机箱类型": "可立可卧/立式",
+      "随机附件": "光盘1张+刻录软件光盘1张+说明书2本及其它资料/光盘1张+说明书2本及其它资料"
+    }
+  },
+  {
+    "name": "联想扬天 E2800C (未知CPU)",
+    "manufacturer": "联想",
+    "series": "联想扬天 E2800C",
+    "opendb_id": "e2800c_cpu",
+    "metadata": {
+      "产品类型": "商用电脑",
+      "操作系统": "Windows XP 中文专业版SP2/DOS/Windows XP 中文家庭版/Windows XP 中文家庭版SP2/Windows Vista Premium/Windows Vista Home Premium/XPH/XP Pro/XP/XP(家庭版)",
+      "CPU系列": "Intel 酷睿2双核 E4300(1.8GHz)/英特尔 Atom/英特尔 奔腾双核/AMD Sempron/赛扬/赛扬D/Intel 奔腾D/Intel 奔腾4/Intel 奔腾 双核 E2160(1.8GHz)/AMD AthlonXP",
+      "CPU频率": "1800GHz/1600GHz/2500GHz/3200GHz/2000GHz/2100GHz/3000GHz/2800GHz/2600GHz/2930GHz/2400GHz/2660GHz/3060GHz",
+      "总线规格": "800/533",
+      "核心/线程数": "双核/单核",
+      "内存容量": "512MBGB/2GB/1GBGB/256MBGB/128MBGB",
+      "内存类型": "512M DDRII 533/DDRII/512M DDRII533/512M DDR400/512M DDRII533内存/1024MB DDRII533/1G DDRII内存/1G DDRII533内存/256MB DDR/512MB DDR/256MB DDR400/256M DDR/DDR 256MB/512M DDR",
+      "硬盘容量": "80GB/250GB/160GB/120GB/40GB",
+      "硬盘描述": "7200转/SATAII 7200转高速防震硬盘/SATA2（7200转）/SATA2 160G 7200转/7200转西部数据硬盘",
+      "光驱类型": "DVD-ROM/康宝/CD-ROM",
+      "显卡类型": "集成显卡/NV7100GS 128M PCIE高性能显卡/独立显卡/NV7300LE 128M PCIE高性能显卡/GeForce FX5200 128MB/FX5200显卡/FX5200 64M显卡/FX5200 128MB/FX5200-64高性能显卡/FX5200-128高性能显卡/FX5200 128M高性能显卡/FX5200/GeForce FX5200，128M/FX5200-128M高性能显卡/集成显卡，动态分配 最大64M/FX5200显卡 128M/FX5200显卡 128MB/FX5200 128M 高性能显卡/NV6200TC 128M",
+      "显存容量": "共享显存容量/128M/共享内存容量/128MB",
+      "显示器尺寸": "15英寸/17英寸",
+      "显示器描述": "液晶/LCD/纯平/球面",
+      "有线网卡": "10/100M/100Mbps以太网卡/1000Mbps以太网卡/集成百兆网卡/10M-100M集成网卡",
+      "视频接口": "1串、1并、6USB接口、2组Audio、2PS/2/前置2口USB2.0/1串+1并+6USB接口(2前4后)+2组Audio+2PS/2/1串、1并、6USB接口（2前4后）、2组Audio、2PS/2/1串、1并、6USB接口、2组Audio+2PS/2/1串+1并+6USB(2前4后)+2组Audio+2PS/2/1串+1并+4USB接口(2前4后)+2PS/2+2组Audio/2串＋1并＋2PS/2+4USB2.0(2个前置)＋2组Audio",
+      "扩展插槽": "3PCI/2*PCI、1*PCI Express x16、1*PCI Express x1/2PCI、1PCI Express x16、1PCI Express x1/2PCI+1PCI Express*16+1PCI Express*1/2PCI+1PCI Express x16+1PCI Express x1/1个AGP，3个PCI/3PCI+1AGP",
+      "电源": "180W/120W电源/220V/120W/220V/180W/220W/康舒电源220W",
+      "机箱类型": "立式/可立可卧/可卧可立",
+      "随机附件": "光盘1张+说明书2本及其它资料、商用应用07版(for XP)/光盘1张、说明书2本及其它资料、扬天万利卡 (1GB)/光盘1张、说明书2本及其它资料，扬天万利卡　(1GB)/光盘1张+说明书2本及其它资料/光盘1张、说明书2本及其它资、扬天万利卡1GB/光盘1张、说明书2本及其它资料/光盘1张+说明书2本及其它资料商用应用07版(for Vista)/光盘1张+说明书2本及其它资料、扬天万利卡(1GB)/商用应用07版（for Vista）、光盘1张、说明书2本及其它资料/光盘1张+说明书2本及其它资料、商用应用07版(for Vista)/128M魔盘/电源线，说明书，保修卡，驱动光盘"
+    }
+  }
+]
