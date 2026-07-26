@@ -1,0 +1,36 @@
+[
+  {
+    "name": "GTX1070系列 (8GB)",
+    "manufacturer": "索泰",
+    "series": "GTX1070系列",
+    "opendb_id": "gtx1070_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1070",
+      "显示芯片系列": "NVIDIA GTX 10系列",
+      "制作工艺": "16纳米",
+      "核心代号": "GP104-200",
+      "核心频率": "1594/1784MHz/1506/1683MHz/1531/1721MHz/1556/1746MHz/1582/1771MHz/1518/1708MHz/1518/1706MHz",
+      "CUDA核心": "1920个",
+      "显存频率": "8058MHz/8000MHz/8008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "8pin+8pin/8pin",
+      "显卡类型": "主流级",
+      "散热方式": "三风扇散热+热管散热/涡轮风扇/三风扇散热+三热管散热+散热片（静音）/双风扇散热+双热管散热/散热风扇",
+      "3D API": "DirectX 12，OpenGL 4.5/DirectX 12.1，OpenGL 4.5",
+      "供电模式": "16+2相/10相",
+      "支持HDCP": "是",
+      "产品尺寸": "300×115mm/266.7×111.15×38.1mm/310×150×54mm/315×111.15mm/300×115×53mm/210×122×382mm",
+      "最大功耗": "220W/150W",
+      "建议电源": "500W以上/600W以上/400W以上",
+      "其它特点": "RGB灯效，FireStorm软件，支持4K画质，支持NVIDIA VR技术/VR Ready级别显卡，SLI技术RGB灯效，支持4K画质/RGB灯效，Z-ELVES智·灵模块，FireStorm软件，支持4K画质，支持VR/支持NVIDIA SLI技术，PhysX物理加速技术，GPU Boost技术，Freeze智能启停技术/RGB灯效，FireStorm软件，支持1080P画质，支持NVIDIA VR技术/RGB灯效，Z-ELVES智·灵模块，FireStorm软件，支持4K画质，支持NVIDIA VR技术/一键超频/支持NVIDIA SLI技术，GPU Boost技术",
+      "上市日期": "2016年06月/2016年07月/2016年08月/2016年12月",
+      "性能评分": "114855"
+    }
+  }
+]

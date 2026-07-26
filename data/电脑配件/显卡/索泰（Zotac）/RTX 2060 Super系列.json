@@ -1,0 +1,35 @@
+[
+  {
+    "name": "RTX 2060 Super系列 (8GB)",
+    "manufacturer": "索泰",
+    "series": "RTX 2060 Super系列",
+    "opendb_id": "rtx_2060_super_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2060 SUPER",
+      "显示芯片系列": "NVIDIA RTX SUPER系列/NVIDIA RTX 20系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU106-410",
+      "核心频率": "1470/1710MHz/1470-1680MHz/1680MHz/1470/1650MHz/1470/1665MHz",
+      "CUDA核心": "2176个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口，1×DVI-D接口/1×HDMI接口，1×DisplayPort接口，1×DVI接口/1×HDMI接口，3×DisplayPort接口/1×HDMI接口，3×DisplayPort接口，1×USB Type-C接口/1×HDMI接口，1×DisplayPort接口，1×DVI-D接口",
+      "电源接口": "8pin/6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "四风扇+热管散热（新款5热管至尊PLUS 四风扇散热器）/三风扇散热+热管散热/双风扇散热+热管散热/三风扇+热管散热（新款5热管X-GAMING 三风扇散热器）/三风扇+三热管散热/双风扇散热+2热管散热（毁灭双风扇散热器，9cm风扇）/四风扇+5热管散热（新款5热管至尊PLUS 四风扇散热器）",
+      "3D API": "DirectX 12，OpenGL 4.5/DirectX 12.1，OpenGL 4.5",
+      "供电模式": "6+2相/4+2相/8+1相/8+2相",
+      "支持HDCP": "是",
+      "RGB": "ARGB信仰灯/有RGB信仰灯",
+      "产品尺寸": "316×120.6×53mm/263×120×41mm/311×115×53mm/305×118×53mm/218×120×41mm/316×120×53mm",
+      "最大功耗": "175W/175+35W（35W为USB Type-C对外供电）",
+      "其它特点": "风扇配置：PWM，自动调速风扇智能启停，支持风扇停转PCB长度：11寸，27.8CM支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术/支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术/风扇配置：PWM，自动调速PCB长度：10.3寸，26.3CM/风扇配置：PWM，自动调速PCB长度：10.3寸，26.3CM支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术",
+      "上市日期": "2019年07月/2019年/2019年08月"
+    }
+  }
+]

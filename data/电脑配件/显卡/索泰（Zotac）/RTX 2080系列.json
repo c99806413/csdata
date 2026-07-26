@@ -1,0 +1,34 @@
+[
+  {
+    "name": "RTX 2080系列 (8GB)",
+    "manufacturer": "索泰",
+    "series": "RTX 2080系列",
+    "opendb_id": "rtx_2080_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2080",
+      "显示芯片系列": "NVIDIA RTX 20系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU104-400A/TU104-400",
+      "核心频率": "1515/1770MHz/1515/1830MHz/1515/1890MHz/Base：1515MHzBoost：1710MHz/1515-1710MHz/1515-1830MHz/1515/1710MHz/Base：1515MHzBoost：1830MHz",
+      "CUDA核心": "2944个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口，1×USB Type-C接口/1×HDMI 2.0b接口，3×DisplayPort接口，1×USB Type-C接口/1×HDMI 2.0b 接口，3×DisplayPort接口，1×USB Type-C接口",
+      "电源接口": "6pin+8pin/8pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热+五热管散热/五风扇散热+五热管散热/三风扇散热+六热管散热/三风扇+热管散热（新款6热管 PGF 三风扇散热器）/均热板涡轮散热器/X-GAMING三风扇散热+五热管散热/五风扇散热+热管散热（新款5热管至尊PLUS 五风扇散热器）",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "供电模式": "8+2相/10+2相/16+4相",
+      "支持HDCP": "是",
+      "产品尺寸": "311×115×53mm/316×120.6×53mm/309×133×53mm/267×113×41mm/316×120×53mm",
+      "最大功耗": "215W+35W（35W为USB Type-C对外供电）/245W+35W（35W为USB Type-C对外供电）/280W+35W（35W为USB Type-C对外供电）/280+35W（35W为USB Type-C对外供电）/215+35W（35W为USB Type-C对外供电）/245+35W（35W为USB Type-C对外供电）/250W+35W（35W为USB Type-C对外供电）",
+      "其它特点": "PCB长度：10.5寸，26.7CM风扇配置：PWM，自动调速VR Ready级别显卡/PCB长度：11.6寸，27.8CM风扇配置：PWM，自动调速VR Ready级别显卡/PCB长度：11.6寸，29.5CM风扇配置：PWM，自动调速风扇智能启停VR Ready级别显卡/所占槽数：3槽系统支持：Windows 10/8/7PCB长度：11.6寸，29.5CM风扇配置：PWM，自动调速使用NON A标频芯片VR Ready级别显卡/所占槽数：3槽系统支持：Windows 10/8/7PCB长度：11.6寸，29.5CM风扇配置：PWM，自动调速有信仰灯，支持风扇停转VR Ready级别显卡/所占槽数：2.5槽系统支持：Windows 10/8/7PCB长度：10.5寸，26.7CM风扇配置：PWM，自动调速有信仰灯VR Ready级别显卡/所占槽数：3槽系统支持：Windows 10/8/7PCB长度：11寸，27.8CM风扇配置：PWM，自动调速有信仰灯，支持风扇停转使用NON A标频芯片VR Ready级别显卡/系统支持：Windows 10/8/ 7PCB长度：11寸，27.8CM风扇配置：PWM，自动调速有信仰灯，支持风扇停转VR Ready级别显卡",
+      "上市日期": "2018年08月"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "RTX 2080 super系列 (8GB)",
+    "manufacturer": "索泰",
+    "series": "RTX 2080 super系列",
+    "opendb_id": "rtx_2080_super_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2080 SUPER",
+      "显示芯片系列": "NVIDIA RTX SUPER系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU104-450",
+      "核心频率": "1650-1875MHz/1650-1845MHz/1650-1830MHz/1650/1815MHz",
+      "CUDA核心": "3072个",
+      "显存频率": "15500MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口，1×USB Type-C接口",
+      "电源接口": "8pin+8pin/6pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热+六热管散热（PGF）/新款5热管X-GAMING 三风扇散热器/新款5热管至尊PLUS 五风扇散热器/三风扇散热+六热管散热（新款6热管PGF三风扇散热器）",
+      "3D API": "DirectX 12.1，OpenGL 4.5",
+      "供电模式": "16+4相/8+2相/10+2相",
+      "支持HDCP": "是，HDCP2.2",
+      "RGB": "ARGB信仰灯/RGB信仰灯",
+      "产品尺寸": "309×133×53mm/311×115×53mm/316×120.6×53mm",
+      "最大功耗": "250W+35W（35W为USB Type-C对外供电）",
+      "其它特点": "支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术，支持NVIDIA NVLink技术/支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术，支持NVIDIA NVLink技术，支持NVIDIA SLI技术",
+      "上市日期": "2019年07月",
+      "其他参数": "RTX-OPS：63T显存带宽：496PCB长度：11.6寸29.5CM风扇配置：PWM，自动调速支持风扇停转/RTX-OPS：63T显存带宽：496PCB长度：10.5寸，26.7CM风扇配置：PWM，自动调速/RTX-OPS：63T显存带宽：496PCB长度：11寸，27.8CM风扇配置：PWM，自动调速支持风扇停转/RTX-OPS：63T显存带宽：496PCB长度：11.6寸29.5CM风扇配置：PWM，自动调速支持风扇停转所占槽数：3槽/所占槽数：3槽"
+    }
+  }
+]

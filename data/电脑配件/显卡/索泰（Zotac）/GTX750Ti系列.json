@@ -1,0 +1,60 @@
+[
+  {
+    "name": "GTX750Ti系列 (2GB)",
+    "manufacturer": "索泰",
+    "series": "GTX750Ti系列",
+    "opendb_id": "gtx750ti_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 750Ti",
+      "显示芯片系列": "NVIDIA GT700系列/NVIDIA GTX 700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM107",
+      "核心频率": "1229/1320MHz/1033/1111MHz/1150/1228MHz/1072/1150MHz",
+      "CUDA核心": "640个",
+      "显存频率": "6000MHz/5500MHz/5400MHz/5600MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit/128bitbit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，1×VGA接口/1×HDMI接口，1×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，1×VGA接口，1×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇（2个）+热管散热（3热管）/散热风扇+热管散热/散热风扇/双风扇散热+热管散热/双散热风扇/散热风扇（2个）",
+      "供电模式": "3+1相",
+      "支持HDCP": "是",
+      "最大功耗": "75W/60W/70W",
+      "其它特点": "支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost 2.0技术，支持最多4屏输出/支持PhysX物理加速技术，GPU Boost 2.0技术"
+    }
+  },
+  {
+    "name": "GTX750Ti系列 (1GB)",
+    "manufacturer": "索泰",
+    "series": "GTX750Ti系列",
+    "opendb_id": "gtx750ti_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 750Ti",
+      "显示芯片系列": "NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM107",
+      "核心频率": "1229/1320MHz",
+      "CUDA核心": "640个",
+      "显存频率": "6000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇+热管散热",
+      "供电模式": "3+1相",
+      "支持HDCP": "是",
+      "最大功耗": "75W",
+      "其它特点": "支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost 2.0技术，支持最多4屏输出"
+    }
+  }
+]

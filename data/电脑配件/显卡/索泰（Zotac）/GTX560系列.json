@@ -1,0 +1,54 @@
+[
+  {
+    "name": "GTX560系列 (1GB)",
+    "manufacturer": "索泰",
+    "series": "GTX560系列",
+    "opendb_id": "gtx560_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 560",
+      "显示芯片系列": "NVIDIA GTX 500系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF114",
+      "核心频率": "1000MHz/850MHz/950MHz/822MHz/736MHz/900MHz/820MHz/810MHz",
+      "CUDA核心": "336个",
+      "显存频率": "4400MHz/4050MHz/4000MHz/3828MHz/4100MHz/4008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口/HDMI接口/DVI接口/VGA接口/双DVI接口/Mini HDMI接口/HDMI接口/DVI接口/Mini HDMI接口/DisplayPort接口",
+      "电源接口": "6pin+8pin/6pin+6pin/6pin",
+      "散热方式": "散热风扇+散热热管/散热风扇/热管风扇/散热风扇+散热片+热管散热",
+      "3D API": "DirectX 11Shader Model 5.0/DirectX 11",
+      "供电模式": "8+3相/4+1相/6+1相",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术显卡功耗：150W"
+    }
+  },
+  {
+    "name": "GTX560系列 (2GB)",
+    "manufacturer": "索泰",
+    "series": "GTX560系列",
+    "opendb_id": "gtx560_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 560",
+      "显示芯片系列": "NVIDIA GTX 500系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF114",
+      "核心频率": "850MHz",
+      "CUDA核心": "336个",
+      "显存频率": "4050MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口",
+      "散热方式": "散热风扇",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  }
+]

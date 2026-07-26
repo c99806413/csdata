@@ -1,0 +1,31 @@
+[
+  {
+    "name": "GTX590系列 (3GB)",
+    "manufacturer": "索泰",
+    "series": "GTX590系列",
+    "opendb_id": "gtx590_3gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 590",
+      "显示芯片系列": "NVIDIA GTX 500系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF110",
+      "核心频率": "607MHz",
+      "CUDA核心": "1024个",
+      "显存频率": "3416MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "3GB",
+      "显存位宽": "768bitbit/384bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "Mini DisplayPort接口/三DVI接口",
+      "电源接口": "8pin+8pin",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术",
+      "上市日期": "2011年03月"
+    }
+  }
+]
