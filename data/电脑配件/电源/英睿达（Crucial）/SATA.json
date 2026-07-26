@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SATA",
+    "manufacturer": "英睿达",
+    "series": "SATA",
+    "opendb_id": "sata",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "500GB/1TB/2TB/250GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "TLC三层单元",
+      "主控芯片": "Silicon Motion SM2258",
+      "读取速度": "560MB/s",
+      "写入速度": "510MB/s",
+      "4K随机读": "95000 IOPS/950000 IOPS",
+      "4K随机写": "90000 IOPS/900000 IOPS",
+      "平均无故障时间": "180万小时",
+      "外形设计": "包装类型：硬板盒",
+      "外形尺寸": "130.18×130.18×19.05mm/100*70*7mm",
+      "产品重量": "142g",
+      "工作温度": "0-70℃",
+      "其它特点": "耐久性：360TB总字节写入量 (TBW)合规性：FCC，CE，KCC，RCM，VCC，UL，TUV，BSMI，WEEE，ROHS，Morocco，IC，无卤，SATA-IO/耐久性：700TB总字节写入量 (TBW) 合规性：FCC，CE，KCC，RCM，VCC，UL，TUV，BSMI，WEEE，ROHS，Morocco，IC，无卤，SATA-IO"
+    }
+  }
+]

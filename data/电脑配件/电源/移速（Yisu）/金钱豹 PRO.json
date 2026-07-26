@@ -1,0 +1,16 @@
+[
+  {
+    "name": "金钱豹 PRO",
+    "manufacturer": "移速",
+    "series": "金钱豹 PRO",
+    "opendb_id": "pro",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "1TB/512GB/2TB",
+      "接口类型": "SATA3（6Gbps）",
+      "闪存架构": "TLC三层单元",
+      "读取速度": "560MB/s",
+      "写入速度": "500MB/s"
+    }
+  }
+]

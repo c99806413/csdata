@@ -1,0 +1,23 @@
+[
+  {
+    "name": "M550（MSATA）系列",
+    "manufacturer": "英睿达",
+    "series": "M550（MSATA）系列",
+    "opendb_id": "m550_msata",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "256GB/512GB/128GB",
+      "接口类型": "mSATA接口",
+      "闪存架构": "MLC多层单元",
+      "主控芯片": "Marvell 88SS9187",
+      "读取速度": "550MB/s",
+      "写入速度": "500MB/s/350MB/s",
+      "4K随机读": "90000 IOPS/92000 IOPS",
+      "平均无故障时间": "150万小时",
+      "外形设计": "包装类型：塑料（PET）蛤壳",
+      "外形尺寸": "54×174.6×18.9mm/3.75mm",
+      "工作温度": "0-70℃",
+      "其它特点": "合规性：CE、 FCC、BSMI、C-Tick、 VCCI、Kcc、RoHS、 China RoHS、 WEEE、 TUV、 UL、SATA-IO、IC耐久性:总写入字节72TB（TBW），相当于5年内每天写入40GB"
+    }
+  }
+]

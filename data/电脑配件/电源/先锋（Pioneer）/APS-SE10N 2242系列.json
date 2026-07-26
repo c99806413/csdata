@@ -1,0 +1,18 @@
+[
+  {
+    "name": "APS-SE10N 2242系列",
+    "manufacturer": "先锋",
+    "series": "APS-SE10N 2242系列",
+    "opendb_id": "aps_se10n_2242",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "128GB/512GB/256GB",
+      "接口类型": "NVMe PCIe接口（NGFF）",
+      "闪存架构": "TLC三层单元",
+      "主控芯片": "Marvell",
+      "读取速度": "1740MB/s",
+      "写入速度": "600MB/s",
+      "外形尺寸": "42×22×3.5mm"
+    }
+  }
+]
