@@ -1,0 +1,48 @@
+[
+  {
+    "name": "华硕L3416S-D (ATIR Mobility Radeon 7500)",
+    "manufacturer": "华硕",
+    "series": "华硕L3416S-D",
+    "opendb_id": "l3416s_d_atir_mobility_radeon_7500",
+    "metadata": {
+      "操作系统": "Windows XP Pro/Windows ME/Windows 2000",
+      "CPU主频": "1.8GHz",
+      "总线规格": "0.13m Process, 512k 缓存",
+      "内存容量": "256MB/128.000",
+      "硬盘容量": "40GB/20GB",
+      "硬盘描述": "9.5mm IDE 硬盘支援 Ultra DMA100",
+      "显卡芯片": "ATIR Mobility Radeon 7500",
+      "显存类型": "整合 32MB DDR",
+      "音频系统": "内建全双工3D立体音效设备(与SoundBlaster Pro相容);内建高品质麦克风与立体双声喇叭",
+      "其它接口": "1个串口;1个EPP/ECP;1个PS/2 键盘/鼠标接口;1个红外线;One S/PDIF/ Headphone-out jack (Stereo) ;1个麦克风插孔 (Mono)",
+      "电池类型": "长效智慧型锂电池",
+      "续航时间": "充电时间 4hrs/ 2.5hrs (系统开机/ 关机)",
+      "笔记本重量": "3.2Kg",
+      "屏幕尺寸": "14.1英寸",
+      "指取设备": "内建触控板;二个点选按钮(Click Button)与二个卷动按钮(Scroll Button)",
+      "键盘描述": "内建全尺寸85键19mm键盘，行程3mm，具有Windows功能键"
+    }
+  },
+  {
+    "name": "华硕L3416S-D (采用ATI®Mobility Radeon7500图形处理器，搭配4X AGP和32MB DDR显示内存)",
+    "manufacturer": "华硕",
+    "series": "华硕L3416S-D",
+    "opendb_id": "l3416s_d_ati_mobility_radeon7500_4x_agp_32mb_ddr",
+    "metadata": {
+      "操作系统": "Windows XP",
+      "CPU主频": "1.6GHz",
+      "总线规格": "桌面CPU/支持Intel®新一代uFC-PGA封装结构笔记本电脑专用Pentium®4-M处理器",
+      "内存容量": "256MB",
+      "硬盘容量": "30.000",
+      "硬盘描述": "抽取式高速2.5英寸笔记本专用9.5毫米硬盘，支持ATA 66/100高速数据传输模式及自我监测核技术（S.M.A.R.T.)",
+      "显卡芯片": "采用ATI®Mobility Radeon7500图形处理器，搭配4X AGP和32MB DDR显示内存",
+      "显存类型": "32MB DDR",
+      "音频系统": "内建全双工3D立体音效设备； 内建高品质麦克风和立体声喇叭，另可连接外接式麦克风、喇叭及耳机",
+      "有线网卡": "10-100M",
+      "其它接口": "16550 UART串行端口、二组IEEE1394高速传输口、二组USB端口、EPP/ECP打印机并口、红外线传输口、外接VGA接口、音源输出/入及麦克风孔、PortBar II转接座及PortDock II扩充匣共享连接口、调制解调器(RJ11)及局域网?",
+      "电池类型": "长效智能型锂电池/30",
+      "续航时间": "3",
+      "笔记本重量": "3Kg"
+    }
+  }
+]

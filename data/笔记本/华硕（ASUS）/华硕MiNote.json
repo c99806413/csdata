@@ -1,0 +1,74 @@
+[
+  {
+    "name": "华硕MiNote 5133S",
+    "manufacturer": "华硕",
+    "series": "华硕MiNote 5133S",
+    "opendb_id": "minote_5133s_k6_2",
+    "metadata": {
+      "CPU型号": "K6-2",
+      "CPU主频": "475MHz",
+      "总线规格": "AMD K6-2 350/366/380/400/433/450/475/475 +MHz",
+      "内存容量": "32.000",
+      "最大内存容量": "32MB SDRAM on board，expandable up to 160MB，1 x 144-pin SO-DIMM socket",
+      "硬盘容量": "6.000",
+      "硬盘描述": "Ultra DMA 硬式磁碟机",
+      "显卡芯片": "Trident CyberBlade 3D VGA控制芯片 支持2X AGP",
+      "显存类型": "4",
+      "音频系统": "內建AC-Link 音效系统隐藏式麦克风支持MicrosoftR DirectSound 3D內建立体音效喇叭、麦克风音量管理裝置",
+      "其它接口": "串口，EPP/ECP相容并口，外接VGA接口，PS/2键盘/鼠标USB接头，IrDA compliant (115Kbps)，AC充电器使用的DC-IN插座，立体声喇叭/耳机输出接口，麦克风输入口，RJ11 Fax/M",
+      "指取设备": "内置触摸板",
+      "键盘描述": "Microsoft Windows 98相容键盘",
+      "电池类型": "9组鎳氫电池组",
+      "电源适配器": "APM 1.2 / ACPI 相容，支持Standby/ Suspend to Disk/ DRAM省电模式",
+      "笔记本重量": "2.99Kg"
+    }
+  },
+  {
+    "name": "华硕MiNote 5133S (未知CPU)",
+    "manufacturer": "华硕",
+    "series": "华硕MiNote 5133S",
+    "opendb_id": "minote_5133s_cpu",
+    "metadata": {
+      "总线规格": "AMD K6-3 350/366/380/400/433/450/450 + MHz/Intel®μPGA 2封裝中央微处理器，Intel® Pentium® III 行动型处理器(支援最新Intel® SpeedStep™ 技术)，支援FSB (Front Side Bus) 100 MHz，內建256KB(P III )，或128KB (Celeron) 全速二组快/Intel® Pentium® III 处理器866/933 MHz、1G/1.1GHz或以上，Intel® Celeron™处理器850 MHz或以上，采用FC-PGA封裝，支援FSB (Front Side Bus) 133 MHz，Intel® Pentium® III处理器內建256/Intel® Pentium® III 处理器800EB/800/850/900/933/1000 MHz或以上，Intel® Celeron™处理器700/733/766 MHz或以上，采用FC-PGA封裝，PGA370 Socket微处理器，Intel® Pentium® III处理器內/Intel®μPGA 2封装处理器，含Intel® SpeedStep™ 技术的笔记型Intel® Pentium® lll 處理器700/750/800/850/900/950 MHz、1GHz，使用笔记型Intel® Celeron™ 处理器700/750/800/850 MH/Intel? Pentium? lll处理器650/700 MHz，內建128 KB全速快取记忆体/Intel Pentium III / Intel Celeron processor，256KB L2 cache on-die / 128KB L2 cache on-die/Intel®μPGA 2封裝中央微处理器，含Intel® SpeedStep™ 技术的笔记型Intel® Pentium® lll 处理器800/850/900 MHz、1GHz，內建256 KB全速快取记忆体，采用SystemSoft 256KB Flash EPROM，支援随",
+      "最大内存容量": "32MB SDRAM on board，expandable up to 160MB，1 x 144-pin SO-DIMM socket/标准內建64MB SDRAM，具有一组144-pin SDRAM SO-DIMM 记忆体扩充插槽，最高可扩充至192MB/两组144-pin记忆体组插槽，使用PC-133高速记忆体SDRAM，最高可扩充至512MB/內建64 /128MB SDRAM，另有一组44-pin 记忆体组插槽，使用PC-100同步高速记忆体SDRAM，最高可扩充至320/384MB/内建128MB SDRAM，另有一组144-pin 记忆体组插槽，支持PC-133同步高速记忆体SDRAM，最高可扩充至384MB/32MB SDRAM on board，expandable up to 160MB，1 x 144-pin SO-DIMM socket (32/64/128MB SDRAM SO-DIMMs)，256KB Flash EPROM/內建64MB SDRAM，另有二组144-pin记忆体组插槽 使用PC-100同步高速记忆体SDRAM，最高可扩充至320MB",
+      "硬盘描述": "10GB/6GB Ultra - DMA 硬式磁碟机/内建10GB/12GB/20GB容量硬式磁碟机/具备10 或 20GB容量硬式磁碟机可供选购/內建10 / 20 / 30 GB Ultra DMA 66 / 100 IDE硬式磁碟机/內建10/15/20 GB Ultra DMA 33/66/100 IDE硬式磁碟机/内建10/15/20GB IDE硬式磁碟机/內建10或12GB Ultra DMA 33 IDE硬式磁碟机/10GB/12GB硬碟/內建10或12 GB Ultra DMA 33 IDE硬式磁碟机",
+      "显卡芯片": "內建 Trident CyberBlade 3D加速图形晶片，支持2X AGP Bus/ATI Rage LT Pro高性能2D/3D图形加速晶片，支持AGP 2X/ATI Rage Mobility-M显卡控制芯片/VGA显示裝置由晶片組组北桥整合，支援AGP 4X模式/SIS 630整合，64 bit graphics engine hardware windows acceleration，可外接LCD/CRT萤幕，使LCD与CRT同步显示，支援Ultra AGP界面/可外接LCD/CRT萤幕，使LCD与CRT同步显示，支援LVDS界面/ATI Rage LT Pro高性能2D / 3D图形加速晶片，支援AGP 2X模式，DVD/MPEG II显示",
+      "显存类型": "4/8MB/8/4/8/16/32MB共享记忆体(由BIOS设定)/2/4/8/16/32 MB分享系统记忆体(由BIOS设定；8MB为标准设定)/4/8/16/32MB分享系统系统记忆体（由BIOS设定；8MB为标准设定）",
+      "音频系统": "內建 AC - Link 音效系统，隐藏式麦克风，支持Microsoft DirectSound 3D，立体音效喇叭、麦克风，音量管理装置/內建Crystal PCI全双工3D立体环绕音效，支持DirectSound、AC 97 內建立体环绕音效喇叭、隐藏式麦克风/采S/PDIF数位缆输出、立体环境音效、隐藏式麦克风及喇叭/AC 97介面，内建立体声环绕音效喇叭、硬体控制声量钮/內建ESS PCI全双工3D立体声环绕音效、AC 97內建立体声环绕音效喇叭、隐藏式麦克风/内建双喇叭，隐藏式麦克风，数位音量控制/內建ESS PCI全雙工3D立体环绕音效，支持DirectSound、AC 97 內建立体环绕音效喇叭、隐藏式麦克风/內建Crystal PCI全双工3D立体声环绕音效，支援DirectSound、AC 97，内建立体声重低音环绕音效喇叭、隐藏式麦克风",
+      "其它接口": "One type II和 one type III PC Card slots， 相容 ExCA，支援 ZV / CardBus，序列埠，EPP / ECP 相容并列埠，外接VGA接头，PS / 2 键盘、滑鼠接头，USB接头，IrDA compliant ( 115Kbps )，AC充电器使用的DC-IN插座?/一个串口、并口、外接VGA接头、外接PS/2键盘/鼠标接口、 FIR红外线传输口(IrDA)最高传输速率4Mbps、外接麦克风/喇叭/耳机输出入裝置、一个USB埠、RJ11电话接头、Kensington锁空、DC电源接口/一个IEEE1394接口，传输速度可达400Mbps，二个USB口及组组迷你USB口，传输速度可达12Mbps，一个红外线传输口，传输速度可达4Mbps，一个V90/k56Flex modem接口，一个RJ45网络接口，一个DC电源接孔，一组外接VGA DB-/一组IEEE1394连接埠，传输速度可达400Mbps，一组并列传输埠，二组USB连接埠，外接VGA连接埠，PS/2键盘/滑鼠接头，IR红外线传输（IrDA）最高传输速率4Mbps，外接麦克风/喇叭/音效输出系统，RJ45网路接头、RJ11电话接/一组串列传输埠、并列传输埠、二组USB埠、外接VGA接头、外接PS/2键盘、滑鼠接头、FIR红外线传输埠、（IRDA）最高传输速率4Mbps、外接麦克风、喇叭、SPDIF数位音效输出系统、RJ45网路接头、RJ11电话接头、DC电源接头/二组USB埠，外接VGA接头，外接麦克风、音效输出系统，RJ45网路接头、RJ11电话接头，DC电源接头/一个串口、并口、外接VGA接头、外接PS/2键盘/鼠标接口、 FIR红外线传输口(IrDA)最高传输速率4Mbps、外接麦克风/喇叭/耳机输出入裝置、一个USB埠、扩展转接插头(Port Replicator)、RJ11电话接头、Ke/一个串口、并口、外接VGA接头、外接PS/2键盘/鼠标接口、外接麦克风/喇叭/耳机输出入裝置、一个USB埠、RJ11电话接头、Kensington锁空、DC电源接口/一组串列传输埠、并列传输埠、外接VGA接头、TV视讯输出S-Video端子、外接PS/2键盘/滑鼠接头、FIR紅外线传输埠(IrDA)最高传输速率4Mbps、外接麦克风/喇叭/耳机输出入裝置、一组USB埠、扩充转接基座插头(Port Replicat",
+      "指取设备": "内建触控板/高感度轨迹触控板，支持智慧型手写中文輸入法/高感度轨迹触控板/高感度触控板/高感度轨迹触控板，支援智慧型手写中文输入法",
+      "键盘描述": "Microsoft Windows 98 相容键盘，采用19mm pitch stroke/Microsoft Windows 98相容键盘/采用18mm pitch/2.5mm stroke人性化的Microsoft Windows 98相容键盘5个简易功能键可提供使用者自行设定一个检查电池容量的按钮/Microsoft® Windows® 95/98相容键盘，采用19 mm pitch/ 3.0 mm stroke，5个简易启动键可提供使用者自行设定/Microsoft Windows 98相容键盘采用19 mm pitch/ 3.0 mm strokel 5个简易启动键可提供使用者自行设定/Microsoft® Windows® 98相容键盘，19mm键宽，3mm键距/Microsoft® Windows® 98相容键盘，提供快速功能键",
+      "电池类型": "10/可抽换式智慧型锂离子电池（Li-ion 9-cell）/4组锂电池/标准配备9槽可抽换式智慧型锂离子电池/可抽换式智慧型锂离子电池，标准配备8槽锂离子电池，开机时可持续充电/可抽换式智慧型锂离子电池，标准配8槽锂离子电池/可抽换式智慧型锂离子电池/可抽换式智慧型锂离子电池(Li-ion 9-cell)，具备电池容量LED显示装置",
+      "电源适配器": "APM 1.2 / ACPI 相容，支持Standby/ Suspend to Disk/ DRAM省电模式/支持AMP1.2、ACPI、冬眠及Standby省电模式，自动关机功能、Suspend to Disk/RAM 功能（STD/STR）智慧型电源管理模式可有效延长电池使用时间/支援智慧型省电管理功能ACPI 1.0，支援系统桌面管理介面(符合DMI 2.31 版 )/支持AMP1.2、ACPI、冬眠及Standby省电模式、自动关机功能、Suspend to Disk/RAM功能(STD/STR)/支持AMP1.2、ACPI、冬眠及Standby省电模式/智慧型电源管理模式可有效延长电池使用时间，支援AMP1.2、ACPI、冬眠及Standby省电模式、自动开机功能Suspend to Disk/RAM功能(STD/STR)",
+      "笔记本重量": "2.95Kg/3.1Kg/1.58Kg/2.8Kg/3.4Kg/2.19Kg/2.9Kg",
+      "CPU主频": "800MHz/700MHz/1000MHz",
+      "内存容量": "64.000/128.000/32.000",
+      "硬盘容量": "20GB/30.000/12.000/10GB",
+      "有线网卡": "10/100MBaseT/內建10 / 100 BaseT 高速乙太网路卡，内建无线上网天线/內建10/100MBaseT 高速乙太网路卡/802.11b Mini PCI Wireless LAN Card 内建式无线网路卡",
+      "操作系统": "Windows Me/Windows XP"
+    }
+  },
+  {
+    "name": "华硕MiNote M722H",
+    "manufacturer": "华硕",
+    "series": "华硕MiNote 5133S",
+    "opendb_id": "minote_5133s_intel",
+    "metadata": {
+      "CPU型号": "Intel 赛扬",
+      "CPU主频": "500MHz",
+      "总线规格": "BGA2 Package Processor，使用Intel®Celeron™ 处理器500 MHz，内建128KB全速二级快取记忆体，采用Phoenix 256KB Flash EPROM，含System BIOS、VGA BIOS",
+      "内存容量": "64.000",
+      "最大内存容量": "标准內建64MB SDRAM，具备1组144-pin SDRAM SO-DIMM记忆体扩充插槽，最高可扩充至192MB (使用者自行升级)",
+      "硬盘容量": "10GB",
+      "显卡芯片": "ATI Rage Mobility-M高性能3D加速晶片，支援LCD/CRT多重營幕顯示模式",
+      "显存类型": "4",
+      "音频系统": "全双工立体声环绕音效、隐藏式麦克风及喇叭",
+      "其它接口": "1组外接VGA荧幕接头，1组红外线传输埠，2组USB及2组迷你USB埠（附塑料防震盖），1组DC电源接头，1组外接麦克风/喇叭/耳机輸出接头，1组V.90/K56Flex数据机连接埠，1组IDE介面光碟机连接埠",
+      "指取设备": "高感度转迹触控板",
+      "键盘描述": "5组可自由设定的快速启动键，人性化WIN98相容键盘",
+      "电池类型": "标准4槽锂电池",
+      "电源适配器": "支援智慧型省電管理功能ACPI，支援系统桌面管理介面DMI2.X",
+      "笔记本重量": "1.6Kg"
+    }
+  }
+]

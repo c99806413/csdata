@@ -1,0 +1,65 @@
+[
+  {
+    "name": "华硕MNB 5400C",
+    "manufacturer": "华硕",
+    "series": "华硕MNB 5500",
+    "opendb_id": "mnb_5500_vga_smi_2mb_video_ram",
+    "metadata": {
+      "最大内存容量": "最大256MB",
+      "显卡芯片": "VGA SMI 2MB Video RAM",
+      "显存类型": "2",
+      "音频系统": "Sound Blaster Pro，立体声音效 全双工",
+      "有线网卡": "选件",
+      "其它接口": "1USB，1并口，1串口，一个SIR/Fast FIR的红外线传输接口，一个标准RJ11插孔，一个外接麦克风接插孔，一个外接扬声器接插孔，一个外接CD-ROM光驱接口",
+      "指取设备": "触摸板",
+      "电池类型": "充电式锂离子电池组",
+      "续航时间": "3",
+      "笔记本重量": "1.3Kg",
+      "特色功能": "选件：24倍CD-ROM光驱，汽车专用变压器，外接式充电器，专用背包",
+      "操作系统": "Windows 98"
+    }
+  },
+  {
+    "name": "华硕MNB 5500 (SMI 图形加速器)",
+    "manufacturer": "华硕",
+    "series": "华硕MNB 5500",
+    "opendb_id": "mnb_5500_smi",
+    "metadata": {
+      "总线规格": "Intel Mobile Celeron 466MHz(BGA-1 or u-PGA-1)，Award 256KB Flash ROM/Intel Mobile Pentium III 450/500 MHz(u-PGA-2), FSB/100 MHz，Award 256KB Flash ROM",
+      "最大内存容量": "两个144-pin扩充槽，支援3.3V SDRAM、32/64/128 MB (最大256 MB)/Two 144-pins SO-DIMM Sockets，64-bit data up/最大256MB/内存类型 SDRAM，最大256MB/内存类型 SDRAM",
+      "硬盘描述": "2.5寸9.5厘米高6.4GB硬碟/2.5寸9.5mm高6.0GB硬盘/2.5寸9.5mm高4.8GB硬盘/2.5寸9.5mm高6.0/12.0 GB硬碟",
+      "显卡芯片": "SMI 图形加速器",
+      "显存类型": "2/4",
+      "音频系统": "PCI音效、PC98相容，Sound Blaster Pro相容，内建一个扬声器及麦克风全双工声音/Sound Blaster Pro/Sound Blaster Pro 兼容，内建一个扬声器及麦克风、全双工/PCI音效、PC98相容S，ound Blaster Pro相容，内建一个扬声器及麦克风全双工声音",
+      "有线网卡": "可选/选件",
+      "其它接口": "一个9-pin的D-Sub Connector，一个16550A相容之序列埠，一个支援ECP/EPP模式之并列埠，一个外接萤幕连接埠，一个标准USB埠，一个支援SIR/CIR/FIR之红外线传输埠，一个标准RJ11插孔及符合V.90规格之56K数据机，一个?/One IrDA port supports SIR/ASKIR/FIR，One 9-pin D-sub Connector for serial port 16550A compatible，One 25-pin D-sub connector for Parallel port supports ECP/EPP mode，One 15-pin D-sub connector for CR/1USB，1并口，1串口，一个SIR/Fast FIR的红外线传输接口，一个标准RJ11插孔，一个外接麦克风接插孔，一个外接扬声器接插孔，一个外接CD-ROM光驱接口/一个标准RJ11插孔及符合V.99规格的56K MODEM，等/一个9-pin的 D-Sub connector 埠，一个16550A相容之序列埠，一个支援ECP/EPP模式之并列埠，一个外接显示屏连接埠，一个标准USB埠，一个支援SIR/Fast FIR之红外线传输埠，一个标准RJ11插孔及符合V.90规格之56K数据机/一个标准RJ11插孔",
+      "指取设备": "输入笔及触控板/触摸板控制/触摸板/触摸板/带手写输入输入笔及触控板/触控板",
+      "键盘描述": "83/85鍵Windows热键键盘，键盘间距17.5厘米，按键行程2.2厘米/83/85键WIN95键盘/83/85键Windows 98热键键盘，键盘间距17.5mm，按键行程2.2mm",
+      "电池类型": "6.4/充电式锂离子电池组",
+      "续航时间": "1.5/3",
+      "笔记本重量": "1.39Kg/1.3Kg",
+      "特色功能": "选件：24倍速CD-ROM光碟机，汽车专用变压器，外接式充电器/选件：24倍CD-ROM光驱，汽车专用变压器，外接式充电器，专用背包/可选24倍速CD-ROM、4倍速/6倍速DVD-ROM，汽车专用变压器，外接式充电器",
+      "操作系统": "Windows 98"
+    }
+  },
+  {
+    "name": "华硕MNB 5700C",
+    "manufacturer": "华硕",
+    "series": "华硕MNB 5500",
+    "opendb_id": "mnb_5500_pci_smi",
+    "metadata": {
+      "最大内存容量": "最大内存256MB",
+      "显卡芯片": "PCI，SMI 图形加速器",
+      "显存类型": "2",
+      "音频系统": "Sound Blaster Pro 兼容，内建一个扬声器及麦克风、全双工",
+      "有线网卡": "选件",
+      "其它接口": "1USB，1并口，1串口，一个SIR/Fast FIR的红外线传输接口，一个标准RJ11插孔，一个外接麦克风接插孔，一个外接扬声器接插孔，一个外接CD-ROM光驱接口",
+      "指取设备": "触摸板",
+      "电池类型": "充电式锂离子电池组",
+      "续航时间": "3",
+      "笔记本重量": "1000g",
+      "特色功能": "选件：24倍CD-ROM光驱，汽车专用变压器，外接式充电器，专用背包",
+      "操作系统": "Windows 98"
+    }
+  }
+]

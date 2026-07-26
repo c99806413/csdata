@@ -1,0 +1,28 @@
+[
+  {
+    "name": "华硕M2418-C",
+    "manufacturer": "华硕",
+    "series": "华硕M2418-C",
+    "opendb_id": "m2418_c",
+    "metadata": {
+      "CPU型号": "Intel 奔腾4-M",
+      "CPU主频": "1.8GHz",
+      "总线规格": "512K二级缓存",
+      "内存容量": "256MB",
+      "内存类型": "DDR",
+      "最大内存容量": "DDR266，有一组 SODIMM 内存扩充槽支援扩充至 640MB",
+      "硬盘容量": "40GB",
+      "硬盘描述": "IDE 硬盘支援 ATA-33/66/100 and S.M.A.R.T.",
+      "屏幕尺寸": "14.1英寸",
+      "显卡芯片": "SiS 650 Integrated Gfx",
+      "音频系统": "内建全双工3D AC'97立体音效设备；内建高品质麦克风与立体双声喇叭",
+      "有线网卡": "10/100",
+      "其它接口": "One EPP/ECP；One VGA ；Two USB；One LAN RJ45；One Phone RJ11；One 1394 B；Two Audio",
+      "指取设备": "内建触控板",
+      "键盘描述": "Desktop-like 19mm ergonomic full size & 2.3mm travel",
+      "电池类型": "长效智慧型锂电池",
+      "电源适配器": "全功能 SMI 电源管理，符合 ACPI 1.0b 规格,支援系统待命(Standby)、内存暂停(Suspend-To-RAM)或硬盘暂停(Suspend-to-Disk)功能",
+      "笔记本重量": "2Kg"
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "name": "华硕L7000 (P-II)",
+    "manufacturer": "华硕",
+    "series": "华硕L7000",
+    "opendb_id": "l7000_p_ii",
+    "metadata": {
+      "CPU型号": "P-II",
+      "CPU主频": "400MHz",
+      "总线规格": "支援Intel® MMC-1 Pentium® MMXTM，Mobile Pentium® II Modules，Mobile CeleronTM Module，或 Mobile Pentium® II-PE (Dixon) Module 处理器，可执行时脉200/233/266/300/333/366/400MHz，16KB内部/Intel® MMC-1 Pentium® processor with MMXTM Technology，Mobile Pentium® II Modules，Mobile CeleronTM Module，or Mobile Pentium®，Speeds at 200/233/266/300/333/366/400 MHz/Pentium® II Mobile Modules，Speeds at 333/366/400 MHz，32KB internal cache with 256/128KB pipelined burst L2 cache，Phoenix 256KB Flash EPROM，PMU，Plug & Play",
+      "内存容量": "32.000",
+      "最大内存容量": "内建32MB SDRAM，具有一组支援SODIMM记忆体扩充槽，主记忆体可扩充到160MB/32MB onboard，One SODIMM socket for expansion up to 160MB",
+      "硬盘容量": "6.000/10GB",
+      "硬盘描述": "抽取式2.5 IDE硬碟，支援Ultra DMA/33资料传输模式，YAMAHA YMF715E-S，可支援2GB/3GB/4GB/6GB或更高容量/2.5寸 12.7mm IDE HDD with Ultra DMA/33 supported，Supported capacities of 4/ 6/ 8/ 10GB/Removable 2.5寸 IDE HDD with Ultra DMA/33，Capacity in 3GB/4GB/5GB/6GB or higher",
+      "显卡芯片": "内建SMI 910图形加速器/SMI 910 Graphics Accelerator with 4MB/2MB SGRAM video memory，Supports LCD and external CRT display modes/SMI 820 with 2.5MB embedded ＋ 4MB external，Supports LCD and external dual displays (PC98 Compliant)，ALi M3309 MPEG2 decoder",
+      "显存类型": "4/2MB/4MB/2MB SGRAM/2.5/4MB",
+      "音频系统": "内建16位元3D立体音响效果，与Sound Blaster Pro相容全双工音效内建立体音响喇叭与麦克风/YAMAHA YMF715E-S，Built-in 16-bit stereo sound，Sound Blaster? Pro compatible, with 3D sound effects，Full-duplex audio，Built-in stereo speakers and microphone/Built-in stereo sound，Sound Blaster? Pro compatible, with 3D sound effects，Full-duplex audio，Built-in stereo speakers and microphone",
+      "其它接口": "一个串列口/9-pin D型接头，一个EPP/ECP并列口/25-pin D型接头，一个PS/2键盘，滑鼠接头/Y-cable，一个红外线传输口，支援IrDA V1.1，最大可到4Mbps，一个MIDI/Game Port，支援摇杆/DC-In passthrough jack powers PortBar and Notebook PC through cable，One 16550 UART compatible Serial port/D-sub 9-pin，One EPP/ECP Parallel port/D-sub 25-pin，Two PS/2 ports for Keyboard/Mouse，One V/One 16550 UART-compatible serial port/D-sub 9-pin，One EPP/ECP parallel port/D-sub 25-pin，One PS/2 keyboard/mouse port，Audio jacks for headphone/speaker-out、mic-in and line-in，One VGA port/mini D-",
+      "指取设备": "内建ALPS触控板/Built-in ALPS® TouchPad，2 click buttons",
+      "键盘描述": "类似桌上型电脑尺寸的86keys键盘具有WIN95功能键符合人体工学的键盘自动弹起设计/Desktop-like 19mm full-size 86-key keyboard with Win95 function keys (286mm x 104mm)，2.6mm travel with palm rest/Desktop-like 19mm full-size 86-key keyboard with Win95 function keys (110mm x 285mm)，2.6mm travel with palm rest",
+      "电池类型": "9颗锂电池/Li-on 9 cells，4500 mAh/Li-ion 9 cells，4500mAh",
+      "续航时间": "3.5",
+      "电源适配器": "全功能SMI电源管理，Stand-by模式与电脑进入睡眠状况时可先将资料储存到磁碟或记忆体，支援APM 1.2支援ACPI 1.0/Full feature SMI power management，stand-by，suspend-to-disk and suspend-to-RAM，APM 1.2 and 1.0 supported/Full feature SMI power management，stand-by, suspend-to-Disk and suspend-to-RAM，APM 1.2 supported，ACPI 1.0 supported",
+      "笔记本重量": "2.8Kg/2.65Kg",
+      "有线网卡": "Built-in 10/100M bps Intel-based Ethernet LAN module"
+    }
+  },
+  {
+    "name": "华硕L7000 (未知CPU)",
+    "manufacturer": "华硕",
+    "series": "华硕L7000",
+    "opendb_id": "l7000_cpu",
+    "metadata": {
+      "CPU主频": "650MHz",
+      "总线规格": "Intel Pentium III® Dixon TM processor with 256 On-Die L2 Cache or Cerelon Processor with 128 On Die L2 Cache，Speeds at 450/500/550/600/650MHz，mPGA 2 package (socketable)mPGA 2 package (socketabl/Intel Pentium III® or Cerelon Processor with 128 On Die L2 Cache，Speeds at 450/500/550/600/650MHz，mPGA 2 package (socketable)，Supports Intel's SpeedStep Technology，Phoenix 256KB Flash EPROM，P/支援Intel® Pentium® II DixonTM 处理器及256KB 爆发式管线L2快取记忆体或128KB on-die L2 快取记忆体for Celeron 处理器，mPGA1 package (socketable)，Phoenix 256KB Flash EPROM，PMU，支援随插即用",
+      "内存容量": "64.000",
+      "最大内存容量": "64MB SDRAM onboard/32MB 内建 SDRAM",
+      "硬盘容量": "12.000",
+      "硬盘描述": "2.5寸 9.5mm IDE HDD with Ultra DMA/33 supported，Supported capacities of 6/12GB/2.5寸 9.5mm IDE HDD with Ultra DMA/33 supported，Supported capacities of 4/ 6/ 8/ 10/ 12GB",
+      "显卡芯片": "SMI 710 2D VGA chip，128 bit wide/SMI 721 3D VGA chip",
+      "显存类型": "4/8",
+      "音频系统": "Built-in AC'97 stereo sound，with 3D sound effects ，Full-duplex audio，Built-in stereo speakers and microphone/Built-in AC'97 stereo sound，with 3D sound effects，Full-duplex audio，Built-in stereo speakers and microphone",
+      "其它接口": "One 16550 UART compatible Serial port/D-sub 9-pin，One Infrared ports support IrDa，3 Audio jacks：Speaker out/ Mic-in/ Line-in，One VGA port/mini D-sub 15-pin for external DDC monitor，One USB port，/DC-In passthrough jack powers PortBar and Notebook PC through cable，One 16550 UART compatible Serial port/D-sub 9-pin，One EPP/ECP Parallel port/D-sub 25-pin，Two PS/2 ports for Keyboard/Mouse，One V/One 16550 UART compatible Serial port/D-sub 9-pin，One Infrared ports support IrDa，3 Audio jacks ：Speaker out/ Mic-in/ Line-in，One VGA port/mini D-sub 15-pin for external DDC monitor，One USB port?",
+      "指取设备": "Built-in ALPS® TouchPad，2 click buttons",
+      "键盘描述": "Desktop-like 19mm full-size 86-key keyboard with Win95 function keys (286mm x 104mm)，2.6mm travel with palm rest",
+      "电池类型": "Li-on 9 cells/12",
+      "续航时间": "3.5",
+      "电源适配器": "Full feature SMI power management，stand-by，suspend-to-disk and suspend-to-RAM，APM 1.2 and 1.0 supported",
+      "笔记本重量": "2.65Kg",
+      "有线网卡": "Built-in 10/100M bps Intel-based Ethernet LAN module"
+    }
+  }
+]
