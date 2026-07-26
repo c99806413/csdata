@@ -1,0 +1,34 @@
+[
+  {
+    "name": "2060 SUPER (8GB)",
+    "manufacturer": "丽台",
+    "series": "2060 SUPER",
+    "opendb_id": "2060_super_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2060 SUPER",
+      "显示芯片系列": "NVIDIA RTX 20系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU106",
+      "核心频率": "1470-1650MHz/Base：1470 MHz，Boost：1650MHz",
+      "CUDA核心": "2176个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口/1×HDMI接口，3×DisplayPort接口，1×DVI-D接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "风冷散热",
+      "3D API": "DirectX 12，OpenGL 4.6/DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是，HDCP 2.2/是",
+      "产品尺寸": "230×111×35mm/267×111×35mm",
+      "最大功耗": "175W",
+      "建议电源": "500W以上/600W以上",
+      "其它特点": "VR Ready级别显卡，NVIDIA G-SYNC技术，NVIDIA GPU Boost",
+      "其他参数": "显存带宽：448GB/s"
+    }
+  }
+]

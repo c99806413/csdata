@@ -1,0 +1,56 @@
+[
+  {
+    "name": "HD7850系列 (2GB)",
+    "manufacturer": "镭风",
+    "series": "HD7850系列",
+    "opendb_id": "hd7850_2gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon HD 7850",
+      "显示芯片系列": "AMD 7800系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Pitcairn Pro",
+      "核心频率": "860/900MHz/860/950MHz/860/980MHz/860MHz",
+      "显存频率": "4800/5000MHz/4800MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "256bitbit/256bit",
+      "最大分辨率": "2560×1600",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口/六Mini DisplayPort接口",
+      "电源接口": "6pin/8pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇+热管散热/散热风扇+散热片（静音）+热管散热",
+      "3D API": "DirectX 11/DirectX 11.1",
+      "支持HDCP": "是",
+      "最大功耗": "130W",
+      "其它特点": "支持CrossFire技术，支持节能技术/支持CrossFire技术，支持节能技术显卡功耗：130W"
+    }
+  },
+  {
+    "name": "HD7850系列 (1GB)",
+    "manufacturer": "镭风",
+    "series": "HD7850系列",
+    "opendb_id": "hd7850_1gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon HD 7850",
+      "显示芯片系列": "AMD 7800系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Pitcairn Pro",
+      "核心频率": "860/900MHz",
+      "显存频率": "4800/5000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit/256bit",
+      "最大分辨率": "2560×1600/4096×2160",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇+热管散热/双散热风扇+热管散热",
+      "3D API": "DirectX 11/DirectX 11.1，OpenGL 4.2",
+      "支持HDCP": "是",
+      "其它特点": "支持CrossFire技术，支持节能技术/支持最新的AMD Eyefinity 2.0多屏技术，支持扩展扩展高达16K*16K分辨率显示输出，同时支持多种自定义排列位置。支持CrossFire双卡互联技术",
+      "最大功耗": "130W"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "name": "RTX 2070系列 (8GB)",
+    "manufacturer": "丽台",
+    "series": "RTX 2070系列",
+    "opendb_id": "rtx_2070_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2070",
+      "显示芯片系列": "NVIDIA RTX 20系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU106",
+      "核心频率": "Base clock：1410MHzBoost clock：1620MHz/Base clock：1410MHzBoost clock：1710MHz",
+      "CUDA核心": "2304个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口/1×HDMI接口，1×USB Type-C接口，3×DisplayPort接口",
+      "电源接口": "8pin/6pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "涡轮风扇/双风扇散热",
+      "3D API": "DirectX 12.1，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "267×111×35mm/214×117×41mm/274×120×38mm",
+      "最大功耗": "175W/185W",
+      "其它特点": "VR Ready级别显卡",
+      "上市日期": "2018年"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "GTX1060系列 (6GB)",
+    "manufacturer": "丽台",
+    "series": "GTX1060系列",
+    "opendb_id": "gtx1060_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1060",
+      "显示芯片系列": "NVIDIA GTX 10系列",
+      "制作工艺": "16纳米",
+      "核心代号": "GP106-400",
+      "核心频率": "1506/1783MHz",
+      "CUDA核心": "1280个",
+      "显存频率": "8008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "6GB",
+      "显存位宽": "192bit",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "涡轮风扇",
+      "3D API": "DirectX 12.1，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "241×111×36mm",
+      "最大功耗": "120W",
+      "其它特点": "支持NVIDIA 3D Vision Ready技术，3D Vision Surround支持DirectCompute",
+      "上市日期": "2017年"
+    }
+  },
+  {
+    "name": "GTX1060系列 (3GB)",
+    "manufacturer": "丽台",
+    "series": "GTX1060系列",
+    "opendb_id": "gtx1060_3gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1060",
+      "显示芯片系列": "NVIDIA GTX 10系列",
+      "制作工艺": "16纳米",
+      "核心代号": "GP106-400",
+      "核心频率": "1506/1783MHz",
+      "CUDA核心": "1152个",
+      "显存频率": "8008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "3GB",
+      "显存位宽": "192bit",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "涡轮风扇",
+      "3D API": "DirectX 12.1，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "241×111×36mm",
+      "最大功耗": "120W",
+      "其它特点": "支持NVIDIA 3D Vision Ready技术，3D Vision Surround支持DirectCompute",
+      "上市日期": "2017年"
+    }
+  }
+]

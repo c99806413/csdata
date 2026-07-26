@@ -1,0 +1,23 @@
+[
+  {
+    "name": "FX3450系列 (256GB)",
+    "manufacturer": "丽台",
+    "series": "FX3450系列",
+    "opendb_id": "fx3450_256gb",
+    "metadata": {
+      "芯片厂商": "nVIDIA",
+      "显卡芯片": "Quadro FX3450/QuadroFX 3450",
+      "核心代号": "NV42GL",
+      "核心频率": "425MHz",
+      "显存频率": "1000MHz",
+      "显存类型": "DDR3/DDRIII",
+      "显存容量": "256GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2048*1536",
+      "接口类型": "PCI-E 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "散热方式": "散热风扇",
+      "3D API": "Microsoft DirectX 9.0C/Microsoft DirectX 9.1"
+    }
+  }
+]

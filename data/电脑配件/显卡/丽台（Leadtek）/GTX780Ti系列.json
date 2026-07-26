@@ -1,0 +1,31 @@
+[
+  {
+    "name": "GTX780Ti系列 (3GB)",
+    "manufacturer": "丽台",
+    "series": "GTX780Ti系列",
+    "opendb_id": "gtx780ti_3gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 780 Ti",
+      "显示芯片系列": "NVIDIA GTX 700系列/NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK110",
+      "核心频率": "875/928MHz/1006/1072MHz",
+      "CUDA核心": "2304个/2880个",
+      "显存频率": "7000MHz/7200MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "3GB",
+      "显存位宽": "384bitbit/384bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "风冷散热/三风扇散热",
+      "3D API": "DirectX 11.1/OpenGL 4.3/DirectX 11.1，OpenGL 4.3",
+      "支持HDCP": "是",
+      "产品尺寸": "111×267mmmm/111×267mm",
+      "最大功耗": "250W",
+      "建议电源": "450W以上"
+    }
+  }
+]
