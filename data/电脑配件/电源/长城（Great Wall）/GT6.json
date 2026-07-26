@@ -1,0 +1,16 @@
+[
+  {
+    "name": "GT6",
+    "manufacturer": "长城",
+    "series": "GT6",
+    "opendb_id": "gt6",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "128GB/512GB/4TB/256GB/1TB/2TB",
+      "接口类型": "SATA3（6Gbps）",
+      "读取速度": "530MB/s/550MB/s",
+      "写入速度": "430MB/s/450MB/s/500MB/s",
+      "外形尺寸": "100×70×7mm"
+    }
+  }
+]

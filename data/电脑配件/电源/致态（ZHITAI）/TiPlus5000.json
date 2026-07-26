@@ -1,0 +1,21 @@
+[
+  {
+    "name": "TiPlus5000",
+    "manufacturer": "致态",
+    "series": "TiPlus5000",
+    "opendb_id": "tiplus5000",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "1TB/512GB/2TB",
+      "接口类型": "M.2 PCIe接口",
+      "闪存架构": "TLC三层单元",
+      "通道": "Gen3×4",
+      "读取速度": "3500MB/s",
+      "写入速度": "3100MB/s/2700MB/s/3200MB/s",
+      "4K随机读": "465000 IOPS/235000 IOPS/550000 IOPS",
+      "4K随机写": "390000 IOPS/380000 IOPS/400000 IOPS",
+      "平均无故障时间": "150万小时",
+      "其它性能": "接口类型：PCIe Gen3X4，NVMe1.3耐用等级：600TBW/接口类型：PCIe Gen3X4，NVMe1.3耐用等级：300TBW/接口类型：PCIe Gen3X4，NVMe1.3耐用等级：1200TBW"
+    }
+  }
+]
