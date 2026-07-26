@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Acer Aspire G3720",
+    "manufacturer": "Acer宏碁",
+    "series": "Acer Aspire G3720",
+    "opendb_id": "acer_aspire_g3720_nvidia_geforce_8400",
+    "metadata": {
+      "产品类型": "家用电脑",
+      "主板芯片组": "Intel 945GC",
+      "CPU系列": "英特尔 奔腾双核",
+      "CPU频率": "2200GHz",
+      "总线规格": "800",
+      "核心/线程数": "双核",
+      "内存容量": "2GB",
+      "硬盘容量": "320GB",
+      "硬盘描述": "高速SATA II硬盘（7200转）",
+      "光驱类型": "DVD刻录机",
+      "显卡类型": "独立显卡",
+      "显卡芯片": "nVIDIA GeForce 8400",
+      "显存容量": "256MB",
+      "显示器尺寸": "19英寸",
+      "显示器描述": "LCD",
+      "有线网卡": "100Mbps以太网卡",
+      "机箱类型": "立式"
+    }
+  },
+  {
+    "name": "Acer Aspire G3720（E4600/1GB/320GB）",
+    "manufacturer": "Acer宏碁",
+    "series": "Acer Aspire G3720",
+    "opendb_id": "acer_aspire_g3720_nvidia_geforce_9300ge",
+    "metadata": {
+      "产品类型": "家用电脑",
+      "主板芯片组": "Intel 945GC",
+      "CPU系列": "酷睿2双核",
+      "CPU频率": "2400GHz",
+      "总线规格": "800",
+      "核心/线程数": "双核",
+      "内存容量": "1GBGB",
+      "硬盘容量": "320GB",
+      "硬盘描述": "SATA2（7200转）",
+      "光驱类型": "DVD-ROM",
+      "显卡类型": "独立显卡",
+      "显卡芯片": "nVIDIA GeForce 9300GE",
+      "显存容量": "256MB",
+      "显示器尺寸": "19英寸",
+      "显示器描述": "宽屏LCD",
+      "有线网卡": "100Mbps以太网卡",
+      "机箱类型": "立式"
+    }
+  }
+]
