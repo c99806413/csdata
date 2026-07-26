@@ -1,0 +1,17 @@
+[
+  {
+    "name": "XG5 M.2系列",
+    "manufacturer": "东芝",
+    "series": "XG5 M.2系列",
+    "opendb_id": "xg5_m_2",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "256GB/1TB/512GB",
+      "接口类型": "M.2 SATA接口（NGFF）",
+      "闪存架构": "TLC三层单元",
+      "读取速度": "3000MB/s",
+      "写入速度": "2100MB/s",
+      "其它特点": "3D TLC NAND颗粒，支持NVMe"
+    }
+  }
+]

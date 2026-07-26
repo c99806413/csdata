@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Haishen H3900-AIC系列",
+    "manufacturer": "大普微",
+    "series": "Haishen H3900-AIC系列",
+    "opendb_id": "haishen_h3900_aic",
+    "metadata": {
+      "产品定位": "企业级",
+      "存储容量": "1.6TB/0.75TB",
+      "接口类型": "PCI-E接口",
+      "闪存架构": "eTLC96层单元",
+      "缓存": "128MB",
+      "通道": "Gen3×4",
+      "读取速度": "3500MB/s",
+      "写入速度": "3200MB/s/3100MB/s",
+      "4K随机读": "830000 IOPS",
+      "4K随机写": "288000 IOPS/300000 IOPS",
+      "平均无故障时间": "200万小时",
+      "系统要求": "RHEL，SLES，CentOS，Ubuntu，Windows Server，VMware ESXi",
+      "其它性能": "寿命：30 DWPD认证：FCC，CE，ROHS，REACH，WEEE，PCI express，NVM express外形：HHHL"
+    }
+  }
+]

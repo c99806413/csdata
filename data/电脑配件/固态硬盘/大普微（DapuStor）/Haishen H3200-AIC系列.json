@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Haishen H3200-AIC系列",
+    "manufacturer": "大普微",
+    "series": "Haishen H3200-AIC系列",
+    "opendb_id": "haishen_h3200_aic",
+    "metadata": {
+      "产品定位": "企业级",
+      "存储容量": "3.84TB/7.68TB/1.92TB/0.96TB",
+      "接口类型": "PCI-E接口",
+      "闪存架构": "eTLC96层单元",
+      "缓存": "128MB",
+      "通道": "Gen3×4",
+      "读取速度": "3500MB/s",
+      "写入速度": "2900MB/s/2600MB/s/1360MB/s",
+      "4K随机读": "800000 IOPS/580000 IOPS",
+      "4K随机写": "120000 IOPS/115000 IOPS/62000 IOPS",
+      "平均无故障时间": "200万小时",
+      "系统要求": "RHEL，SLES，CentOS，Ubuntu，Windows Server，VMware ESXi",
+      "其它性能": "寿命：1 DWPD认证：FCC，CE，ROHS，REACH，WEEE，PCI express，NVM express外形：HHHL"
+    }
+  }
+]
