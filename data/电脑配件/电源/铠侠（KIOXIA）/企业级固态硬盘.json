@@ -1,0 +1,17 @@
+[
+  {
+    "name": "企业级固态硬盘",
+    "manufacturer": "铠侠",
+    "series": "企业级固态硬盘",
+    "opendb_id": "",
+    "metadata": {
+      "产品定位": "企业级",
+      "存储容量": "1.92TB/7.68TB/1.60TB/3.20TB/6.40TB/3.84TB/12.8TB/30.7TB/15.30TB/15.3TB/800GB/6.4TB/3.2TB/1.6TB",
+      "接口类型": "U.3接口/SAS接口/U.2接口",
+      "闪存架构": "TLC三层单元",
+      "读取速度": "4150MB/s/6650MB/s/6900MB/s/6450MB/s/6700MB/s",
+      "写入速度": "2700MB/s/3700MB/s/4500MB/s/2800MB/s/3000MB/s/2450MB/s/4000MB/s/4200MB/s",
+      "其它特点": "1DWPDRW125KIOPS/1DWPDRW155KIOPS/1DWPD/3DWPD/RW290KIOPS3DWPD/1DWPDRW115KIOPS"
+    }
+  }
+]
