@@ -1,0 +1,21 @@
+[
+  {
+    "name": "X4 Plus M.2",
+    "manufacturer": "影驰",
+    "series": "X4 Plus M.2",
+    "opendb_id": "x4_plus_m_2",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "1TB/500GB",
+      "接口类型": "M.2接口",
+      "硬盘尺寸": "80mm(L)*22mm(W)*1.5mm(H)",
+      "主控芯片": "PS5021-E21T",
+      "通道": "Gen4×4",
+      "读取速度": "5000MB/s",
+      "写入速度": "4700MB/s/4500MB/s",
+      "4K随机读": "760K IOPS/620K IOPS",
+      "4K随机写": "1100K IOPS/1000K IOPS",
+      "其它性能": "TBW：600TBW/TBW：300TBW"
+    }
+  }
+]

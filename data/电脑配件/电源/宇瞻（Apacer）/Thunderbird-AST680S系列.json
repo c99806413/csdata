@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Thunderbird-AST680S系列",
+    "manufacturer": "宇瞻",
+    "series": "Thunderbird-AST680S系列",
+    "opendb_id": "thunderbird_ast680s",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "480GB/128GB/64GB/240GB",
+      "接口类型": "SATA3（6Gbps）",
+      "闪存架构": "（MLC）/TLC",
+      "读取速度": "525MB/s/440MB/s/520MB/s",
+      "写入速度": "500MB/s/380MB/s/205MB/s",
+      "防震能力": "1500G",
+      "外形尺寸": "100×69.9×7mm",
+      "工作温度": "0-70℃",
+      "其它性能": "支持ECC低功耗：870mA"
+    }
+  }
+]

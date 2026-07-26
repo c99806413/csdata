@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SPARK M.2系列",
+    "manufacturer": "扎达克",
+    "series": "SPARK M.2系列",
+    "opendb_id": "spark_m_2",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "512GB/2TB/1TB/3TB",
+      "接口类型": "M.2 PCIe接口",
+      "闪存架构": "TLC三层单元",
+      "通道": "Gen3×4",
+      "读取速度": "3200MB/s",
+      "S.M.A.R.T.支持": "支持"
+    }
+  }
+]
