@@ -1,0 +1,49 @@
+[
+  {
+    "name": "宏基TravelMate 210 211TXV (ATI/Trident Aladdin il 2XAGP 2D/3D 图形控制器)",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 210 211TXV",
+    "opendb_id": "travelmate_210_211txv_ati_trident_aladdin_il_2xagp_2d_3d",
+    "metadata": {
+      "CPU型号": "Intel 赛扬",
+      "CPU主频": "750MHz",
+      "内存容量": "64.000",
+      "硬盘容量": "10GB",
+      "显卡芯片": "ATI/Trident Aladdin il 2XAGP 2D/3D 图形控制器",
+      "显存类型": "8",
+      "音频系统": "Crystal音效系统含二个喇叭 SoundBlaster Pro及MS-Sound系统兼容3D音效 外置音量调节钮 内置麦克风",
+      "有线网卡": "有",
+      "其它接口": "一个CardBus（type-Ⅱ/1Xtype-III）插槽，支持ZV-Port，一个DC-IN插孔可连接变压器，一个外接VGA接口，一个ECP/EPP并口，一个RJ11插孔可连接56K bpsFax/Modem，一个PS/2兼容键盘/鼠标",
+      "指取设备": "内键触控板",
+      "键盘描述": "84/85/88键，反向T游标配置，键盘间距19mm，按键行程3mm（最小）",
+      "电池类型": "NiMH电池",
+      "续航时间": "2.5",
+      "电源适配器": "ACPI 1.0b兼容",
+      "笔记本重量": "2.93Kg",
+      "特色功能": "选项 备用电池 32/64/128MB 64位SDRAM so DIMM模组 备用变压器 USB摄像头"
+    }
+  },
+  {
+    "name": "宏基TravelMate 210 212TXV",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 210 211TXV",
+    "opendb_id": "travelmate_210_211txv_ati_trident_aladdin_il_2_agp_2d_3d_3d_2x_agp_mpeg_ii_dvd",
+    "metadata": {
+      "CPU型号": "Intel 赛扬",
+      "CPU主频": "800MHz",
+      "内存容量": "64.000",
+      "硬盘容量": "10GB",
+      "显卡芯片": "ATI/Trident Aladdin il 2*AGP 2D/3D 图形控制器，支持硬件3D影像及2X AGP规格，具备MPEG II /DVD动态补偿影像加速功能，可提供全速影像播放，具备液晶屏幕与外接屏幕同时显示功能",
+      "显存类型": "8",
+      "音频系统": "Crystal音效系统含二个喇叭，SoundBlaster Pro及MS-Sound系统兼容3D音效 ，外置音量调节钮，内置麦克风",
+      "有线网卡": "有",
+      "其它接口": "一个CardBus (type-Ⅱ/1Xtype-III)插槽，支持ZV-Port，一个DC-IN插孔可连接变压器，一个外接VGA接口，一个ECP/EPP并口， 一个RJ11插孔可连接56K bpsFax/Modem，一个PS/2兼容键盘/鼠标接口，一个喇叭/耳机/Line-Out插",
+      "指取设备": "内键触控板，位于键盘下方手腕支撑中央，具备两个按钮",
+      "键盘描述": "84/85/88键，反向T游标配置，键盘间距19mm，内建互联网卷动装置",
+      "电池类型": "NiMH电池",
+      "电源适配器": "ACPI 1.0b兼容",
+      "笔记本重量": "2.93Kg",
+      "特色功能": "选项：备用电池，32/64/128MB 64位SDRAM so DIMM模组，备用变压器，USB摄像头"
+    }
+  }
+]

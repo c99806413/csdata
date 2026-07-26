@@ -1,0 +1,54 @@
+[
+  {
+    "name": "宏基TravelMate 360",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 360 361EV",
+    "opendb_id": "travelmate_360_361ev_4x_agp_3d_dualview_mpeg_2_dvd_crt_2048_1536_16_7_crt",
+    "metadata": {
+      "CPU主频": "1.26GHz",
+      "总线规格": "Mobile Intel® Pentium® III-M处理器933MHz/ 1GHz/ 1.06GHz/ 1.13GHz/ 1.20GHz/ 1.26GHz，內建on-die 512KB第二快取记忆体；支援加强型Intel® SpeedStep™技术，Intel® 830M型晶片组；133MHz处",
+      "内存容量": "256MB",
+      "最大内存容量": "标准配备128/256MB PC-133 SDRAM，soDIMM双插槽可升级至1024MB ；512KB flash BIOS；支援shadow RAM",
+      "硬盘容量": "30.000",
+      "硬盘描述": "20GB或30GB Ultra ATA/100硬碟，含DASP(Disk Anti-Shock Protection)硬碟防震系统",
+      "显卡芯片": "4x AGP 3D绘图介面；DualView™支援，MPEG-2/DVD硬体辅助播放功能，CRT显示器，解析度2048 × 1536, 16.7百万色，非交错式外接CRT",
+      "显存类型": "8到32MB Intel® DVMT型动态配置的SDRAM记忆体缓冲区",
+      "音频系统": "配备内喇叭的音效系统，支援SoundBlaster-Pro及MS-Sound System ，内建麦克风",
+      "有线网卡": "整合式Acer InviLink™ IEEE 802.11b无线区域网路及隐藏式天线，10/100Mbps高速乙太网路卡，Wake-on-LAN-ready功能",
+      "其它接口": "1组CardBus type II插槽，1组Smart Card (智慧卡)介面插槽，1组RJ11数据机接头，1组RJ45乙太网路接头，1组DC-in AC变压器接头，1组外接式VGA连接埠，1组喇叭/耳机/线路输出（line-out）插孔，1组麦克风/线路输入（",
+      "指取设备": "内建触控板指标装置，含人体工学按键与整合式双向卷轴键",
+      "键盘描述": "Acer FineTouch键盘",
+      "电池类型": "40Wh锂离子电池组",
+      "续航时间": "3.5",
+      "电源适配器": "ACPI 1.0电源管理标准，支持待机(Standby)和休眠(Hibernation)省电模式",
+      "笔记本重量": "1.8Kg",
+      "特色功能": "附件：I/O Replicator (1组100-pin船坞连接埠/1组平行埠，1组序列埠），2组TravelMate Smart Cards（智慧卡）"
+    }
+  },
+  {
+    "name": "宏基TravelMate 360 361EV (支持 2 个独立显示16.7M 颜色的双显 DualViewTM，支持硬件 3D 图形控制器和 2 x AGP，MPEG-2/DVD 硬件)",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 360 361EV",
+    "opendb_id": "travelmate_360_361ev_2_16_7m_dualviewtm_3d_2_x_agp_mpeg_2_dvd",
+    "metadata": {
+      "CPU主频": "1000MHz",
+      "总线规格": "带有Intel®SpeedStepTM技术的Intel®奔腾®III处理器1GHz，集成影像和声音的Ali M1632和M1535核心逻辑芯片组，100MHz处理器系统总线/Intel®Pentium®III笔记本专用处理器933MHz/1GHz/1.06GHz ，集成256K L2 缓存 具有Intel®SpeedStepTM技术，830M核心逻辑芯片组，133MHz处理器系统总线/Intel®Pentium®III笔记本专用处理器，集成256K L2 缓存 具有Intel®SpeedStepTM技术，830M核心逻辑芯片组，133MHz处理器系统总线",
+      "内存容量": "256MB/20.000",
+      "最大内存容量": "双soDIMM 槽可升级到的 512MB，512KB闪存/128/256MB PC-133 SDRAM，soDIMM 槽可升级到1024MB，512KB闪存/256MB PC-133 SDRAM，soDIMM 槽可升级到1024MB，512KB闪存",
+      "硬盘容量": "20GB",
+      "硬盘描述": "有DASP抗震保护系统的 10GB 或更高容量的Ultra ATA/66 硬盘/有DASP抗震保护系统的20GB或更高容量的Ultra ATA/100 硬盘",
+      "显卡芯片": "支持 2 个独立显示16.7M 颜色的双显 DualViewTM，支持硬件 3D 图形控制器和 2 x AGP，MPEG-2/DVD 硬件",
+      "显存类型": "8/8MB",
+      "音频系统": "音效系统含一个喇叭 SoundBlaster Pro 及MS-DirectSound 系统兼容 内建麦克风/兼容speakerSoundBlaster-Pro和MS-Sound 声音系统，内置麦克风",
+      "有线网卡": "10/100M-Lan/10/100M-Lan，支持802.11b无线局域网，内建 Acer InviLinkTMIEEE 1394，模块化的以太网微型 PCI 模块，支持 Wake-on-LAN/100M",
+      "其它接口": "1个CardBus TYPE II 支持ZV，1个保全卡接口槽，1个RJ11插孔可连接56kbps Fax/modem，1个RJ45 网络接口，1个DC-IN插孔可连接变压器，1个PS/2键盘/鼠标端口，1个外接VGA端口，1个喇叭/耳机/Line-Out/Line-in插孔， 1/1 x CardBus type II，1 x Smart Card 接口，1 x RJ11插孔可连接56KBPS FAX/MODEM，1 x RJ45 网络接口，1 x DC-in 插孔可连接变压器，1 x PS/2键盘/鼠标/端口，1 x 喇叭/耳机/Line-out/Line -in 插孔，1 x 内置麦?",
+      "指取设备": "内键触控板，位于键盘下方手腕支撑中央，具备两个按钮",
+      "键盘描述": "Acer 曲线键盘/Acer曲线键盘/Acer曲线键盘：5o自然弯曲，84/85/88键，反向T型方向键布局，18.5mm 间距，2.5mm ( min ) 按键间距",
+      "电池类型": "锂离子电池/20/P-III 1130",
+      "续航时间": "2.5/3.5",
+      "电源适配器": "省电模式的ACPI 1.0电源管理标准支持待机和 Hibernation 模式/省电模式的 ACPI 1.0 电源管理标准支持待机和Hibernation 模",
+      "笔记本重量": "1.8Kg",
+      "特色功能": "选项：备用锂电池 64/128 MB 64位SDRAM 内存模组 备用变压器 EasyLinkTM Combo Drive USB摄像头/Microsoft® Windows®Xp简体中文版、Acer Notebook Manager、Intel®LAN Desk®Client Manager、Adobe Acrobat Reader、Acer On-line User's Guide、Norton®AntiVirus、含Recovery CD/* 除了简洁的外表，TravelMate 360 还拥有威力强大的，最新的移动PC处理器－Intel®奔腾® III处理器，同时还具Intel®SpeedStepTM技术。另外，性能更好的芯片组，高速的内存，13.3的大屏幕显示等其他特性?"
+    }
+  }
+]

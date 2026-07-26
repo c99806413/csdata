@@ -1,0 +1,74 @@
+[
+  {
+    "name": "宏基TravelMate 620 621LCI (4x AGP 3D绘图介面；DualView™支援，MPEG-2/DVD硬体辅助播放功能)",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 620 621LCI",
+    "opendb_id": "travelmate_620_621lci_4x_agp_3d_dualview_mpeg_2_dvd",
+    "metadata": {
+      "CPU主频": "1000MHz",
+      "总线规格": "Mobile Intel® Pentium® III-M处理器1GHz/1.13GHz/ 1.20GHz以上，使用0.13微米技术，內建512KB L2快取记忆体；支援加强型Intel® SpeedStep™技術，Intel® 830M型晶片組；133MHz处理器系统流排",
+      "内存容量": "256MB",
+      "最大内存容量": "256MB Max 1024MB(256x2MB)/标准配备/256MB PC-133 SDRAM，soDIMM双插槽可升级至1024MB",
+      "硬盘容量": "30.000",
+      "硬盘描述": "30GB Ultra ATA/100硬碟，含DASP(Disk Anti-Shock Protection)硬碟防震系统/20GB或30GB Ultra ATA/100硬碟，含DASP(Disk Anti-Shock Protection)硬碟防震系统",
+      "显卡芯片": "4x AGP 3D绘图介面；DualView™支援，MPEG-2/DVD硬体辅助播放功能",
+      "显存类型": "11MB (4MB显示器专用快取记忆体 以及7MB Intel DVMT)/8到32MB Intel® DVMT型动态配置的SDRAM记忆体缓冲区",
+      "音频系统": "配备一对喇叭的音效系統，支援SoundBlaster-Pro及MS-Sound System，內建麦克风",
+      "有线网卡": "整合式Acer InviLink™ IEEE 802.11b无线区域网路及隐藏式天线，10/100Mbps高速乙太网路介面，Wake-on-LAN-ready功能",
+      "其它接口": "CardBus type II插槽，Smart Card (智慧卡)介面插槽，RJ11数据机接头，RJ45乙太网路接头，DC-in AC变压器接头，ECP/EPP相容之平行埠，外接式VGA连接埠，喇叭/耳机/线路输出（line-out）插孔，麦克风/线路输入（lin",
+      "指取设备": "内建触控板指标装置，含人体工学按键与整合式双向卷轴键",
+      "键盘描述": "Acer FineTouch键盘；84/85/88键",
+      "电池类型": "58Wh锂离子电池组",
+      "续航时间": "4/4.5",
+      "电源适配器": "ACPI 1.0电源管理标准，Standby(暫停)和Hibernation(休眠)省电模式",
+      "笔记本重量": "2.54Kg",
+      "特色功能": "附件：2组TravelMate Smart Cards (智慧卡)，1组CD-RW光碟片(适用配备DVD/CD-RW整合式光碟机模組)"
+    }
+  },
+  {
+    "name": "宏基TravelMate 620 621TXV",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 620 621LCI",
+    "opendb_id": "travelmate_620_621lci_3d_4x_agp_mpeg_ii_dvd_2048_x_1536_16_7m",
+    "metadata": {
+      "总线规格": "Intel®Pentium®III笔记本专用处理器1GHz，内建512KB L2 Cache，具有Intel®SpeedStepTM技术Intel®830M芯片组，133MHz系统总线",
+      "最大内存容量": "标准128 SDRAM，可扩充至1024MB so DIMM模组",
+      "硬盘描述": "Ultra ATA/100硬盘",
+      "显卡芯片": "支持双重显示(Dual-View)功能，支持硬件3D影像及4X AGP规格，具备MPEG II /DVD动态补偿影像加速功能，可提供全速影像播放，具备液晶屏幕与外接屏幕同时显示功能，外接显示器分辨率可达2048 x 1536，16.7M色",
+      "显存类型": "8 到32MB",
+      "音频系统": "音效系统含二个喇叭，内置麦克风，SoundBlaster Pro及MS-Direct Sound兼容",
+      "有线网卡": "10/100Mbps自适应网卡，支持 IEEE 802.11b 无线局域网",
+      "其它接口": "E-mail来信指示灯",
+      "指取设备": "内键触控板，位于键盘下方手腕支撑中央，具备两个按钮",
+      "键盘描述": "84/85/88键，反向T游标配置，键盘间距18.5mm，按键行程2.5mm(最小)，弧形键盘,内建互联网卷动装置，包括退后，前进，向上卷动及向下卷动功能，供浏览时使内建互联网卷动装置，包括退后，前进，向上卷动及向下卷动功?",
+      "电池类型": "高端型",
+      "续航时间": "2.5",
+      "电源适配器": "ACPI2.0兼容",
+      "笔记本重量": "2.54Kg",
+      "特色功能": "Intel®Pentium®III笔记本专用处理器1GHz，内建512KB L2 Cache，具有Intel®SpeedStepTM技术Intel®830M芯片组，133MHz系统总线"
+    }
+  },
+  {
+    "name": "宏基TravelMate 620 621XC",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 620 621LCI",
+    "opendb_id": "travelmate_620_621lci_3d_4x_agp_mpeg_ii_dvd",
+    "metadata": {
+      "总线规格": "1 x CardBus （type-Ⅱ）插槽，1 x Smart Card，1 x RJ-11 56KBPS FAX/modem接口，1 x RJ-45 网络接口，1 x DC-in 插孔可连接变压器，1 x 串并口扩展接线，1 x 外接 VGA 接口，1 x一个喇叭/耳机/ line-out 接口，1 x",
+      "内存容量": "20.000",
+      "硬盘描述": "20GB或更高容量的Ultra ATA/100硬盘",
+      "显卡芯片": "支持双重显示(Dual-View)功能，支持硬件3D影像及4X AGP规格，具备MPEG II /DVD动态补偿影像加速功能，可提供全速影像播放，具备液晶屏幕与外接屏幕同时显示功能",
+      "显存类型": "8 到32MB 显存",
+      "音频系统": "音效系统含二个喇叭，内置麦克风，SoundBlaster Pro及MS-Direct Sound兼容",
+      "有线网卡": "10/100Mbps自适应网卡，支持 IEEE 802.11b 无线局域网",
+      "其它接口": "E-mail来信指示灯",
+      "指取设备": "内键触控板，位于键盘下方手腕支撑中央，具备两个按钮",
+      "键盘描述": "84/85/88键，反向T游标配置，键盘间距18.5mm，按键行程2.5mm(最小)，弧形键盘内建互联网卷动装置，包括退后，前进，向上卷动及向下卷动功能，供浏览时使用，12个功能键，4个方向键，2个WINDOWS键，热键控制，内嵌式?",
+      "电池类型": "P-III 1000",
+      "续航时间": "2.5",
+      "电源适配器": "ACPI2.0兼容",
+      "笔记本重量": "2.54Kg",
+      "特色功能": "TravelMate 620实现了可靠的性能、完善的功能和卓越的便携性能的完美结合。基于一个可移动的千兆级速度的Intel®奔腾® III处理器，133兆总线，和快速SDRAM内存，TravelMate 620为苛刻的商业应用提供有力的支?"
+    }
+  }
+]

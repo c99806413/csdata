@@ -1,0 +1,51 @@
+[
+  {
+    "name": "宏基TravelMate 350 350TE (Intel PIII)",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 350 350TE",
+    "opendb_id": "travelmate_350_350te_intel_piii",
+    "metadata": {
+      "CPU型号": "Intel PIII",
+      "CPU主频": "650MHz/700MHz/800MHz",
+      "内存容量": "64.000/128.000",
+      "硬盘容量": "10GB/20GB",
+      "硬盘描述": "Ultra ATA/66",
+      "显卡芯片": "ATI Rage Mobility-M1控制芯片/支持2个独立显示16.7M 颜色的双显 DualViewTM 支持硬件 3D 图形控制器和 2X AGP MPEG-2/DVD 硬件",
+      "显存类型": "4/8MB",
+      "音频系统": "符合SoundBlaster-Pro和MS DirectSound compatible标准/声卡/音效系统含一个喇叭 SoundBlaster Pro 及MS-DirectSound 系统兼容 内建麦克风",
+      "有线网卡": "10/100M/支持 Wake-on-LAN 模块化的以太网微型 PCI 模块, 支持 Wake-on-LAN/有",
+      "其它接口": "2个USB接口 1个FIR接口 1个PS/2接口 1个RJ11接口 1个外部VGA接口 1个麦克风接口 1个IEEE1394接口 1个100-pin docking/1个CardBus TYPE II 支持ZV，1个保全卡接口槽，1个RJ11插孔可连接56kbps Fax/modem，1个RJ45 网络接口，1个DC-IN插孔可连接变压器，1个PS/2键盘/鼠标端口，1个外接VGA端口，1个喇叭/耳机接口等",
+      "指取设备": "有/内键触控板",
+      "键盘描述": "84键宏基键盘（包括12个功能键和4个方向键）/Acer 曲线键盘",
+      "电池类型": "34WH锂离子电池组/锂离子电池",
+      "续航时间": "2.5",
+      "电源适配器": "ACPI 1.0 电源管理标准/省电模式的ACPI 1.0电源管理标准支持待机和 Hibernation 模式",
+      "笔记本重量": "1.8Kg",
+      "特色功能": "标配摄像头，简体中文WinMe 可选：24x CDROM 和 1.44MB 3.5"
+    }
+  },
+  {
+    "name": "宏基TravelMate 350 350TE (未知CPU)",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 350 350TE",
+    "opendb_id": "travelmate_350_350te_cpu",
+    "metadata": {
+      "硬盘描述": "有DASP抗震保护系统的 10GB 或更高容量的Ultra ATA/66 硬盘",
+      "显卡芯片": "支持2个独立显示16.7M 颜色的双显 DualViewTM，支持硬件 3D 图形控制器和2X AGP，MPEG-2/DVD 硬件/支持2个独立显示16.7M 颜色的双显 DualViewTM 支持硬件 3D 图形控制器和 2X AGP MPEG-2/DVD 硬件",
+      "显存类型": "4/8MB",
+      "音频系统": "音效系统含一个喇叭, SoundBlaster Pro 及MS-DirectSound 系统兼容,内建麦克风/音效系统含一个喇叭 SoundBlaster Pro 及MS-DirectSound 系统兼容 内建麦克风",
+      "有线网卡": "10/100M，模块化的以太网微型 PCI 模块，支持 Wake-on-LAN",
+      "其它接口": "1个CardBus TYPE II 支持 ZV，1个保全卡接口槽.1个 RJ11 插孔可连接56kbps Fax/modem，1个 RJ45 网络接口，1个DC-IN插孔可连接变压器，1个 PS/2 键盘/鼠标端口，1个外接 VGA 端口，1个喇叭/耳机/Line-Out/Line-in?/1个CardBus TYPE II 支持ZV，1个保全卡接口槽，1个RJ11插孔可连接56kbps Fax/modem，1个RJ45 网络接口，1个DC-IN插孔可连接变压器，1个PS/2键盘/鼠标端口，1个外接VGA端口，1个喇叭/耳机/Line-Out/Line-in插孔， 1",
+      "指取设备": "内键触控板，位于键盘下方手腕支撑中央，具备两个按钮",
+      "键盘描述": "Acer 曲线键盘",
+      "电池类型": "20/锂离子电池",
+      "续航时间": "2.5",
+      "电源适配器": "省电模式的 ACPI 1.0 电源管理标准支持待机和 Hibernation 模式/省电模式的ACPI 1.0电源管理标准支持待机和 Hibernation 模式",
+      "笔记本重量": "1.8Kg",
+      "特色功能": "Microsoft®Windows®Millennium Edition或Windows®2000 Professional简体中文版，Acer Notebook Manager，PC-cillin，PC-Doctor，含Recovery CD/选项：备用锂电池 64/128 MB 64位SDRAM 内存模组 备用变压器 EasyLinkTM Combo Drive USB摄像头",
+      "CPU主频": "850MHz",
+      "内存容量": "128.000",
+      "硬盘容量": "20GB"
+    }
+  }
+]

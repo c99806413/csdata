@@ -1,0 +1,122 @@
+[
+  {
+    "name": "宏基TravelMate 340",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 340 341T",
+    "opendb_id": "travelmate_340_341t_trident_cb9525_64_bit_agp_3d_2x_agp",
+    "metadata": {
+      "CPU型号": "Intel PIII",
+      "硬盘描述": "6GB~9GB Ultra ATA/33 HDD",
+      "显卡芯片": "Trident CB9525 64-bit图型加速器 接口：AGP支持硬体3D影像及2X AGP支持双重显示（Dual-View）功能（Windows98环境）",
+      "显存类型": "2.5",
+      "音频系统": "PCI音效系统含喇叭，SoundBlaster-Pro与MS-Sound System兼容",
+      "有线网卡": "内建Ethernet 10/100",
+      "其它接口": "CardBus Type II插槽，RJ11 56kbps Fax/Modem插孔RJ45 LAN插孔，DC输入接头，RS-232（16550兼容），ECP/EPP PS/2兼容键盘及滑鼠接头，外接VGA显示卡接头，喇叭/耳机/输出插孔音源输入插孔，麦克风输入插孔，USB接?",
+      "指取设备": "内建2键式触控板，上网专用滑轮键",
+      "键盘描述": "84/85/89键",
+      "电池类型": "6",
+      "续航时间": "2.5",
+      "电源适配器": "ACPI1.0电源管理系统，支持待机（Standby）及睡眠（Hibernation）省电模式",
+      "笔记本重量": "1.89Kg",
+      "特色功能": "Microsoft Windows 98中文版（含Recovery CD）Desktop Management Interface（DMI）2.0兼容"
+    }
+  },
+  {
+    "name": "宏基TravelMate 340 341T",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 340 341T",
+    "opendb_id": "travelmate_340_341t_2x_agp",
+    "metadata": {
+      "CPU型号": "Intel PIII",
+      "CPU主频": "500MHz",
+      "内存容量": "64.000",
+      "硬盘容量": "6.000",
+      "硬盘描述": "Ultra ATA/33 HDD",
+      "显卡芯片": "支持2X AGP接口",
+      "显存类型": "2.5",
+      "音频系统": "SoundBlaster-Pro与MS-Sound System兼容，PCI音效系统（含喇叭）",
+      "有线网卡": "内建Ethernet 10/100",
+      "其它接口": "CardBus Type II插槽 RJ11 56kbps Fax/Modem插孔RJ45 LAN插孔 DC 输入接头 RS-232（16550兼容） ECP/EPP PS/2兼容键盘及滑鼠接头外接VGA显示卡接头 喇叭/耳机",
+      "指取设备": "内建2键式触控板",
+      "键盘描述": "84/85/89键",
+      "电池类型": "30WH锂离子电池组",
+      "续航时间": "2.5",
+      "电源适配器": "ACPI1.0电源管理系统",
+      "笔记本重量": "1.86Kg",
+      "特色功能": "软件支持：开机与HDD密码锁定TimeMachine PC-Doctor自我侦测程式"
+    }
+  },
+  {
+    "name": "宏基TravelMate 340 343TV",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 340 341T",
+    "opendb_id": "travelmate_340_341t_trident_cb9525_64_bit_2x_agp",
+    "metadata": {
+      "CPU型号": "Intel PIII",
+      "CPU主频": "500MHz",
+      "内存容量": "128.000",
+      "硬盘容量": "12.000",
+      "硬盘描述": "Ultra ATA/33 HDD",
+      "显卡芯片": "Trident CB9525 64-bit图型加速器支持2X AGP接口",
+      "显存类型": "2.5",
+      "音频系统": "PCI音效系统（含喇叭）SoundBlaster-Pro与MS-Sound System兼容",
+      "有线网卡": "内建Ethernet 10/100",
+      "其它接口": "CardBus Type II插槽 RJ11 56kbps Fax/Modem插孔 RJ45 LAN插孔 DC输入接头RS-232（16550兼容） ECP/EPP PS/2兼容键盘及滑鼠接头外接VGA显示卡接头喇叭/耳机/输",
+      "指取设备": "内建2键式触控板",
+      "键盘描述": "84/85/89键",
+      "电池类型": "30WH锂离子电池组",
+      "续航时间": "2.5",
+      "电源适配器": "ACPI1.0电源管理系统",
+      "笔记本重量": "1.86Kg",
+      "特色功能": "可选部件：锂离子电池组 USB Camera Kit 外接数字键盘60W AC变压器 USB1.0规格"
+    }
+  },
+  {
+    "name": "宏基TravelMate 340 345T",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 340 341T",
+    "opendb_id": "travelmate_340_341t_trident_cb9525_64_bit_2_5mb_sdram_3d_2x_agp",
+    "metadata": {
+      "CPU型号": "Intel PIII",
+      "CPU主频": "600MHz",
+      "内存容量": "64.000",
+      "硬盘容量": "6.000",
+      "硬盘描述": "Ultra ATA/33 HDD",
+      "显卡芯片": "Trident CB9525 64-bit图型加速器含2.5MB SDRAM，支持硬体3D影像及2X AGP，支持双重显示(Dual-View)功能(Windows® 98环境)",
+      "显存类型": "2.5",
+      "音频系统": "PCI音效系统(含喇叭)，SoundBlaster-Pro与MS-Sound System兼容",
+      "有线网卡": "Ethernet 10/100",
+      "其它接口": "RJ11 56kbps Fax/Modem插孔，RJ45 LAN插孔，DC 输入接头，RS-232(16550兼容)，ECP/EPP，PS/2兼容键盘及滑鼠接头，外接VGA显示卡接头，喇叭/耳机/输出插孔，音源输入插孔，麦克风输入插孔，USB接头，EasyLink IDE接",
+      "指取设备": "内建2键式触控板",
+      "键盘描述": "84/85/89键",
+      "电池类型": "30WH锂离子电池组",
+      "续航时间": "2.5",
+      "电源适配器": "ACPI1.0电源管理系统",
+      "笔记本重量": "1.86Kg"
+    }
+  },
+  {
+    "name": "宏基TravelMate 340 347TV",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 340 341T",
+    "opendb_id": "travelmate_340_341t_trident_cb9525_64_bit_2_5mb_sdram_3d_2x_agp",
+    "metadata": {
+      "CPU型号": "Intel PIII",
+      "CPU主频": "600MHz",
+      "内存容量": "64.000",
+      "硬盘容量": "9.000",
+      "硬盘描述": "Ultra ATA/33 HDD",
+      "显卡芯片": "Trident CB9525 64-bit图型加速器含2.5MB SDRAM，支持硬体3D影像及2X AGP，支持双重显示(Dual-View)功能(Windows? 98环境)",
+      "显存类型": "2.5",
+      "音频系统": "PCI音效系统(含喇叭)，SoundBlaster-Pro与MS-Sound System兼容",
+      "有线网卡": "Ethernet 10/100",
+      "其它接口": "RJ11 56kbps Fax/Modem插孔，RJ45 LAN插孔，DC 输入接头，RS-232(16550兼容)，ECP/EPP，PS/2兼容键盘及滑鼠接头，外接VGA显示卡接头，喇叭/耳机/输出插孔，音源输入插孔，麦克风输入插孔，USB接头，EasyLink IDE接",
+      "指取设备": "内建2键式触控板",
+      "键盘描述": "84/85/89键",
+      "电池类型": "30WH锂离子电池组",
+      "续航时间": "2.5",
+      "电源适配器": "ACPI1.0电源管理系统，支持待机(Standby)及睡眠(Hibernation)省电模式",
+      "笔记本重量": "1.86Kg"
+    }
+  }
+]

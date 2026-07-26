@@ -1,0 +1,25 @@
+[
+  {
+    "name": "宏基TravelMate 260 261X",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 260 261X",
+    "opendb_id": "travelmate_260_261x",
+    "metadata": {
+      "总线规格": "Intel®奔腾®III处理器-M1.0GHz或更高，内建512KB L2 Cache，具备Intel®SpeedStepTM技术",
+      "最大内存容量": "标准256MB PC-133 SDRAM，可扩充到 1024MB soDIMM 模组",
+      "硬盘描述": "20GB或更高容量的Ultra ATA/100硬盘",
+      "显卡芯片": "具备MPEG II /DVD动态补偿影像加速功能，可提供全速影像播放",
+      "显存类型": "8 至 32MB 动态显存",
+      "音频系统": "音效系统含二个喇叭，内置麦克风，及MS-Sound 通讯",
+      "有线网卡": "内置10/100MB自适应网络控制器",
+      "其它接口": "1×CardBus type II or 1×type III插槽，1 x RJ45网络接口，1 × RS-232 (16550 兼容) 串口，PS/2兼容键盘/鼠标接口，1 × speaker/headphone/line-out 三合一 接口，1 ×麦克风接口，1 × RJ11插孔可连接56K bps",
+      "指取设备": "内键触控板，位于键盘下方手腕支撑中央，具备两个按钮",
+      "键盘描述": "84/85/88键，反向T游标配置，键盘间距19mm，按键行程2.5mm(最小)，弧形键盘",
+      "电池类型": "20",
+      "续航时间": "4.5",
+      "电源适配器": "ACPI 2.0兼容",
+      "笔记本重量": "2.78Kg",
+      "特色功能": "Microsoft?Windows?XP Home，BIOS Set-up，Power-on and HDD passwords?AntiVirus"
+    }
+  }
+]

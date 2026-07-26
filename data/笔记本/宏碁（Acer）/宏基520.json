@@ -1,0 +1,121 @@
+[
+  {
+    "name": "宏基TravelMate 520 524TXV",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 520 525TX",
+    "opendb_id": "travelmate_520_525tx_ati_rage_mobility_m1_2x_agp",
+    "metadata": {
+      "CPU主频": "650MHz",
+      "总线规格": "512KB FLASH BIOS",
+      "内存容量": "64.000",
+      "硬盘容量": "12.000",
+      "硬盘描述": "Ultra ATA/66",
+      "显卡芯片": "ATI Rage Mobility-M1显示芯片支持2X AGP",
+      "显存类型": "8",
+      "音频系统": "声卡",
+      "有线网卡": "10/100M",
+      "其它接口": "2个CardBus type III slots with ZV支持 1个RJ11接口 1个RJ45接口 1个为AC编程所用的DC接口 1个RS-232（兼容16550） 1个ECP/EPP 1个PS/2 1个外置的VGA",
+      "指取设备": "内建触控板指引设计",
+      "键盘描述": "84/85/88键，反向T游标配置，键盘间距19mm，按键行程2.5mm（最小）",
+      "电池类型": "53WH锂离子电池组",
+      "续航时间": "5",
+      "电源适配器": "ACPI 1.0 电源管理标准",
+      "笔记本重量": "3.1Kg"
+    }
+  },
+  {
+    "name": "宏基TravelMate 520 525TX (AGP 图型加速器)",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 520 525TX",
+    "opendb_id": "travelmate_520_525tx_agp",
+    "metadata": {
+      "CPU主频": "850MHz/800MHz",
+      "总线规格": "带有Intel SpeedStep技术的Intel®奔腾®III处理器850MHz/带有Intel SpeedStep技术的Intel®奔腾®III处理器",
+      "内存容量": "128.000",
+      "硬盘容量": "20GB/10GB",
+      "硬盘描述": "DASP保护",
+      "显卡芯片": "AGP 图型加速器",
+      "显存类型": "8",
+      "音频系统": "声卡",
+      "有线网卡": "10/100M",
+      "其它接口": "2个CardBus type III slots with ZV支持 1个RJ11接口 1个RJ45接口 1个为AC编程所用的DC接口 1个RS-232（兼容16550） 1个ECP/EPP 1个PS/2 1个外置的VGA",
+      "指取设备": "内建触控板指引设计",
+      "键盘描述": "84/85/88键，反向T游标配置，键盘间距19mm，按键行程2.5mm（最小）",
+      "电池类型": "锂离子电池",
+      "电源适配器": "ACPI 1.0 电源管理标准",
+      "笔记本重量": "2.98Kg"
+    }
+  },
+  {
+    "name": "宏基TravelMate 520 525TX (ATI Rage Mobility-M1控制芯片)",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 520 525TX",
+    "opendb_id": "travelmate_520_525tx_ati_rage_mobility_m1",
+    "metadata": {
+      "CPU主频": "700MHz/600MHz",
+      "总线规格": "带有Intel SpeedStep技术的Intel®奔腾®III处理器/512KB FLASH BIOS",
+      "内存容量": "128.000/64.000",
+      "硬盘容量": "10GB/6.000",
+      "硬盘描述": "Ultra ATA/66",
+      "显卡芯片": "ATI Rage Mobility-M1控制芯片",
+      "显存类型": "8",
+      "音频系统": "声卡",
+      "有线网卡": "10/100M",
+      "其它接口": "2个CardBus type III slots with ZV支持 1个RJ11接口 1个RJ45接口 1个为AC编程所用的DC接口 1个RS-232（兼容16550） 1个ECP/EPP 1个PS/2 1个外置的VGA",
+      "指取设备": "内建触控板指引设计",
+      "键盘描述": "84/85/88键，反向T游标配置，键盘间距19mm，按键行程2.5mm（最小）",
+      "电池类型": "53WH锂离子电池组",
+      "续航时间": "5",
+      "电源适配器": "ACPI 1.0 电源管理标准",
+      "笔记本重量": "3.1Kg"
+    }
+  },
+  {
+    "name": "宏基TravelMate 520 525TX (ATI Rage Mobility-M1控制芯片，支持2X AGP)",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 520 525TX",
+    "opendb_id": "travelmate_520_525tx_ati_rage_mobility_m1_2x_agp",
+    "metadata": {
+      "CPU主频": "700MHz/800MHz/650MHz/600MHz",
+      "总线规格": "512KB FLASH BIOS",
+      "内存容量": "64.000/128.000",
+      "硬盘容量": "10GB/6.000",
+      "硬盘描述": "Ultra ATA/66",
+      "显卡芯片": "ATI Rage Mobility-M1控制芯片，支持2X AGP",
+      "显存类型": "8",
+      "音频系统": "声卡",
+      "有线网卡": "10/100M",
+      "其它接口": "2个CardBus type III slots with ZV支持 1个RJ11接口 1个RJ45接口 1个为AC编程所用的DC接口 1个RS-232（兼容16550） 1个ECP/EPP 1个PS/2 1个外置的VGA",
+      "指取设备": "内建触控板指引设计",
+      "键盘描述": "84/85/88键，反向T游标配置，键盘间距19mm，按键行程2.5mm（最小）/84/85/88键",
+      "电池类型": "53WH锂离子电池组",
+      "续航时间": "5",
+      "电源适配器": "ACPI 1.0 电源管理标准",
+      "笔记本重量": "3.1Kg",
+      "屏幕尺寸": "14.1英寸"
+    }
+  },
+  {
+    "name": "宏基TravelMate 520 529ATX",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 520 525TX",
+    "opendb_id": "travelmate_520_525tx_2x_agp",
+    "metadata": {
+      "CPU主频": "900MHz",
+      "总线规格": "带有Intel SpeedStep技术的Intel®奔腾®III处理器900MHz",
+      "内存容量": "128.000",
+      "硬盘容量": "20GB",
+      "硬盘描述": "DASP保护",
+      "显卡芯片": "2X AGP 图型加速器",
+      "显存类型": "8",
+      "音频系统": "声卡",
+      "有线网卡": "10/100M",
+      "其它接口": "2个CardBus type III slots with ZV支持 1个RJ11接口 1个RJ45接口 1个为AC编程所用的DC接口 1个RS-232（兼容16550） 1个ECP/EPP 1个PS/2 1个外置的VGA",
+      "指取设备": "内建触控板指引设计",
+      "键盘描述": "84/85/88键，四个程式启动键，可直接上网、发电子邮件及其它程式等",
+      "电池类型": "锂离子电池",
+      "电源适配器": "ACPI 1.0 电源管理标准",
+      "笔记本重量": "2.98Kg"
+    }
+  }
+]

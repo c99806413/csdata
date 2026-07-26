@@ -1,0 +1,75 @@
+[
+  {
+    "name": "宏基TravelMate 200 202T (Celeron II)",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 200 202T",
+    "opendb_id": "travelmate_200_202t_celeron_ii",
+    "metadata": {
+      "CPU型号": "Celeron II",
+      "CPU主频": "650MHz/550MHz",
+      "内存容量": "64.000",
+      "硬盘容量": "5.000",
+      "显卡芯片": "ATI Mobility M控制芯片/ATI Mobility M VGA控制芯片",
+      "显存类型": "4",
+      "音频系统": "声卡",
+      "有线网卡": "有",
+      "其它接口": "CardBus Type-IIx2，Type-IIIx1，ZV支持 一个RJ11 56Kbps Fax Modem接头 AC充电器使用的DC-IN插座 RS-232（与16550兼容） ECP/EPP PS/2兼容键盘/滑/CardBus Type-II x2，Type-III x1，ZV支持 一个RJ11 56Kbps Fax Modem接头 AC充电器使用的DC-IN插座 RS-232（与16550兼容） ECP/EPP PS/2兼容键盘",
+      "指取设备": "内建触控板",
+      "键盘描述": "84/88键（包括多媒体和方向键）",
+      "电池类型": "NiMH电池",
+      "续航时间": "2.5",
+      "电源适配器": "ACPI 1.0 电源管理标准",
+      "笔记本重量": "2.89Kg"
+    }
+  },
+  {
+    "name": "宏基TravelMate 200 202T (Intel 赛扬)",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 200 202T",
+    "opendb_id": "travelmate_200_202t_intel",
+    "metadata": {
+      "CPU型号": "Intel 赛扬",
+      "CPU主频": "600MHz/550MHz",
+      "内存容量": "64.000",
+      "硬盘容量": "5.000",
+      "显卡芯片": "ATI Mobility-M图形控制器，接口：AGP支持硬件3D影像及2X AGP规格，具备MPEG II/DVD动态补偿影像加速功能，可提供全速影像播放/ATI Mobility M控制芯片",
+      "显存类型": "4",
+      "音频系统": "Crystal音效，兼容SoundBlaster Pro及MS-DirectSound系统3D音，效，音效系统含二个喇叭/声卡",
+      "有线网卡": "有",
+      "其它接口": "二个CardBus (2Xtype-Ⅱ/1Xtype-III)插槽，支持ZV-Port 一个DC-IN插孔可连接变压器一个外接VGA接口一个ECP/EPP并口一个RJ11插孔可连接56Kbps Fax/Modem等/CardBus Type-II x2，Type-III x1，ZV支持 一个RJ11 56Kbps Fax Modem接头 AC充电器使用的DC-IN插座 RS-232（与16550兼容） ECP/EPP PS/2兼容键盘",
+      "指取设备": "内键触控板，位于键盘下方手腕支撑中央，具备两个按钮/内建触控板",
+      "键盘描述": "84/85/88键，反向T游标配置，键盘间距19mm，按键行程3mm（最小）12个功能键，4个方向键，2个WINDOWS键，热键控制4个可定义快捷键，内嵌式数字键/84/88键（包括多媒体和方向键）",
+      "电池类型": "NiMH电池",
+      "续航时间": "6/2.5",
+      "电源适配器": "省电模式的ACPI 1.0电源管理标准/ACPI 1.0 电源管理标准",
+      "笔记本重量": "2.89Kg",
+      "特色功能": "支持Wake-on-LAN（网络远程呼唤功能）支持 Wake-on-Ring 备用电池32/64/128MB（可选） 64位SDRAM soDIMM模组（可选）备用变压器（可选） USB摄像头 （可选）"
+    }
+  },
+  {
+    "name": "宏基TravelMate 2001FXV",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 200 202T",
+    "opendb_id": "travelmate_200_202t_fxv",
+    "metadata": {
+      "CPU型号": "赛扬-M(Dothan)",
+      "CPU主频": "2.6GHz",
+      "内存容量": "256MB",
+      "硬盘容量": "30.000",
+      "显卡芯片": "ATI Radeon 9000",
+      "显存类型": "ATI MOBILITY RADEON 9000 IGP，高达64MB的共享显示内存",
+      "音频系统": "内建双喇叭的音效系统Sound Blaster Pro 和 MS-Sound兼容",
+      "有线网卡": "10Mbps/100Mbps网卡",
+      "其它接口": "4个USB2.0接口，1个RJ45以太网接口，1个RJ11modem接口，1个并行接口，1个可接麦克风/输入端子，1个输出端口（外接耳机或喇叭），1个红外线（FIR）接口，1个VGA接口，2个Type II或1个 Type III PC Card插槽，1个AC变压器用的DC-in直流电源接口",
+      "键盘描述": "标准84/85/88键，程序快捷启动键，反向“T”光标设计，两个使用者自定义的功能键，12个功能键，4向光标键，内建数字键组，支持国际语言，个Windows键",
+      "电池类型": "8芯锂离子电池",
+      "续航时间": "2",
+      "电源适配器": "支持待机和休眠节能模式，135W AC变压器，系统使用中4小时充电时间",
+      "笔记本重量": "3.3Kg",
+      "产品类型": "商用",
+      "操作系统": "PC DOS",
+      "屏幕尺寸": "14.1英寸",
+      "显示比例": "否"
+    }
+  }
+]

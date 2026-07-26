@@ -1,0 +1,52 @@
+[
+  {
+    "name": "宏基TravelMate 630 426",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 630 633LC",
+    "opendb_id": "travelmate_630_633lc_nvidia_geforce2_go_100_4_agp_1600x1200_75hz_mpeg_ii_dvd",
+    "metadata": {
+      "CPU主频": "1.6GHz",
+      "总线规格": "Intel®Petium®4处理器-M1.4GHz/1.5GHz/1.6GHz/1.7GHz或更高，支持Intel®SpeedStepTM 技术",
+      "内存容量": "256MB",
+      "最大内存容量": "标准256MB DDR-266 内存，可扩充至1024MB，dual soDIMM 模组",
+      "硬盘容量": "20GB",
+      "硬盘描述": "Ultra ATA/100硬盘和硬盘保护系统DASP",
+      "显卡芯片": "nVidia®GeForce2®Go 100，4×AGP 图形加速器，外接显示器 同显时可达 1600x1200 @ 75Hz，支持双重显示(Dual-View)功能，具备MPEG II /DVD动态补偿影像加速功能，可提供全速影像播放",
+      "显存类型": "16MB DDR",
+      "音频系统": "音效系统含二个喇叭，内置麦克风，SoundBlaster Pro及MS-Direct Sound兼容",
+      "有线网卡": "支持 IEEE 802.11b 无线局域网，10/100Mbps自适应网卡",
+      "其它接口": "1 x CardBus (type-Ⅱ)插槽，1 x RJ11 56KBPS Fax/modem接口，1 x DC-in 插孔连接适配器，1 x 外接 VGA 接口，1 x 麦克风/ line-in接口，2 x USB 接口，1 x S-video TV-out接口 1 x Smart Card，1 x RJ45 网络接口",
+      "指取设备": "内键触控板，位于键盘下方手腕支撑中央，具备两个按钮",
+      "键盘描述": "84/85/88键，反向T游标配置，键盘间距18mm，按键行程2.5mm(最小)，弧形键盘，内建互联网卷动装置",
+      "电池类型": "59Wh锂电池",
+      "续航时间": "3.5",
+      "电源适配器": "ACPI 2.0兼容",
+      "笔记本重量": "2.58Kg"
+    }
+  },
+  {
+    "name": "宏基TravelMate 630 633LC",
+    "manufacturer": "Acer宏碁",
+    "series": "宏基TravelMate 630 633LC",
+    "opendb_id": "travelmate_630_633lc_nvidia_geforce2_go_100_4_agp_1600x1200_75hz_mpeg_ii_dvd",
+    "metadata": {
+      "CPU主频": "1.7GHz",
+      "总线规格": "Intel®Petium®4处理器-M1.4GHz/1.5GHz/1.6GHz/1.7GHz或更高，支持Intel®SpeedStepTM 技术",
+      "内存容量": "256MB",
+      "最大内存容量": "标准256MB DDR-266 内存，可扩充至1024MB，dual soDIMM 模组",
+      "硬盘容量": "30.000",
+      "硬盘描述": "Ultra ATA/100硬盘和硬盘保护系统DASP",
+      "显卡芯片": "nVidia?GeForce2?Go 100，4×AGP 图形加速器，外接显示器 同显时可达 1600x1200 @ 75Hz，支持双重显示(Dual-View)功能，具备MPEG II /DVD动态补偿影像加速功能，可提供全速影像播放",
+      "显存类型": "16MB DDR",
+      "音频系统": "音效系统含二个喇叭，内置麦克风，SoundBlaster Pro及MS-Direct Sound兼容",
+      "有线网卡": "支持 IEEE 802.11b 无线局域网，10/100Mbps自适应网卡",
+      "其它接口": "1 x CardBus (type-Ⅱ)插槽，1 x RJ11 56KBPS Fax/modem接口，1 x DC-in 插孔连接适配器，1 x 外接 VGA 接口，1 x 麦克风/ line-in接口，2 x USB 接口，1 x S-video TV-out接口 1 x Smart Card，1 x RJ45 网络接口",
+      "指取设备": "内键触控板，位于键盘下方手腕支撑中央，具备两个按钮",
+      "键盘描述": "84/85/88键，反向T游标配置，键盘间距18mm，按键行程2.5mm(最小)，弧形键盘，内建互联网卷动装置",
+      "电池类型": "59Wh锂电池",
+      "续航时间": "3.5",
+      "电源适配器": "ACPI 2.0兼容",
+      "笔记本重量": "2.58Kg"
+    }
+  }
+]
