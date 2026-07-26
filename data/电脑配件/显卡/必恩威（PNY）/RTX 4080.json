@@ -1,0 +1,31 @@
+[
+  {
+    "name": "RTX 4080 (16GB)",
+    "manufacturer": "PNY",
+    "series": "RTX 4080",
+    "opendb_id": "rtx_4080_16gb",
+    "metadata": {
+      "产品型号": "GeForce RTX4080 16GB XLR8 Gaming VERTO EPIC-X RGB OC/RTX 4080",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 4080",
+      "显示芯片系列": "NVIDIA RTX 40系列",
+      "制作工艺": "4纳米",
+      "核心频率": "2205-2510MHz/2205-2505MHz",
+      "CUDA核心": "9728个",
+      "显存频率": "22400MHz",
+      "显存类型": "GDDR6X",
+      "显存容量": "16GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "16pin",
+      "显卡类型": "主流级",
+      "散热方式": "三风扇散热",
+      "3D API": "DirectX 12，OpenGL 4.6",
+      "支持HDCP": "是",
+      "产品尺寸": "331.8×137.7×71.5mm/340.42x142.9x59.41mm",
+      "建议电源": "850W"
+    }
+  }
+]

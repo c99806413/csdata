@@ -1,0 +1,35 @@
+[
+  {
+    "name": "GTX 1660系列 (6GB)",
+    "manufacturer": "昂达",
+    "series": "GTX 1660系列",
+    "opendb_id": "gtx_1660_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1660",
+      "显示芯片系列": "NVIDIA GTX 16系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU116",
+      "核心频率": "1815MHz/1845MHz",
+      "CUDA核心": "1408个",
+      "显存频率": "8000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "6GB",
+      "显存位宽": "192bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "供电模式": "4+2相",
+      "支持HDCP": "是，HDCP 2.2",
+      "产品尺寸": "306×125×41mm",
+      "建议电源": "400W以上",
+      "其它特点": "支持最多3屏输出，支持NVIDIA GeForce Experience，支持NVIDIA Ansel，支持NVIDIA Highlights，支持NVIDIA G-SYNC，Game Ready 驱动程序，支持NVIDIA GPU Boost，支持VR，NVIDIA Encoder (NVENC)",
+      "上市日期": "2019年",
+      "其他参数": "散热器类型：9CM滚珠双风扇、热管散热体系 阳极铝金属支撑背板/散热器类型：99CM滚珠双风扇、三根超长纯铜热管、阳极铝金属支撑背板"
+    }
+  }
+]
