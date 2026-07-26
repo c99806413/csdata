@@ -1,0 +1,21 @@
+[
+  {
+    "name": "三星Galaxy Watch 6",
+    "manufacturer": "三星",
+    "series": "Watch 6",
+    "opendb_id": "galaxy_watch_6",
+    "metadata": {
+      "产品类型": "运动手表，健康检测手表",
+      "适用人群": "成年人",
+      "表盘直径": "40mm/44mm",
+      "表盘形状": "圆形",
+      "表带材质": "软胶",
+      "运行内存": "1.5GB",
+      "机身存储": "16GB",
+      "操作系统": "三星Wear OS",
+      "SIM卡支持": "支持，eSIM卡",
+      "屏幕类型": "Super AMOLED",
+      "电池容量": "300mAh"
+    }
+  }
+]
