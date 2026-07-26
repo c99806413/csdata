@@ -1,0 +1,62 @@
+[
+  {
+    "name": "利民Rainbow Vision 360 Turbo ARGB BLACK",
+    "manufacturer": "利民",
+    "series": "Vision 360 Turbo ARGB",
+    "opendb_id": "__rainbow_vision_360_turbo_argb_black",
+    "metadata": {
+      "产品型号": "Rainbow Vision 360 Turbo ARGB BLACK",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "风冷，热管，水冷",
+      "适用范围": "Intel：LGA 115X/1200/1700/1851/2011/2066AMD：AM4/AM5",
+      "发光方式": "ARGB",
+      "智能温控": "支持智能温控",
+      "其它特点": "6.67英寸裸眼3D弧面大屏，磁吸冷头设计",
+      "风扇数量": "3个",
+      "风扇尺寸": "120×120×28mm",
+      "扇叶数量": "9叶",
+      "轴承类型": "双滚珠轴承（Dual Ball Bearing）",
+      "最高转数": "3000RPM",
+      "转数描述": "3000±10%RPM",
+      "最大风量": "120.38CFM",
+      "风压": "4.93mmaq",
+      "噪音": "44.7dB",
+      "端子接口": "风扇接口：4Pin灯光接口：3Pin",
+      "水冷排类型": "360mm冷排",
+      "冷头尺寸": "149×76×86mmmm",
+      "转速": "6400±10%RPM",
+      "水冷排体积": "403×120×27mm",
+      "水泵": "水泵接口：4Pin"
+    }
+  },
+  {
+    "name": "利民Rainbow Vision 360 Turbo ARGB WHITE",
+    "manufacturer": "利民",
+    "series": "Vision 360 Turbo ARGB",
+    "opendb_id": "__rainbow_vision_360_turbo_argb_white",
+    "metadata": {
+      "产品型号": "Rainbow Vision 360 Turbo ARGB WHITE",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "风冷，热管，水冷",
+      "适用范围": "Intel：LGA 115X/1200/1700/1851/2011/2066AMD：AM4/AM5",
+      "发光方式": "ARGB",
+      "智能温控": "支持智能温控",
+      "其它特点": "6.67英寸裸眼3D弧面大屏，磁吸冷头设计",
+      "风扇数量": "3个",
+      "风扇尺寸": "120×120×28mm",
+      "扇叶数量": "9叶",
+      "轴承类型": "双滚珠轴承（Dual Ball Bearing）",
+      "最高转数": "3000RPM",
+      "转数描述": "3000±10%RPM",
+      "最大风量": "120.38CFM",
+      "风压": "4.93mmaq",
+      "噪音": "44.7dB",
+      "端子接口": "风扇接口：4Pin灯光接口：3Pin",
+      "水冷排类型": "360mm冷排",
+      "冷头尺寸": "149×76×86mmmm",
+      "转速": "6400±10%RPM",
+      "水冷排体积": "403×120×27mm",
+      "水泵": "水泵接口：4Pin"
+    }
+  }
+]

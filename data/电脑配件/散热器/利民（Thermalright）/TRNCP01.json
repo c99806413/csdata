@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Thermalright（利民）TRNCP01 TR-NCP01B黑色",
+    "manufacturer": "利民",
+    "series": "TRNCP01",
+    "opendb_id": "thermalright____trncp01_tr_ncp01b__",
+    "metadata": {
+      "产品型号": "TR-NCP01",
+      "散热器类型": "风冷散热器",
+      "产品重量": "2kg"
+    }
+  },
+  {
+    "name": "Thermalright（利民）TRNCP01 TR-NCP01白色",
+    "manufacturer": "利民",
+    "series": "TRNCP01",
+    "opendb_id": "thermalright____trncp01_tr_ncp01__",
+    "metadata": {
+      "产品型号": "TR-NCP01",
+      "散热器类型": "风冷散热器",
+      "产品重量": "2kg"
+    }
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "name": "利民Core Matrix 360 Vision ARGB WHITE",
+    "manufacturer": "利民",
+    "series": "Matrix 360 Vision ARGB",
+    "opendb_id": "__core_matrix_360_vision_argb_white",
+    "metadata": {
+      "产品型号": "Core Matrix 360 Vision ARGB WHITE",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "风冷，热管，水冷",
+      "适用范围": "Intel：LGA 115X/1200/1700/1851AMD：AM4/AM5",
+      "发光方式": "ARGB",
+      "智能温控": "支持智能温控",
+      "其它特点": "2英寸IPS液晶屏，磁铁吸式模块",
+      "风扇数量": "3个",
+      "风扇尺寸": "124×120×25mm",
+      "扇叶数量": "7叶",
+      "轴承类型": "S-FDB Bearing",
+      "最高转数": "2000RPM",
+      "转数描述": "2000±10%RPM",
+      "最大风量": "68.9CFM",
+      "风压": "2.21mmaq",
+      "噪音": "28.2dB",
+      "端子接口": "风扇接口：4Pin灯光接口：3Pin",
+      "水冷排类型": "360mm冷排",
+      "冷头尺寸": "67×67×64.4mmmm",
+      "水冷排体积": "397×120×27mm",
+      "水泵": "水泵接口：4Pin"
+    }
+  },
+  {
+    "name": "利民Core Matrix 360 Vision ARGB BLACK",
+    "manufacturer": "利民",
+    "series": "Matrix 360 Vision ARGB",
+    "opendb_id": "__core_matrix_360_vision_argb_black",
+    "metadata": {
+      "产品型号": "Core Matrix 360 Vision ARGB BLACK",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "风冷，热管，水冷",
+      "适用范围": "Intel：LGA 115X/1200/1700/1851AMD：AM4/AM5",
+      "发光方式": "ARGB",
+      "智能温控": "支持智能温控",
+      "其它特点": "2英寸IPS液晶屏，磁铁吸式模块",
+      "风扇数量": "3个",
+      "风扇尺寸": "124×120×25mm",
+      "扇叶数量": "7叶",
+      "轴承类型": "S-FDB Bearing",
+      "最高转数": "2000RPM",
+      "转数描述": "2000±10%RPM",
+      "最大风量": "68.9CFM",
+      "风压": "2.21mmaq",
+      "噪音": "28.2dB",
+      "端子接口": "风扇接口：4Pin灯光接口：3Pin",
+      "水冷排类型": "360mm冷排",
+      "冷头尺寸": "67×67×64.4mmmm",
+      "水冷排体积": "397×120×27mm",
+      "水泵": "水泵接口：4Pin"
+    }
+  }
+]

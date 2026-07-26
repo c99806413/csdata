@@ -1,0 +1,58 @@
+[
+  {
+    "name": "利民Forzen Horizon 360 BLACK ARGB",
+    "manufacturer": "利民",
+    "series": "Horizon 360 ARGB",
+    "opendb_id": "__forzen_horizon_360_black_argb",
+    "metadata": {
+      "散热器类型": "CPU散热器，一体式水冷散热器",
+      "散热方式": "水冷，风冷",
+      "适用范围": "Intel：LGA 1700/115X/1200/2011/2066AMD：AM5/AM4/FM1/FM2/FM2+/AM2/AM2+/AM3/AM3+",
+      "发光方式": "ARGB",
+      "智能温控": "支持智能温控",
+      "产品尺寸": "397×120×27mm",
+      "风扇数量": "3个",
+      "风扇尺寸": "120*120*25.6mm",
+      "轴承类型": "双滚珠轴承（Dual Ball Bearing）",
+      "最高转数": "2150RPM",
+      "最大风量": "69CFM",
+      "风压": "2.87mmaq",
+      "噪音": "27dB",
+      "端子接口": "4Pin PWM+5V 3Pin ARGB",
+      "额定电压": "风扇：DC 12V，灯光：DC 5V",
+      "水冷排类型": "360冷排",
+      "冷头尺寸": "73×73×53mm",
+      "转速": "2800±10%RPM",
+      "水冷管长度": "450mm",
+      "水泵": "额定电流：0.24A(MAX)水泵接口：+12V 4PIN PWM水泵功率：3.0W工作电压：12V DCARGB接口：+5V 3PIN水泵寿命：40000hrs"
+    }
+  },
+  {
+    "name": "利民Forzen Horizon 360 WHITE ARGB",
+    "manufacturer": "利民",
+    "series": "Horizon 360 ARGB",
+    "opendb_id": "__forzen_horizon_360_white_argb",
+    "metadata": {
+      "散热器类型": "CPU散热器，一体式水冷散热器",
+      "散热方式": "水冷，风冷",
+      "适用范围": "Intel：LGA 1700/115X/1200/2011/2066AMD：AM5/AM4/FM1/FM2/FM2+/AM2/AM2+/AM3/AM3+",
+      "发光方式": "ARGB",
+      "智能温控": "支持智能温控",
+      "产品尺寸": "397×120×27mm",
+      "风扇数量": "3个",
+      "风扇尺寸": "120*120*25.6mm",
+      "轴承类型": "双滚珠轴承（Dual Ball Bearing）",
+      "最高转数": "2150RPM",
+      "最大风量": "69CFM",
+      "风压": "2.87mmaq",
+      "噪音": "27dB",
+      "端子接口": "4Pin PWM+5V 3Pin ARGB",
+      "额定电压": "风扇：DC 12V，灯光：DC 5V",
+      "水冷排类型": "360冷排",
+      "冷头尺寸": "73×73×53mm",
+      "转速": "2800±10%RPM",
+      "水冷管长度": "450mm",
+      "水泵": "额定电流：0.24A(MAX)水泵接口：+12V 4PIN PWM水泵功率：3.0W工作电压：12V DCARGB接口：+5V 3PIN水泵寿命：40000hrs"
+    }
+  }
+]

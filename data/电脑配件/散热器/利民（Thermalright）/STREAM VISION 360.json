@@ -1,0 +1,48 @@
+[
+  {
+    "name": "利民风擎视界 STREAM VISION 360 BLACK",
+    "manufacturer": "利民",
+    "series": "STREAM VISION 360",
+    "opendb_id": "_______stream_vision_360_black",
+    "metadata": {
+      "产品型号": "STREAM VISION 360 BLACK",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "水冷",
+      "适用范围": "INTEL: LGA: 1851/1700/115X/1200/2011/2066AMD: AM5/AM4",
+      "风扇数量": "3个",
+      "风扇尺寸": "120×120×28mm",
+      "轴承类型": "S-FDB BEARING V2",
+      "转数描述": "2400±10%RPM",
+      "最大风量": "95.4CFM",
+      "风压": "2.78mmaq",
+      "噪音": "≤31.4dB",
+      "端子接口": "4PIN PWM",
+      "冷头尺寸": "69×76×92mm",
+      "转速": "6400±10%RPM",
+      "水冷排体积": "403×120×27mm"
+    }
+  },
+  {
+    "name": "利民风擎视界 STREAM VISION 360 WHITE",
+    "manufacturer": "利民",
+    "series": "STREAM VISION 360",
+    "opendb_id": "_______stream_vision_360_white",
+    "metadata": {
+      "产品型号": "STREAM VISION 360 WHITE",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "水冷",
+      "适用范围": "INTEL: LGA: 1851/1700/115X/1200/2011/2066AMD: AM5/AM4",
+      "风扇数量": "3个",
+      "风扇尺寸": "120×120×28mm",
+      "轴承类型": "S-FDB BEARING V2",
+      "转数描述": "2400±10%RPM",
+      "最大风量": "95.4CFM",
+      "风压": "2.78mmaq",
+      "噪音": "≤31.4dB",
+      "端子接口": "4PIN PWM",
+      "冷头尺寸": "69×76×92mm",
+      "转速": "6400±10%RPM",
+      "水冷排体积": "403×120×27mm"
+    }
+  }
+]

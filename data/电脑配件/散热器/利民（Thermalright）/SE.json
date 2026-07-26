@@ -1,0 +1,40 @@
+[
+  {
+    "name": "利民PA120 SE 青春版",
+    "manufacturer": "利民",
+    "series": "SE",
+    "opendb_id": "__pa120_se____",
+    "metadata": {
+      "散热器类型": "CPU散热器",
+      "散热方式": "风冷，热管",
+      "适用范围": "Intel：LGA 115X/1200/1700 AMD：FM4/AM5",
+      "发光方式": "无光",
+      "产品尺寸": "125*135*155mm",
+      "产品重量": "730g",
+      "风扇数量": "2个",
+      "风扇尺寸": "120*120*25mm",
+      "轴承类型": "S-FDB",
+      "最高转数": "1550RPM",
+      "最大风量": "66.17CFM",
+      "风压": "1.53mmaq",
+      "噪音": "≤25.6dB",
+      "端子接口": "4-pin PWM",
+      "额定电压": "DC 12V 0.2A",
+      "热管数量": "6个"
+    }
+  },
+  {
+    "name": "利民PA120 SE 青春ARGB版",
+    "manufacturer": "利民",
+    "series": "SE",
+    "opendb_id": "__pa120_se___argb_",
+    "metadata": {}
+  },
+  {
+    "name": "利民PA120 SE ARGB版",
+    "manufacturer": "利民",
+    "series": "SE",
+    "opendb_id": "__pa120_se_argb_",
+    "metadata": {}
+  }
+]

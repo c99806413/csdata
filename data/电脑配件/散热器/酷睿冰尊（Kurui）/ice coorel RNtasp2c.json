@@ -1,0 +1,61 @@
+[
+  {
+    "name": "酷睿冰尊（ice coorel） RNtasp2c 太空银【标准版】",
+    "manufacturer": "酷睿冰尊",
+    "series": "ice coorel RNtasp2c",
+    "opendb_id": "_____ice_coorel__rntasp2c_________",
+    "metadata": {}
+  },
+  {
+    "name": "酷睿冰尊（ice coorel） RNtasp2c 太空银【六风扇 标准版】",
+    "manufacturer": "酷睿冰尊",
+    "series": "ice coorel RNtasp2c",
+    "opendb_id": "_____ice_coorel__rntasp2c_____________",
+    "metadata": {}
+  },
+  {
+    "name": "酷睿冰尊（ice coorel） RNtasp2c 钨金黑【六风扇 标准版】",
+    "manufacturer": "酷睿冰尊",
+    "series": "ice coorel RNtasp2c",
+    "opendb_id": "_____ice_coorel__rntasp2c_____________",
+    "metadata": {}
+  },
+  {
+    "name": "酷睿冰尊（ice coorel） RNtasp2c 极光银电竞版【RGB发光风孔降温】",
+    "manufacturer": "酷睿冰尊",
+    "series": "ice coorel RNtasp2c",
+    "opendb_id": "_____ice_coorel__rntasp2c________rgb_______",
+    "metadata": {}
+  },
+  {
+    "name": "酷睿冰尊（ice coorel） RNtasp2c 太空银【豪华版】",
+    "manufacturer": "酷睿冰尊",
+    "series": "ice coorel RNtasp2c",
+    "opendb_id": "_____ice_coorel__rntasp2c_________",
+    "metadata": {}
+  },
+  {
+    "name": "酷睿冰尊（ice coorel） RNtasp2c 太空银【六风扇 豪华版】",
+    "manufacturer": "酷睿冰尊",
+    "series": "ice coorel RNtasp2c",
+    "opendb_id": "_____ice_coorel__rntasp2c_____________",
+    "metadata": {}
+  },
+  {
+    "name": "酷睿冰尊（ice coorel） RNtasp2c 钨金黑【六风扇 豪华版】",
+    "manufacturer": "酷睿冰尊",
+    "series": "ice coorel RNtasp2c",
+    "opendb_id": "_____ice_coorel__rntasp2c_____________",
+    "metadata": {
+      "产品型号": "RNtasp2c",
+      "端子接口": "INTEL LGA2066"
+    }
+  },
+  {
+    "name": "酷睿冰尊（ice coorel） RNtasp2c 极光银电竞加强版【RGB发光风孔降温】",
+    "manufacturer": "酷睿冰尊",
+    "series": "ice coorel RNtasp2c",
+    "opendb_id": "_____ice_coorel__rntasp2c__________rgb_______",
+    "metadata": {}
+  }
+]

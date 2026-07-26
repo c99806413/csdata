@@ -1,0 +1,58 @@
+[
+  {
+    "name": "利民Hyper Vision 360 UB ARGB BLACK",
+    "manufacturer": "利民",
+    "series": "Vision 360 UB ARGB",
+    "opendb_id": "__hyper_vision_360_ub_argb_black",
+    "metadata": {
+      "产品型号": "Hyper Vision 360 UB ARGB BLACK",
+      "散热器类型": "CPU散热器，一体式水冷散热器",
+      "散热方式": "风冷，热管，散热片，水冷",
+      "适用范围": "Intel：LGA 1851/1700/1200/115X/2011 SQUARE/2066AMD：AM4/AM5",
+      "发光方式": "ARGB",
+      "智能温控": "支持智能温控",
+      "产品尺寸": "403×120×27mm",
+      "风扇数量": "3个",
+      "风扇尺寸": "120*120*25mm",
+      "扇叶数量": "9叶",
+      "轴承类型": "磁性流体动态轴承（S-FDB V2）",
+      "转数描述": "2150±10%RPM",
+      "最大风量": "207CFM",
+      "风压": "2.87mmaq",
+      "噪音": "≤27dB",
+      "端子接口": "4Pin PWM+5V 3PIN ARGB",
+      "水冷排类型": "360冷排",
+      "水冷头": "冷头接口：4PIN PWM灯光接口：+5V 3PIN ARGB",
+      "冷头尺寸": "78.65*80.7*68mm",
+      "转速": "6400±10%RPM"
+    }
+  },
+  {
+    "name": "利民Hyper Vision 360 UB ARGB WHITE",
+    "manufacturer": "利民",
+    "series": "Vision 360 UB ARGB",
+    "opendb_id": "__hyper_vision_360_ub_argb_white",
+    "metadata": {
+      "产品型号": "Hyper Vision 360 UB ARGB BLACK",
+      "散热器类型": "CPU散热器，一体式水冷散热器",
+      "散热方式": "风冷，热管，散热片，水冷",
+      "适用范围": "Intel：LGA 1851/1700/1200/115X/2011 SQUARE/2066AMD：AM4/AM5",
+      "发光方式": "ARGB",
+      "智能温控": "支持智能温控",
+      "产品尺寸": "403×120×27mm",
+      "风扇数量": "3个",
+      "风扇尺寸": "120*120*25mm",
+      "扇叶数量": "9叶",
+      "轴承类型": "磁性流体动态轴承（S-FDB V2）",
+      "转数描述": "2150±10%RPM",
+      "最大风量": "207CFM",
+      "风压": "2.87mmaq",
+      "噪音": "≤27dB",
+      "端子接口": "4Pin PWM+5V 3PIN ARGB",
+      "水冷排类型": "360冷排",
+      "水冷头": "冷头接口：4PIN PWM灯光接口：+5V 3PIN ARGB",
+      "冷头尺寸": "78.65*80.7*68mm",
+      "转速": "6400±10%RPM"
+    }
+  }
+]

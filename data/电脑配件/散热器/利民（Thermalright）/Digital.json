@@ -1,0 +1,30 @@
+[
+  {
+    "name": "利民RK120 Digital 标准",
+    "manufacturer": "利民",
+    "series": "Digital",
+    "opendb_id": "__rk120_digital___",
+    "metadata": {
+      "产品型号": "RK120 Digital",
+      "散热器类型": "CPU散热器，风冷散热器",
+      "产品尺寸": "122x114x162mm",
+      "转数描述": "2150RPM±10% / 1900RPM±10%RPM",
+      "端子接口": "4pin",
+      "热管数量": "6热管"
+    }
+  },
+  {
+    "name": "利民RK120 Digital ARGB版",
+    "manufacturer": "利民",
+    "series": "Digital",
+    "opendb_id": "__rk120_digital_argb_",
+    "metadata": {
+      "产品型号": "RK120 Digital",
+      "散热器类型": "CPU散热器，风冷散热器",
+      "产品尺寸": "122x114x162mm",
+      "转数描述": "2150RPM±10% / 1900RPM±10%RPM",
+      "端子接口": "4pin",
+      "热管数量": "6热管"
+    }
+  }
+]

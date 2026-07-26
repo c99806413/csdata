@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Thermalright（利民）z001 拆机清灰组合一",
+    "manufacturer": "利民",
+    "series": "z001",
+    "opendb_id": "thermalright____z001________",
+    "metadata": {
+      "产品型号": "z001",
+      "散热器类型": "导热硅脂"
+    }
+  },
+  {
+    "name": "Thermalright（利民）z001 拆机清灰+利民TF7 2g",
+    "manufacturer": "利民",
+    "series": "z001",
+    "opendb_id": "thermalright____z001________tf7_2g",
+    "metadata": {
+      "产品型号": "z001",
+      "散热器类型": "导热硅脂"
+    }
+  },
+  {
+    "name": "Thermalright（利民）z001 拆机清灰+利民TF8 1.2",
+    "manufacturer": "利民",
+    "series": "z001",
+    "opendb_id": "thermalright____z001________tf8_1_2",
+    "metadata": {
+      "产品型号": "z001",
+      "散热器类型": "导热硅脂"
+    }
+  },
+  {
+    "name": "Thermalright（利民）z001 拆机清灰+利民TF9",
+    "manufacturer": "利民",
+    "series": "z001",
+    "opendb_id": "thermalright____z001________tf9",
+    "metadata": {
+      "产品型号": "z001",
+      "散热器类型": "导热硅脂"
+    }
+  }
+]
