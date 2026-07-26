@@ -1,0 +1,34 @@
+[
+  {
+    "name": "金邦竞赛Enhance CORSA 4GB DDR3 1600",
+    "manufacturer": "金邦科技",
+    "series": "DDR3 竞赛Enhance CORSA系列",
+    "opendb_id": "____enhance_corsa_4gb_ddr3_1600",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "传输标准": "PC3-12800",
+      "CL延迟": "9-9-9-28",
+      "散热片": "支持散热",
+      "工作电压": "1.6V"
+    }
+  },
+  {
+    "name": "金邦竞赛Enhance CORSA 8GB DDR3 1600",
+    "manufacturer": "金邦科技",
+    "series": "DDR3 竞赛Enhance CORSA系列",
+    "opendb_id": "____enhance_corsa_8gb_ddr3_1600",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "传输标准": "PC3-12800",
+      "CL延迟": "9-9-9-28",
+      "散热片": "支持散热",
+      "工作电压": "1.6V"
+    }
+  }
+]

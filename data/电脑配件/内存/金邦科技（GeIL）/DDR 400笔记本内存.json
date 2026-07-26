@@ -1,0 +1,46 @@
+[
+  {
+    "name": "金邦512MB DDR400(笔记本)",
+    "manufacturer": "金邦科技",
+    "series": "DDR 400笔记本内存",
+    "opendb_id": "__512mb_ddr400_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "400MHz"
+    }
+  },
+  {
+    "name": "金邦512M DDRII400(笔记本)",
+    "manufacturer": "金邦科技",
+    "series": "DDR 400笔记本内存",
+    "opendb_id": "__512m_ddrii400_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR2",
+      "内存主频": "400MHz"
+    }
+  },
+  {
+    "name": "金邦256M DDR400(笔记本)",
+    "manufacturer": "金邦科技",
+    "series": "DDR 400笔记本内存",
+    "opendb_id": "__256m_ddr400_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "400MHz"
+    }
+  },
+  {
+    "name": "金邦256MB DDRII400(笔记本)",
+    "manufacturer": "金邦科技",
+    "series": "DDR 400笔记本内存",
+    "opendb_id": "__256mb_ddrii400_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR2",
+      "内存主频": "400MHz"
+    }
+  }
+]

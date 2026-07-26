@@ -1,0 +1,32 @@
+[
+  {
+    "name": "金邦512MB DDR433(千禧)",
+    "manufacturer": "金邦科技",
+    "series": "DDR 433台式机内存",
+    "opendb_id": "__512mb_ddr433____",
+    "metadata": {
+      "内存类型": "DDR",
+      "内存主频": "433MHz"
+    }
+  },
+  {
+    "name": "金邦256MB DDR433(千禧)",
+    "manufacturer": "金邦科技",
+    "series": "DDR 433台式机内存",
+    "opendb_id": "__256mb_ddr433____",
+    "metadata": {
+      "内存类型": "DDR",
+      "内存主频": "433MHz"
+    }
+  },
+  {
+    "name": "金邦金条 256MB DDR433",
+    "manufacturer": "金邦科技",
+    "series": "DDR 433台式机内存",
+    "opendb_id": "_____256mb_ddr433",
+    "metadata": {
+      "内存类型": "DDR",
+      "内存主频": "433MHz"
+    }
+  }
+]

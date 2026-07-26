@@ -1,0 +1,59 @@
+[
+  {
+    "name": "金邦游戏EVO TWO 4GB DDR3 1866",
+    "manufacturer": "金邦科技",
+    "series": "游戏EVO TWO系列",
+    "opendb_id": "____evo_two_4gb_ddr3_1866",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×2GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1866MHz",
+      "传输标准": "PC3-17000",
+      "CL延迟": "9-10-9-28"
+    }
+  },
+  {
+    "name": "金邦游戏EVO TWO 8GB DDR3 1866",
+    "manufacturer": "金邦科技",
+    "series": "游戏EVO TWO系列",
+    "opendb_id": "____evo_two_8gb_ddr3_1866",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1866MHz",
+      "传输标准": "PC3-17000",
+      "CL延迟": "9-10-9-28",
+      "工作电压": "1.65V"
+    }
+  },
+  {
+    "name": "金邦游戏EVO TWO 8GB DDR3 2000",
+    "manufacturer": "金邦科技",
+    "series": "游戏EVO TWO系列",
+    "opendb_id": "____evo_two_8gb_ddr3_2000",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2000MHz",
+      "传输标准": "PC3-16000",
+      "CL延迟": "9-11-9-28"
+    }
+  },
+  {
+    "name": "金邦游戏EVO TWO 4GB DDR3 2000",
+    "manufacturer": "金邦科技",
+    "series": "游戏EVO TWO系列",
+    "opendb_id": "____evo_two_4gb_ddr3_2000",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×2GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2000MHz",
+      "传输标准": "PC3-16000",
+      "CL延迟": "9-11-9-28"
+    }
+  }
+]

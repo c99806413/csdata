@@ -1,0 +1,63 @@
+[
+  {
+    "name": "金邦64MB SDRAM PC133(金条)",
+    "manufacturer": "金邦科技",
+    "series": "SDRAM笔记本内存系列",
+    "opendb_id": "__64mb_sdram_pc133____",
+    "metadata": {
+      "内存类型": "SDRAM",
+      "颗粒封装": "BLP"
+    }
+  },
+  {
+    "name": "金邦128MB SDRAM 125(千禧)",
+    "manufacturer": "金邦科技",
+    "series": "SDRAM笔记本内存系列",
+    "opendb_id": "__128mb_sdram_125____",
+    "metadata": {
+      "内存类型": "SDRAM",
+      "内存主频": "125MHz",
+      "颗粒封装": "TSOP-II"
+    }
+  },
+  {
+    "name": "金邦128MB SDRAM PC133(金条)",
+    "manufacturer": "金邦科技",
+    "series": "SDRAM笔记本内存系列",
+    "opendb_id": "__128mb_sdram_pc133____",
+    "metadata": {
+      "内存类型": "SDRAM",
+      "内存主频": "133MHz",
+      "颗粒封装": "BLP"
+    }
+  },
+  {
+    "name": "金邦256MB SDRAM PC133(金条)",
+    "manufacturer": "金邦科技",
+    "series": "SDRAM笔记本内存系列",
+    "opendb_id": "__256mb_sdram_pc133____",
+    "metadata": {
+      "内存类型": "SDRAM",
+      "内存主频": "133MHz",
+      "颗粒封装": "BLP"
+    }
+  },
+  {
+    "name": "金邦256MB SDRAM(千禧)",
+    "manufacturer": "金邦科技",
+    "series": "SDRAM笔记本内存系列",
+    "opendb_id": "__256mb_sdram____",
+    "metadata": {
+      "内存类型": "SDRAM"
+    }
+  },
+  {
+    "name": "金邦128MB SDRAM(千禧)",
+    "manufacturer": "金邦科技",
+    "series": "SDRAM笔记本内存系列",
+    "opendb_id": "__128mb_sdram____",
+    "metadata": {
+      "内存类型": "SDRAM"
+    }
+  }
+]

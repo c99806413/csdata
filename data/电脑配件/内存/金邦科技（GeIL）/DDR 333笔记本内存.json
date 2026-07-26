@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金邦256MB DDR333(千禧)",
+    "manufacturer": "金邦科技",
+    "series": "DDR 333笔记本内存",
+    "opendb_id": "__256mb_ddr333____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR"
+    }
+  },
+  {
+    "name": "金邦龙条 512MB DDR333",
+    "manufacturer": "金邦科技",
+    "series": "DDR 333笔记本内存",
+    "opendb_id": "_____512mb_ddr333",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR"
+    }
+  }
+]

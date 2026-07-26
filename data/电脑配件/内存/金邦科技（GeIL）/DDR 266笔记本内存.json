@@ -1,0 +1,42 @@
+[
+  {
+    "name": "金邦256MB DDR266(千禧)",
+    "manufacturer": "金邦科技",
+    "series": "DDR 266笔记本内存",
+    "opendb_id": "__256mb_ddr266____",
+    "metadata": {
+      "内存类型": "DDR",
+      "内存主频": "266MHz"
+    }
+  },
+  {
+    "name": "金邦128MB DDR266(千禧)",
+    "manufacturer": "金邦科技",
+    "series": "DDR 266笔记本内存",
+    "opendb_id": "__128mb_ddr266____",
+    "metadata": {
+      "内存类型": "DDR",
+      "内存主频": "266MHz"
+    }
+  },
+  {
+    "name": "金邦256MB DDR 266(金条)",
+    "manufacturer": "金邦科技",
+    "series": "DDR 266笔记本内存",
+    "opendb_id": "__256mb_ddr_266____",
+    "metadata": {
+      "内存类型": "DDR",
+      "内存主频": "266MHz"
+    }
+  },
+  {
+    "name": "金邦512MB DDR 266(金条)",
+    "manufacturer": "金邦科技",
+    "series": "DDR 266笔记本内存",
+    "opendb_id": "__512mb_ddr_266____",
+    "metadata": {
+      "内存类型": "DDR",
+      "内存主频": "266MHz"
+    }
+  }
+]
