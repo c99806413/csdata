@@ -1,0 +1,16 @@
+[
+  {
+    "name": "M600 M.2 SATA",
+    "manufacturer": "台迅",
+    "series": "M600 M.2 SATA",
+    "opendb_id": "m600_m_2_sata",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "512GB/120GB/240GB/1TB/64GB/128GB/480GB/256GB",
+      "接口类型": "M.2 SATA接口（NGFF）",
+      "写入速度": "1500MB/s/2100MB/s/560MB/s/1200MB/s",
+      "平均寻道时间": "0.15ms",
+      "工作温度": "0-70℃"
+    }
+  }
+]
