@@ -1,0 +1,33 @@
+[
+  {
+    "name": "1650 (4GB)",
+    "manufacturer": "技嘉",
+    "series": "1650",
+    "opendb_id": "1650_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1650",
+      "显示芯片系列": "NVIDIA GTX 16系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU117",
+      "核心频率": "1815MHz/1620MHz/1590-1815MHz/1710MHz/1680MHz/1785MHz/1695MHz",
+      "CUDA核心": "896个",
+      "显存频率": "8002MHz/12000MHz",
+      "显存类型": "GDDR5/GDDR6",
+      "显存容量": "4GB",
+      "显存位宽": "128bit/192bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "3×HDMI接口，1×DisplayPort接口/2×HDMI接口，1×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，1×DisplayPort接口/2×HDMI接口，1×DisplayPort接口",
+      "电源接口": "6pin/无外接电源接口",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热（风之力正逆转双风扇散热系统）/双风扇散热/双风扇散热（风之力 2X正逆转双风扇散热系统）/散热风扇",
+      "3D API": "DirectX 12，OpenGL 4.5/DirectX 12，OpenGL 4.6",
+      "支持HDCP": "是",
+      "产品尺寸": "265×118×40mm/167×69×39mm/212×121×40mm/191×112×36mm/152×114×36mm/229×119×36mm/166.9×69×39mm",
+      "建议电源": "300W",
+      "其它特点": "支持最多4屏输出RGB Fusion 2.0-可与其他AORUS设备同步灯光效果支持NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNCGame Ready 驱动程序支持NVIDIA GPU BoostNVIDIA Encoder (NVENC)/支持最多4屏输出/支持最多3屏输出支持NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNCGame Ready 驱动程序支持NVIDIA GPU BoostNVIDIA Encoder (NVENC)/支持最多4屏输出支持NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNCGame Ready 驱动程序支持NVIDIA GPU BoostNVIDIA Encoder (NVENC)",
+      "上市日期": "2019年04月/2020年/2019年"
+    }
+  }
+]

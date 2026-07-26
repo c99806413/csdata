@@ -1,0 +1,33 @@
+[
+  {
+    "name": "5060 (8GB)",
+    "manufacturer": "技嘉",
+    "series": "5060",
+    "opendb_id": "5060_8gb",
+    "metadata": {
+      "产品型号": "GV-N5060WF2-8GD/GV-N5060GAMING OC-8GD/GV-N5060AERO OC-8GD/GV-N5060EAGLE OC-8GD/GV-N5060EAGLEOC ICE-8GD/GV-N5060OC-8GL/GV-N5060AORUS E-8GD",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 5060",
+      "显示芯片系列": "NVIDIA RTX 50系列",
+      "核心频率": "2497MHz/2497-2595MHz/2497-2550MHz/2497-2512MHz/2497-2722MHz",
+      "CUDA核心": "3840个",
+      "显存频率": "28000MHz",
+      "显存类型": "GDDR7",
+      "显存容量": "8GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 5.0 16X",
+      "I/O接口": "1×HDMI2.1b接口，3×DisplayPort2.1b接口/1×HDMI2.1b接口，2×DisplayPort2.1b接口，1×DisplayPor1.4a接口",
+      "电源接口": "8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "双风扇散热+热管散热/三风扇散热+热管散热",
+      "散热设计": "风之力散热系统/技嘉定制的散热系统采用服务器级热导胶、与GPU直接接触的铜板以及复合式热管",
+      "3D API": "DirectX 12 API，OpenGL 4.6",
+      "支持HDCP": "是",
+      "产品尺寸": "199×116×40mm/281×119×40mm/281×117×40mm/208×120×40mm/182×69×36mm/329×128×40mm",
+      "建议电源": "450W/500W",
+      "多屏设计": "4",
+      "VR Ready级别": "是"
+    }
+  }
+]

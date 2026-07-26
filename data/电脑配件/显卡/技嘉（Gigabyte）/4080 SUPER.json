@@ -1,0 +1,35 @@
+[
+  {
+    "name": "4080 SUPER (16GB)",
+    "manufacturer": "技嘉",
+    "series": "4080 SUPER",
+    "opendb_id": "4080_super_16gb",
+    "metadata": {
+      "产品型号": "魔鹰 GeForce RTX 4080 SUPER Gaming OC 16G/风魔 GeForce RTX 4080 SUPER WindForce 16G/雪鹰 GeForce RTX 4080 SUPER AERO OC 16G/超级雕 AORUS GeForce RTX 4080 SUPER MASTER 16G/GV-N408SWF3V2-16GD",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 4080 SUPER",
+      "显示芯片系列": "NVIDIA RTX 40系列",
+      "制作工艺": "4纳米",
+      "核心代号": "AD103-400",
+      "核心频率": "2595MHz/2550MHz/2625MHz/2550-2700-MHz",
+      "CUDA核心": "10240个",
+      "显存频率": "23000MHz",
+      "显存类型": "GDDR6X",
+      "显存容量": "16GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "16pin",
+      "显卡类型": "发烧级",
+      "显卡设计": "非公版",
+      "散热方式": "三风扇散热+热管散热",
+      "3D API": "DirectX 12，OpenGL 4.6",
+      "支持HDCP": "是，2.3",
+      "产品尺寸": "长342mm；宽150mm；高75mm/长330mm；宽136mm；高56mm/长357mm；宽163mm；高75mm/357×166×75mm/330×136×58mm",
+      "建议电源": "850W以上/700W以上/850W/750W",
+      "多屏设计": "4",
+      "其它特点": "支持 NVIDIA DLSS：DLSS 3.5超分辨率DLAA光线重建帧生成，支持 NVIDIA Reflex，支持 NVIDIA Broadcast，支持 Resizable BAR，支持 NVIDIA GeForce Experience，支持 NVIDIA Ansel，支持 NVIDIA FreeStyle，支持 NVIDIA ShadowPlay，支持 NVIDIA Highlights，支持 NVIDIA G-SYNC，支持 NVIDIA Studio 驱动，支持 NVIDIA Omniverse，支持 Microsoft DirectX 12 Ultimate，支持 NVIDIA GPU Boost，支持 NVIDIA NVLink (SLI-Ready)，支持 VR Ready"
+    }
+  }
+]

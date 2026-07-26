@@ -1,0 +1,32 @@
+[
+  {
+    "name": "GTX1050Ti系列 (4GB)",
+    "manufacturer": "技嘉",
+    "series": "GTX1050Ti系列",
+    "opendb_id": "gtx1050ti_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1050 Ti/GeForce GTX 1050Ti",
+      "显示芯片系列": "NVIDIA GTX 10系列",
+      "制作工艺": "14纳米",
+      "核心代号": "GP107-400",
+      "核心频率": "1316/1455MHz/1290/1430MHz/1366/1506MHz/1328/1468MHz/1303/1442MHz",
+      "CUDA核心": "768个",
+      "显存频率": "7008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口/3×HDMI接口，1×DVI接口，1×DisplayPort接口/2×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热/散热风扇",
+      "3D API": "DirectX 12，OpenGL 4.5/DirectX 12，Shader Model 5.0，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "191×111×36mm/172×113×30mm/219×118×40mm/229×118×40mm/167×68.9×37mm",
+      "建议电源": "300W以上",
+      "其它特点": "支持最多3屏输出，热管直触风扇散热技术，XTREME Engine超频软件/支持最多3屏输出，热管直触风扇散热技术/热管直触风扇散热技术，XTREME Engine超频软件，支持GameWorks技术，1680万色炫彩RGB LED灯，支持最多3屏输出/支持G-SYNC技术，支持NVIDIA GameWorks技术，一键超频，XTREME Engine超频软件，支持最多3屏输出/HDT热管直触风扇散热技术，XTREME Engine超频软件，支持GameWorks技术，支持最多4屏输出/NVIDIA G-SYNC技术，支持NVIDIA GameWorks技术，支持最多4屏输出，一键超频",
+      "上市日期": "2016年10月"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "4070 SUPER (12GB)",
+    "manufacturer": "技嘉",
+    "series": "4070 SUPER",
+    "opendb_id": "4070_super_12gb",
+    "metadata": {
+      "产品型号": "AORUS GeForce RTX 4070 SUPER MASTER 12G/GeForce RTX 4070 SUPER GAMING OC 12G/GeForce RTX 4070 SUPER WINDFORCE OC 12G/GeForce RTX 4070 SUPER AERO OC 12G/GV-N407SEAGLEOC ICE-12GD/GV-N407SWUKONG OC-12GD",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 4070 SUPER",
+      "显示芯片系列": "NVIDIA RTX 40系列",
+      "制作工艺": "4纳米",
+      "核心代号": "AD104-350",
+      "核心频率": "2655MHz/2565MHz/2505MHz/2535-2475MHz/2535MHz/2565-2475MHz",
+      "CUDA核心": "7168个",
+      "显存频率": "21000MHz",
+      "显存类型": "GDDR6X",
+      "显存容量": "12GB",
+      "显存位宽": "192bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "16pin",
+      "显卡类型": "发烧级",
+      "显卡设计": "非公版",
+      "散热方式": "三风扇散热+热管散热",
+      "3D API": "DirectX 12，OpenGL 4.6",
+      "支持HDCP": "是，2.3",
+      "产品尺寸": "342*153*70.6mm/300*130*57.6mm/261*126*50mm",
+      "最大功耗": "245W",
+      "建议电源": "700W",
+      "多屏设计": "4",
+      "其它特点": "支持 NVIDIA DLSS：DLSS 3.5超分辨率DLAA光线重建帧生成，支持 NVIDIA Reflex，支持 NVIDIA Broadcast，支持 Resizable BAR，支持 NVIDIA GeForce Experience，支持 NVIDIA Ansel，支持 NVIDIA FreeStyle，支持 NVIDIA ShadowPlay，支持 NVIDIA Highlights，支持 NVIDIA G-SYNC，支持 NVIDIA Studio 驱动，支持 NVIDIA Omniverse，支持 Microsoft DirectX 12 Ultimate，支持 NVIDIA GPU Boost，支持 VR Ready"
+    }
+  }
+]

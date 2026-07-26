@@ -1,0 +1,33 @@
+[
+  {
+    "name": "GTX780系列 (3GB)",
+    "manufacturer": "技嘉",
+    "series": "GTX780系列",
+    "opendb_id": "gtx780_3gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 780",
+      "显示芯片系列": "NVIDIA GTX 700系列/NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK110",
+      "核心频率": "863MHz/954/1006MHz/1019/1071MHz/863/900MHz",
+      "CUDA核心": "2304个",
+      "显存频率": "6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "3GB",
+      "显存位宽": "384bitbit/384bit",
+      "最大分辨率": "4096×2160/2048×1536",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin+8pin/8pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "涡轮风扇/散热风扇+热管散热",
+      "3D API": "DirectX 11.1/DirectX 11.2",
+      "支持HDCP": "是",
+      "产品尺寸": "38×281×111mmmm/292×129×43mm",
+      "最大功耗": "210W",
+      "建议电源": "600W以上",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术，支持显卡四屏输出/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术，支持显卡多屏输出"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "GTX560系列 (1GB)",
+    "manufacturer": "技嘉",
+    "series": "GTX560系列",
+    "opendb_id": "gtx560_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 560",
+      "显示芯片系列": "NVIDIA GTX 500系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF114",
+      "核心频率": "830MHz/810MHz/900MHz",
+      "CUDA核心": "336个",
+      "显存频率": "4008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "Mini HDMI接口/双DVI接口/双DVI接口/Mini HDMI接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11/DirectX 11OpenGL 4.1",
+      "供电模式": "7+2相",
+      "支持HDCP": "是",
+      "产品尺寸": "43×238×130mmmm",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术显卡功耗：160W/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  }
+]

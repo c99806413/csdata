@@ -1,0 +1,34 @@
+[
+  {
+    "name": "5070 Ti (16GB)",
+    "manufacturer": "技嘉",
+    "series": "5070 Ti",
+    "opendb_id": "5070_ti_16gb",
+    "metadata": {
+      "产品型号": "GV-N507TGAMING OC-16GD/GV-N507TWF3OC-16GD/GV-N507TAERO OC-16GD/GV-N507TAORUS M-16GD/GV-N507TEAGLEOC ICE-16GD/GV-N507TEAGLE OC-16GD",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 5070 Ti",
+      "显示芯片系列": "NVIDIA RTX 50系列",
+      "核心代号": "GB203-300",
+      "CUDA核心": "8960个",
+      "显存频率": "28000MHz",
+      "显存类型": "GDDR7",
+      "显存容量": "16GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 5.0 16X",
+      "I/O接口": "1×HDMI 2.1b接口，3×DisplayPort 2.1b接口",
+      "电源接口": "16pin",
+      "显卡类型": "发烧级",
+      "显卡设计": "非公版",
+      "散热方式": "三风扇散热+热管散热",
+      "散热设计": "仿生风扇+服务器级导热凝胶",
+      "3D API": "DirectX 12，OpenGL 4.6",
+      "RGB": "RGB幻彩光轮",
+      "产品尺寸": "340×140×70mm/304×126×50mm/360×150×75mm",
+      "建议电源": "750W",
+      "双BIOS切换": "支持",
+      "多屏设计": "4"
+    }
+  }
+]

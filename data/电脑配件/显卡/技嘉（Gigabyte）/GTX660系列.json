@@ -1,0 +1,61 @@
+[
+  {
+    "name": "GTX660系列 (2GB)",
+    "manufacturer": "技嘉",
+    "series": "GTX660系列",
+    "opendb_id": "gtx660_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 660",
+      "显示芯片系列": "NVIDIA GTX 600系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK106",
+      "核心频率": "1033MHz/980/1046MHz/980/1033MHz",
+      "CUDA核心": "960个",
+      "显存频率": "6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "192bitbit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口/HDMI接口/双DVI接口/DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇+散热片+热管散热",
+      "3D API": "DirectX 11/DirectX 11.1/OpenGL 4.3",
+      "支持HDCP": "是",
+      "产品尺寸": "42×266×137mmmm/248×146×42mmmm/42×256.3×131mmmm",
+      "最大功耗": "130W",
+      "建议电源": "450W以上",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  },
+  {
+    "name": "GTX660系列 (3GB)",
+    "manufacturer": "技嘉",
+    "series": "GTX660系列",
+    "opendb_id": "gtx660_3gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 660",
+      "显示芯片系列": "NVIDIA GTX 600系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK106",
+      "核心频率": "1032MHz",
+      "CUDA核心": "960个",
+      "显存频率": "6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "3GB",
+      "显存位宽": "192bitbit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin+6pin",
+      "显卡类型": "发烧级",
+      "散热方式": "散热风扇+热管散热",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  }
+]

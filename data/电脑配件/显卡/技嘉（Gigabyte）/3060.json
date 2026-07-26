@@ -1,0 +1,32 @@
+[
+  {
+    "name": "3060 (12GB)",
+    "manufacturer": "技嘉",
+    "series": "3060",
+    "opendb_id": "3060_12gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 3060",
+      "显示芯片系列": "NVIDIA RTX 30系列",
+      "制作工艺": "8纳米",
+      "核心代号": "GA106",
+      "核心频率": "1777MHz/1‎837MHz/1777-1867MHz/1807MHz",
+      "CUDA核心": "3584个",
+      "显存频率": "15000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "12GB",
+      "显存位宽": "192bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "2×HDMI 2.1接口，2×DisplayPort 1.4接口",
+      "电源接口": "8pin/6pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "双风扇散热/三风扇散热",
+      "3D API": "DirectX 12，OpenGL 4.6",
+      "支持HDCP": "是",
+      "产品尺寸": "242×124×41mm/282×117×41mm/296×117×56mm",
+      "其它特点": "支持最多4屏输出NVIDIA AMPERE 架构第二代RT Core第三代Tensor Core风之力双风扇搭配正逆转功能100mm特殊刀锋扇叶RGB Fusion 2.0造型强化背板/支持最多4屏输出/NVIDIA AMPERE 架构第二代RT Core第三代Tensor Core风之力三风扇搭配正逆转功能RGB Fusion 2.0造型金属背板/支持最多4屏输出NVIDIA AMPERE 架构第二代RT Core第三代Tensor Core风之力双风扇搭配正逆转功能RGB Fusion 2.0造型强化背板",
+      "其他参数": "显存带宽：360GB/s"
+    }
+  }
+]

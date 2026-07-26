@@ -1,0 +1,62 @@
+[
+  {
+    "name": "GTX960系列 (2GB)",
+    "manufacturer": "技嘉",
+    "series": "GTX960系列",
+    "opendb_id": "gtx960_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 960",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM206",
+      "核心频率": "1241/1304MHz/1216/1278MHz/1190/1253MHz/1165/1228MHz",
+      "CUDA核心": "1024个",
+      "显存频率": "7010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，3×DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin+6pin/6pin",
+      "显卡类型": "入门级",
+      "散热方式": "三风扇散热+热管散热/双风扇散热+热管散热/散热风扇+热管散热",
+      "3D API": "DirectX 12",
+      "支持HDCP": "是",
+      "产品尺寸": "43×295×114mm/43×257×114mm/42×181×136mm",
+      "建议电源": "400W",
+      "其它特点": "支持HDT热管直触技术，智能启停LED指示灯，合金背板，支持Flex多屏显示技术，OC GURU II超频软件/支持HDT热管直触技术，Flex多屏显示技术，OC GURU II超频软件/OC GURU II超频软件/支持HDT热管直触技术，OC GURU II超频软件"
+    }
+  },
+  {
+    "name": "GTX960系列 (4GB)",
+    "manufacturer": "技嘉",
+    "series": "GTX960系列",
+    "opendb_id": "gtx960_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 960",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM206",
+      "核心频率": "1216/1304MHz/1241/1329MHz/1190/1279MHz/1279/1367MHz",
+      "CUDA核心": "1024个",
+      "显存频率": "7010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，3×DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "6pin+8pin/6pin+6pin/6pin",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热+热管散热/三风扇散热+热管散热",
+      "3D API": "DirectX 12，OpenGL 4.4/DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "257×114×43mm/295×114×43mm/177×121×36mm/262×127×40mm",
+      "建议电源": "400W以上",
+      "其它特点": "支持HDT热管直触技术，金属背板，Flex多屏显示技术，OC GURU II超频软件/支持HDT热管直触技术，智能启停LED指示灯，金属背板，Flex多屏显示技术，OC GURU II超频软件/OC GURU II超频软件/支持最多4屏输出，OC GURU II超频软件"
+    }
+  }
+]

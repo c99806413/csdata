@@ -1,0 +1,33 @@
+[
+  {
+    "name": "GTX980系列 (4GB)",
+    "manufacturer": "技嘉",
+    "series": "GTX980系列",
+    "opendb_id": "gtx980_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 980",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM204",
+      "核心频率": "1228/1329MHz/1127/1216MHz/1228/1354MHz/1178/1279MHz/1241/1342MHz",
+      "CUDA核心": "2048个",
+      "显存频率": "7000MHz/7012MHz/7100MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bitbit/256bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，3×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "水冷散热/三风扇散热/涡轮风扇",
+      "3D API": "DirectX 12/DirectX 12，OpenGL 4.4",
+      "供电模式": "8相/12相",
+      "支持HDCP": "是",
+      "产品尺寸": "504×215×153mmmm/312×129×43mm/312×129×43mmmm/272×113×37mm/279×121×42mm/282×110×43mmmm",
+      "建议电源": "1200W/600W以上/600W",
+      "其它特点": "支持NVIDIA 三路SLI技术，支持Flex多屏显示技术/支持HDT热管直触技术，Flex多屏显示技术，OC GURU II超频软件/支持三角立体散热技术，智能LED指示灯，金属背板，Flex多屏显示技术，OC GURU II超频软件/OC GURU II超频软件，支持最多4屏输出/OC GURU II超频软件/支持最多4屏输出，OC GURU II超频软件"
+    }
+  }
+]

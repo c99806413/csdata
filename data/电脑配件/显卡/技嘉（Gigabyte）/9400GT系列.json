@@ -1,0 +1,48 @@
+[
+  {
+    "name": "9400GT系列 (512GB)",
+    "manufacturer": "技嘉",
+    "series": "9400GT系列",
+    "opendb_id": "9400gt_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9400GT",
+      "制作工艺": "55纳米",
+      "核心代号": "G96",
+      "核心频率": "550MHz",
+      "CUDA核心": "32个",
+      "显存频率": "800MHz",
+      "显存类型": "GDDR2",
+      "显存容量": "512GB",
+      "显存位宽": "64bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI",
+      "散热方式": "散热风扇+散热片（静音）",
+      "3D API": "DirectX 10"
+    }
+  },
+  {
+    "name": "9400GT系列 (1GB)",
+    "manufacturer": "技嘉",
+    "series": "9400GT系列",
+    "opendb_id": "9400gt_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9400GT",
+      "核心代号": "G96",
+      "核心频率": "650MHz",
+      "显存频率": "800MHz",
+      "显存类型": "GDDR2",
+      "显存容量": "1GB",
+      "显存位宽": "128bitbit",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)/HDMI",
+      "3D API": "DirectX 10/OpenGL 2.1/DirectX 10",
+      "制作工艺": "55纳米",
+      "CUDA核心": "16个",
+      "最大分辨率": "2560*1600",
+      "散热方式": "散热风扇"
+    }
+  }
+]

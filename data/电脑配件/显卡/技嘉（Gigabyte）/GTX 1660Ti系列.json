@@ -1,0 +1,31 @@
+[
+  {
+    "name": "GTX 1660Ti系列 (6GB)",
+    "manufacturer": "技嘉",
+    "series": "GTX 1660Ti系列",
+    "opendb_id": "gtx_1660ti_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1660 Ti/GeForce GTX 1660Ti",
+      "显示芯片系列": "NVIDIA GTX 16系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU116-400",
+      "核心频率": "1800MHz/1842MHz/1860MHz/1785MHz/1890MHz",
+      "CUDA核心": "1536个",
+      "显存频率": "12000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "6GB",
+      "显存位宽": "192bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热+热管散热/双风扇散热/三风扇散热+热管散热/散热风扇",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "其它特点": "VR Ready级别显卡，NVIDIA G-SYNC技术/灯光：RGB Fusion 2.0，VR Ready级别显卡，NVIDIA G-SYNC技术/支持最多4屏输出，灯光：RGB Fusion 2.0，VR Ready级别显卡，NVIDIA G-SYNC技术/支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术",
+      "上市日期": "2019年02月"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "name": "GTX980Ti系列 (6GB)",
+    "manufacturer": "技嘉",
+    "series": "GTX980Ti系列",
+    "opendb_id": "gtx980ti_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 980Ti",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM200",
+      "核心频率": "1000/1317MHz/1000/1075MHz/1152/1291MHz/1102/1190MHz",
+      "CUDA核心": "2816个",
+      "显存频率": "7200MHz/7010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "6GB",
+      "显存位宽": "384bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口/1×HDMI接口，2×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin/6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "三风扇散热+热管散热+散热片（静音）/涡轮风扇/三风扇散热+热管散热/水冷散热",
+      "3D API": "DirectX 12，OpenGL 4.5/DirectX 12/DirectX 12，OpenGL 4.4/DirectX 12，OpenGL 4.5，shader model 5.0",
+      "供电模式": "12+2相/14相",
+      "支持HDCP": "是",
+      "产品尺寸": "287×134×51mm/295×129×43mm/280×114×43mm/269×121×43mm",
+      "建议电源": "600W以上",
+      "其它特点": "支持最多4屏输出，OC GURU II超频软件，LED呼吸灯，合金背板/最多支持4屏幕输出，OC GURU II超频软件/搭载七彩LED指示灯，支持三角立体散热技术，金属背板，Flex多屏显示技术，OC GURU II超频软件/支持HDT热管直触技术，Flex多屏显示技术，OC GURU II超频软件/支持最多4屏输出，OC GURU II超频软件，LED呼吸灯"
+    }
+  }
+]
