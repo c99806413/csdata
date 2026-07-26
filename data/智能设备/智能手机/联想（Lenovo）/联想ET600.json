@@ -1,0 +1,27 @@
+[
+  {
+    "name": "联想ET600",
+    "manufacturer": "联想",
+    "series": "联想ET600",
+    "opendb_id": "et600",
+    "metadata": {
+      "上市日期": "2007年04月",
+      "使用场景": "智能手机",
+      "长度": "110mm/1108mm",
+      "宽度": "60mm/608mm",
+      "厚度": "15.8mm",
+      "重量": "128g",
+      "存储卡": "micro SD（T-Flash）",
+      "出厂系统内核": "Windows mobile 6.0",
+      "分辨率": "240×320px",
+      "屏幕材质": "TFT",
+      "像素": "200万像素",
+      "网络类型": "3G",
+      "3G网络": "GSM",
+      "网络频段": "GSM900/1800/1900/GSM 900/1800/1900",
+      "连接与共享": "蓝牙2.0/蓝牙",
+      "音频支持": "Windows Mobile Media Player MP3、WMA、AAC、WAV",
+      "视频支持": "Windows Mobile Media Player WMV、MP4、3GP"
+    }
+  }
+]
