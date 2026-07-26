@@ -1,0 +1,26 @@
+[
+  {
+    "name": "南亚易胜256MB DDR266(盒/三年保)",
+    "manufacturer": "南亚易胜",
+    "series": "DDR 266台式机内存系列",
+    "opendb_id": "____256mb_ddr266_______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "266MHz",
+      "颗粒封装": "TSOP"
+    }
+  },
+  {
+    "name": "南亚易胜256MB DDR266-FBGA(盒/三年保)",
+    "manufacturer": "南亚易胜",
+    "series": "DDR 266台式机内存系列",
+    "opendb_id": "____256mb_ddr266_fbga_______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "266MHz",
+      "颗粒封装": "FBGA"
+    }
+  }
+]

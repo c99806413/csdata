@@ -1,0 +1,74 @@
+[
+  {
+    "name": "南亚易胜256MB DDR 333(笔记本)",
+    "manufacturer": "南亚易胜",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "____256mb_ddr_333_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（256MB）",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "TSOP"
+    }
+  },
+  {
+    "name": "南亚易胜512MB DDR333(笔记本)",
+    "manufacturer": "南亚易胜",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "____512mb_ddr333_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz"
+    }
+  },
+  {
+    "name": "南亚易胜256MB DDR333-FBGA(盒/三年保)",
+    "manufacturer": "南亚易胜",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "____256mb_ddr333_fbga_______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "FBGA"
+    }
+  },
+  {
+    "name": "南亚易胜256MB DDR333(盒/三年保)",
+    "manufacturer": "南亚易胜",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "____256mb_ddr333_______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "TSOP"
+    }
+  },
+  {
+    "name": "南亚易胜512MB DDR333-FBGA(盒/三年保)",
+    "manufacturer": "南亚易胜",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "____512mb_ddr333_fbga_______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "FBGA"
+    }
+  },
+  {
+    "name": "南亚易胜128M DDR333(盒/三年保)",
+    "manufacturer": "南亚易胜",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "____128m_ddr333_______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "TSOP"
+    }
+  }
+]

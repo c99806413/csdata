@@ -1,0 +1,62 @@
+[
+  {
+    "name": "南亚易胜512MB DDR400",
+    "manufacturer": "南亚易胜",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "____512mb_ddr400",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "TSOP"
+    }
+  },
+  {
+    "name": "南亚易胜256MB DDR 400",
+    "manufacturer": "南亚易胜",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "____256mb_ddr_400",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "TSOP"
+    }
+  },
+  {
+    "name": "南亚易胜1GB DDR 400",
+    "manufacturer": "南亚易胜",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "____1gb_ddr_400",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "TSOP"
+    }
+  },
+  {
+    "name": "南亚易胜256MB DDR400-FBGA(盒/三年保)",
+    "manufacturer": "南亚易胜",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "____256mb_ddr400_fbga_______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "FBGA"
+    }
+  },
+  {
+    "name": "南亚易胜256MB DDR400(盒/三年保)",
+    "manufacturer": "南亚易胜",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "____256mb_ddr400_______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "TSOP"
+    }
+  }
+]
