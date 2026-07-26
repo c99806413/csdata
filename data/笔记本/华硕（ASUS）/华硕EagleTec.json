@@ -1,0 +1,41 @@
+[
+  {
+    "name": "华硕EagleTec EF7330",
+    "manufacturer": "华硕",
+    "series": "华硕EagleTec EF7330",
+    "opendb_id": "eagletec_ef7330_p_ii",
+    "metadata": {
+      "操作系统": "Windows 98 SE",
+      "CPU型号": "P-II",
+      "CPU主频": "400MHz",
+      "内存容量": "64.000",
+      "硬盘容量": "6.000",
+      "显卡芯片": "AGP",
+      "音频系统": "内置声卡",
+      "有线网卡": "可选",
+      "其它接口": "USB/COM/LPT/IrDA/VGA/COM等",
+      "指取设备": "触摸板",
+      "电池类型": "锂电池",
+      "笔记本重量": "2.65Kg"
+    }
+  },
+  {
+    "name": "华硕EagleTec EF7330 (未知CPU)",
+    "manufacturer": "华硕",
+    "series": "华硕EagleTec EF7330",
+    "opendb_id": "eagletec_ef7330_cpu",
+    "metadata": {
+      "操作系统": "Windows 98 SE",
+      "显卡芯片": "AGP S3 Savage/MX/AGP",
+      "音频系统": "内置声卡与喇叭/内置声卡/Vortex AU8810芯片",
+      "有线网卡": "可选",
+      "其它接口": "2*USB+LPT+COM+PS/2+VGA+IrDA+音频接口/USB/COM/LPT/IrDA/VGA/COM等",
+      "指取设备": "触摸板",
+      "电池类型": "12/锂电池",
+      "笔记本重量": "2.9Kg/2.65Kg",
+      "CPU主频": "500MHz/600MHz/800MHz",
+      "内存容量": "64.000/128.000",
+      "硬盘容量": "6.000/20GB"
+    }
+  }
+]

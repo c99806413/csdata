@@ -1,0 +1,49 @@
+[
+  {
+    "name": "华硕F7400",
+    "manufacturer": "华硕",
+    "series": "华硕F7400",
+    "opendb_id": "f7400_p_ii",
+    "metadata": {
+      "CPU型号": "P-II",
+      "CPU主频": "400MHz",
+      "总线规格": "支援Intel® Pentium® II Mobile Module，Mobile CeleronTM Module，或 Mobile Pentium® II-PE (Dixon) Module MMC-2 设计模組及AGP 3D的架构，可执行脉233/ 266/ 300/ 333/ 366/ 400 MHz",
+      "内存容量": "32.000",
+      "最大内存容量": "內建32MB SDRAM，具有二組支援SODIMM 记忆体扩充槽，主记忆体可扩充到288MB",
+      "硬盘容量": "6.000",
+      "硬盘描述": "抽取式2.5 IDE硬碟，支援Ultra DMA/33资料传输模式,可选:2/3/4/6GB或更高容量",
+      "显卡芯片": "ATI? Rage LT Pro，3D AGP与可选购之硬体DVD MPEG-2解码器，支援液晶显示器及外接式萤幕，高画质的NTSC/ PAL TV视讯输出，内建4MB SGRAM与64-bit资料传输",
+      "显存类型": "4",
+      "音频系统": "ESS Maestro-2E，内建PCI 16-bit 立体音响效果，3D立体音响效果与Sound Blaster? Pro 相容，内建AC'97CODEC，64-Voice Waveeable，全双工音效，内建 立体音响喇叭与麦克风",
+      "其它接口": "一个16550串列埠/9-pin D型接头，一个EPP/ECP并列埠/25-pin D型接头，一个PS/2 键盘，滑鼠埠，二个红外线传输埠，音效插头可接耳机/speaker-out，mic-in 与 line-in，一个VGA埠/15-pi",
+      "键盘描述": "类似桌上型电脑19mm尺寸的86 keys键盘具有WIN95功能键，符合人体工学舒 适的手放置区",
+      "电池类型": "9颗锂电池",
+      "续航时间": "3",
+      "电源适配器": "全功能SMI电源管理，Stand-by 模式与电脑进入睡眠状况时可先将资料储存到磁碟或记忆体，支援APM 1.2，支援ACPI 1.0，电池耗弱警示",
+      "笔记本重量": "3.25Kg"
+    }
+  },
+  {
+    "name": "华硕F7400B",
+    "manufacturer": "华硕",
+    "series": "华硕F7400",
+    "opendb_id": "f7400_cpu",
+    "metadata": {
+      "CPU主频": "500MHz",
+      "总线规格": "Intel Pentium® III/II/Celeron Mobile Module MMC-2 in AGP architecture，Speed at 300/333/366/400/450/500 MHz maximum，32KB internal cache and 256KB on-die L2 cache，Phoenix 256KB Flash EPROM，PMU，",
+      "内存容量": "64.000",
+      "最大内存容量": "64MB SDRAM onboard，Two SODIMM sockets for expansion up to 320MB",
+      "硬盘容量": "10GB",
+      "硬盘描述": "Removable 2.5寸 IDE HDD with Ultra DMA/33 supported (height：12.7mm/ 9.5mm)，Capacity up to 10GB or higher",
+      "显卡芯片": "3D AGP graphics，High quality NTSC/PAL TV video output，Macrovision licensing",
+      "显存类型": "8",
+      "音频系统": "Built-in AC ' 97 stereo sound，Sound BlasterTM Pro compatible，with 3D sound effects，Full duplex audio，Built-in stereo speakers and Mic",
+      "其它接口": "One 16550 UART compatible serial port/D-sub 9-pin，One EPP/ECP Parallel port/D-sub 25-pin，One PS/2 Keyboard/Mouse port wi",
+      "键盘描述": "Desktop-like 19mm full-size 86-key keyboard with Windows function keys，3mm travel with palm rest",
+      "电池类型": "Li-Ion 9 cells",
+      "续航时间": "3.5",
+      "电源适配器": "Full feature SMI power management，Stand-by，Suspend to Disk，and Suspend to RAM，APM 1.2 supported，ACPI 1.0b supported",
+      "笔记本重量": "3.25Kg"
+    }
+  }
+]
