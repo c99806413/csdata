@@ -1,0 +1,111 @@
+[
+  {
+    "name": "华硕TransPort LT",
+    "manufacturer": "华硕",
+    "series": "华硕TransPort LT 612D",
+    "opendb_id": "transport_lt_612d_ati_rage_lt_pro_agp_2x",
+    "metadata": {
+      "CPU主频": "450MHz",
+      "内存容量": "64.000",
+      "硬盘容量": "6.000",
+      "显卡芯片": "ATI Rage LT Pro控制芯片支持AGP 2X",
+      "显存类型": "8",
+      "音频系统": "16位立体声，全双工，杜比AC3创新（CREATIVE）声卡",
+      "其它接口": "USB/COM/LPT/PS/2/VGA等",
+      "指取设备": "触摸板",
+      "电池类型": "锂离子电池也可支持2块电池",
+      "续航时间": "3",
+      "笔记本重量": "2Kg"
+    }
+  },
+  {
+    "name": "华硕TransPort LT 612C",
+    "manufacturer": "华硕",
+    "series": "华硕TransPort LT 612D",
+    "opendb_id": "transport_lt_612d_ati_rage_lt_pro_agp",
+    "metadata": {
+      "CPU主频": "600MHz",
+      "内存容量": "64.000",
+      "硬盘容量": "6.000",
+      "显卡芯片": "ATI Rage LT Pro控制芯片支持AGP接口",
+      "显存类型": "8",
+      "音频系统": "16位立体声，全双工，杜比AC3创新（CREATIVE）声卡",
+      "其它接口": "USB、LPT、IrDA等",
+      "指取设备": "触摸板",
+      "电池类型": "锂电池",
+      "续航时间": "3",
+      "笔记本重量": "2Kg"
+    }
+  },
+  {
+    "name": "华硕TransPort LT 612D",
+    "manufacturer": "华硕",
+    "series": "华硕TransPort LT 612D",
+    "opendb_id": "transport_lt_612d_ati_rage_lt_pro_agp",
+    "metadata": {
+      "CPU主频": "600MHz",
+      "内存容量": "64.000",
+      "硬盘容量": "6.000",
+      "显卡芯片": "ATI Rage LT Pro控制芯片，支持AGP接口",
+      "显存类型": "8",
+      "音频系统": "16位立体声，全双工，杜比AC3创新（CREATIVE）声卡",
+      "其它接口": "USB、LPT、IrDA等",
+      "指取设备": "触摸板",
+      "电池类型": "锂电池",
+      "续航时间": "3",
+      "笔记本重量": "2Kg"
+    }
+  },
+  {
+    "name": "华硕TransPort LT 613D",
+    "manufacturer": "华硕",
+    "series": "华硕TransPort LT 612D",
+    "opendb_id": "transport_lt_612d_ati_rage_lt_pro_agp",
+    "metadata": {
+      "显卡芯片": "ATI Rage LT Pro控制芯片 AGP 接口",
+      "显存类型": "8",
+      "音频系统": "16位立体声，全双工，杜比AC3创新（CREATIVE）声卡",
+      "其它接口": "USB、COM、LPT、IrDA等",
+      "指取设备": "触摸板",
+      "电池类型": "10",
+      "笔记本重量": "2Kg"
+    }
+  },
+  {
+    "name": "华硕TransPort LT NBK001586-02",
+    "manufacturer": "华硕",
+    "series": "华硕TransPort LT 612D",
+    "opendb_id": "transport_lt_612d_ati_mobility_m1",
+    "metadata": {
+      "CPU主频": "650MHz",
+      "内存容量": "192.000",
+      "显卡芯片": "ATI Mobility M1",
+      "显存类型": "8",
+      "音频系统": "Creative Labs Sound Blaster EV1938，16-Bit stereo, full duplex, Dolby AC3 SDIE CD Digital Audio",
+      "其它接口": "Hot & Warm docking 160pin Includes 10/100 LAN Connection, 2 PS/2, 1 Parallel, 1 Serial, 2 USB, 1 V",
+      "指取设备": "Synaptecs Touch pad with PS/2 interface",
+      "电池类型": "Smart Li-Ion 5100AH, 53Wh",
+      "笔记本重量": "2.62Kg",
+      "有线网卡": "10/100M"
+    }
+  },
+  {
+    "name": "华硕TransPort LT(PIII600)",
+    "manufacturer": "华硕",
+    "series": "华硕TransPort LT 612D",
+    "opendb_id": "transport_lt_612d_ati_rage_lt_pro_2x_agp",
+    "metadata": {
+      "CPU主频": "600MHz",
+      "内存容量": "64.000",
+      "硬盘容量": "10GB",
+      "显卡芯片": "ATI Rage LT Pro控制芯片支持2X AGP接口",
+      "显存类型": "8",
+      "音频系统": "16位立体声，全双工，杜比AC3创新（CREATIVE）声卡",
+      "其它接口": "USB、LPT、IrDA等",
+      "指取设备": "触摸板",
+      "电池类型": "锂电池/可支持2块电池",
+      "续航时间": "3",
+      "笔记本重量": "2Kg"
+    }
+  }
+]
