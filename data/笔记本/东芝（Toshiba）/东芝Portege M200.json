@@ -1,0 +1,61 @@
+[
+  {
+    "name": "东芝Portege M200 PPM20Q-003QJ",
+    "manufacturer": "东芝",
+    "series": "东芝Portege M200 PPM20Q-003QJ",
+    "opendb_id": "portege_m200_ppm20q_003qj_nvidia_geforce_fx_go5200_2d_3d_direct3d_opengl_32mb",
+    "metadata": {
+      "操作系统": "Windows XP Tablet PC Edition(简体中文版)",
+      "CPU型号": "奔腾-M(Dothan-400)",
+      "CPU主频": "1.4GHz",
+      "总线规格": "400",
+      "内存容量": "512MB",
+      "内存类型": "DDR",
+      "最大内存容量": "最大可扩展到2GB",
+      "硬盘容量": "60GB",
+      "屏幕尺寸": "12.1英寸",
+      "显卡类型": "独立显卡",
+      "显卡芯片": "NVIDIA GeForce FX Go5200 2D/3D图形加速器,支持Direct3D和OpenGL 32MB独立显存",
+      "显存容量": "32",
+      "音频系统": "兼容AC 97 Rev 2.2的16位立体声系统,支持Direct3DSound和DirectMusic,音量控制旋钮,内置扬声器(单声道)",
+      "无线网卡": "无线网卡,内置英特尔PRO/WireLess 2100无线网络组件",
+      "有线网卡": "10Mbps网卡/100Mbps网卡",
+      "其它接口": "1个II型插槽(支持PCMCIA R2.01,16位PC卡(多功能卡),Card Bus)，1个RGB接口,扩展坞端口,2个USB接口(USB2.0),1个RJ11端口,1个RJ45,1个SD卡插槽,外接麦克风(单声道),外接耳机(立体声),DC IN 15V",
+      "指取设备": "触摸板,Windows快捷键,应用程序键和Fn功能热键",
+      "键盘描述": "85键人体工程学键盘",
+      "电池类型": "可充电锂离子电池/约4.5小时",
+      "电源适配器": "系统管理BIOS,ACPI电源管理",
+      "笔记本重量": "2.1Kg",
+      "特色功能": "安全:Kensington电缆锁锁槽,加电启动密码,硬盘密码,快捷安全方式"
+    }
+  },
+  {
+    "name": "东芝Portege M200 PPM21Q-02TL9",
+    "manufacturer": "东芝",
+    "series": "东芝Portege M200 PPM20Q-003QJ",
+    "opendb_id": "portege_m200_ppm20q_003qj_nvidia_geforce_fx_go5200",
+    "metadata": {
+      "操作系统": "Windows XP",
+      "CPU型号": "奔腾-M(Dothan-400)",
+      "CPU主频": "1.6GHz",
+      "总线规格": "英特尔®奔腾®M处理器725(1.60GHz；2MB二级缓存 ）",
+      "内存容量": "512MB",
+      "内存类型": "DDR",
+      "最大内存容量": "PC2700 DDR333",
+      "硬盘容量": "60GB",
+      "屏幕尺寸": "12.1英寸",
+      "显卡类型": "独立显卡",
+      "显卡芯片": "nVIDIA GeForce FX Go5200",
+      "显存容量": "32",
+      "音频系统": "兼容AC'97 Rev 2.2的16位立体声系统,支持Direct3DSound和DirectMusic,音量控制旋钮,内置扬声器(单声道)",
+      "无线网卡": "无线网卡,内置英特尔®PRO/WireLess 2100无线网络组件",
+      "有线网卡": "10Mbps网卡/100Mbps网卡",
+      "其它接口": "1个II型插槽(支持PCMCIA R2.01,16位PC卡(多功能卡),Card Bus)，1个RGB接口,扩展坞端口,2个USB接口(USB2.0),1个RJ11端口,1个RJ45,1个SD卡插槽,外接麦克风(单声道),外接耳机(立体声),DC IN 15V",
+      "指取设备": "触摸板",
+      "键盘描述": "85键人体工程学键盘,触摸板,Windows®快捷键,应用程序键和Fn功能热键",
+      "电池类型": "可充电锂离子电池",
+      "电源适配器": "通用100-240V 50/60Hz AC适配器(15伏,4安培)",
+      "笔记本重量": "2.1Kg"
+    }
+  }
+]
