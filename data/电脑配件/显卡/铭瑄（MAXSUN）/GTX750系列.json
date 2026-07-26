@@ -1,0 +1,54 @@
+[
+  {
+    "name": "GTX750系列 (1GB)",
+    "manufacturer": "铭瑄",
+    "series": "GTX750系列",
+    "opendb_id": "gtx750_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 750",
+      "显示芯片系列": "NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM107",
+      "核心频率": "1020MHz",
+      "CUDA核心": "512个",
+      "显存频率": "5010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×Mini HDMI接口，1×DVI接口，1×VGA接口/1×HDMI接口，1×DVI接口，1×VGA接口",
+      "显卡类型": "主流级",
+      "散热方式": "9CM智能温控散热风扇/双风扇智能温控太极散热器/散热风扇",
+      "3D API": "DirectX 11.1，OpenGL 4.4",
+      "支持HDCP": "是",
+      "其它特点": "PWM风扇温控调速，PhysX物理加速技术，NVIDIA CUDA技术，PureVideo HD高清硬件解码，GeForce 3D Vision"
+    }
+  },
+  {
+    "name": "GTX750系列 (2GB)",
+    "manufacturer": "铭瑄",
+    "series": "GTX750系列",
+    "opendb_id": "gtx750_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 750",
+      "显示芯片系列": "NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM107",
+      "核心频率": "1020MHz",
+      "CUDA核心": "512个",
+      "显存频率": "5010MHz/5000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×Mini HDMI接口，1×DVI接口，1×VGA接口/1×HDMI接口，1×DVI接口，1×VGA接口",
+      "显卡类型": "主流级",
+      "散热方式": "智能温控双风扇散热/超气流POWER智能温控双风扇散热",
+      "3D API": "DirectX 11.1，Shader Model 5.0，OpenGL 4.4/DirectX 11.1，OpenGL 4.4",
+      "支持HDCP": "是",
+      "其它特点": "PWM风扇温控调速，PhysX物理加速技术，NVIDIA CUDA技术，PureVideo HD高清硬件解码，GeForce 3D Vision"
+    }
+  }
+]

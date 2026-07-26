@@ -1,0 +1,56 @@
+[
+  {
+    "name": "GT640系列 (1GB)",
+    "manufacturer": "铭瑄",
+    "series": "GT640系列",
+    "opendb_id": "gt640_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GT640",
+      "显示芯片系列": "NVIDIA GT600系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK107/GK208",
+      "核心频率": "900MHz/1046MHz",
+      "CUDA核心": "384个",
+      "显存频率": "1600MHz/5010MHz",
+      "显存类型": "GDDR3/GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bitbit/64bit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 3.0 16X/PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口/1×HDMI接口，1×DVI接口，1×VGA接口",
+      "电源接口": "无外接电源接口",
+      "散热方式": "散热风扇/散热风扇+热管散热",
+      "3D API": "DirectX 11.1",
+      "支持HDCP": "是",
+      "其它特点": "PWM风扇温控调速，支持PhysX物理加速技术，NVIDIA CUDA技术，PureVideo HD高清硬件解码，GeForce 3D Vision"
+    }
+  },
+  {
+    "name": "GT640系列 (2GB)",
+    "manufacturer": "铭瑄",
+    "series": "GT640系列",
+    "opendb_id": "gt640_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GT640",
+      "显示芯片系列": "NVIDIA GT600系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK107",
+      "核心频率": "900MHz",
+      "CUDA核心": "384个",
+      "显存频率": "1782MHz/1600MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "2GB",
+      "显存位宽": "128bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口（需更换挡板）/HDMI接口/DVI接口/VGA接口",
+      "电源接口": "无外接电源接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11.1",
+      "支持HDCP": "是",
+      "其它特点": "PWM风扇温控调速，支持PhysX物理加速技术，NVIDIA CUDA技术，PureVideo HD高清硬件解码，GeForce 3D Vision"
+    }
+  }
+]

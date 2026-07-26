@@ -1,0 +1,61 @@
+[
+  {
+    "name": "GTX960系列 (2GB)",
+    "manufacturer": "铭瑄",
+    "series": "GTX960系列",
+    "opendb_id": "gtx960_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 960",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM206",
+      "核心频率": "1203/1266MHz/1127/1178MHz",
+      "CUDA核心": "1024个",
+      "显存频率": "7200MHz/7010MHz/7000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热+热管散热/双风扇散热/双热管散热+散热片（静音）",
+      "3D API": "DirectX 12/DirectX 12，Shader Model 5.0，OpenGL 4.4/DirectX 12，OpenGL 4.4，Shader Model 5.0",
+      "支持HDCP": "是",
+      "产品尺寸": "245×110×45mm",
+      "最大功耗": "120W",
+      "建议电源": "350W以上",
+      "其它特点": "PWM风扇温控调速，PhysX物理加速技术，NVIDIA CUDA技术，PureVideo HD高清硬件解码，GeForce 3D Vision"
+    }
+  },
+  {
+    "name": "GTX960系列 (4GB)",
+    "manufacturer": "铭瑄",
+    "series": "GTX960系列",
+    "opendb_id": "gtx960_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 960",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM206",
+      "核心频率": "1127/1178MHz",
+      "CUDA核心": "1024个",
+      "显存频率": "7010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热+热管散热",
+      "3D API": "DirectX 12，Shader Model 5.0，OpenGL 4.4",
+      "支持HDCP": "是",
+      "其它特点": "PWM风扇温控调速，PhysX物理加速技术，NVIDIA CUDA技术，PureVideo HD高清硬件解码，GeForce 3D Vision"
+    }
+  }
+]

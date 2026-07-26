@@ -1,0 +1,74 @@
+[
+  {
+    "name": "9800GT系列 (1GB)",
+    "manufacturer": "铭瑄",
+    "series": "9800GT系列",
+    "opendb_id": "9800gt_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9800 GT",
+      "制作工艺": "55纳米",
+      "核心代号": "G92",
+      "核心频率": "600MHz/550MHz",
+      "CUDA核心": "112个",
+      "显存频率": "1800MHz/1000MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit/128bitbit",
+      "最大分辨率": "2560×1600/2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口/HDMI",
+      "散热方式": "散热风扇/涡轮风扇",
+      "3D API": "DirectX 10",
+      "产品特性1": "支持SLI(速力)技术",
+      "产品特性2": "支持PhysX物力引擎",
+      "产品特性3": "支持H.264硬件解码与第二代PureVideo HD高清技术"
+    }
+  },
+  {
+    "name": "9800GT系列 (512GB)",
+    "manufacturer": "铭瑄",
+    "series": "9800GT系列",
+    "opendb_id": "9800gt_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9800 GT",
+      "制作工艺": "65纳米/55纳米",
+      "核心代号": "G92/G92-289-B1",
+      "核心频率": "600MHz/550MHz",
+      "CUDA核心": "112个",
+      "显存频率": "1800MHz/1400MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "512GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560*1600/2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI/HDMI接口/DVI接口/VGA接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10/DirectX 10Shader Model 4.0OpenGL 3.1"
+    }
+  },
+  {
+    "name": "9800GT系列 (TC512GB)",
+    "manufacturer": "铭瑄",
+    "series": "9800GT系列",
+    "opendb_id": "9800gt_tc512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9800 GT",
+      "制作工艺": "55纳米",
+      "核心代号": "G92-289-B1",
+      "核心频率": "550MHz",
+      "CUDA核心": "112个",
+      "显存频率": "1400MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "TC512GB",
+      "显存位宽": "128bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10Shader Model 4.0OpenGL 3.1"
+    }
+  }
+]

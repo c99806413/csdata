@@ -1,0 +1,33 @@
+[
+  {
+    "name": "GeForce GTX 1650 (4GB)",
+    "manufacturer": "铭瑄",
+    "series": "GeForce GTX 1650",
+    "opendb_id": "geforce_gtx_1650_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1650",
+      "显示芯片系列": "NVIDIA GTX 16系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU117",
+      "核心频率": "1410-1590MHz/1485MHz，核心动态加速频率：1665MHz",
+      "CUDA核心": "896个",
+      "显存频率": "8000MHz",
+      "显存类型": "GDDR6/GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "7680×4320/4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×DisplayPort接口，1×HDMI接口，1×DVI接口/1×HDMI接口，1×DVI接口",
+      "电源接口": "6pin/无外接电源接口",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热/双风扇散热（太极阴阳散热系统）/散热风扇",
+      "3D API": "DirectX 12.1，OpenGL 4.5/DirectX 12.1，Shader Model 5.0，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "225×119×44mm/223×121×42mm/185×113×35mm",
+      "最大功耗": "75W",
+      "建议电源": "350W以上/300W以上/350W",
+      "其它特点": "支持NVIDIA Ansel，NVIDIA G-SYNC/支持Simultaneous Multi-ProjectionVR图像矫正技术，VRWorks Audio虚拟现实音频技术，Ansel截图功能，PhysX物理加速技术，NVIDIA CUDA，PureVideo HD高清硬件解码，动态超级分辨率，MFAA，GeForce 3D Vision，GameWorks，G-Sync-Ready，GameStream-Ready，GeForce ShadowPlay，GPU Boost/支持NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNCGame Ready 驱动程序支持NVIDIA GPU BoostNVIDIA Encoder (NVENC)"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "9600PRO系列 (128GB)",
+    "manufacturer": "铭瑄",
+    "series": "9600PRO系列",
+    "opendb_id": "9600pro_128gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon 9600Pro",
+      "制作工艺": "0.13 微米",
+      "核心频率": "400MHzMHz/400MHZMHz",
+      "显存频率": "600MHzMHz/550MHZMHz/600MHZMHz",
+      "显存类型": "DDR",
+      "显存容量": "128GB",
+      "显存位宽": "128bitbit",
+      "接口类型": "AGP 8X",
+      "散热方式": "散热风扇",
+      "3D API": "Microsoft DirectX 9.0/Microsoft DirectX 9.0；OpenGL 1.4"
+    }
+  }
+]

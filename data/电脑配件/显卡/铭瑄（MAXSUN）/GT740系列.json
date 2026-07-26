@@ -1,0 +1,52 @@
+[
+  {
+    "name": "GT740系列 (2GB)",
+    "manufacturer": "铭瑄",
+    "series": "GT740系列",
+    "opendb_id": "gt740_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GT740/GeForce GT 740",
+      "显示芯片系列": "NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK107",
+      "核心频率": "993MHz",
+      "CUDA核心": "384个",
+      "显存频率": "5010MHz/5000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×Mini HDMI接口，1×DVI接口，1×VGA接口/1×DisplayPort接口，1×HDMI接口，1×DVI接口",
+      "显卡类型": "入门级",
+      "散热方式": "双散热风扇",
+      "3D API": "DirectX 11.1",
+      "其它特点": "PWM风扇温控调速，PhysX物理加速技术，NVIDIA CUDA技术，PureVideo HD高清硬件解码，GeForce 3D Vision"
+    }
+  },
+  {
+    "name": "GT740系列 (1GB)",
+    "manufacturer": "铭瑄",
+    "series": "GT740系列",
+    "opendb_id": "gt740_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GT740",
+      "显示芯片系列": "NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK107",
+      "核心频率": "993MHz",
+      "CUDA核心": "384个",
+      "显存频率": "5010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×Mini HDMI接口，1×DVI接口，1×VGA接口",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11.1",
+      "其它特点": "PWM风扇温控调速，PhysX物理加速技术，NVIDIA CUDA技术，PureVideo HD高清硬件解码，GeForce 3D Vision"
+    }
+  }
+]
