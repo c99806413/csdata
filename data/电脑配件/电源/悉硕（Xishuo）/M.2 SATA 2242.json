@@ -1,0 +1,20 @@
+[
+  {
+    "name": "M.2 SATA 2242",
+    "manufacturer": "悉硕",
+    "series": "M.2 SATA 2242",
+    "opendb_id": "m_2_sata_2242",
+    "metadata": {
+      "产品型号": "M.2 SATA 2242",
+      "产品定位": "消费类",
+      "存储容量": "128GB/64GB/256GB/512GB/1TB",
+      "接口类型": "MSATA接口",
+      "缓存": "无缓存",
+      "读取速度": "350MB/s/400MB/s/450MB/s/550MB/s",
+      "写入速度": "300MB/s/350MB/s/400MB/s/500MB/s",
+      "系统要求": "Win10",
+      "外形尺寸": "22×42mm",
+      "其它特点": "TBW：60TB/TBW：120TB/TBW：240TB/TBW：480TB"
+    }
+  }
+]

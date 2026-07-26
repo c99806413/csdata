@@ -1,0 +1,16 @@
+[
+  {
+    "name": "飞翼Fast系列",
+    "manufacturer": "希捷",
+    "series": "飞翼Fast系列",
+    "opendb_id": "fast",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "1TB/250GB/500GB",
+      "接口类型": "USB Type-C接口",
+      "外形尺寸": "94×79×9mm",
+      "产品重量": "82g",
+      "随机附件": "Seagate Toolkit备份和镜像软件（需要互联网连接）Type-C连接线（18英寸）Type-C转Type-A USB 3.0连接线（18英寸）"
+    }
+  }
+]
