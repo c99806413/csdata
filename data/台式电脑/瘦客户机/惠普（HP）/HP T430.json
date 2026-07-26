@@ -1,0 +1,24 @@
+[
+  {
+    "name": "HP T430",
+    "manufacturer": "惠普",
+    "series": "HP T430",
+    "opendb_id": "hp_t430",
+    "metadata": {
+      "产品类型": "台式瘦客户机",
+      "处理器类型": "Intel 赛扬N4000",
+      "处理器主频": "基本频率：1.1GHz，可高达2.4GHz",
+      "支持浏览器": "Internet Explorer 11（适用于装有 Windows IoT Enterprise for Thin Clients 的机型）Mozilla Firefox 32",
+      "操作系统": "HP 智能零核心组件/HP ThinPro/Windows 10 IoT Enterprise for Thin Clients 64/HP Smart Zero Core",
+      "标配内存": "4GB/2GB",
+      "内存类型": "DDR4-2400 SDRAM/DDR4L-1866 SDRAM/DDR4-1866 SDRAM",
+      "标配闪存": "16GB/64GB/32GB",
+      "显卡芯片": "英特尔 UHD 600 显卡",
+      "网卡": "集成千兆网卡",
+      "I/O端口": "侧面:1×音频输入端口1×USB 2.0端口1×USB Type-C端口（DisplayPort 1.2、USB 3.1、充电端口）后面:1×DisplayPort端口1×RJ-45端口2×USB 3.1端口1×HDMI端口",
+      "产品电源": "45W，100-240V AC，50-60Hz",
+      "产品尺寸": "135×135×32mm",
+      "产品重量": "0.74kg"
+    }
+  }
+]

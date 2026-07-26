@@ -1,0 +1,65 @@
+[
+  {
+    "name": "联想ThinkCentre M720Q (I5-9500T)",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M720Q",
+    "opendb_id": "thinkcentre_m720q_i5_9500t",
+    "metadata": {
+      "产品类型": "台式瘦客户机",
+      "处理器类型": "intel 酷睿 I5-9500T",
+      "处理器主频": "2.2GHz",
+      "操作系统": "预装Windows 10 Home（家庭版）",
+      "标配内存": "4GB",
+      "内存类型": "DDR4",
+      "标配闪存": "1TB/128GB",
+      "显卡芯片": "集成显卡",
+      "网卡": "千兆网卡",
+      "光驱": "无光驱",
+      "I/O端口": "4×USB1×Type-C1×VGA4×DP迷你1×DP1×音频接口1×电源接口",
+      "产品重量": "5kg",
+      "闪存类型": "SSD"
+    }
+  },
+  {
+    "name": "联想ThinkCentre M720Q（G4900T/4GB/500GB/HDD）",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M720Q",
+    "opendb_id": "thinkcentre_m720q_cpu",
+    "metadata": {
+      "产品类型": "台式瘦客户机",
+      "处理器类型": "intel 赛扬双核 G4900T",
+      "处理器主频": "2.9GHz",
+      "操作系统": "预装Windows 10 Home（家庭版）",
+      "标配内存": "4GB",
+      "内存类型": "DDR4",
+      "标配闪存": "500GB",
+      "闪存类型": "SSD",
+      "显卡芯片": "集成显卡",
+      "网卡": "千兆网卡",
+      "光驱": "无光驱",
+      "I/O端口": "4×USB1×Type-C1×VGA4×DP迷你1×DP1×音频接口1×电源接口",
+      "产品重量": "5kg"
+    }
+  },
+  {
+    "name": "联想ThinkCentre M720Q（I3-8100T/8GB/128GB+1TB/SSD+HDD）",
+    "manufacturer": "联想ThinkCentre",
+    "series": "联想ThinkCentre M720Q",
+    "opendb_id": "thinkcentre_m720q_i3_8100t",
+    "metadata": {
+      "产品类型": "台式瘦客户机",
+      "处理器类型": "intel 酷睿 I3-8100T",
+      "处理器主频": "3.1GHz",
+      "操作系统": "预装Windows 10 Home（家庭版）",
+      "标配内存": "8GB",
+      "内存类型": "DDR4",
+      "标配闪存": "128GB+1TB",
+      "闪存类型": "SSD+HDD",
+      "显卡芯片": "集成显卡",
+      "网卡": "千兆网卡",
+      "光驱": "无光驱",
+      "I/O端口": "4×USB1×Type-C1×VGA4×DP迷你1×DP1×音频接口1×电源接口",
+      "产品重量": "5kg"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "name": "惠普t740",
+    "manufacturer": "惠普",
+    "series": "惠普t740",
+    "opendb_id": "t740",
+    "metadata": {
+      "产品类型": "台式瘦客户机",
+      "处理器类型": "AMD Ryzen V1756B",
+      "处理器主频": "3.25GHZ",
+      "支持浏览器": "Internet Explorer/Mozilla Firefox",
+      "操作系统": "Windows 10 IoT Enterprise LTSC 2019/HP ThinPro",
+      "标配内存": "8GB/4GB",
+      "内存类型": "DDR4 3200MHz",
+      "内存插槽": "2*SODIMM",
+      "标配闪存": "128GB/16GB/32GB",
+      "闪存类型": "FLASH memory",
+      "显卡芯片": "AMD Radeon Vega 8",
+      "显存容量": "共享系统内存",
+      "网卡": "Realtek RTL8111HSH GbE",
+      "I/O端口": "2*USB2.0，3*USB3.0，1*USB 3.0 Type-C，1*USB3.1 Type-C,4*DP1.2",
+      "产品尺寸": "50*210*210mm"
+    }
+  }
+]

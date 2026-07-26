@@ -1,0 +1,47 @@
+[
+  {
+    "name": "RX 6750 GRE (12GB)",
+    "manufacturer": "AMD",
+    "series": "RX 6750 GRE",
+    "opendb_id": "rx_6750_gre_12gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 6750 GRE",
+      "显示芯片系列": "AMD RX 6000系列",
+      "核心频率": "2321-2439MHz",
+      "CUDA核心": "2560个",
+      "显存频率": "16000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "12GB",
+      "显存位宽": "192bit",
+      "接口类型": "PCI Express 4.0",
+      "I/O接口": "HDMI接口，DisplayPort接口",
+      "电源接口": "6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "三风扇散热",
+      "建议电源": "650W"
+    }
+  },
+  {
+    "name": "RX 6750 GRE (10GB)",
+    "manufacturer": "AMD",
+    "series": "RX 6750 GRE",
+    "opendb_id": "rx_6750_gre_10gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 6750 GRE",
+      "显示芯片系列": "AMD RX 6000系列",
+      "核心频率": "1941-2189MHz",
+      "显存频率": "16000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "10GB",
+      "显存位宽": "160bit",
+      "接口类型": "PCI Express 4.0",
+      "I/O接口": "HDMI接口，DisplayPort接口",
+      "电源接口": "6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "三风扇散热",
+      "建议电源": "600W"
+    }
+  }
+]

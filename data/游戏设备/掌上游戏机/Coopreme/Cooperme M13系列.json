@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Cooperme M13（畅玩版）",
+    "manufacturer": "Coopreme",
+    "series": "Cooperme M13系列",
+    "opendb_id": "cooperme_m13_____",
+    "metadata": {
+      "内存": "64GB",
+      "屏幕": "9英寸",
+      "音效配置": "内置扬声器",
+      "储存卡": "高速C10卡，TF卡，最高64GB",
+      "插槽/接口": "HDMI，手柄接口，充电插口，内存卡，耳机孔",
+      "电源参数": "电池容量：4000mAh",
+      "产品特色": "支持循环充电，可连接电视"
+    }
+  },
+  {
+    "name": "Cooperme M13（标准版）",
+    "manufacturer": "Coopreme",
+    "series": "Cooperme M13系列",
+    "opendb_id": "cooperme_m13_____",
+    "metadata": {
+      "内存": "16GB",
+      "屏幕": "9英寸",
+      "音效配置": "内置扬声器",
+      "储存卡": "高速C10卡，TF卡，最高64GB",
+      "插槽/接口": "HDMI，手柄接口，充电插口，内存卡，耳机孔",
+      "电源参数": "电池容量：4000mAh",
+      "产品特色": "支持循环充电，可连接电视"
+    }
+  },
+  {
+    "name": "Cooperme M13（旗舰版）",
+    "manufacturer": "Coopreme",
+    "series": "Cooperme M13系列",
+    "opendb_id": "cooperme_m13_____",
+    "metadata": {
+      "内存": "32GB",
+      "屏幕": "9英寸",
+      "音效配置": "内置扬声器",
+      "储存卡": "高速C10卡，TF卡，最高64GB",
+      "插槽/接口": "HDMI，手柄接口，充电插口，内存卡，耳机孔",
+      "电源参数": "电池容量：4000mAh",
+      "产品特色": "支持循环充电，可连接电视"
+    }
+  }
+]

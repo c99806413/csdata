@@ -1,0 +1,90 @@
+[
+  {
+    "name": "ahseck ddr4 16g 16g 3200笔记本内存英睿达系列",
+    "manufacturer": "ahseck",
+    "series": "ddr4 16g",
+    "opendb_id": "ahseck_ddr4_16g_16g_3200__________",
+    "metadata": {
+      "产品型号": "ddr4 16g",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "ahseck ddr4 16g 16g 3200笔记本内存镁光系列",
+    "manufacturer": "ahseck",
+    "series": "ddr4 16g",
+    "opendb_id": "ahseck_ddr4_16g_16g_3200_________",
+    "metadata": {
+      "产品型号": "ddr4 16g",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "ahseck ddr4 16g 16g 2666/2667笔记本内存英睿达系列",
+    "manufacturer": "ahseck",
+    "series": "ddr4 16g",
+    "opendb_id": "ahseck_ddr4_16g_16g_2666_2667__________",
+    "metadata": {
+      "产品型号": "ddr4 16g",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "ahseck ddr4 16g 16g 2666/2667笔记本内存镁光系列",
+    "manufacturer": "ahseck",
+    "series": "ddr4 16g",
+    "opendb_id": "ahseck_ddr4_16g_16g_2666_2667_________",
+    "metadata": {
+      "产品型号": "ddr4 16g",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "ahseck ddr4 16g 16g 2400笔记本内存英睿达系列",
+    "manufacturer": "ahseck",
+    "series": "ddr4 16g",
+    "opendb_id": "ahseck_ddr4_16g_16g_2400__________",
+    "metadata": {
+      "产品型号": "ddr4 16g",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "ahseck ddr4 16g 16g 2133笔记本内存镁光系列",
+    "manufacturer": "ahseck",
+    "series": "ddr4 16g",
+    "opendb_id": "ahseck_ddr4_16g_16g_2133_________",
+    "metadata": {
+      "产品型号": "ddr4 16g",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "ahseck ddr4 16g 16g 2400笔记本内存镁光系列",
+    "manufacturer": "ahseck",
+    "series": "ddr4 16g",
+    "opendb_id": "ahseck_ddr4_16g_16g_2400_________",
+    "metadata": {
+      "产品型号": "ddr4 16g",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "ahseck ddr4 16g 16g 2133笔记本内存英睿达系列",
+    "manufacturer": "ahseck",
+    "series": "ddr4 16g",
+    "opendb_id": "ahseck_ddr4_16g_16g_2133__________",
+    "metadata": {
+      "产品型号": "ddr4 16g",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  }
+]

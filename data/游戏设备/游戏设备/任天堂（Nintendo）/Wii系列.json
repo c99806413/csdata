@@ -1,0 +1,86 @@
+[
+  {
+    "name": "任天堂Wii",
+    "manufacturer": "任天堂",
+    "series": "Wii系列",
+    "opendb_id": "___wii",
+    "metadata": {
+      "类别": "Wii体感游戏机",
+      "CPU": "IBM Broadway以PowerPC 750CL为基础，提高性能并降低功耗90纳秒生产工艺",
+      "GPU": "ATI Hollywood 统一渲染构架，3组单元，首次使用48个5D单元集成3MB eDRAM 搭载24MB 1T-SRAM显存 标准输出480i及480p，对应16：9宽屏幕画面 带宽3.9GB/s 90纳秒生产工艺",
+      "内存性能": "2个SD插槽，24MBs \"main\" 1T-SRAM,64MBs other 1T-SRAM512MBs 内置闪存",
+      "像素填充率": "3MBs texture memory on GPU图象处理器的纹理，材质记忆库",
+      "内存带宽": "64MB GDDR3带宽4GB/s",
+      "系统摆放": "可纵置，可横置",
+      "游戏载体": "外部存储器：512M内置闪存可保存存档及下载内容并可直接从中启动程序可保存多媒体资料可通过SD卡扩展容量光盘驱动器：支持12cm Wii光盘支持8cm GameCube光盘吸入式光驱Wii光盘容量4.7GB（单层）/8.5GB（双层）外部存储设备：SD卡",
+      "网络功能": "IEEE 802.11B/G任天堂自定协议，与NDS连机用支持通过适配器连接有线网络提供Nintendo WiFi Connection和WiiConnect24可选Opera浏览器",
+      "音频特性": "支持Dolby Pro LogicⅡ",
+      "手柄": "动作感应控制器：无线控制器梭型专用手柄：类比摇杆，可与Remote相连最多连接数：4有效距离：距离电视5米内动作感应控制器按键：指示器（Pointer）/运动传感器（Motion sensor）/主机电源开关键/Ａ、Ｂ、十字键/＋键、－键、Home/1、2 键梭型专用手柄按键：运动传感器（Motion sensor）/类比摇杆/C、Z 键动作感应控制器附带机能：震动/扩音器/连接周边/Player indicator经典手柄：有线控制手柄最多连接数：4经典手柄按键：a、b、十字键/X、Y、L、R、ZR、ZL键/L、R键、类比摇杆/＋键、－键/Select、Home、Start键",
+      "接口": "Wii控制器 x4GC控制器 x4GC记忆体 x2USB2.0 x2SD卡插槽 x1AV输出接口 x1感应棒接口 x1",
+      "屏幕": "解析度 480i，480p；支持16：9宽屏幕显示",
+      "产品尺寸": "约44×157×215.4mm约55.4×42×225.6mm"
+    }
+  },
+  {
+    "name": "任天堂Wii超级玛丽25周年纪念版 游戏机",
+    "manufacturer": "任天堂",
+    "series": "Wii系列",
+    "opendb_id": "___wii____25_________",
+    "metadata": {
+      "类别": "Wii体感游戏机",
+      "CPU": "IBM Broadway 90nm 723MHz",
+      "像素填充率": "3MBs texture memory on GPU图象处理器的纹理，材质记忆库",
+      "游戏载体": "DVD",
+      "音频特性": "Dolby 2.0",
+      "接口": "四个NintendoGameCube控制器插槽，两条Nintendo GameCube记忆卡插槽，一个分量/复合/S端子视频输出端口",
+      "产品尺寸": "215.4×157×44mm"
+    }
+  },
+  {
+    "name": "任天堂Wii双人套装",
+    "manufacturer": "任天堂",
+    "series": "Wii系列",
+    "opendb_id": "___wii____",
+    "metadata": {
+      "类别": "Wii体感游戏机",
+      "CPU": "IBM Broadway处理器，工作频率729MHz,90 nm SOI CMOS",
+      "GPU": "ATi Hollywood图形芯片；支持480p游戏分辨率（854x480）；运行频率243MHz；90 nm DRAM CMOS；3MB texture memory",
+      "内存性能": "2个SD插槽，24MBs \"main\" 1T-SRAM,64MBs other 1T-SRAM512MBs 内置闪存",
+      "像素填充率": "3MBs texture memory on GPU图象处理器的纹理，材质记忆库",
+      "系统摆放": "可纵置，可横置",
+      "游戏载体": "6x-DVD ROM；光驱兼容8厘米GameCube光盘、12厘米Wii光盘DVD 8倍速（DVD-ROM）CD 24倍速（CD-ROM）Super Audio CD",
+      "音频特性": "支持Dolby Pro LogicⅡ",
+      "接口": "USB（2.0）×2无线手柄（通过Bluetooth）×4感应器接口×1SD卡插槽×1GameCube 接口×4GameCube 记忆卡×2影音多重输出接口×1",
+      "屏幕": "解析度 480i，480p；支持16：9宽屏幕显示",
+      "产品尺寸": "约44×157×215.4mm约55.4×42×225.6mm"
+    }
+  },
+  {
+    "name": "任天堂Wii硬盘版",
+    "manufacturer": "任天堂",
+    "series": "Wii系列",
+    "opendb_id": "___wii___",
+    "metadata": {
+      "类别": "Wii体感游戏机",
+      "CPU": "IBM Broadway 90nm 723MHz",
+      "内存性能": "64M DDR3",
+      "像素填充率": "3MBs texture memory on GPU图象处理器的纹理, 材质记忆库",
+      "游戏载体": "DVD",
+      "网络功能": "可下载NintendoDS游戏的试玩版，主机带有风扇，支持各国游戏分级系统，支持通过适配器连接有线网络，提供NintendoWiFiConnection和WiiConnect24可选Opera浏览器",
+      "音频特性": "Dolby 2.0",
+      "手柄": "Wii十字键，A、B键，电源开关，＋ －，导航键(Home)，1、2，摇杆，C键，Z键",
+      "接口": "四个NintendoGameCube控制器插槽， 两条Nintendo GameCube记忆卡插槽， 一个分量/复合/S端子视频输出端口",
+      "产品尺寸": "215.4×157×44mm"
+    }
+  },
+  {
+    "name": "任天堂Wii日版黑色主机",
+    "manufacturer": "任天堂",
+    "series": "Wii系列",
+    "opendb_id": "___wii______",
+    "metadata": {
+      "类别": "Wii",
+      "内存性能": "64M DDR3"
+    }
+  }
+]
