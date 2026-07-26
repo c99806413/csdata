@@ -1,0 +1,37 @@
+[
+  {
+    "name": "9600SE系列 (128GB)",
+    "manufacturer": "迪兰",
+    "series": "9600SE系列",
+    "opendb_id": "9600se_128gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon 9600SE",
+      "制作工艺": "0.13 微米",
+      "核心频率": "325MHzMHz",
+      "显存频率": "400MHzMHz",
+      "显存类型": "DDR",
+      "显存容量": "128GB",
+      "接口类型": "AGP 8X",
+      "散热方式": "散热片",
+      "3D API": "Microsoft DirectX 9.0"
+    }
+  },
+  {
+    "name": "9600SE系列 (64GB)",
+    "manufacturer": "迪兰",
+    "series": "9600SE系列",
+    "opendb_id": "9600se_64gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon 9600SE",
+      "制作工艺": "0.13 微米",
+      "核心频率": "325MHz",
+      "显存频率": "400MHzMHz",
+      "显存类型": "DDR",
+      "显存容量": "64GB",
+      "接口类型": "AGP 8X",
+      "散热方式": "散热片"
+    }
+  }
+]

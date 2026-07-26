@@ -1,0 +1,34 @@
+[
+  {
+    "name": "RX 5700系列 (8GB)",
+    "manufacturer": "迪兰",
+    "series": "RX 5700系列",
+    "opendb_id": "rx_5700_8gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 5700",
+      "显示芯片系列": "AMD RX 5000系列",
+      "制作工艺": "7纳米",
+      "核心代号": "NAVI XL",
+      "核心频率": "1750MHz/核心频率：1465-1625MHz峰值频率：1725MHz/核心频率：1490-1650MHz峰值频率：1725MHz",
+      "流处理单元": "2304个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin/6pin+8pin",
+      "显卡类型": "主流级",
+      "显卡设计": "非公版/公版",
+      "散热方式": "三风扇散热/涡轮风扇/双风扇散热",
+      "3D API": "DirectX 12.1，OpenGL 4.5",
+      "产品尺寸": "319×127×53mm/270×106×40mm/260×117×50mm，外盒尺寸：371×245×66mm",
+      "建议电源": "600W/600W及以上/600W以上",
+      "其它特点": "支持最多4屏输出（3840*2160 60Hz*4）支持的渲染格式：4K H264解码，4K H264编码，H265/HEVC解码，H265/HEVC编码Optional Technologies：Radeon Media Engine，RDNA 架构，VSR (4K)，Radeon 游戏智能显示 (FreeSync) 技术，TrueAudio Next，Radeon VR Ready Premium，Vulkan API/支持最多4屏输出支持的渲染格式：4K H264解码，4K H264编码，H265/HEVC解码，H265/HEVC编码Optional Technologies：Radeon Media Engine，RDNA 架构，VSR (4K)，Radeon 游戏智能显示 (FreeSync) 技术，TrueAudio Next，Radeon VR Ready Premium，Vulkan API",
+      "上市日期": "2019年12月/2019年07月/2019年10月",
+      "其他参数": "满载温度： 70℃（环温25℃）峰值像素填充速度：高达110.4GP/s峰值纹理填充速度：高达248.4GT/s峰值半精度 (FP16) 性能：15.9TFLOPs峰值单精度计算性能：7.94TFLOPs光栅单元：64纹理单元：144最大显存带宽：448GB/s/峰值像素填充速度：高达110.4GP/s峰值纹理填充速度：高达248.4GT/s峰值半精度 (FP16) 性能：15.9TFLOPs峰值单精度计算性能：7.94TFLOPs光栅单元：64纹理单元：144最大显存带宽：448GB/s"
+    }
+  }
+]

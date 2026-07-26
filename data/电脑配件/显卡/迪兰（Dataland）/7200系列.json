@@ -1,0 +1,30 @@
+[
+  {
+    "name": "7200系列 (32GB)",
+    "manufacturer": "迪兰",
+    "series": "7200系列",
+    "opendb_id": "7200_32gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon 256",
+      "制作工艺": "0.15 微米",
+      "显存类型": "DDR",
+      "显存容量": "32GB",
+      "接口类型": "AGP 4X",
+      "散热方式": "风扇散热",
+      "3D API": "DirectX 7.0、DirectX 8.0和OpenGL支持",
+      "其它特点": "ATI原厂设计；单独的 TTL 级别水平和垂直同步；VESA 显示器电源管理支持；DDC1/2b/2b+ 监视器支持；与超级 VGA 的 VESA 兼容的 BIOS；与 VGA 兼容的寄存器"
+    }
+  },
+  {
+    "name": "7200系列 (64GB)",
+    "manufacturer": "迪兰",
+    "series": "7200系列",
+    "opendb_id": "7200_64gb",
+    "metadata": {
+      "显卡芯片": "ATI RADEON⑩ 256耆2D/3D圣彳浈��",
+      "显存类型": "DDR",
+      "显存容量": "64GB"
+    }
+  }
+]

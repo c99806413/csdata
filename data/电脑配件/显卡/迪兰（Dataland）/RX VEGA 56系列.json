@@ -1,0 +1,33 @@
+[
+  {
+    "name": "RX VEGA 56系列 (8GB)",
+    "manufacturer": "迪兰",
+    "series": "RX VEGA 56系列",
+    "opendb_id": "rx_vega_56_8gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX Vega 56",
+      "显示芯片系列": "AMD RX Vega系列",
+      "制作工艺": "14纳米",
+      "核心代号": "Vega 56/RX Vega 56",
+      "核心频率": "1177/1478MHz，最高1590MHzMHz/1156/1471MHz/1308/1526MHz",
+      "流处理单元": "3584个",
+      "显存频率": "1600MHz",
+      "显存类型": "HBM2",
+      "显存容量": "8GB",
+      "显存位宽": "2048bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "2×HDMI接口，2×DisplayPort接口/1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "6pin+8pin/8pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "三风扇散热+四热管散热/涡轮风扇/三风扇散热+六热管散热",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "306×135×40mm/272×112×40mm/308×130×60mm",
+      "建议电源": "650W以上/750W以上",
+      "其它特点": "支持AMD CrossFireX多GPU技术，支持AMD Eyefinity宽域技术，支持OpenGL技术，支持CrossFire技术/运行温度：82℃/75℃（满载/待机）",
+      "上市日期": "2017年12月/2017年08月"
+    }
+  }
+]

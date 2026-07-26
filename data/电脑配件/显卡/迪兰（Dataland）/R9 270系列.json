@@ -1,0 +1,60 @@
+[
+  {
+    "name": "R9 270系列 (2GB)",
+    "manufacturer": "迪兰",
+    "series": "R9 270系列",
+    "opendb_id": "r9_270_2gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon R9 270",
+      "显示芯片系列": "AMD R9 200系列/AMD R9系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Pitcairn/Pitcairn Pro/Pitcarn",
+      "核心频率": "950/975MHz/930/955MHz/900/925MHz",
+      "CUDA核心": "1280个/1024个",
+      "显存频率": "5600MHz/4800MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "256bit/256bitbit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口/HDMI接口/DVI接口/DisplayPort接口/1×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇/双风扇散热/散热片（静音）",
+      "3D API": "DirectX 11.2/DirectX 11.2，OpenGL 4.3/DirectX 11.1",
+      "支持HDCP": "是",
+      "建议电源": "500W以上/500W及以上",
+      "其它特点": "支持OpenGL，AMD CrossFireX 多GPU技术，AMD加速并行处理 (APP) 技术，AMD Eyefinity宽域技术；/支持CrossFire技术，AMD Eyefinity技术，AMD HD3D技术，AMD PowerTune技术，ZeroCore节电技术/支持CrossFire技术，支持节能技术"
+    }
+  },
+  {
+    "name": "R9 270系列 (4GB)",
+    "manufacturer": "迪兰",
+    "series": "R9 270系列",
+    "opendb_id": "r9_270_4gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon R9 270X",
+      "显示芯片系列": "AMD R9 200系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Pitcairn",
+      "核心频率": "950/975MHz",
+      "CUDA核心": "1280个",
+      "显存频率": "5600MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11.2",
+      "支持HDCP": "是",
+      "建议电源": "500W",
+      "其它特点": "支持OpenGL，AMD CrossFireX 多GPU技术，AMD加速并行处理 (APP) 技术，AMD Eyefinity宽域技术"
+    }
+  }
+]
