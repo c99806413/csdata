@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Oculus quest2",
+    "manufacturer": "Oculus",
+    "series": "quest2系列",
+    "opendb_id": "oculus_quest2",
+    "metadata": {
+      "产品类型": "VR一体机",
+      "分辨率": "单眼：1832*1920双眼：3664*1920",
+      "调节功能": "三挡瞳距调节：58mm,63mm,68mm",
+      "刷新率": "默认90HZ，可调节120HZ",
+      "CPU": "Qualcomm,可调节120HZ",
+      "RAM": "6GB",
+      "ROM": "128GB，256GB/256GB",
+      "音频输入": "3D定位音频",
+      "接口": "USB3.0 DISPLAYPORT1.2",
+      "产品重量": "740（头盔部分548）g",
+      "其他参数": "追踪功能：六个自由度，可实现无控制器手势追踪"
+    }
+  }
+]
