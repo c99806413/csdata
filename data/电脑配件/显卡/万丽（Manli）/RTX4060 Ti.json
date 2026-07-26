@@ -1,0 +1,42 @@
+[
+  {
+    "name": "RTX4060 Ti (8GB)",
+    "manufacturer": "万丽",
+    "series": "RTX4060 Ti",
+    "opendb_id": "rtx4060_ti_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 4060 Ti",
+      "显示芯片系列": "NVIDIA GTX 40系列",
+      "核心频率": "2310-2535MHz",
+      "CUDA核心": "4352个",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "128bit",
+      "内存带宽": "288GB/s",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "产品尺寸": "250*115*42mm",
+      "最大功耗": "165W"
+    }
+  },
+  {
+    "name": "RTX4060 Ti (16GB)",
+    "manufacturer": "万丽",
+    "series": "RTX4060 Ti",
+    "opendb_id": "rtx4060_ti_16gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 4060 Ti",
+      "显示芯片系列": "NVIDIA GTX 40系列",
+      "核心频率": "2310-2535MHz",
+      "CUDA核心": "4352个",
+      "显存类型": "GDDR6",
+      "显存容量": "16GB",
+      "显存位宽": "128bit",
+      "内存带宽": "288GB/s",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "产品尺寸": "250*115*42mm",
+      "最大功耗": "165W"
+    }
+  }
+]

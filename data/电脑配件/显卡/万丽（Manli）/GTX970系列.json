@@ -1,0 +1,29 @@
+[
+  {
+    "name": "GTX970系列 (4GB)",
+    "manufacturer": "万丽",
+    "series": "GTX970系列",
+    "opendb_id": "gtx970_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 970",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM204",
+      "核心频率": "1076MHz/1050/1178MHz/1076/1216MHz",
+      "CUDA核心": "1664个",
+      "显存频率": "7010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口/1×Mini HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin+6pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热/涡轮风扇",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术/支持NVIDIA SLI技术/支持CrossFire技术"
+    }
+  }
+]

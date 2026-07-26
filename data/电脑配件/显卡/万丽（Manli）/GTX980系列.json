@@ -1,0 +1,29 @@
+[
+  {
+    "name": "GTX980系列 (4GB)",
+    "manufacturer": "万丽",
+    "series": "GTX980系列",
+    "opendb_id": "gtx980_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 980/GeForce GTX 970",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM204",
+      "核心频率": "1127/1216MHz/1152/1253MHz",
+      "CUDA核心": "2048个",
+      "显存频率": "1010MHz/7046MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bit/256bitbit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口/HDMI接口/双DVI接口/DisplayPort接口",
+      "显卡类型": "主流级",
+      "散热方式": "涡轮风扇/三风扇散热+热管散热",
+      "3D API": "DirectX 11.1，OpenGL 4.3/DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持CrossFire技术"
+    }
+  }
+]

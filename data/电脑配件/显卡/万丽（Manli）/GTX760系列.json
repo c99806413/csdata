@@ -1,0 +1,27 @@
+[
+  {
+    "name": "GTX760系列 (2GB)",
+    "manufacturer": "万丽",
+    "series": "GTX760系列",
+    "opendb_id": "gtx760_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 760",
+      "显示芯片系列": "NVIDIA GTX 700系列/NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK104",
+      "核心频率": "980/1033MHz/993/1059MHz",
+      "CUDA核心": "1152个",
+      "显存频率": "6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "256bitbit/256bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇/双风扇散热+热管散热",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是"
+    }
+  }
+]

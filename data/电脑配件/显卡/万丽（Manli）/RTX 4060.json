@@ -1,0 +1,25 @@
+[
+  {
+    "name": "RTX 4060 (8GB)",
+    "manufacturer": "万丽",
+    "series": "RTX 4060",
+    "opendb_id": "rtx_4060_8gb",
+    "metadata": {
+      "产品型号": "GeForce RTX4060 Blower 8GB/GeForce RTX4060 Twin 8GB",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 4060",
+      "显示芯片系列": "NVIDIA RTX 40系列",
+      "核心频率": "1830-2460MHz",
+      "CUDA核心": "3072个",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "128bit",
+      "内存带宽": "272GB/s",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "显卡类型": "发烧级",
+      "散热方式": "风扇散热",
+      "产品尺寸": "149*113*40mm",
+      "最大功耗": "115W"
+    }
+  }
+]
