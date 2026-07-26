@@ -1,0 +1,204 @@
+[
+  {
+    "name": "AMD Ryzen ThreadRipper 3990X",
+    "manufacturer": "AMD",
+    "series": "Ryzen Threadripper",
+    "opendb_id": "amd_ryzen_threadripper_3990x",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen Threadripper 3000",
+      "制作工艺": "7纳米",
+      "PCI Express版本": "PCIe 4.0",
+      "包装形式": "盒装",
+      "CPU主频": "2.9GHz",
+      "加速频率": "4.3GHz",
+      "核心数量": "六十四核心",
+      "线程数量": "一百二十八线程",
+      "一级缓存": "4MB",
+      "二级缓存": "32MB",
+      "三级缓存": "256MB",
+      "热设计功耗(TDP)": "280W",
+      "支持最大内存": "256GB",
+      "内存类型": "DDR4 3200MHz",
+      "最大内存通道数": "4",
+      "显卡其它特性": "PCIe 4.0",
+      "插槽类型": "Socket sTRX4"
+    }
+  },
+  {
+    "name": "AMD Ryzen ThreadRipper 3970X",
+    "manufacturer": "AMD",
+    "series": "Ryzen Threadripper",
+    "opendb_id": "amd_ryzen_threadripper_3970x",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen Threadripper 3000",
+      "制作工艺": "7纳米",
+      "PCI Express版本": "PCIe 4.0",
+      "CPU主频": "3.7GHz",
+      "加速频率": "4.5GHz",
+      "核心数量": "三十二核心",
+      "线程数量": "六十四线程",
+      "一级缓存": "2MB",
+      "二级缓存": "16MB",
+      "三级缓存": "128MB",
+      "热设计功耗(TDP)": "280W",
+      "内存类型": "DDR4 3200MHz",
+      "最大内存通道数": "4",
+      "显卡其它特性": "PCI Express版本：PCIe 4.0",
+      "插槽类型": "Socket sTRX4"
+    }
+  },
+  {
+    "name": "AMD Ryzen Threadripper 1920X",
+    "manufacturer": "AMD",
+    "series": "Ryzen Threadripper",
+    "opendb_id": "amd_ryzen_threadripper_1920x",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen Threadripper 1000",
+      "制作工艺": "14纳米",
+      "PCI Express版本": "PCIe 3.0",
+      "CPU主频": "3.5GHz",
+      "加速频率": "4GHz",
+      "核心数量": "十二核心",
+      "线程数量": "二十四线程",
+      "一级缓存": "1.5MB",
+      "二级缓存": "6MB",
+      "三级缓存": "32MB",
+      "热设计功耗(TDP)": "180W",
+      "内存类型": "DDR4 2667MHz",
+      "最大内存通道数": "4",
+      "插槽类型": "Socket TR4",
+      "虚拟化技术": "AMD VT",
+      "64位处理器": "是",
+      "性能评分": "73057"
+    }
+  },
+  {
+    "name": "AMD Ryzen ThreadRipper 3960X",
+    "manufacturer": "AMD",
+    "series": "Ryzen Threadripper",
+    "opendb_id": "amd_ryzen_threadripper_3960x",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen Threadripper 3000",
+      "制作工艺": "7纳米",
+      "PCI Express版本": "PCIe 4.0",
+      "包装形式": "盒装",
+      "CPU主频": "3.8GHz",
+      "加速频率": "4.5GHz",
+      "核心数量": "二十四核心",
+      "线程数量": "四十八线程",
+      "一级缓存": "2.25MB",
+      "二级缓存": "12MB",
+      "三级缓存": "128MB",
+      "热设计功耗(TDP)": "280W",
+      "内存类型": "DDR4 3200MHz",
+      "最大内存通道数": "4",
+      "插槽类型": "Socket sTRX4"
+    }
+  },
+  {
+    "name": "AMD Ryzen ThreadRipper 3980X",
+    "manufacturer": "AMD",
+    "series": "Ryzen Threadripper",
+    "opendb_id": "amd_ryzen_threadripper_3980x",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen Threadripper 3000",
+      "制作工艺": "7纳米",
+      "核心数量": "四十八核心",
+      "线程数量": "九十六线程",
+      "插槽类型": "Socket sTRX4"
+    }
+  },
+  {
+    "name": "AMD Ryzen Threadripper 3000",
+    "manufacturer": "AMD",
+    "series": "Ryzen Threadripper",
+    "opendb_id": "amd_ryzen_threadripper_3000",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen Threadripper 3000",
+      "核心数量": "六十四核心",
+      "线程数量": "一百二十八线程",
+      "热设计功耗(TDP)": "280W"
+    }
+  },
+  {
+    "name": "AMD Ryzen Threadripper 1900X",
+    "manufacturer": "AMD",
+    "series": "Ryzen Threadripper",
+    "opendb_id": "amd_ryzen_threadripper_1900x",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen Threadripper 1000",
+      "制作工艺": "14纳米",
+      "PCI Express版本": "PCIe 3.0",
+      "CPU主频": "3.8GHz",
+      "核心数量": "八核心",
+      "线程数量": "十六线程",
+      "一级缓存": "768KB",
+      "二级缓存": "4MB",
+      "三级缓存": "16MB",
+      "热设计功耗(TDP)": "180W",
+      "内存类型": "DDR4 2667MHz",
+      "插槽类型": "Socket TR4",
+      "虚拟化技术": "AMD VT",
+      "性能评分": "51072"
+    }
+  },
+  {
+    "name": "AMD Ryzen Threadripper 1950X",
+    "manufacturer": "AMD",
+    "series": "Ryzen Threadripper",
+    "opendb_id": "amd_ryzen_threadripper_1950x",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen Threadripper 1000",
+      "制作工艺": "14纳米",
+      "PCI Express版本": "PCIe 3.0",
+      "CPU主频": "3.4GHz",
+      "核心数量": "十六核心",
+      "线程数量": "三十二线程",
+      "一级缓存": "1.125MB",
+      "二级缓存": "8MB",
+      "三级缓存": "32MB",
+      "热设计功耗(TDP)": "180W",
+      "内存类型": "DDR4 2667MHz",
+      "插槽类型": "Socket TR4",
+      "虚拟化技术": "AMD VT",
+      "64位处理器": "是",
+      "性能评分": "88738"
+    }
+  },
+  {
+    "name": "AMD Ryzen Threadripper Zen 2",
+    "manufacturer": "AMD",
+    "series": "Ryzen Threadripper",
+    "opendb_id": "amd_ryzen_threadripper_zen_2",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen Threadripper 2000",
+      "制作工艺": "7纳米",
+      "CPU主频": "4.17GHz"
+    }
+  },
+  {
+    "name": "AMD Ryzen Threadripper 1920",
+    "manufacturer": "AMD",
+    "series": "Ryzen Threadripper",
+    "opendb_id": "amd_ryzen_threadripper_1920",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen Threadripper 1000",
+      "制作工艺": "14纳米",
+      "CPU主频": "3.4GHz",
+      "核心数量": "十二核心",
+      "线程数量": "二十四线程",
+      "热设计功耗(TDP)": "140W",
+      "插槽类型": "Socket TR4"
+    }
+  }
+]

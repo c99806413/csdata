@@ -1,0 +1,82 @@
+[
+  {
+    "name": "AMD Ryzen 3 8300G",
+    "manufacturer": "AMD",
+    "series": "Ryzen 3 8000",
+    "opendb_id": "amd_ryzen_3_8300g",
+    "metadata": {
+      "产品型号": "Ryzen 3 8300G",
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen 3 8000系列",
+      "制作工艺": "4纳米",
+      "核心代号": "Phoenix",
+      "CPU架构": "1x Zen 4 , 3x Zen 4c",
+      "CPU主频": "3.4GHz",
+      "加速频率": "4.9GHz",
+      "核心数量": "4核心",
+      "线程数量": "8线程",
+      "二级缓存": "4MB",
+      "三级缓存": "8MB",
+      "热设计功耗(TDP)": "65W",
+      "最大加速功耗（MTP）": "65W",
+      "最小保证功耗": "45W",
+      "内存类型": "DDR5 5200MHz，DDR5 3600MHz",
+      "最大内存通道数": "2",
+      "集成显卡": "AMD Radeon 740M",
+      "显卡基本频率": "2600MHz",
+      "插槽类型": "Socket AM5"
+    }
+  },
+  {
+    "name": "AMD Ryzen 3 8300GE",
+    "manufacturer": "AMD",
+    "series": "Ryzen 3 8000",
+    "opendb_id": "amd_ryzen_3_8300ge",
+    "metadata": {
+      "产品型号": "Ryzen 3 8300GE",
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen 3 8000系列",
+      "制作工艺": "4纳米",
+      "核心代号": "Phoenix",
+      "CPU架构": "1x Zen 4 , 3x Zen 4c",
+      "CPU主频": "3.5GHz",
+      "加速频率": "4.9GHz",
+      "核心数量": "4核心",
+      "线程数量": "8线程",
+      "二级缓存": "4MB",
+      "三级缓存": "8MB",
+      "热设计功耗(TDP)": "35W",
+      "内存类型": "2x1R DDR5-52002x2R DDR5-52004x1R DDR5-36004x2R DDR5-3600",
+      "最大内存通道数": "2",
+      "集成显卡": "AMD Radeon 740M",
+      "显卡基本频率": "2600MHz",
+      "插槽类型": "Socket AM5"
+    }
+  },
+  {
+    "name": "AMD Ryzen 3 8440U",
+    "manufacturer": "AMD",
+    "series": "Ryzen 3 8000",
+    "opendb_id": "amd_ryzen_3_8440u",
+    "metadata": {
+      "产品型号": "Ryzen 3 8440U",
+      "适用类型": "笔记本，台式机",
+      "CPU系列": "AMD Ryzen 3 8000系列",
+      "制作工艺": "4纳米",
+      "核心代号": "Hawk Point",
+      "CPU架构": "1x Zen 4 , 3x Zen 4c",
+      "CPU主频": "3.5GHz",
+      "加速频率": "4.9GHz",
+      "核心数量": "4核心",
+      "线程数量": "8线程",
+      "二级缓存": "4MB",
+      "三级缓存": "8MB",
+      "热设计功耗(TDP)": "35W",
+      "内存类型": "4x2R DDR5-5600，LPDDR5x-7500",
+      "最大内存通道数": "2",
+      "集成显卡": "AMD Radeon 740M",
+      "显卡基本频率": "2500MHz",
+      "插槽类型": "Socket AM5"
+    }
+  }
+]

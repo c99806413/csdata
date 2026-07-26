@@ -1,0 +1,237 @@
+[
+  {
+    "name": "AMD 速龙XP 2500+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_2500____",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Barton",
+      "CPU主频": "1.833GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "68.3　W",
+      "插槽类型": "Socket A",
+      "指令集": "专业版3D NOW!、3D NOW!+、MMX、MMX+、SSE，有数据预读取功能，采用data Prefetch技术"
+    }
+  },
+  {
+    "name": "AMD 速龙XP 1500+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_1500____",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Palomino",
+      "CPU主频": "1.333GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "热设计功耗(TDP)": "59　W",
+      "插槽类型": "Socket A",
+      "指令集": "3DNow!+，SEE，MMX"
+    }
+  },
+  {
+    "name": "AMD 速龙XP 2200+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_2200____",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Thoroughbred B",
+      "CPU主频": "1.8GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket A",
+      "指令集": "专业版3D NOW!(增加52条新指令)，MMX、SSE，有数据预读取功能，采用data Prefetch技术"
+    }
+  },
+  {
+    "name": "AMD 速龙XP 2600+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_2600____",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Thoroughbred B",
+      "CPU主频": "2.133GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "热设计功耗(TDP)": "68.3　W",
+      "插槽类型": "Socket A",
+      "指令集": "专业版3D NOW!(增加52条新指令)，MMX、SSE，有数据预读取功能，采用data Prefetch技术"
+    }
+  },
+  {
+    "name": "AMD 速龙XP 1700+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_1700____",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Palomino",
+      "CPU主频": "1.47GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "热设计功耗(TDP)": "65　W",
+      "插槽类型": "Socket A",
+      "指令集": "3DNow!+/SEE/MMX"
+    }
+  },
+  {
+    "name": "AMD 速龙XP 1800+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_1800____",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Palomino",
+      "CPU主频": "1.533GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "热设计功耗(TDP)": "68　W",
+      "插槽类型": "Socket A",
+      "指令集": "3DNow!+/SEE/MMX"
+    }
+  },
+  {
+    "name": "AMD 速龙XP 3000+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_3000____",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Barton",
+      "CPU主频": "2.166GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "74.3W",
+      "插槽类型": "Socket A",
+      "指令集": "专业版3D NOW!、3D NOW!+、MMX、MMX+、SSE"
+    }
+  },
+  {
+    "name": "AMD 速龙XP 2400+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_2400____",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Thoroughbred B",
+      "CPU主频": "2GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket A",
+      "指令集": "专业版3D NOW!(增加52条新指令)，MMX、SSE，有数据预读取功能，采用data Prefetch技术"
+    }
+  },
+  {
+    "name": "AMD 速龙XP 2800+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_2800____",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Barton",
+      "CPU主频": "2.083GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "68.3　W",
+      "插槽类型": "Socket A",
+      "指令集": "专业版3D NOW!、3D NOW!+、MMX、MMX+、SSE，有数据预读取功能，采用data Prefetch技术"
+    }
+  },
+  {
+    "name": "AMD 速龙XP 3200+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_3200____",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Barton",
+      "CPU主频": "2.2GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "74.3W",
+      "插槽类型": "Socket A",
+      "指令集": "专业版3D NOW!、3D NOW!+、MMX、MMX+、SSE"
+    }
+  },
+  {
+    "name": "AMD 速龙XP 1600+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_1600____",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Palomino",
+      "CPU主频": "1.4GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "热设计功耗(TDP)": "62W",
+      "插槽类型": "Socket A",
+      "指令集": "3DNow!+/SEE/MMX"
+    }
+  },
+  {
+    "name": "AMD 速龙XP 1900+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_1900____",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Palomino",
+      "CPU主频": "1.6GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket A",
+      "指令集": "3DNow!+/SEE/MMX"
+    }
+  },
+  {
+    "name": "AMD 速龙XP 2700+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_2700____",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Thoroughbred B",
+      "CPU主频": "2.166GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "热设计功耗(TDP)": "68.3W",
+      "插槽类型": "Socket A",
+      "指令集": "MMX/SSE/3DNow!+"
+    }
+  },
+  {
+    "name": "AMD 速龙XP 2000+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_2000____",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Palomino",
+      "CPU主频": "1.67GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket A",
+      "指令集": "3DNow!+/SEE/MMX"
+    }
+  },
+  {
+    "name": "AMD 速龙XP 2100+",
+    "manufacturer": "AMD",
+    "series": "速龙XP系列",
+    "opendb_id": "amd___xp_2100____",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Thoroughbred A",
+      "CPU主频": "1.733GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket A",
+      "指令集": "3DNow!+/SEE/MMX"
+    }
+  }
+]

@@ -1,0 +1,591 @@
+[
+  {
+    "name": "AMD Athlon64 3200+",
+    "manufacturer": "AMD",
+    "series": "AMD Athlon64 3200+",
+    "opendb_id": "amd_athlon64_3200",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64",
+      "制作工艺": "90纳米",
+      "核心代号": "Winchester",
+      "CPU架构": "X86-64",
+      "CPU主频": "2GHz",
+      "核心数量": "单核心",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 939",
+      "指令集": "支持MMX(+)、3DNow、3DNow!(+)、SSE、SSE2、SSE3和X86-64指令集"
+    }
+  },
+  {
+    "name": "AMD 皓龙 146",
+    "manufacturer": "AMD",
+    "series": "AMD 皓龙 146",
+    "opendb_id": "amd_146",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "皓龙",
+      "制作工艺": "90纳米",
+      "核心代号": "Venus",
+      "CPU架构": "64位",
+      "CPU主频": "2GHz",
+      "核心数量": "单核心",
+      "一级缓存": "128KB",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 速龙 2650e",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 2650e",
+    "opendb_id": "amd_2650e",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙",
+      "CPU主频": "1.6GHz",
+      "核心数量": "单核心",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "15W",
+      "插槽类型": "Socket AM2+"
+    }
+  },
+  {
+    "name": "AMD 速龙64 2700+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 2700+",
+    "opendb_id": "amd_64_2700",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "核心代号": "Newcastle",
+      "CPU架构": "X86-64",
+      "CPU主频": "1.57GHz",
+      "一级缓存": "64KB",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 754",
+      "指令集": "3DNow!技术和SSE2"
+    }
+  },
+  {
+    "name": "AMD 速龙64 2800+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 2800+",
+    "opendb_id": "amd_64_2800",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64",
+      "制作工艺": "130纳米",
+      "核心代号": "Newcastle",
+      "CPU主频": "1.8GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "62W",
+      "插槽类型": "Socket 754",
+      "指令集": "MMX,3DNow!SSE,SSE2,NX,x86-64"
+    }
+  },
+  {
+    "name": "AMD 速龙64 3000+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 3000+",
+    "opendb_id": "amd_64_3000",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "核心代号": "Winchester",
+      "CPU主频": "1.8GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "68.5W",
+      "插槽类型": "Socket 939",
+      "指令集": "支持"
+    }
+  },
+  {
+    "name": "AMD 速龙64 3000+/ClawHammer",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 3000+/ClawHammer",
+    "opendb_id": "amd_64_3000_clawhammer",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "核心代号": "ClawHammer",
+      "CPU主频": "2GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "1024KB",
+      "热设计功耗(TDP)": "62W",
+      "插槽类型": "Socket 754"
+    }
+  },
+  {
+    "name": "AMD 速龙64 3000+/E3",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 3000+/E3",
+    "opendb_id": "amd_64_3000_e3",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "核心代号": "Venice",
+      "CPU主频": "1.8GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "6567（极限）W",
+      "插槽类型": "Socket 939",
+      "指令集": "MMX, SSE, SSE2, SSE3, 3DNow, 3DNow+ 64..."
+    }
+  },
+  {
+    "name": "AMD 速龙64 3200+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 3200+",
+    "opendb_id": "amd_64_3200",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 64",
+      "制作工艺": "0.13微米",
+      "核心代号": "ClawHammer",
+      "CPU架构": "X86-64/IA-64",
+      "CPU主频": "2GHz",
+      "核心数量": "单核心",
+      "一级缓存": "128KB",
+      "二级缓存": "1024KB",
+      "总线规格": "HT1.0总线",
+      "热设计功耗(TDP)": "62W",
+      "集成显卡": "不支持",
+      "插槽类型": "Socket AM2/Socket 754",
+      "睿频加速技术": "不支持",
+      "虚拟化技术": "不支持",
+      "指令集": "MMX(+)，3DNow！(+)，SSE，SSE2，X86-64",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD 速龙64 3200+/E3",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 3200+/E3",
+    "opendb_id": "amd_64_3200_e3",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "核心代号": "Venice",
+      "CPU主频": "2GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "67W",
+      "插槽类型": "Socket 939",
+      "指令集": "MMX, SSE, SSE2, SSE3, 3D!Now, 3DNow+ ,X86-64"
+    }
+  },
+  {
+    "name": "AMD 速龙64 3300+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 3300+",
+    "opendb_id": "amd_64_3300",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64",
+      "制作工艺": "130纳米",
+      "核心代号": "Newcastle",
+      "CPU主频": "2.4GHz",
+      "二级缓存": "256KB",
+      "热设计功耗(TDP)": "89W",
+      "插槽类型": "Socket 754",
+      "指令集": "MMX、SSE、SSE2、Enhanced 3DNow!、X86-64"
+    }
+  },
+  {
+    "name": "AMD 速龙64 3400+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 3400+",
+    "opendb_id": "amd_64_3400",
+    "metadata": {
+      "适用类型": "台式机",
+      "核心代号": "ClawHammer",
+      "CPU主频": "2.2GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "1024KB",
+      "插槽类型": "Socket 754/Socket 939",
+      "制作工艺": "0.13微米",
+      "热设计功耗(TDP)": "89W",
+      "指令集": "MMX 3DNow! SSE SSE2"
+    }
+  },
+  {
+    "name": "AMD 速龙64 3500+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 3500+",
+    "opendb_id": "amd_64_3500",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米/90纳米",
+      "核心代号": "Newcastle",
+      "CPU架构": "X86-64/64位",
+      "CPU主频": "2.2GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket 939",
+      "指令集": "MMX, SSE, SSE2, SSE3, 3DNow, 3DNow+ X86-64",
+      "CPU系列": "Athlon64",
+      "核心数量": "单核心",
+      "热设计功耗(TDP)": "67W"
+    }
+  },
+  {
+    "name": "AMD 速龙64 3500+/E3",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 3500+/E3",
+    "opendb_id": "amd_64_3500_e3",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "核心代号": "Venice",
+      "CPU主频": "2.2GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "67W",
+      "插槽类型": "Socket 939",
+      "指令集": "MMX, SSE, SSE2, SSE3, 3DNow, 3DNow+ X86-64"
+    }
+  },
+  {
+    "name": "AMD 速龙64 3500+/E6",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 3500+/E6",
+    "opendb_id": "amd_64_3500_e6",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64",
+      "制作工艺": "90纳米",
+      "核心代号": "Venice",
+      "CPU主频": "2.2GHz",
+      "核心数量": "单核心",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "67W",
+      "插槽类型": "Socket 939",
+      "指令集": "MMX, SSE, SSE2, SSE3, 3DNow, 3DNow+ X86-64"
+    }
+  },
+  {
+    "name": "AMD 速龙64 3700+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 3700+",
+    "opendb_id": "amd_64_3700",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64",
+      "制作工艺": "90纳米",
+      "CPU架构": "64位",
+      "CPU主频": "2.2GHz",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "89W",
+      "插槽类型": "Socket 939",
+      "指令集": "支持MMX、3D NOW!、SSE、SSE2、SSE3、X86-64"
+    }
+  },
+  {
+    "name": "AMD 速龙64 3800+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 3800+",
+    "opendb_id": "amd_64_3800",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64",
+      "制作工艺": "90纳米",
+      "核心代号": "Venice",
+      "CPU架构": "64位",
+      "CPU主频": "2.4GHz",
+      "核心数量": "单核心",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "89W",
+      "插槽类型": "Socket 939",
+      "指令集": "MMX, SSE, SSE2, SSE3, 3DNow, 3DNow+"
+    }
+  },
+  {
+    "name": "AMD 速龙64 4000+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 4000+",
+    "opendb_id": "amd_64_4000",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "核心代号": "ClawHammer",
+      "CPU主频": "2.4GHz",
+      "一级缓存": "64KB",
+      "二级缓存": "1024KB",
+      "插槽类型": "Socket 939",
+      "指令集": "MMX, SSE, SSE2, SSE3, 3DNow, 3DNow+"
+    }
+  },
+  {
+    "name": "AMD 速龙64 4000+/E4",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 4000+/E4",
+    "opendb_id": "amd_64_4000_e4",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "核心代号": "San Diego",
+      "CPU主频": "2.4GHz",
+      "一级缓存": "64KB",
+      "二级缓存": "1024KB",
+      "热设计功耗(TDP)": "89W",
+      "插槽类型": "Socket 939",
+      "指令集": "MMX, SSE, SSE2, SSE3, 3DNow, 3DNow+"
+    }
+  },
+  {
+    "name": "AMD 速龙64 FX51",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 FX51",
+    "opendb_id": "amd_64_fx51",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "ClawHammer",
+      "CPU主频": "2GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "1000KB",
+      "插槽类型": "Socket 940"
+    }
+  },
+  {
+    "name": "AMD 速龙64 FX53",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 FX53",
+    "opendb_id": "amd_64_fx53",
+    "metadata": {
+      "CPU系列": "Athlon64 FX",
+      "核心代号": "ClawHammer",
+      "一级缓存": "128KB",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 速龙64 FX53/940Pin",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 FX53/940Pin",
+    "opendb_id": "amd_64_fx53_940pin",
+    "metadata": {
+      "CPU系列": "Athlon64 FX",
+      "制作工艺": "0.09微米",
+      "核心代号": "SledgeHammer",
+      "CPU主频": "2.4GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 940",
+      "指令集": "支持"
+    }
+  },
+  {
+    "name": "AMD 速龙64 FX55",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 FX55",
+    "opendb_id": "amd_64_fx55",
+    "metadata": {
+      "CPU系列": "Athlon64 FX",
+      "制作工艺": "0.13微米",
+      "核心代号": "ClawHammer",
+      "CPU架构": "64位",
+      "CPU主频": "2.6GHz",
+      "核心数量": "单核心",
+      "一级缓存": "64KB",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 939",
+      "指令集": "MMX,3DNow!,SSE,SSE2,NX,X86-64"
+    }
+  },
+  {
+    "name": "AMD 速龙64 FX57",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 FX57",
+    "opendb_id": "amd_64_fx57",
+    "metadata": {
+      "CPU系列": "Athlon64 FX",
+      "制作工艺": "90纳米",
+      "核心代号": "SanDiego",
+      "CPU架构": "64位",
+      "CPU主频": "2.8GHz",
+      "核心数量": "单核心",
+      "一级缓存": "128KB",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 939",
+      "指令集": "MMX, SSE, SSE2,SSE3,3DNow+ ,X86-64"
+    }
+  },
+  {
+    "name": "AMD 速龙64 FX60",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 FX60",
+    "opendb_id": "amd_64_fx60",
+    "metadata": {
+      "CPU系列": "Athlon64 FX",
+      "制作工艺": "90纳米",
+      "核心代号": "Toledo",
+      "CPU主频": "2.6GHz",
+      "二级缓存": "2MB",
+      "热设计功耗(TDP)": "110W",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 速龙64 FX62",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 FX62",
+    "opendb_id": "amd_64_fx62",
+    "metadata": {
+      "CPU系列": "Athlon64 FX",
+      "制作工艺": "90纳米",
+      "核心代号": "Windsor",
+      "CPU架构": "64位",
+      "CPU主频": "2.8GHz",
+      "核心数量": "双核心",
+      "一级缓存": "2×128KB",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "125W",
+      "插槽类型": "Socket AM2",
+      "指令集": "支持x86-64指令集，支持mmx(+)，3dnow!(+)，sse，sse2，sse3/MMX,3DNow!,SSE,SSE2,SSE3,x86-64",
+      "适用类型": "台式机"
+    }
+  },
+  {
+    "name": "AMD 速龙64 FX70",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 FX70",
+    "opendb_id": "amd_64_fx70",
+    "metadata": {
+      "CPU系列": "Athlon64 FX",
+      "CPU架构": "64位",
+      "CPU主频": "2.6GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "125W",
+      "插槽类型": "Socket F"
+    }
+  },
+  {
+    "name": "AMD 速龙64 FX72",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 FX72",
+    "opendb_id": "amd_64_fx72",
+    "metadata": {
+      "CPU系列": "Athlon64 FX",
+      "CPU架构": "64位",
+      "CPU主频": "2.8GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket F"
+    }
+  },
+  {
+    "name": "AMD 速龙64 FX74",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 FX74",
+    "opendb_id": "amd_64_fx74",
+    "metadata": {
+      "CPU系列": "Athlon64 FX",
+      "CPU架构": "64位",
+      "CPU主频": "3GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket F"
+    }
+  },
+  {
+    "name": "AMD 速龙64 LE-1600",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 LE-1600",
+    "opendb_id": "amd_64_le_1600",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AM2 Athlon64",
+      "制作工艺": "65纳米",
+      "核心代号": "Lima",
+      "CPU主频": "2.2GHz",
+      "核心数量": "单核心",
+      "一级缓存": "128KB",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "45W",
+      "插槽类型": "Socket AM2",
+      "指令集": "MMX、3DNow!+、SSE、SSE2、SSE3以及X86-64"
+    }
+  },
+  {
+    "name": "AMD 速龙64 LE-1620",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 LE-1620",
+    "opendb_id": "amd_64_le_1620",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AM2 Athlon64",
+      "制作工艺": "65纳米",
+      "核心代号": "Lima",
+      "CPU主频": "2.4GHz",
+      "核心数量": "单核心",
+      "一级缓存": "128KB",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "45W",
+      "插槽类型": "Socket AM2",
+      "指令集": "MMX、3DNow!+、SSE、SSE2、SSE3以及X86-64"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 3600+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 3600+",
+    "opendb_id": "amd_64_x2_3600",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙双核",
+      "制作工艺": "90纳米",
+      "核心代号": "Windsor",
+      "CPU架构": "64位",
+      "CPU主频": "2GHz",
+      "核心数量": "双核心",
+      "一级缓存": "2×128KB",
+      "二级缓存": "2×256KB",
+      "热设计功耗(TDP)": "65W",
+      "插槽类型": "Socket AM2",
+      "指令集": "支持MMX、3DNOW!+、SSE、SSE2、SSE3以及X86-64"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 3800+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 3800+",
+    "opendb_id": "amd_64_x2_3800",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 64 X2",
+      "制作工艺": "90纳米",
+      "核心代号": "Windsor",
+      "CPU架构": "64位",
+      "CPU主频": "2GHz",
+      "核心数量": "双核心",
+      "一级缓存": "2×128KB",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "65W",
+      "插槽类型": "Socket AM2",
+      "虚拟化技术": "AMD VT",
+      "指令集": "支持多媒体"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 4200+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 4200+",
+    "opendb_id": "amd_64_x2_4200",
+    "metadata": {
+      "CPU系列": "Athlon64 X2",
+      "制作工艺": "90纳米",
+      "核心代号": "Manchester",
+      "CPU主频": "2.2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "110W",
+      "插槽类型": "Socket 939"
+    }
+  }
+]

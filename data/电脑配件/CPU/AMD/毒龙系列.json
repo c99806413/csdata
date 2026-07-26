@@ -1,0 +1,187 @@
+[
+  {
+    "name": "AMD Duron 1.8GHz",
+    "manufacturer": "AMD",
+    "series": "毒龙系列",
+    "opendb_id": "amd_duron_1_8ghz___",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Applebred",
+      "CPU主频": "1.8GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "64KB",
+      "热设计功耗(TDP)": "57W",
+      "插槽类型": "Socket A",
+      "指令集": "支持SSE,MMX,3DNOW+ 指令集"
+    }
+  },
+  {
+    "name": "AMD Duron 650",
+    "manufacturer": "AMD",
+    "series": "毒龙系列",
+    "opendb_id": "amd_duron_650___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.65GHz"
+    }
+  },
+  {
+    "name": "AMD 毒龙 1.2GHz",
+    "manufacturer": "AMD",
+    "series": "毒龙系列",
+    "opendb_id": "amd____1_2ghz___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Morgan",
+      "CPU主频": "1.2GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "64KB",
+      "热设计功耗(TDP)": "65.7　W",
+      "插槽类型": "Socket A",
+      "指令集": "3DNow!+/SEE/MMX"
+    }
+  },
+  {
+    "name": "AMD Duron 700",
+    "manufacturer": "AMD",
+    "series": "毒龙系列",
+    "opendb_id": "amd_duron_700___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.7GHz"
+    }
+  },
+  {
+    "name": "AMD Duron 800",
+    "manufacturer": "AMD",
+    "series": "毒龙系列",
+    "opendb_id": "amd_duron_800___",
+    "metadata": {
+      "CPU主频": "0.8GHz"
+    }
+  },
+  {
+    "name": "AMD Duron 900",
+    "manufacturer": "AMD",
+    "series": "毒龙系列",
+    "opendb_id": "amd_duron_900___",
+    "metadata": {
+      "制作工艺": "64KB",
+      "CPU主频": "0.9GHz",
+      "二级缓存": "64KB",
+      "插槽类型": "Socket A"
+    }
+  },
+  {
+    "name": "AMD Duron 600",
+    "manufacturer": "AMD",
+    "series": "毒龙系列",
+    "opendb_id": "amd_duron_600___",
+    "metadata": {
+      "制作工艺": "64KB",
+      "CPU主频": "0.6GHz"
+    }
+  },
+  {
+    "name": "AMD Duron 1.6GHz",
+    "manufacturer": "AMD",
+    "series": "毒龙系列",
+    "opendb_id": "amd_duron_1_6ghz___",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Applebred",
+      "CPU主频": "1.6GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "64KB",
+      "热设计功耗(TDP)": "57W",
+      "插槽类型": "Socket A",
+      "指令集": "支持SSE,MMX,3DNOW+ 指令集"
+    }
+  },
+  {
+    "name": "AMD Duron 750",
+    "manufacturer": "AMD",
+    "series": "毒龙系列",
+    "opendb_id": "amd_duron_750___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.75GHz"
+    }
+  },
+  {
+    "name": "AMD Duron 1.0GHz",
+    "manufacturer": "AMD",
+    "series": "毒龙系列",
+    "opendb_id": "amd_duron_1_0ghz___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Morgan",
+      "CPU主频": "1GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "64KB",
+      "热设计功耗(TDP)": "46.1W",
+      "插槽类型": "Socket A",
+      "指令集": "3DNow! Professional/SSE/MMX"
+    }
+  },
+  {
+    "name": "AMD Duron 1.1GHz",
+    "manufacturer": "AMD",
+    "series": "毒龙系列",
+    "opendb_id": "amd_duron_1_1ghz___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Morgan",
+      "CPU主频": "1.1GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "64KB",
+      "热设计功耗(TDP)": "50.3　W",
+      "插槽类型": "Socket A",
+      "指令集": "3DNow! Professional/SSE/MMX"
+    }
+  },
+  {
+    "name": "AMD Duron 1.4GHz",
+    "manufacturer": "AMD",
+    "series": "毒龙系列",
+    "opendb_id": "amd_duron_1_4ghz___",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Applebred",
+      "CPU主频": "1.4GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "64KB",
+      "热设计功耗(TDP)": "57W",
+      "插槽类型": "Socket A",
+      "指令集": "支持SSE,MMX,3DNOW+ 指令集"
+    }
+  },
+  {
+    "name": "AMD Duron 850",
+    "manufacturer": "AMD",
+    "series": "毒龙系列",
+    "opendb_id": "amd_duron_850___",
+    "metadata": {
+      "制作工艺": "192KB",
+      "核心代号": "Morgan",
+      "CPU主频": "0.85GHz",
+      "一级缓存": "64KB"
+    }
+  },
+  {
+    "name": "AMD Duron 1.3GHz",
+    "manufacturer": "AMD",
+    "series": "毒龙系列",
+    "opendb_id": "amd_duron_1_3ghz___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Morgan",
+      "CPU主频": "1.3GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "热设计功耗(TDP)": "65.7　W",
+      "插槽类型": "Socket A",
+      "指令集": "超标量MMX技术，3DNow！"
+    }
+  }
+]

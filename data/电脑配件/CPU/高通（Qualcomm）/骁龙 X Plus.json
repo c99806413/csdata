@@ -1,0 +1,65 @@
+[
+  {
+    "name": "高通骁龙 X Plus X1P-46-100",
+    "manufacturer": "高通",
+    "series": "骁龙 X Plus",
+    "opendb_id": "_____x_plus_x1p_46_100",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "高通 骁龙 X Elite系列",
+      "制作工艺": "4纳米",
+      "CPU主频": "3.4GHz",
+      "最高睿频": "4GHz",
+      "核心数量": "8核心",
+      "三级缓存": "30MB",
+      "内存类型": "LPDDR5X 8448MHz"
+    }
+  },
+  {
+    "name": "高通骁龙 X Plus X1P-64-100",
+    "manufacturer": "高通",
+    "series": "骁龙 X Plus",
+    "opendb_id": "_____x_plus_x1p_64_100",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "高通 骁龙 X Elite系列",
+      "制作工艺": "4纳米",
+      "CPU主频": "3.4GHz",
+      "核心数量": "10核心",
+      "三级缓存": "42MB",
+      "内存类型": "LPDDR5X 8448MHz"
+    }
+  },
+  {
+    "name": "高通骁龙 X Plus X1P-42-100",
+    "manufacturer": "高通",
+    "series": "骁龙 X Plus",
+    "opendb_id": "_____x_plus_x1p_42_100",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "高通 骁龙 X Elite系列",
+      "制作工艺": "4纳米",
+      "CPU主频": "3.2GHz",
+      "最高睿频": "3.4GHz",
+      "核心数量": "8核心",
+      "三级缓存": "30MB",
+      "内存类型": "LPDDR5X 8448MHz"
+    }
+  },
+  {
+    "name": "高通骁龙 X Plus X1P-66-100",
+    "manufacturer": "高通",
+    "series": "骁龙 X Plus",
+    "opendb_id": "_____x_plus_x1p_66_100",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "高通 骁龙 X Elite系列",
+      "制作工艺": "4纳米",
+      "CPU主频": "3.4GHz",
+      "最高睿频": "4GHz",
+      "核心数量": "10核心",
+      "三级缓存": "42MB",
+      "内存类型": "LPDDR5X 8448MHz"
+    }
+  }
+]

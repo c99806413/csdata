@@ -1,0 +1,102 @@
+[
+  {
+    "name": "AMD 羿龙II X3 720",
+    "manufacturer": "AMD",
+    "series": "羿龙II三核系列",
+    "opendb_id": "amd___ii_x3_720___",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "羿龙II",
+      "制作工艺": "45纳米",
+      "核心代号": "Heka",
+      "CPU架构": "K10",
+      "包装形式": "散装",
+      "CPU主频": "2.8GHz",
+      "核心数量": "三核心",
+      "一级缓存": "3×128KB",
+      "二级缓存": "3×512KB",
+      "三级缓存": "6MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM3",
+      "虚拟化技术": "AMD VT",
+      "指令集": "MMX(+)，3DNOW!(+)，SSE，SSE2，SSE3，SSE4A，x86-64"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X3 B75",
+    "manufacturer": "AMD",
+    "series": "羿龙II三核系列",
+    "opendb_id": "amd___ii_x3_b75",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "羿龙II",
+      "制作工艺": "45纳米",
+      "CPU架构": "K10.5",
+      "CPU主频": "3GHz",
+      "核心数量": "三核心",
+      "一级缓存": "3×128KB",
+      "二级缓存": "3×512KB",
+      "三级缓存": "6MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM3",
+      "虚拟化技术": "AMD VT",
+      "集成显卡": "不支持"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X3 710",
+    "manufacturer": "AMD",
+    "series": "羿龙II三核系列",
+    "opendb_id": "amd___ii_x3_710___",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "羿龙II X3",
+      "制作工艺": "45纳米",
+      "核心代号": "Heka",
+      "CPU架构": "K10",
+      "CPU主频": "2.6GHz",
+      "核心数量": "三核心",
+      "三级缓存": "6MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM3",
+      "虚拟化技术": "AMD VT",
+      "指令集": "MMX(+), 3DNOW!(+), SSE, SSE2, SSE3, SSE4A, x86-64"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X3 700",
+    "manufacturer": "AMD",
+    "series": "羿龙II三核系列",
+    "opendb_id": "amd___ii_x3_700",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "羿龙II X3",
+      "制作工艺": "45纳米",
+      "核心代号": "Heka",
+      "CPU架构": "K10.5",
+      "核心数量": "三核心",
+      "三级缓存": "6MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM3"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X3 705e",
+    "manufacturer": "AMD",
+    "series": "羿龙II三核系列",
+    "opendb_id": "amd___ii_x3_705e",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "羿龙II X3",
+      "制作工艺": "45纳米",
+      "核心代号": "Heka",
+      "CPU主频": "2.5GHz",
+      "核心数量": "三核心",
+      "三级缓存": "6MB",
+      "热设计功耗(TDP)": "65W",
+      "插槽类型": "Socket AM3",
+      "虚拟化技术": "AMD VT",
+      "指令集": "MMX(+), 3DNOW!(+), SSE, SSE2, SSE3, SSE4A, x86-64"
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "AMD Ryzen Threadripper 7980X",
+    "manufacturer": "AMD",
+    "series": "Ryzen Threadripper 7000",
+    "opendb_id": "amd_ryzen_threadripper_7980x",
+    "metadata": {
+      "产品型号": "AMD Ryzen Threadripper 7980X",
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen 7000系列",
+      "制作工艺": "5纳米",
+      "核心代号": "Zen 4",
+      "包装形式": "盒装",
+      "发布日期": "2023年10月19日",
+      "CPU主频": "3.2GHz",
+      "加速频率": "5.1GHz",
+      "核心数量": "64核心",
+      "线程数量": "128线程",
+      "一级缓存": "4MB",
+      "二级缓存": "64MB",
+      "三级缓存": "256MB",
+      "热设计功耗(TDP)": "350W",
+      "内存类型": "DDR5，RDIMM",
+      "最大内存通道数": "4",
+      "最大内存带宽": "5200MT/s",
+      "ECC内存支持": "支持",
+      "指令集": "AES, AMD-V, AVX, AVX2, AVX512, FMA3, MMX(+), SHA, SSE, SSE2, SSE3, SSE4.1, SSE4.2, SSE4A, SSSE3, x86-64"
+    }
+  },
+  {
+    "name": "AMD Ryzen Threadripper 7970X",
+    "manufacturer": "AMD",
+    "series": "AMD Ryzen Threadripper 7970X",
+    "opendb_id": "amd_ryzen_threadripper_7970x",
+    "metadata": {
+      "产品型号": "AMD Ryzen Threadripper 7980X",
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen 7000系列",
+      "制作工艺": "5纳米",
+      "核心代号": "Zen 4",
+      "包装形式": "盒装",
+      "发布日期": "2023年10月19日",
+      "CPU主频": "3.2GHz",
+      "加速频率": "5.1GHz",
+      "核心数量": "32核心",
+      "线程数量": "64线程",
+      "一级缓存": "2MB",
+      "二级缓存": "32MB",
+      "三级缓存": "128MB",
+      "热设计功耗(TDP)": "350W",
+      "内存类型": "DDR5，RDIMM",
+      "最大内存通道数": "4",
+      "最大内存带宽": "5200MT/s",
+      "ECC内存支持": "支持",
+      "指令集": "AES, AMD-V, AVX, AVX2, AVX512, FMA3, MMX(+), SHA, SSE, SSE2, SSE3, SSE4.1, SSE4.2, SSE4A, SSSE3, x86-64"
+    }
+  }
+]

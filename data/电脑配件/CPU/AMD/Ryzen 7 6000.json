@@ -1,0 +1,99 @@
+[
+  {
+    "name": "AMD Ryzen 7 6800H",
+    "manufacturer": "AMD",
+    "series": "Ryzen 7 6000",
+    "opendb_id": "amd_ryzen_7_6800h",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "AMD Ryzen 7 6000",
+      "制作工艺": "6纳米",
+      "核心代号": "Rembrandt",
+      "CPU架构": "Zen 3+",
+      "PCI Express版本": "PCIe 4.0",
+      "CPU主频": "3.2GHz",
+      "加速频率": "4.7GHz",
+      "核心数量": "八核心",
+      "线程数量": "十六线程",
+      "一级缓存": "512KB",
+      "二级缓存": "4MB",
+      "三级缓存": "16MB",
+      "热设计功耗(TDP)": "45W",
+      "内存类型": "DDR5",
+      "最大内存通道数": "4",
+      "集成显卡": "AMD Radeon 680M",
+      "显卡基本频率": "2200MHz",
+      "显卡其它特性": "GPU核心数量：12",
+      "插槽类型": "Socket AM4"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 6800HS",
+    "manufacturer": "AMD",
+    "series": "Ryzen 7 6000",
+    "opendb_id": "amd_ryzen_7_6800hs",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "AMD Ryzen 7 6000",
+      "制作工艺": "6纳米",
+      "核心代号": "Rembrandt",
+      "CPU架构": "Zen 3+",
+      "PCI Express版本": "PCIe 4.0",
+      "CPU主频": "3.2GHz",
+      "加速频率": "4.7GHz",
+      "核心数量": "八核心",
+      "线程数量": "十六线程",
+      "一级缓存": "512KB",
+      "二级缓存": "4MB",
+      "三级缓存": "16MB",
+      "热设计功耗(TDP)": "35W",
+      "内存类型": "DDR5",
+      "最大内存通道数": "4",
+      "集成显卡": "AMD Radeon 680M",
+      "显卡基本频率": "2200MHz",
+      "显卡其它特性": "GPU核心数量：12",
+      "插槽类型": "Socket AM4"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 6800U",
+    "manufacturer": "AMD",
+    "series": "Ryzen 7 6000",
+    "opendb_id": "amd_ryzen_7_6800u",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "AMD Ryzen 7 6000",
+      "制作工艺": "6纳米",
+      "核心代号": "Rembrandt",
+      "CPU架构": "Zen 3+",
+      "PCI Express版本": "PCIe 4.0",
+      "CPU主频": "2.7GHz",
+      "加速频率": "4.7GHz",
+      "核心数量": "八核心",
+      "线程数量": "十六线程",
+      "一级缓存": "512KB",
+      "二级缓存": "4MB",
+      "三级缓存": "16MB",
+      "热设计功耗(TDP)": "15-28W",
+      "内存类型": "DDR5",
+      "最大内存通道数": "4",
+      "集成显卡": "AMD Radeon 680M",
+      "显卡基本频率": "2200MHz",
+      "显卡其它特性": "GPU核心数量：12",
+      "插槽类型": "Socket AM4"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 6700G",
+    "manufacturer": "AMD",
+    "series": "AMD Ryzen 7 6700G",
+    "opendb_id": "amd_ryzen_7_6700g",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "AMD Ryzen 7 6000",
+      "核心数量": "八核心",
+      "线程数量": "十六线程",
+      "热设计功耗(TDP)": "65W"
+    }
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "name": "AMD Athlon64 3000+",
+    "manufacturer": "AMD",
+    "series": "AMD Athlon64 3000+",
+    "opendb_id": "amd_athlon64_3000",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AM2 Athlon64",
+      "制作工艺": "90纳米",
+      "CPU主频": "1.8GHz",
+      "核心数量": "单核心",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 闪龙 140",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 140",
+    "opendb_id": "amd_140",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "闪龙",
+      "制作工艺": "45纳米",
+      "包装形式": "盒装",
+      "CPU主频": "2.7GHz",
+      "核心数量": "单核心",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket AM3"
+    }
+  },
+  {
+    "name": "AMD 闪龙 150",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 150",
+    "opendb_id": "amd_150",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "闪龙",
+      "制作工艺": "45纳米",
+      "CPU主频": "2GHz",
+      "核心数量": "单核心",
+      "二级缓存": "1MB",
+      "集成显卡": "不支持",
+      "插槽类型": "Socket AM3",
+      "睿频加速技术": "不支持",
+      "虚拟化技术": "AMD VT",
+      "64位处理器": "是",
+      "内存描述": "DDR3 1066"
+    }
+  },
+  {
+    "name": "AMD 闪龙 2200+",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 2200+",
+    "opendb_id": "amd_2200",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "闪龙",
+      "制作工艺": "0.13微米",
+      "CPU主频": "1.5GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 闪龙 2300+",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 2300+",
+    "opendb_id": "amd_2300",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "CPU主频": "2.2GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket A"
+    }
+  },
+  {
+    "name": "AMD 闪龙 2400+",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 2400+",
+    "opendb_id": "amd_2400",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "CPU主频": "1.667GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket A"
+    }
+  },
+  {
+    "name": "AMD 闪龙 2500+",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 2500+",
+    "opendb_id": "amd_2500",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "CPU主频": "1.4GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 754"
+    }
+  },
+  {
+    "name": "AMD 闪龙 2600+",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 2600+",
+    "opendb_id": "amd_2600",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "CPU主频": "1.833GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket A"
+    }
+  },
+  {
+    "name": "AMD 闪龙 2600+ 754针",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 2600+ 754针",
+    "opendb_id": "amd_2600_754",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "CPU主频": "1.6GHz",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 754"
+    }
+  },
+  {
+    "name": "AMD 闪龙 2800+",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 2800+",
+    "opendb_id": "amd_2800",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "CPU主频": "1.6GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 754"
+    }
+  },
+  {
+    "name": "AMD 闪龙 2800+ 754针",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 2800+ 754针",
+    "opendb_id": "amd_2800_754",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "CPU主频": "1.6GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 754"
+    }
+  },
+  {
+    "name": "AMD 闪龙 3000+",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 3000+",
+    "opendb_id": "amd_3000",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AM2闪龙",
+      "制作工艺": "90纳米",
+      "CPU主频": "1.6GHz/1.8GHz",
+      "核心数量": "单核心",
+      "二级缓存": "256KB/128KB",
+      "插槽类型": "Socket AM2/Socket 754"
+    }
+  },
+  {
+    "name": "AMD 闪龙 3000+ 754针",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 3000+ 754针",
+    "opendb_id": "amd_3000_754",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "CPU主频": "1.8GHz",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 754"
+    }
+  },
+  {
+    "name": "AMD 闪龙 3000+ 939针",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 3000+ 939针",
+    "opendb_id": "amd_3000_939",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "闪龙",
+      "制作工艺": "90纳米",
+      "CPU主频": "1.8GHz",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 闪龙 3100+",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 3100+",
+    "opendb_id": "amd_3100",
+    "metadata": {
+      "适用类型": "台式CPU",
+      "制作工艺": "0.13微米",
+      "CPU主频": "1.8GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 754"
+    }
+  },
+  {
+    "name": "AMD 闪龙 3200+",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 3200+",
+    "opendb_id": "amd_3200",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AM2闪龙",
+      "制作工艺": "90纳米",
+      "CPU主频": "1.8GHz",
+      "核心数量": "单核心",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 闪龙 3400+",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 3400+",
+    "opendb_id": "amd_3400",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AM2闪龙",
+      "制作工艺": "90纳米",
+      "CPU主频": "1.8GHz",
+      "核心数量": "单核心",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 闪龙 3400+ AM2",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 3400+ AM2",
+    "opendb_id": "amd_3400_am2",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AM2闪龙",
+      "制作工艺": "90纳米",
+      "CPU主频": "1.8GHz",
+      "核心数量": "单核心",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 闪龙 3400+/64bit",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 3400+/64bit",
+    "opendb_id": "amd_3400_64bit",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "CPU主频": "2GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 754"
+    }
+  },
+  {
+    "name": "AMD 闪龙 3500+",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 3500+",
+    "opendb_id": "amd_3500",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AM2闪龙",
+      "制作工艺": "90纳米",
+      "CPU主频": "2GHz",
+      "核心数量": "单核心",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 闪龙 3600+",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 3600+",
+    "opendb_id": "amd_3600",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "闪龙",
+      "制作工艺": "90纳米",
+      "CPU主频": "2GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 闪龙 3600+ AM2",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 3600+ AM2",
+    "opendb_id": "amd_3600_am2",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "闪龙",
+      "制作工艺": "90纳米",
+      "CPU主频": "2GHz",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 闪龙 3800+ AM2",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 3800+ AM2",
+    "opendb_id": "amd_3800_am2",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "闪龙",
+      "制作工艺": "90纳米",
+      "CPU主频": "2.2GHz",
+      "核心数量": "单核心",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 闪龙 LE-1100",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 LE-1100",
+    "opendb_id": "amd_le_1100",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AM2闪龙",
+      "制作工艺": "65纳米",
+      "CPU主频": "1.9GHz",
+      "核心数量": "单核心",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 闪龙 LE-1150",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 LE-1150",
+    "opendb_id": "amd_le_1150",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "闪龙",
+      "制作工艺": "65纳米",
+      "CPU主频": "2GHz",
+      "核心数量": "单核心",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 闪龙 LE-1250",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 LE-1250",
+    "opendb_id": "amd_le_1250",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AM2闪龙",
+      "制作工艺": "65纳米",
+      "CPU主频": "2.2GHz",
+      "核心数量": "单核心",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 闪龙 LE-1300",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 LE-1300",
+    "opendb_id": "amd_le_1300",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AM2闪龙",
+      "制作工艺": "65纳米",
+      "CPU主频": "2.3GHz",
+      "核心数量": "单核心",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 闪龙 LE-1660",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 LE-1660",
+    "opendb_id": "amd_le_1660",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "闪龙",
+      "制作工艺": "65纳米",
+      "CPU主频": "2.8GHz",
+      "核心数量": "单核心",
+      "二级缓存": "512KB",
+      "集成显卡": "不支持",
+      "插槽类型": "Socket A",
+      "睿频加速技术": "不支持",
+      "虚拟化技术": "AMD VT",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD 闪龙 X2 180",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 X2 180",
+    "opendb_id": "amd_x2_180",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "闪龙 II",
+      "制作工艺": "45纳米",
+      "包装形式": "盒装",
+      "CPU主频": "2.4GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "集成显卡": "不支持",
+      "插槽类型": "Socket AM3",
+      "睿频加速技术": "不支持",
+      "虚拟化技术": "AMD VT",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD 闪龙 X2 2100+",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙 X2 2100+",
+    "opendb_id": "amd_x2_2100",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "闪龙 II",
+      "制作工艺": "65纳米",
+      "CPU主频": "1.8GHz",
+      "核心数量": "双核心",
+      "二级缓存": "512KB",
+      "插槽类型": "Socket AM2",
+      "虚拟化技术": "AMD VT",
+      "内存描述": "最高支持双通道的DDR2 800"
+    }
+  },
+  {
+    "name": "AMD 闪龙SP130",
+    "manufacturer": "AMD",
+    "series": "AMD 闪龙SP130",
+    "opendb_id": "amd_sp130",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "闪龙",
+      "制作工艺": "45纳米",
+      "包装形式": "散装",
+      "CPU主频": "2.6GHz",
+      "核心数量": "单核心",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket AM3"
+    }
+  }
+]

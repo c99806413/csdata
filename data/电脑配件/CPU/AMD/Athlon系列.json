@@ -1,0 +1,226 @@
+[
+  {
+    "name": "AMD 速龙 950",
+    "manufacturer": "AMD",
+    "series": "Athlon系列",
+    "opendb_id": "amd____950___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.95GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "65　W",
+      "插槽类型": "Slot A",
+      "指令集": "超标量MMX技术，增强版3DNow！SIMD指令集"
+    }
+  },
+  {
+    "name": "AMD 速龙 900",
+    "manufacturer": "AMD",
+    "series": "Athlon系列",
+    "opendb_id": "amd____900___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.9GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "65　W",
+      "插槽类型": "Slot A",
+      "指令集": "超标量MMX技术，增强版3DNow！SIMD指令集"
+    }
+  },
+  {
+    "name": "AMD 速龙 850",
+    "manufacturer": "AMD",
+    "series": "Athlon系列",
+    "opendb_id": "amd____850___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.85GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "65　W",
+      "插槽类型": "Slot A",
+      "指令集": "超标量MMX技术，增强版3DNow！SIMD指令集"
+    }
+  },
+  {
+    "name": "AMD Athlon 550",
+    "manufacturer": "AMD",
+    "series": "AMD Athlon 550",
+    "opendb_id": "amd_athlon_550",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.55GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "65　W",
+      "插槽类型": "Slot A",
+      "指令集": "超标量MMX技术，3DNow！SIMD指令集"
+    }
+  },
+  {
+    "name": "AMD 速龙 750",
+    "manufacturer": "AMD",
+    "series": "Athlon系列",
+    "opendb_id": "amd____750___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.75GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "65　W",
+      "插槽类型": "Slot A",
+      "指令集": "超标量MMX技术，增强版3DNow！SIMD指令集"
+    }
+  },
+  {
+    "name": "AMD 速龙 800",
+    "manufacturer": "AMD",
+    "series": "Athlon系列",
+    "opendb_id": "amd____800___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.8GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "65　W",
+      "插槽类型": "Slot A",
+      "指令集": "超标量MMX技术，增强版3DNow！SIMD指令集"
+    }
+  },
+  {
+    "name": "AMD 速龙 1.0GHz",
+    "manufacturer": "AMD",
+    "series": "Athlon系列",
+    "opendb_id": "amd____1_0ghz___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "1GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "65　W",
+      "插槽类型": "Slot A",
+      "指令集": "超标量MMX技术，3DNow！SIMD指令集"
+    }
+  },
+  {
+    "name": "AMD 速龙 550",
+    "manufacturer": "AMD",
+    "series": "Athlon系列",
+    "opendb_id": "amd____550___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.55GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "65　W",
+      "插槽类型": "Slot A",
+      "指令集": "超标量MMX技术，3DNow！SIMD指令集"
+    }
+  },
+  {
+    "name": "AMD Athlon 1.1GHz",
+    "manufacturer": "AMD",
+    "series": "Athlon系列",
+    "opendb_id": "amd_athlon_1_1ghz___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "1.1GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "热设计功耗(TDP)": "60　W",
+      "插槽类型": "Socket A",
+      "指令集": "超标量MMX技术,3DNow！"
+    }
+  },
+  {
+    "name": "AMD 速龙 500",
+    "manufacturer": "AMD",
+    "series": "Athlon系列",
+    "opendb_id": "amd____500___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.5GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "65　W",
+      "插槽类型": "Slot A",
+      "指令集": "超标量MMX技术，3DNow！SIMD指令集"
+    }
+  },
+  {
+    "name": "AMD 速龙 600",
+    "manufacturer": "AMD",
+    "series": "Athlon系列",
+    "opendb_id": "amd____600___",
+    "metadata": {
+      "制作工艺": "0.25微米",
+      "CPU主频": "0.6GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "插槽类型": "Slot A",
+      "指令集": "超标量MMX技术，3DNow！SIMD指令集"
+    }
+  },
+  {
+    "name": "AMD 速龙 1.1GHz",
+    "manufacturer": "AMD",
+    "series": "Athlon系列",
+    "opendb_id": "amd____1_1ghz___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "1.1GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "热设计功耗(TDP)": "60　W",
+      "插槽类型": "SocketA",
+      "指令集": "超标量MMX技术,3DNow！"
+    }
+  },
+  {
+    "name": "AMD 速龙 1GHz",
+    "manufacturer": "AMD",
+    "series": "Athlon系列",
+    "opendb_id": "amd____1ghz___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "1GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "256KB",
+      "热设计功耗(TDP)": "65　W",
+      "插槽类型": "Slot A",
+      "指令集": "超标量MMX技术，3DNow！SIMD指令集"
+    }
+  },
+  {
+    "name": "AMD 速龙 650",
+    "manufacturer": "AMD",
+    "series": "Athlon系列",
+    "opendb_id": "amd____650___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.65GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "65　W",
+      "插槽类型": "Slot A",
+      "指令集": "超标量MMX技术，3DNow！SIMD指令集"
+    }
+  },
+  {
+    "name": "AMD 速龙 700",
+    "manufacturer": "AMD",
+    "series": "Athlon系列",
+    "opendb_id": "amd____700___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.7GHz",
+      "一级缓存": "128KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "65　W",
+      "插槽类型": "Slot A",
+      "指令集": "超标量MMX技术，3DNow！SIMD指令集"
+    }
+  }
+]

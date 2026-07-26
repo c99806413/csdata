@@ -1,0 +1,116 @@
+[
+  {
+    "name": "AMD Thunderbird 900",
+    "manufacturer": "AMD",
+    "series": "Thunderbird系列",
+    "opendb_id": "amd_thunderbird_900___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.9GHz",
+      "二级缓存": "256KB"
+    }
+  },
+  {
+    "name": "AMD Thunderbird 1.2GHz",
+    "manufacturer": "AMD",
+    "series": "Thunderbird系列",
+    "opendb_id": "amd_thunderbird_1_2ghz___",
+    "metadata": {
+      "制作工艺": "256KB",
+      "CPU主频": "1.2GHz"
+    }
+  },
+  {
+    "name": "AMD Thunderbird 1.4GHz",
+    "manufacturer": "AMD",
+    "series": "Thunderbird系列",
+    "opendb_id": "amd_thunderbird_1_4ghz___",
+    "metadata": {
+      "CPU主频": "1.4GHz"
+    }
+  },
+  {
+    "name": "AMD Thunderbird 700",
+    "manufacturer": "AMD",
+    "series": "Thunderbird系列",
+    "opendb_id": "amd_thunderbird_700___",
+    "metadata": {
+      "制作工艺": "256KB",
+      "CPU主频": "0.7GHz"
+    }
+  },
+  {
+    "name": "AMD Thunderbird 750",
+    "manufacturer": "AMD",
+    "series": "Thunderbird系列",
+    "opendb_id": "amd_thunderbird_750___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.75GHz",
+      "二级缓存": "256KB"
+    }
+  },
+  {
+    "name": "AMD Thunderbird 800",
+    "manufacturer": "AMD",
+    "series": "Thunderbird系列",
+    "opendb_id": "amd_thunderbird_800___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.8GHz",
+      "二级缓存": "256KB"
+    }
+  },
+  {
+    "name": "AMD Thunderbird 850",
+    "manufacturer": "AMD",
+    "series": "Thunderbird系列",
+    "opendb_id": "amd_thunderbird_850___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.85GHz",
+      "二级缓存": "256KB"
+    }
+  },
+  {
+    "name": "AMD Thunderbird 1GHz",
+    "manufacturer": "AMD",
+    "series": "Thunderbird系列",
+    "opendb_id": "amd_thunderbird_1ghz___",
+    "metadata": {
+      "制作工艺": "256KB",
+      "CPU主频": "1GHz"
+    }
+  },
+  {
+    "name": "AMD Thunderbird 950",
+    "manufacturer": "AMD",
+    "series": "Thunderbird系列",
+    "opendb_id": "amd_thunderbird_950___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.95GHz",
+      "二级缓存": "256KB"
+    }
+  },
+  {
+    "name": "AMD Thunderbird 1.1GHz",
+    "manufacturer": "AMD",
+    "series": "Thunderbird系列",
+    "opendb_id": "amd_thunderbird_1_1ghz___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "1.1GHz",
+      "二级缓存": "256KB"
+    }
+  },
+  {
+    "name": "AMD Thunderbird 1.33GHz",
+    "manufacturer": "AMD",
+    "series": "Thunderbird系列",
+    "opendb_id": "amd_thunderbird_1_33ghz___",
+    "metadata": {
+      "CPU主频": "1.33GHz"
+    }
+  }
+]

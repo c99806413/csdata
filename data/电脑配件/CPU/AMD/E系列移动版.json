@@ -1,0 +1,158 @@
+[
+  {
+    "name": "AMD E2-9010",
+    "manufacturer": "AMD",
+    "series": "E系列移动版",
+    "opendb_id": "amd_e2_9010",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU主频": "2GHz",
+      "加速频率": "2.2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "15W",
+      "集成显卡": "是",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD E2-3200",
+    "manufacturer": "AMD",
+    "series": "E系列移动版",
+    "opendb_id": "amd_e2_3200",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU主频": "2.4GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "65W",
+      "集成显卡": "AMD Radeon HD 6370D",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是",
+      "内存类型": "DDR3 1600MHz",
+      "插槽类型": "Socket FM1"
+    }
+  },
+  {
+    "name": "AMD Fusion APU E-450",
+    "manufacturer": "AMD",
+    "series": "E系列移动版",
+    "opendb_id": "amd_fusion_apu_e_450",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU主频": "1.65GHz",
+      "核心数量": "双核心",
+      "热设计功耗(TDP)": "18W",
+      "集成显卡": "是",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD Ontario C-50 APU",
+    "manufacturer": "AMD",
+    "series": "E系列移动版",
+    "opendb_id": "amd_ontario_c_50_apu",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU主频": "1GHz",
+      "核心数量": "双核心",
+      "热设计功耗(TDP)": "9W"
+    }
+  },
+  {
+    "name": "AMD Fusion APU E-350",
+    "manufacturer": "AMD",
+    "series": "E系列移动版",
+    "opendb_id": "amd_fusion_apu_e_350",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU主频": "1.6GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "18W"
+    }
+  },
+  {
+    "name": "AMD E-350D",
+    "manufacturer": "AMD",
+    "series": "E系列移动版",
+    "opendb_id": "amd_e_350d",
+    "metadata": {
+      "适用类型": "笔记本",
+      "核心数量": "双核心",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD Fusion APU E-300",
+    "manufacturer": "AMD",
+    "series": "E系列移动版",
+    "opendb_id": "amd_fusion_apu_e_300",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU主频": "1.3GHz",
+      "核心数量": "双核心",
+      "热设计功耗(TDP)": "18W",
+      "集成显卡": "是",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD Fusion APU E-240",
+    "manufacturer": "AMD",
+    "series": "E系列移动版",
+    "opendb_id": "amd_fusion_apu_e_240",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU主频": "1.5GHz",
+      "核心数量": "单核心",
+      "热设计功耗(TDP)": "18W"
+    }
+  },
+  {
+    "name": "AMD Fusion APU A8-3530MX",
+    "manufacturer": "AMD",
+    "series": "E系列移动版",
+    "opendb_id": "amd_fusion_apu_a8_3530mx",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU主频": "1.9GHz",
+      "核心数量": "四核心",
+      "二级缓存": "2×2MB",
+      "热设计功耗(TDP)": "45W",
+      "集成显卡": "AMD Radeon HD 6620G",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是",
+      "内存类型": "DDR3 1600MHz"
+    }
+  },
+  {
+    "name": "AMD Fusion APU E2-3250",
+    "manufacturer": "AMD",
+    "series": "E系列移动版",
+    "opendb_id": "amd_fusion_apu_e2_3250",
+    "metadata": {
+      "适用类型": "笔记本",
+      "核心数量": "双核心",
+      "热设计功耗(TDP)": "65W",
+      "集成显卡": "是",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD Ontario C-30 APU",
+    "manufacturer": "AMD",
+    "series": "E系列移动版",
+    "opendb_id": "amd_ontario_c_30_apu",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU主频": "1.2GHz",
+      "核心数量": "单核心",
+      "热设计功耗(TDP)": "9W"
+    }
+  }
+]

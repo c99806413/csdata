@@ -1,0 +1,47 @@
+[
+  {
+    "name": "AMD 速龙 X3 400",
+    "manufacturer": "AMD",
+    "series": "速龙三核系列",
+    "opendb_id": "amd____x3_400",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 III",
+      "制作工艺": "45纳米",
+      "核心代号": "Rana",
+      "核心数量": "三核心",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM3"
+    }
+  },
+  {
+    "name": "AMD 速龙 X3 420",
+    "manufacturer": "AMD",
+    "series": "速龙三核系列",
+    "opendb_id": "amd____x3_420",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 III",
+      "制作工艺": "45纳米",
+      "核心代号": "Rana",
+      "核心数量": "三核心",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM3"
+    }
+  },
+  {
+    "name": "AMD 速龙 X3 410",
+    "manufacturer": "AMD",
+    "series": "速龙三核系列",
+    "opendb_id": "amd____x3_410",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 III",
+      "制作工艺": "45纳米",
+      "核心代号": "Rana",
+      "核心数量": "三核心",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM3"
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "name": "AMD K6-2 400",
+    "manufacturer": "AMD",
+    "series": "K6系列",
+    "opendb_id": "amd_k6_2_400___",
+    "metadata": {
+      "制作工艺": "0.25微米",
+      "CPU主频": "0.4GHz",
+      "一级缓存": "64KB",
+      "插槽类型": "Socket 7",
+      "指令集": "超标量MMX，3DNow！SIMD指令集（加强处理3D图形和多媒体所需要的密集浮点运算能力）"
+    }
+  },
+  {
+    "name": "AMD K6-2 450",
+    "manufacturer": "AMD",
+    "series": "K6系列",
+    "opendb_id": "amd_k6_2_450___",
+    "metadata": {
+      "制作工艺": "0.25微米",
+      "CPU主频": "0.45GHz",
+      "一级缓存": "64KB",
+      "插槽类型": "Socket 7",
+      "指令集": "超标量MMX，3DNow！SIMD指令集（加强处理3D图形和多媒体所需要的密集浮点运算能力）"
+    }
+  },
+  {
+    "name": "AMD K6-2 500",
+    "manufacturer": "AMD",
+    "series": "K6系列",
+    "opendb_id": "amd_k6_2_500___",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.5GHz",
+      "一级缓存": "64KB",
+      "插槽类型": "Socket 7",
+      "指令集": "超标量MMX"
+    }
+  },
+  {
+    "name": "AMD K6-2 380",
+    "manufacturer": "AMD",
+    "series": "K6系列",
+    "opendb_id": "amd_k6_2_380___",
+    "metadata": {
+      "CPU主频": "0.38GHz"
+    }
+  },
+  {
+    "name": "AMD K6-2 350",
+    "manufacturer": "AMD",
+    "series": "K6系列",
+    "opendb_id": "amd_k6_2_350___",
+    "metadata": {
+      "制作工艺": "0.25微米",
+      "CPU主频": "350GHz",
+      "一级缓存": "64KB",
+      "插槽类型": "Socket 7",
+      "指令集": "超标量MMX，3DNow！SIMD指令集（加强处理3D图形和多媒体所需要的密集浮点运算能力）"
+    }
+  },
+  {
+    "name": "AMD K6-2 300",
+    "manufacturer": "AMD",
+    "series": "K6系列",
+    "opendb_id": "amd_k6_2_300___",
+    "metadata": {
+      "制作工艺": "0.25微米",
+      "CPU主频": "0.3GHz",
+      "一级缓存": "64KB",
+      "插槽类型": "Socket 7",
+      "指令集": "超标量MMX，3DNow！SIMD指令集（加强处理3D图形和多媒体所需要的密集浮点运算能力）"
+    }
+  },
+  {
+    "name": "AMD K6-2 366",
+    "manufacturer": "AMD",
+    "series": "K6系列",
+    "opendb_id": "amd_k6_2_366___",
+    "metadata": {
+      "制作工艺": "0.25微米",
+      "CPU主频": "0.366GHz",
+      "一级缓存": "64KB",
+      "插槽类型": "Socket 7",
+      "指令集": "超标量MMX，3DNow！SIMD指令集（加强处理3D图形和多媒体所需要的密集浮点运算能力）"
+    }
+  }
+]

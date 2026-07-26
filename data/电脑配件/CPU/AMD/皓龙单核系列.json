@@ -1,0 +1,362 @@
+[
+  {
+    "name": "AMD 皓龙 180",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____180___",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "皓龙",
+      "制作工艺": "90纳米",
+      "核心代号": "Denmark",
+      "CPU架构": "64位",
+      "CPU主频": "2.4GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 皓龙 144",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____144___",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "皓龙",
+      "制作工艺": "90纳米",
+      "核心代号": "Venus",
+      "CPU架构": "X86-64",
+      "CPU主频": "1.8GHz",
+      "核心数量": "单核心",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "69W",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 皓龙 175",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____175___",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "皓龙",
+      "制作工艺": "90纳米",
+      "核心代号": "Denmark",
+      "CPU架构": "64位",
+      "CPU主频": "2.2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 皓龙 146",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____146___",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "皓龙",
+      "制作工艺": "90纳米",
+      "核心代号": "Venus",
+      "CPU架构": "64位",
+      "CPU主频": "2GHz",
+      "核心数量": "单核心",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 皓龙 875",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____875",
+    "metadata": {
+      "制作工艺": "90纳米",
+      "核心代号": "Egypt",
+      "CPU主频": "2.2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2048",
+      "插槽类型": "Socket 940"
+    }
+  },
+  {
+    "name": "AMD 皓龙 170",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____170___",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "皓龙",
+      "制作工艺": "90纳米",
+      "核心代号": "Denmark",
+      "CPU架构": "64位",
+      "CPU主频": "2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 皓龙 240",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____240___",
+    "metadata": {
+      "CPU系列": "皓龙",
+      "制作工艺": "0.13微米",
+      "核心代号": "SledgeHammer",
+      "CPU主频": "1.4GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 940"
+    }
+  },
+  {
+    "name": "AMD 皓龙 165",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____165___",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "皓龙",
+      "制作工艺": "90纳米",
+      "核心代号": "Denmark",
+      "CPU架构": "64位",
+      "CPU主频": "1.8GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "110W",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 速龙64 FX51",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd___64_fx51",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "SledgeHammer",
+      "CPU架构": "X86-64",
+      "CPU主频": "2.2GHz",
+      "二级缓存": "1000KB",
+      "热设计功耗(TDP)": "89W",
+      "插槽类型": "Socket 940"
+    }
+  },
+  {
+    "name": "AMD 皓龙 250",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____250___",
+    "metadata": {
+      "CPU系列": "皓龙",
+      "制作工艺": "90纳米",
+      "核心代号": "Troy",
+      "CPU主频": "2.4GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 940"
+    }
+  },
+  {
+    "name": "AMD 皓龙 246",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____246___",
+    "metadata": {
+      "CPU系列": "皓龙",
+      "制作工艺": "0.13微米",
+      "核心代号": "SledgeHammer",
+      "CPU架构": "64位",
+      "CPU主频": "2GHz",
+      "核心数量": "单核心",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 940"
+    }
+  },
+  {
+    "name": "AMD 皓龙 244",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____244___",
+    "metadata": {
+      "CPU系列": "皓龙",
+      "制作工艺": "0.13微米",
+      "核心代号": "SledgeHammer",
+      "CPU主频": "1.8GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 940"
+    }
+  },
+  {
+    "name": "AMD 皓龙 242",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____242___",
+    "metadata": {
+      "CPU系列": "皓龙",
+      "制作工艺": "0.13微米",
+      "核心代号": "SledgeHammer",
+      "CPU主频": "1.6GHz",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 940"
+    }
+  },
+  {
+    "name": "AMD 皓龙 154",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____154___",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "皓龙",
+      "制作工艺": "90纳米",
+      "核心代号": "Venus",
+      "CPU架构": "64位",
+      "CPU主频": "2.8GHz",
+      "核心数量": "单核心",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 皓龙 150",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____150___",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "皓龙",
+      "制作工艺": "90纳米",
+      "核心代号": "Venus",
+      "CPU架构": "64位",
+      "CPU主频": "2.4GHz",
+      "核心数量": "单核心",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 皓龙 248",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____248___",
+    "metadata": {
+      "CPU系列": "皓龙",
+      "制作工艺": "0.13微米",
+      "核心代号": "SledgeHammer",
+      "CPU架构": "64位",
+      "CPU主频": "2.2GHz",
+      "核心数量": "单核心",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 940"
+    }
+  },
+  {
+    "name": "AMD 皓龙 252",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____252___",
+    "metadata": {
+      "制作工艺": "90纳米",
+      "核心代号": "Troy",
+      "CPU主频": "2.6GHz",
+      "二级缓存": "1024KB",
+      "插槽类型": "Socket 940"
+    }
+  },
+  {
+    "name": "AMD 皓龙 250/E4",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____250_e4",
+    "metadata": {
+      "CPU系列": "皓龙",
+      "制作工艺": "90纳米",
+      "核心代号": "Troy",
+      "CPU架构": "64位",
+      "CPU主频": "2.4GHz",
+      "核心数量": "单核心",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 940"
+    }
+  },
+  {
+    "name": "AMD 皓龙 844",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____844",
+    "metadata": {
+      "制作工艺": "130纳米",
+      "核心代号": "SledgeHammer",
+      "CPU主频": "1.8GHz",
+      "二级缓存": "1024KB",
+      "插槽类型": "Socket 940"
+    }
+  },
+  {
+    "name": "AMD 皓龙 152",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____152___",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "皓龙",
+      "制作工艺": "90纳米",
+      "核心代号": "Venus",
+      "CPU架构": "64位",
+      "CPU主频": "2.6GHz",
+      "核心数量": "单核心",
+      "二级缓存": "1MB",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 皓龙 140",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____140___",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "皓龙",
+      "制作工艺": "130纳米",
+      "CPU主频": "1.4GHz",
+      "热设计功耗(TDP)": "82.1W",
+      "插槽类型": "Socket 940"
+    }
+  },
+  {
+    "name": "AMD 皓龙 148",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____148___",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "皓龙",
+      "制作工艺": "130纳米",
+      "核心代号": "Venus",
+      "CPU架构": "CuPCGA",
+      "CPU主频": "2.2GHz",
+      "核心数量": "单核心",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "89W",
+      "插槽类型": "Socket 940"
+    }
+  },
+  {
+    "name": "AMD 皓龙 142",
+    "manufacturer": "AMD",
+    "series": "皓龙单核系列",
+    "opendb_id": "amd____142___",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "皓龙",
+      "制作工艺": "130纳米",
+      "CPU主频": "1.6GHz",
+      "热设计功耗(TDP)": "82.1W",
+      "插槽类型": "Socket 940"
+    }
+  }
+]

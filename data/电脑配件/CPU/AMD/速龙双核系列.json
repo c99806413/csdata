@@ -1,0 +1,776 @@
+[
+  {
+    "name": "AMD AM3 速龙 X2 5200",
+    "manufacturer": "AMD",
+    "series": "AMD AM3 速龙 X2 5200",
+    "opendb_id": "amd_am3_x2_5200",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙",
+      "制作工艺": "45纳米",
+      "CPU主频": "2.3GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "65W",
+      "集成显卡": "不支持",
+      "插槽类型": "Socket AM3",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD 速龙 X2 200",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 X2 200",
+    "opendb_id": "amd_x2_200",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 II",
+      "制作工艺": "45纳米",
+      "核心代号": "Regor",
+      "核心数量": "双核心",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM3"
+    }
+  },
+  {
+    "name": "AMD 速龙 X2 235",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 X2 235",
+    "opendb_id": "amd_x2_235",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 II",
+      "制作工艺": "45纳米",
+      "核心代号": "Regcor",
+      "CPU主频": "2.7GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM3"
+    }
+  },
+  {
+    "name": "AMD 速龙 X2 240",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 X2 240",
+    "opendb_id": "amd_x2_240",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙II",
+      "制作工艺": "45纳米",
+      "核心代号": "Regcor",
+      "CPU主频": "2.8GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2MB",
+      "热设计功耗(TDP)": "65W",
+      "插槽类型": "Socket AM3"
+    }
+  },
+  {
+    "name": "AMD 速龙 X2 3250e",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 X2 3250e",
+    "opendb_id": "amd_x2_3250e",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 II",
+      "CPU主频": "1.5GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "22W",
+      "插槽类型": "Socket AM2+"
+    }
+  },
+  {
+    "name": "AMD 速龙 X2 3800+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 X2 3800+",
+    "opendb_id": "amd_x2_3800",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64 X2",
+      "制作工艺": "90纳米",
+      "核心代号": "Manchester",
+      "CPU主频": "2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 速龙 X2 450",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 X2 450",
+    "opendb_id": "amd_x2_450",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 X2",
+      "制作工艺": "28纳米",
+      "核心代号": "Richland",
+      "CPU主频": "3.5GHz",
+      "加速频率": "3.9GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "65W",
+      "插槽类型": "Socket FM2+",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD 速龙 X2 4800+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 X2 4800+",
+    "opendb_id": "amd_x2_4800",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64 X2",
+      "制作工艺": "65纳米",
+      "核心代号": "Brisbane",
+      "CPU主频": "2.5GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "65W",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 速龙 X2 5000",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 X2 5000",
+    "opendb_id": "amd_x2_5000",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙",
+      "制作工艺": "45纳米",
+      "CPU主频": "2.2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "65W",
+      "集成显卡": "不支持",
+      "插槽类型": "Socket AM2+",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD 速龙 X2 5000+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 X2 5000+",
+    "opendb_id": "amd_x2_5000",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 II",
+      "制作工艺": "65纳米",
+      "核心代号": "Brisbane",
+      "CPU主频": "2.6GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "65W",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 速龙 X2 6500(黑盒)",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 X2 6500(黑盒)",
+    "opendb_id": "amd_x2_6500",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙双核",
+      "制作工艺": "65纳米",
+      "核心代号": "Kuma",
+      "CPU主频": "2.3GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM2+"
+    }
+  },
+  {
+    "name": "AMD 速龙 X2 6500+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 X2 6500+",
+    "opendb_id": "amd_x2_6500",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 II",
+      "CPU主频": "3.6GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×1MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM2+"
+    }
+  },
+  {
+    "name": "AMD 速龙 X2 7450",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 X2 7450",
+    "opendb_id": "amd_x2_7450",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙双核",
+      "制作工艺": "65纳米",
+      "核心代号": "Kuma",
+      "CPU主频": "2.4GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM2+"
+    }
+  },
+  {
+    "name": "AMD 速龙 X2 7850（黑盒）",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 X2 7850（黑盒）",
+    "opendb_id": "amd_x2_7850",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 X2",
+      "制作工艺": "65纳米",
+      "CPU主频": "2.8GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM2+"
+    }
+  },
+  {
+    "name": "AMD 速龙 x2 370K",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙 x2 370K",
+    "opendb_id": "amd_x2_370k",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 X2",
+      "制作工艺": "32纳米",
+      "核心代号": "Richland",
+      "CPU主频": "4GHz",
+      "加速频率": "4.2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "65W",
+      "集成显卡": "AMD Radeon",
+      "插槽类型": "Socket FM2/FM2+",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 3600+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 3600+",
+    "opendb_id": "amd_64_x2_3600",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 64 X2/速龙双核/Athlon64 X2",
+      "制作工艺": "90纳米",
+      "核心代号": "Manchester",
+      "CPU主频": "2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×256KB",
+      "热设计功耗(TDP)": "65W",
+      "插槽类型": "Socket AM2/Socket 939"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 3800+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 3800+",
+    "opendb_id": "amd_64_x2_3800",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64 X2",
+      "制作工艺": "90纳米",
+      "核心代号": "Windsor",
+      "CPU主频": "2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "65W/35W",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 4000+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 4000+",
+    "opendb_id": "amd_64_x2_4000",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64 X2",
+      "制作工艺": "65纳米/90纳米",
+      "核心代号": "Brisbane/Windsor",
+      "CPU主频": "2.1GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB/1MB",
+      "热设计功耗(TDP)": "65W",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 4050e",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 4050e",
+    "opendb_id": "amd_64_x2_4050e",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 64 X2/速龙双核",
+      "制作工艺": "65纳米",
+      "核心代号": "Brisbane",
+      "CPU主频": "2.1GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "45W",
+      "插槽类型": "Socket AM2+",
+      "内存描述": "最高支持双通道的DDR2 800"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 4200+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 4200+",
+    "opendb_id": "amd_64_x2_4200",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64 X2",
+      "制作工艺": "65纳米/90纳米",
+      "核心代号": "Manchester/Windsor",
+      "CPU主频": "2.2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "110W/89W",
+      "集成显卡": "不支持",
+      "插槽类型": "Socket AM2/Socket 939",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 4400+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 4400+",
+    "opendb_id": "amd_64_x2_4400",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AM2 Athlon64/速龙双核",
+      "制作工艺": "65纳米/90纳米",
+      "核心代号": "Brisbane/Windsor/Toledo",
+      "CPU主频": "2.3GHz/2.2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB/1MB",
+      "热设计功耗(TDP)": "65W/89W",
+      "插槽类型": "Socket AM2/Socket 939"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 4450e",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 4450e",
+    "opendb_id": "amd_64_x2_4450e",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 X2",
+      "制作工艺": "65纳米",
+      "核心代号": "Brisbane",
+      "CPU主频": "2.3GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2MB",
+      "热设计功耗(TDP)": "45W",
+      "插槽类型": "Socket AM2+",
+      "内存描述": "最高支持双通道的DDR2 800"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 4600+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 4600+",
+    "opendb_id": "amd_64_x2_4600",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙双核",
+      "制作工艺": "90纳米/65纳米",
+      "核心代号": "Brisbane/Windsor",
+      "CPU主频": "2.4GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "89W/65W",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 4600+(散/90nm)",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 4600+(散/90nm)",
+    "opendb_id": "amd_64_x2_4600_90nm",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙双核",
+      "制作工艺": "90纳米",
+      "核心代号": "Toledo",
+      "CPU主频": "2.4GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "110W",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 4600+(盒/90nm)",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 4600+(盒/90nm)",
+    "opendb_id": "amd_64_x2_4600_90nm",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "90纳米",
+      "核心代号": "Toledo",
+      "CPU主频": "2.4GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "110W",
+      "插槽类型": "Socket 939"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 4800+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 4800+",
+    "opendb_id": "amd_64_x2_4800",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AM2 Athlon64",
+      "制作工艺": "65纳米/90纳米",
+      "核心代号": "Brisbane/Windsor",
+      "CPU主频": "2.5GHz/2.4GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB/1MB",
+      "热设计功耗(TDP)": "65W",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 4850e",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 4850e",
+    "opendb_id": "amd_64_x2_4850e",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 X2",
+      "制作工艺": "65纳米",
+      "核心代号": "Brisbane",
+      "CPU主频": "2.5GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "45W",
+      "插槽类型": "Socket AM2+",
+      "内存描述": "最高支持双通道的DDR2 800"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 5000+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 5000+",
+    "opendb_id": "amd_64_x2_5000",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64 X2/速龙双核",
+      "制作工艺": "65纳米/90纳米",
+      "核心代号": "Brisbane/Windsor",
+      "CPU主频": "2.6GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "110W/89W",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 5000+（黑盒）",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 5000+（黑盒）",
+    "opendb_id": "amd_64_x2_5000",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 64 X2",
+      "制作工艺": "65纳米",
+      "核心代号": "Brisbane",
+      "CPU主频": "2.6GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "65W",
+      "集成显卡": "不支持",
+      "插槽类型": "Socket AM2",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是",
+      "内存描述": "双通道DDR2 800"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 5050e",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 5050e",
+    "opendb_id": "amd_64_x2_5050e",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 X2",
+      "制作工艺": "65纳米",
+      "核心代号": "Brisbane",
+      "CPU主频": "2.6GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "45W",
+      "插槽类型": "Socket AM2",
+      "内存描述": "最高支持双通道的DDR2 800"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 5200+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 5200+",
+    "opendb_id": "amd_64_x2_5200",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 64 X2",
+      "制作工艺": "65纳米",
+      "核心代号": "Brisbane",
+      "CPU主频": "2.7GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "65W",
+      "集成显卡": "不支持",
+      "插槽类型": "Socket AM2",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 5400+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 5400+",
+    "opendb_id": "amd_64_x2_5400",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙双核",
+      "制作工艺": "65纳米",
+      "核心代号": "Windsor",
+      "CPU主频": "2.8GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "89W/65W",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 5400+（黑盒）",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 5400+（黑盒）",
+    "opendb_id": "amd_64_x2_5400",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 64 X2",
+      "制作工艺": "65纳米",
+      "核心代号": "Brisbane",
+      "CPU主频": "2.8GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "65W",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 5600+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 5600+",
+    "opendb_id": "amd_64_x2_5600",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 X2",
+      "制作工艺": "90纳米/65纳米",
+      "核心代号": "Windsor",
+      "CPU主频": "2.9GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB/1MB",
+      "热设计功耗(TDP)": "89W",
+      "插槽类型": "Socket AM2",
+      "集成显卡": "不支持",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是",
+      "内存描述": "双通道DDR2 800"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 5800+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 5800+",
+    "opendb_id": "amd_64_x2_5800",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙",
+      "制作工艺": "65纳米",
+      "核心代号": "Brisbane",
+      "CPU主频": "3GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1024KB",
+      "热设计功耗(TDP)": "89W",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 6000+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 6000+",
+    "opendb_id": "amd_64_x2_6000",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 64 X2",
+      "制作工艺": "65纳米",
+      "核心代号": "Brisbane/Windsor",
+      "CPU主频": "3.1GHz/3GHz",
+      "核心数量": "双核心",
+      "二级缓存": "4×512KB",
+      "热设计功耗(TDP)": "125W",
+      "插槽类型": "Socket AM2",
+      "集成显卡": "不支持",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 6400+",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 6400+",
+    "opendb_id": "amd_64_x2_6400",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64 X2",
+      "制作工艺": "90纳米",
+      "核心代号": "Windsor",
+      "CPU主频": "3.2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "125W",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 6400+(黑盒)",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 6400+(黑盒)",
+    "opendb_id": "amd_64_x2_6400",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64 X2",
+      "制作工艺": "90纳米",
+      "核心代号": "Windsor",
+      "CPU主频": "3.2GHz",
+      "核心数量": "双核心",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "125W",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 7550",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 7550",
+    "opendb_id": "amd_64_x2_7550",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 X2",
+      "制作工艺": "65纳米",
+      "核心代号": "Kuma",
+      "CPU主频": "2.5GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "95W",
+      "插槽类型": "Socket AM2+",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 7750",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 7750",
+    "opendb_id": "amd_64_x2_7750",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙 X2",
+      "制作工艺": "65纳米",
+      "核心代号": "Kuma",
+      "CPU主频": "2.7GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "95W",
+      "集成显卡": "不支持",
+      "插槽类型": "Socket AM2+",
+      "睿频加速技术": "不支持",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 BE-2300",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 BE-2300",
+    "opendb_id": "amd_64_x2_be_2300",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64 X2",
+      "制作工艺": "65纳米",
+      "核心代号": "Brisbane",
+      "CPU主频": "1.9GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "45W",
+      "插槽类型": "Socket AM2",
+      "内存描述": "内置DDR2-800双通道内存控制器"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 BE-2350",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 BE-2350",
+    "opendb_id": "amd_64_x2_be_2350",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "65纳米",
+      "核心代号": "Brisbane",
+      "CPU主频": "2.1GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2×512KB",
+      "热设计功耗(TDP)": "45W",
+      "插槽类型": "Socket AM2",
+      "CPU系列": "Athlon64 X2"
+    }
+  },
+  {
+    "name": "AMD 速龙64 X2 BE-2400",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙64 X2 BE-2400",
+    "opendb_id": "amd_64_x2_be_2400",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "Athlon64 X2",
+      "制作工艺": "65纳米",
+      "核心代号": "Brisbane",
+      "CPU主频": "2.3GHz",
+      "核心数量": "双核心",
+      "热设计功耗(TDP)": "45W",
+      "插槽类型": "Socket AM2"
+    }
+  },
+  {
+    "name": "AMD 速龙FX5200",
+    "manufacturer": "AMD",
+    "series": "AMD 速龙FX5200",
+    "opendb_id": "amd_fx5200",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙",
+      "制作工艺": "45纳米",
+      "核心代号": "Deneb",
+      "CPU主频": "2.3GHz",
+      "二级缓存": "2×512KB",
+      "插槽类型": "Socket AM3"
+    }
+  }
+]

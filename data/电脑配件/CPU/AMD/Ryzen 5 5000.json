@@ -1,0 +1,291 @@
+[
+  {
+    "name": "AMD Ryzen 5 5600",
+    "manufacturer": "AMD",
+    "series": "Ryzen 5 5000",
+    "opendb_id": "amd_ryzen_5_5600",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen 5 5000",
+      "制作工艺": "7纳米",
+      "核心代号": "Zen 3",
+      "PCI Express版本": "PCIe 4.0",
+      "CPU主频": "3.5GHz",
+      "最高睿频": "4.4GHz",
+      "加速频率": "4.4GHz",
+      "核心数量": "六核心",
+      "线程数量": "十二线程",
+      "热设计功耗(TDP)": "65W",
+      "内存类型": "DDR4",
+      "最大内存通道数": "2",
+      "插槽类型": "Socket AM4"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5600G",
+    "manufacturer": "AMD",
+    "series": "Ryzen 5 5000",
+    "opendb_id": "amd_ryzen_5_5600g",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen 5 5000",
+      "制作工艺": "7纳米",
+      "PCI Express版本": "PCIe 3.0",
+      "CPU主频": "3.9GHz",
+      "加速频率": "4.4GHz",
+      "核心数量": "六核心",
+      "线程数量": "十二线程",
+      "热设计功耗(TDP)": "65W",
+      "内存类型": "DDR4 3200MHz",
+      "最大内存通道数": "2",
+      "插槽类型": "Socket AM4",
+      "集成显卡": "AMD Radeon Vega Graphics 7",
+      "显卡基本频率": "1900MHz"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5600X",
+    "manufacturer": "AMD",
+    "series": "Ryzen 5 5000",
+    "opendb_id": "amd_ryzen_5_5600x",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen 5 5000",
+      "制作工艺": "7纳米",
+      "PCI Express版本": "PCIe 4.0",
+      "CPU主频": "3.7GHz",
+      "加速频率": "4.6GHz",
+      "核心数量": "六核心",
+      "线程数量": "十二线程",
+      "热设计功耗(TDP)": "65W",
+      "内存类型": "DDR4 3200MHz",
+      "插槽类型": "Socket AM4"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5500",
+    "manufacturer": "AMD",
+    "series": "Ryzen 5 5000",
+    "opendb_id": "amd_ryzen_5_5500",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen 5 5000",
+      "制作工艺": "7纳米",
+      "核心代号": "Zen 3",
+      "PCI Express版本": "PCIe 3.0",
+      "CPU主频": "3.6GHz",
+      "最高睿频": "4.2GHz",
+      "加速频率": "4.2GHz",
+      "核心数量": "六核心",
+      "线程数量": "十二线程",
+      "热设计功耗(TDP)": "65WW",
+      "内存类型": "DDR4",
+      "最大内存通道数": "2",
+      "插槽类型": "Socket AM4"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5500X3D",
+    "manufacturer": "AMD",
+    "series": "Ryzen 5 5000",
+    "opendb_id": "amd_ryzen_5_5500x3d",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen 5 5000",
+      "制作工艺": "7纳米",
+      "核心代号": "Vermeer",
+      "PCI Express版本": "PCIe 4.0",
+      "CPU主频": "3GHz",
+      "最高睿频": "4GHz",
+      "核心数量": "六核心",
+      "线程数量": "十二线程",
+      "热设计功耗(TDP)": "105W",
+      "内存类型": "DDR4，最高可达 3200 MT/s",
+      "最大内存通道数": "2",
+      "插槽类型": "Socket AM4",
+      "集成显卡": "不支持"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 4500",
+    "manufacturer": "AMD",
+    "series": "Ryzen 5 5000",
+    "opendb_id": "amd_ryzen_5_4500",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen 5 4000",
+      "制作工艺": "7纳米",
+      "核心代号": "Zen 2",
+      "PCI Express版本": "PCIe 3.0",
+      "CPU主频": "3.6GHz",
+      "最高睿频": "4.1GHz",
+      "加速频率": "4.1GHz",
+      "核心数量": "六核心",
+      "线程数量": "十二线程",
+      "热设计功耗(TDP)": "65WW",
+      "内存类型": "DDR4 3200MHz",
+      "最大内存通道数": "2",
+      "插槽类型": "Socket AM4"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5600H",
+    "manufacturer": "AMD",
+    "series": "Ryzen 5 5000",
+    "opendb_id": "amd_ryzen_5_5600h",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "AMD Ryzen 5 5000",
+      "制作工艺": "7纳米",
+      "PCI Express版本": "PCIe 4.0",
+      "CPU主频": "3.3GHz",
+      "加速频率": "4.2GHz",
+      "核心数量": "六核心",
+      "线程数量": "十二线程",
+      "热设计功耗(TDP)": "45W",
+      "内存类型": "DDR4 3200MHz，LPDDR4 4266MHz",
+      "插槽类型": "Socket AM4",
+      "集成显卡": "AMD Radeon Graphics",
+      "显卡基本频率": "1800MHz"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5500U",
+    "manufacturer": "AMD",
+    "series": "Ryzen 5 5000",
+    "opendb_id": "amd_ryzen_5_5500u",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "AMD Ryzen 5 5000",
+      "制作工艺": "7纳米",
+      "PCI Express版本": "PCIe 3.0",
+      "CPU主频": "2.1GHz",
+      "加速频率": "4GHz",
+      "核心数量": "六核心",
+      "线程数量": "十二线程",
+      "热设计功耗(TDP)": "15WW",
+      "内存类型": "DDR4",
+      "最大内存通道数": "2",
+      "插槽类型": "Socket AM4",
+      "集成显卡": "Radeon Vega 7"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5600X3D",
+    "manufacturer": "AMD",
+    "series": "Ryzen 5 5000",
+    "opendb_id": "amd_ryzen_5_5600x3d",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen 5 5000",
+      "制作工艺": "7纳米",
+      "PCI Express版本": "PCIe 4.0",
+      "核心数量": "六核心",
+      "线程数量": "十二线程",
+      "热设计功耗(TDP)": "105W",
+      "插槽类型": "Socket AM4"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5600U",
+    "manufacturer": "AMD",
+    "series": "Ryzen 5 5000",
+    "opendb_id": "amd_ryzen_5_5600u",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "AMD Ryzen 5 5000",
+      "制作工艺": "7纳米",
+      "PCI Express版本": "PCIe 3.0",
+      "CPU主频": "2.3GHz",
+      "加速频率": "4.2GHz",
+      "核心数量": "六核心",
+      "线程数量": "十二线程",
+      "热设计功耗(TDP)": "15W",
+      "内存类型": "DDR4",
+      "最大内存通道数": "2",
+      "集成显卡": "Radeon Vega 7"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5625U",
+    "manufacturer": "AMD",
+    "series": "Ryzen 5 5000",
+    "opendb_id": "amd_ryzen_5_5625u",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "AMD Ryzen 5 5000",
+      "制作工艺": "7纳米",
+      "核心代号": "Zen 3",
+      "PCI Express版本": "PCIe 3.0",
+      "CPU主频": "2.3GHz",
+      "加速频率": "4.3GHz",
+      "核心数量": "六核心",
+      "线程数量": "十二线程",
+      "热设计功耗(TDP)": "15W",
+      "内存类型": "DDR4",
+      "最大内存通道数": "2",
+      "插槽类型": "Socket FP6",
+      "集成显卡": "AMD Radeon Graphic"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5560U",
+    "manufacturer": "AMD",
+    "series": "Ryzen 5 5000",
+    "opendb_id": "amd_ryzen_5_5560u",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "AMD Ryzen 5 5000",
+      "制作工艺": "7纳米",
+      "核心代号": "Zen 3",
+      "CPU主频": "2.3GHz",
+      "加速频率": "4GHz",
+      "核心数量": "六核心",
+      "线程数量": "十二线程",
+      "热设计功耗(TDP)": "15W",
+      "内存类型": "DDR4 3200MHz",
+      "最大内存通道数": "2",
+      "插槽类型": "Socket FP6",
+      "集成显卡": "Radeon RX Vega 6"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5600GE",
+    "manufacturer": "AMD",
+    "series": "Ryzen 5 5000",
+    "opendb_id": "amd_ryzen_5_5600ge",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "AMD Ryzen 5 5000",
+      "制作工艺": "7纳米",
+      "PCI Express版本": "PCIe 3.0",
+      "CPU主频": "3.4GHz",
+      "加速频率": "4.4GHz",
+      "核心数量": "六核心",
+      "线程数量": "十二线程",
+      "热设计功耗(TDP)": "35W",
+      "内存类型": "DDR4 3200MHz",
+      "最大内存通道数": "2",
+      "插槽类型": "Socket AM4",
+      "集成显卡": "AMD Radeon R5",
+      "显卡基本频率": "1900MHz"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5600HS",
+    "manufacturer": "AMD",
+    "series": "Ryzen 5 5000",
+    "opendb_id": "amd_ryzen_5_5600hs",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "AMD Ryzen 5 5000",
+      "制作工艺": "7纳米",
+      "PCI Express版本": "PCIe 3.0",
+      "CPU主频": "3GHz",
+      "加速频率": "4.2GHz",
+      "核心数量": "六核心",
+      "线程数量": "十二线程",
+      "热设计功耗(TDP)": "35W"
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "高通骁龙 X Elite X1E-00-1DE",
+    "manufacturer": "高通",
+    "series": "骁龙 X Elite",
+    "opendb_id": "_____x_elite_x1e_00_1de",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "高通 骁龙 X Elite系列",
+      "制作工艺": "4纳米",
+      "CPU主频": "3.8GHz",
+      "最高睿频": "4.3GHz",
+      "核心数量": "12核心",
+      "三级缓存": "42MB",
+      "内存类型": "LPDDR5X 8448MHz"
+    }
+  },
+  {
+    "name": "高通骁龙 X Elite X1E-80-100",
+    "manufacturer": "高通",
+    "series": "骁龙 X Elite",
+    "opendb_id": "_____x_elite_x1e_80_100",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "高通 骁龙 X Elite系列",
+      "制作工艺": "4纳米",
+      "CPU主频": "3.4GHz",
+      "最高睿频": "4GHz",
+      "核心数量": "12核心",
+      "三级缓存": "42MB",
+      "内存类型": "LPDDR5X 8448MHz"
+    }
+  },
+  {
+    "name": "高通骁龙 X Elite X1E-78-100",
+    "manufacturer": "高通",
+    "series": "骁龙 X Elite",
+    "opendb_id": "_____x_elite_x1e_78_100",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "高通 骁龙 X Elite系列",
+      "制作工艺": "4纳米",
+      "CPU主频": "3.4GHz",
+      "核心数量": "12核心",
+      "三级缓存": "42MB",
+      "内存类型": "LPDDR5X 8448MHz"
+    }
+  },
+  {
+    "name": "高通骁龙 X Elite X1E-84-100",
+    "manufacturer": "高通",
+    "series": "骁龙 X Elite",
+    "opendb_id": "_____x_elite_x1e_84_100",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "高通 骁龙 X Elite系列",
+      "制作工艺": "4纳米",
+      "CPU主频": "3.8GHz",
+      "最高睿频": "4.3GHz",
+      "核心数量": "12核心",
+      "三级缓存": "42MB",
+      "内存类型": "LPDDR5X 8448MHz"
+    }
+  }
+]

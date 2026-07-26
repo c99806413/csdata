@@ -1,0 +1,108 @@
+[
+  {
+    "name": "AMD Neo 炫龙II X2 K645",
+    "manufacturer": "AMD",
+    "series": "Neo 炫龙II X2移动版",
+    "opendb_id": "amd_neo___ii_x2_k645",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "AMD 新炫龙II X2（移动版）",
+      "制作工艺": "45纳米",
+      "CPU主频": "1.6GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2MB",
+      "热设计功耗(TDP)": "15W",
+      "集成显卡": "不支持",
+      "睿频加速技术": "不支持",
+      "虚拟化技术": "AMD VT",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD Neo 炫龙II X2 K625",
+    "manufacturer": "AMD",
+    "series": "Neo 炫龙II X2移动版",
+    "opendb_id": "amd_neo___ii_x2_k625",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "AMD 新炫龙II X2（移动版）",
+      "制作工艺": "45纳米",
+      "CPU主频": "1.5GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2MB",
+      "热设计功耗(TDP)": "15W",
+      "集成显卡": "不支持",
+      "睿频加速技术": "不支持",
+      "虚拟化技术": "AMD VT",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD 炫龙II X2 N550",
+    "manufacturer": "AMD",
+    "series": "Neo 炫龙II X2移动版",
+    "opendb_id": "amd___ii_x2_n550",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "炫龙II X2（移动版）",
+      "CPU主频": "2.6GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2MB",
+      "热设计功耗(TDP)": "35W",
+      "睿频加速技术": "不支持"
+    }
+  },
+  {
+    "name": "AMD 炫龙II X2 N540",
+    "manufacturer": "AMD",
+    "series": "Neo 炫龙II X2移动版",
+    "opendb_id": "amd___ii_x2_n540",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "炫龙II X2（移动版）",
+      "CPU主频": "2.4GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2MB",
+      "热设计功耗(TDP)": "35W",
+      "睿频加速技术": "不支持"
+    }
+  },
+  {
+    "name": "AMD Neo 炫龙II X2 K665",
+    "manufacturer": "AMD",
+    "series": "Neo 炫龙II X2移动版",
+    "opendb_id": "amd_neo___ii_x2_k665",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "AMD 新炫龙II X2（移动版）",
+      "制作工艺": "45纳米",
+      "CPU主频": "1.7GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2MB",
+      "热设计功耗(TDP)": "15W",
+      "集成显卡": "不支持",
+      "睿频加速技术": "不支持",
+      "虚拟化技术": "AMD VT",
+      "64位处理器": "是"
+    }
+  },
+  {
+    "name": "AMD Neo 炫龙II X2 K685",
+    "manufacturer": "AMD",
+    "series": "Neo 炫龙II X2移动版",
+    "opendb_id": "amd_neo___ii_x2_k685",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "AMD 新炫龙II X2（移动版）",
+      "制作工艺": "45纳米",
+      "CPU主频": "1.8GHz",
+      "核心数量": "双核心",
+      "二级缓存": "2MB",
+      "热设计功耗(TDP)": "15W",
+      "集成显卡": "不支持",
+      "睿频加速技术": "不支持",
+      "虚拟化技术": "AMD VT",
+      "64位处理器": "是"
+    }
+  }
+]

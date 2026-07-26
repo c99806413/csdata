@@ -1,0 +1,244 @@
+[
+  {
+    "name": "AMD 羿龙II X640 BE",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x640_be",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II",
+      "制作工艺": "45纳米",
+      "核心代号": "Champlain",
+      "CPU主频": "3.2GHz",
+      "二级缓存": "2×1MB",
+      "总线规格": "1800MHz",
+      "内存类型": "DDR3 1333MHz",
+      "睿频加速技术": "不支持"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X4 N970",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x4_n970",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II X4",
+      "CPU主频": "2.2GHz",
+      "二级缓存": "2MB",
+      "总线规格": "3.6GT/s",
+      "睿频加速技术": "不支持"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X4 N950",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x4_n950",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II X4",
+      "CPU主频": "2.1GHz",
+      "二级缓存": "2MB",
+      "总线规格": "3.6GT/s",
+      "睿频加速技术": "不支持"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X2 N660",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x2_n660",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II X2",
+      "CPU主频": "3GHz",
+      "二级缓存": "2MB",
+      "总线规格": "3.6GT/s",
+      "睿频加速技术": "不支持"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X3 N830",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x3_n830",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II",
+      "CPU主频": "2.1GHz",
+      "二级缓存": "1.5M"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X4 N930",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x4_n930",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II X4",
+      "CPU主频": "2GHz",
+      "二级缓存": "2MB"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X2 X620",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x2_x620",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II X2",
+      "CPU主频": "3.1GHz",
+      "二级缓存": "2MB"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X4 X920",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x4_x920",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II X4",
+      "CPU主频": "2.3GHz",
+      "二级缓存": "2MB"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X3 N870",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x3_n870",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II",
+      "CPU主频": "2.3GHz",
+      "二级缓存": "1.5MB",
+      "总线规格": "3.6GT/s",
+      "睿频加速技术": "不支持"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X3 P820",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x3_p820",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II",
+      "CPU主频": "1.8GHz",
+      "二级缓存": "1.5M"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X3 N850",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x3_n850",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II",
+      "制作工艺": "45纳米",
+      "CPU主频": "2.2GHz",
+      "二级缓存": "512KB",
+      "睿频加速技术": "不支持",
+      "集成显卡": "不支持"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X2 N620",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x2_n620",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II X2",
+      "CPU主频": "2.8GHz",
+      "二级缓存": "2MB"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X4 P920",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x4_p920",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II X4",
+      "CPU主频": "1.6GHz",
+      "二级缓存": "2M"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X4 N960",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x4_n960",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II X4",
+      "CPU主频": "1.8GHz",
+      "二级缓存": "2MB",
+      "总线规格": "3.6GT/s",
+      "睿频加速技术": "不支持"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X3 N840",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x3_n840",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II",
+      "CPU主频": "1.9GHz",
+      "二级缓存": "1.5MB",
+      "总线规格": "3.6GT/s",
+      "睿频加速技术": "不支持"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X3 N860",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x3_n860",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II",
+      "CPU主频": "2GHz",
+      "二级缓存": "1.5MB",
+      "总线规格": "3.6GT/s",
+      "睿频加速技术": "不支持"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X4 N940",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x4_n940",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II X4",
+      "CPU主频": "1.7GHz",
+      "二级缓存": "2MB",
+      "总线规格": "3.6GT/s",
+      "睿频加速技术": "不支持"
+    }
+  },
+  {
+    "name": "AMD 羿龙II X2 N650",
+    "manufacturer": "AMD",
+    "series": "羿龙II移动版系列",
+    "opendb_id": "amd___ii_x2_n650",
+    "metadata": {
+      "适用类型": "笔记本",
+      "CPU系列": "羿龙II X2",
+      "CPU主频": "2.6GHz",
+      "二级缓存": "2MB",
+      "总线规格": "3.6GT/s",
+      "睿频加速技术": "不支持"
+    }
+  }
+]

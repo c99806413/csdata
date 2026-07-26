@@ -1,0 +1,38 @@
+[
+  {
+    "name": "AMD 速龙 II 170u",
+    "manufacturer": "AMD",
+    "series": "速龙 II u系列",
+    "opendb_id": "amd____ii_170u",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙II",
+      "制作工艺": "45纳米",
+      "CPU主频": "2GHz",
+      "一级缓存": "2×64KB",
+      "二级缓存": "1MB",
+      "三级缓存": "3MB",
+      "热设计功耗(TDP)": "20W",
+      "插槽类型": "Socket AM3"
+    }
+  },
+  {
+    "name": "AMD 速龙II 160u",
+    "manufacturer": "AMD",
+    "series": "速龙 II u系列",
+    "opendb_id": "amd___ii_160u",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "速龙II",
+      "制作工艺": "45纳米",
+      "CPU主频": "1.8GHz",
+      "二级缓存": "1MB",
+      "热设计功耗(TDP)": "20W",
+      "插槽类型": "Socket AM3",
+      "集成显卡": "不支持",
+      "睿频加速技术": "不支持",
+      "虚拟化技术": "AMD VT",
+      "64位处理器": "是"
+    }
+  }
+]
