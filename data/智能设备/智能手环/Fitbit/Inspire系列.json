@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fitbit Inspire HR",
+    "manufacturer": "Fitbit",
+    "series": "Inspire系列",
+    "opendb_id": "fitbit_inspire_hr",
+    "metadata": {
+      "产品类型": "智能手环",
+      "心率监测": "支持",
+      "其他功能": "追踪使用者活动，GPS/追踪使用者活动"
+    }
+  }
+]
