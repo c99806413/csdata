@@ -1,0 +1,97 @@
+[
+  {
+    "name": "惠普Compaq Tablet PC TC1100(EA491PA#AB2)",
+    "manufacturer": "惠普",
+    "series": "惠普Compaq 平板电脑TC1100",
+    "opendb_id": "compaq_tc1100_a491pa",
+    "metadata": {
+      "产品类型": "商用",
+      "操作系统": "Windows XP Tablet PC",
+      "CPU型号": "奔腾-M(Dothan-400)",
+      "CPU主频": "1.2GHz",
+      "内存容量": "512MB",
+      "内存类型": "DDR",
+      "硬盘容量": "60GB",
+      "硬盘描述": "5400转",
+      "屏幕尺寸": "10.4英寸",
+      "特色功能": "蓝牙"
+    }
+  },
+  {
+    "name": "惠普Compaq 平板电脑TC1100 (奔腾-M(Dothan-400))",
+    "manufacturer": "惠普",
+    "series": "惠普Compaq 平板电脑TC1100",
+    "opendb_id": "compaq_tc1100_m",
+    "metadata": {
+      "产品类型": "商用",
+      "操作系统": "Windows XP Tablet PC Edition/Microsoft® Windows® XP Tablet PC Edition SP2",
+      "CPU型号": "奔腾-M(Dothan-400)",
+      "CPU主频": "1000MHz/1.1GHz",
+      "内存容量": "256MB/512MB",
+      "内存类型": "DDR",
+      "最大内存容量": "266MHz；最大2GB DDR/512MB（2 × 256MB）DDR SDRAM（333MHz）",
+      "硬盘容量": "40GB/60GB",
+      "硬盘描述": "4200 rpm/5400 rpm",
+      "屏幕尺寸": "10.4英寸",
+      "显卡芯片": "NVIDIA GeForce4Go 420 32MB/NVIDIA GeForce 4 Go 420（32MB）（4X APG）",
+      "音频系统": "整合式 16-bit, 可兼容 Sound Blaster/双扬声器和16位立体声音效",
+      "有线网卡": "10Mbps网卡/100Mbps网卡，蓝牙/100Mbps网卡，集成蓝牙",
+      "其它接口": "(1) Type III PC Card 插槽，1 VGA，1 立体耳机，1 单耳机，1 AC电源，1 RJ45，1 RJ11，2 USB2.0/（1）Type II PC卡插槽，（1）SD插槽，（1）Analog VGA端口，（1）立体声耳机（3.5毫米立体声耳机插孔），（1）单耳机/麦克风（2.5毫米耳机插孔），（1）麦克风输入（3.5毫米麦克风插孔），（1）AC电源接头，（1）RJ11端口，（1）RJ45端口，（2）USB2.0端口（其中1个支持多功",
+      "电池类型": "6-cell 鋰電/6节锂离子电池",
+      "笔记本重量": "1.8Kg",
+      "特色功能": "支持手写笔的设定密码，开机密码，BIOS WLAN锁，2个HP安全锁/安全特性 设置密码（带数字笔支持）、开机密码（带数字笔支持）、驱动器锁定（DriveLock）、支持PC卡选件、BIOS WLAN锁定、2个HP安全锁",
+      "指取设备": "带定位棒的可拆卸键盘、带笔链的免电池数字笔",
+      "键盘描述": "101键（全尺寸的95%）兼容键盘，带有独立的倒置T型光标控制键和右控制键"
+    }
+  },
+  {
+    "name": "惠普Compaq 平板电脑TC1100(DU685P)",
+    "manufacturer": "惠普",
+    "series": "惠普Compaq 平板电脑TC1100",
+    "opendb_id": "compaq_tc1100_intel_m",
+    "metadata": {
+      "产品类型": "商用",
+      "操作系统": "Windows XP Tablet PC Edition",
+      "CPU型号": "Intel 奔腾-M",
+      "CPU主频": "1000MHz",
+      "内存容量": "256MB",
+      "内存类型": "DDR",
+      "最大内存容量": "266MHz；最大2GB DDR",
+      "硬盘容量": "40GB",
+      "硬盘描述": "4200 rpm",
+      "屏幕尺寸": "10.4英寸",
+      "显卡芯片": "NVIDIA GeForce4Go 420 32MB",
+      "音频系统": "整合式 16-bit, 可兼容 Sound Blaster",
+      "有线网卡": "10/100 NIC",
+      "其它接口": "1 VGA，1 立体耳机，1 单耳机，1 AC电源，1 RJ45，1 RJ11，2 USB2.0，1红外",
+      "电池类型": "6-cell 鋰電",
+      "笔记本重量": "1.8Kg",
+      "特色功能": "支持手写笔的设定密码，开机密码，BIOS WLAN锁，2个HP安全锁"
+    }
+  },
+  {
+    "name": "惠普Compaq 平板电脑TC1100(DV467P)",
+    "manufacturer": "惠普",
+    "series": "惠普Compaq 平板电脑TC1100",
+    "opendb_id": "compaq_tc1100_intel_m",
+    "metadata": {
+      "产品类型": "商用",
+      "操作系统": "Windows XP Tablet PC Edition",
+      "CPU型号": "Intel 赛扬-M",
+      "CPU主频": "800MHz",
+      "内存容量": "256MB",
+      "内存类型": "DDR",
+      "最大内存容量": "266MHz；最大2GB DDR",
+      "硬盘容量": "40GB",
+      "硬盘描述": "4200 rpm",
+      "屏幕尺寸": "10.4英寸",
+      "显卡芯片": "NVIDIA GeForce4Go 420 32MB",
+      "音频系统": "整合式 16-bit, 可兼容 Sound Blaster",
+      "有线网卡": "10/100 NIC；无线LAN(HP W500 802.11a/b/g)，蓝牙",
+      "其它接口": "1 VGA，1 立体耳机，1 单耳机，1 AC电源，1 RJ45，1 RJ11，2 USB2.0，1红外",
+      "电池类型": "6-cell 鋰電",
+      "笔记本重量": "1.8Kg",
+      "特色功能": "支持手写笔的设定密码，开机密码，BIOS WLAN锁，2个HP安全锁"
+    }
+  }
+]
