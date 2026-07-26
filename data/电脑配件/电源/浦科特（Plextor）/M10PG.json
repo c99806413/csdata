@@ -1,0 +1,31 @@
+[
+  {
+    "name": "M10PG",
+    "manufacturer": "浦科特",
+    "series": "M10PG",
+    "opendb_id": "m10pg",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "512GB/2TB/1TB",
+      "接口类型": "M.2 PCIe接口",
+      "闪存架构": "TLC三层单元",
+      "缓存": "512MB/2048MB/1024MB",
+      "主控芯片": "InnoGrit Rainier",
+      "通道": "Gen4×4",
+      "读取速度": "7000MB/s",
+      "写入速度": "4000MB/s/5000MB/s",
+      "4K随机读": "650000 IOPS",
+      "4K随机写": "530000 IOPS/550000 IOPS",
+      "电源功耗": "工作电压：3.3V，2.9A/工作电压：3.3V，2.2A",
+      "平均无故障时间": "250万小时",
+      "系统要求": "Windows 8.1/10，Linux OS",
+      "散热马甲": "有",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "外形尺寸": "80.0×24.0×20.5mm",
+      "产品重量": "50g",
+      "工作温度": "0-70℃",
+      "其它性能": "耐用性（TBW）：320安规认证：UL，TUV，FCC，CE，BSMI，VCCI，RCM，KCC，EAC，ROHS固件更新：支持/耐用性（TBW）：1280安规认证：UL，TUV，FCC，CE，BSMI，VCCI，RCM，KCC，EAC，ROHS固件更新：支持/耐用性（TBW）：640安规认证：UL，TUV，FCC，CE，BSMI，VCCI，RCM，KCC，EAC，ROHS固件更新：支持"
+    }
+  }
+]

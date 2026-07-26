@@ -1,0 +1,28 @@
+[
+  {
+    "name": "M9PeGN系列",
+    "manufacturer": "浦科特",
+    "series": "M9PeGN系列",
+    "opendb_id": "m9pegn",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "256GB/512GB/128GB/1TB",
+      "接口类型": "M.2 PCIe接口",
+      "闪存架构": "TLC三层单元",
+      "读取速度": "3000MB/s",
+      "写入速度": "1000MB/s/2000MB/s/2100MB/s",
+      "IOPS读取": "180000 IOPS/340000 IOPS/400000 IOPS",
+      "IOPS写入": "160000 IOPS/280000 IOPS/300000 IOPS",
+      "电源功耗": "DC 3.3V，2.5A（最大）",
+      "平均无故障时间": "150万小时",
+      "系统要求": "Microsoft Windows 8.1/10Linux OS",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "外形尺寸": "80×22×2.3mm",
+      "产品重量": "10g",
+      "工作温度": "0-70℃",
+      "其它性能": "耐用性（TBW）：160界面：M.2 PCIe Gen 3x4 with NVM Express规格样式：M.2 2280电源端口：M.2 DC 3.3V输入接头/耐用性（TBW）：320界面：M.2 PCIe Gen 3x4 with NVM Express规格样式：M.2 2280电源端口：M.2 DC 3.3V输入接头/耐用性（TBW）：640界面：M.2 PCIe Gen 3x4 with NVM Express规格样式：M.2 2280电源端口：M.2 DC 3.3V输入接头",
+      "其它特点": "认证：UL，TUV，FCC，CE，BSMI，VCCI，RCM，KCC，EAC，ROHS，WHQL"
+    }
+  }
+]

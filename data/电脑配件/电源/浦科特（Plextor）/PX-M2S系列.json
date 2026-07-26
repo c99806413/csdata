@@ -1,0 +1,24 @@
+[
+  {
+    "name": "PX-M2S系列",
+    "manufacturer": "浦科特",
+    "series": "PX-M2S系列",
+    "opendb_id": "px_m2s",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "128GB/256GB/64GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC多层单元",
+      "缓存": "128MB",
+      "主控芯片": "Marvel 88SS9174",
+      "读取速度": "420MB/s/480MB/s/370MB/s",
+      "写入速度": "210MB/s/330MB/s/110MB/s",
+      "IOPS读取": "18000 IOPS",
+      "IOPS写入": "12000 IOPS",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "其它性能": "DRAM：128MB DDR3Power ECC：48bit per 2KBWear Leveling：动态磨损平密码保护NCQ CommandTRIM Command"
+    }
+  }
+]
