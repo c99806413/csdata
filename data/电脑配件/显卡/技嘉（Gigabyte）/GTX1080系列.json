@@ -1,0 +1,33 @@
+[
+  {
+    "name": "GTX1080系列 (8GB)",
+    "manufacturer": "技嘉",
+    "series": "GTX1080系列",
+    "opendb_id": "gtx1080_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1080",
+      "显示芯片系列": "NVIDIA GTX 10系列",
+      "制作工艺": "16纳米",
+      "核心代号": "GP104-400",
+      "核心频率": "1695/1835MHz/1759/1936MHz/1632/1797MHz/1607/1771MHz/1607/1733MHz/1759/1898MHz/1708/1873MHz",
+      "CUDA核心": "2560个",
+      "显存频率": "10010MHz/10400MHz/10000MHz/10416MHz/10206/10400MHz/11010MHz",
+      "显存类型": "GDDR5X",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320/7680×4320@60Hz",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口/2×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin/8pin+8pin/6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "三风扇散热+热管散热/水冷+风扇散热+热管散热/三风扇散热+三热管散热/三风扇散热/涡轮风扇/散热风扇/水冷散热/三风扇散热+五热管散热",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "280×114×41mm/264×124×41mm/287×140×57mm/280×120×40mm/169×131×37mm/280×118×41mm/56×289×138mm/293×142×55mm/266×121×25mm",
+      "建议电源": "500W以上",
+      "其它特点": "VR Ready级别显卡，G-SYNC技术，支持最多4屏输出，1680万色RGB炫彩LED灯，热管直触风扇散热技术/支持最多4屏输出/一键超频，热管直触风扇散热技术，VR Ready级别显卡，支持最多4屏输出，供电LED指示灯，全新设计的Xtreme Engine软件/支持NVIDIA SLI技术，VR Ready级别显卡，支持最多4屏输出，G-SYNC技术，LED指示灯，一键超频，Xtreme Engine软件/VR Ready级别显卡，支持最多4屏输出/热管直触风扇散热技术，支持最多4屏输出/支持最多4屏输出，支持NVIDIA SLI技术，VRWorks技术，GameWorks技术，G-SYNC技术，1680万RGB灯效/VR Ready级别显卡，支持最多4屏输出，G-SYNC技术，LED指示灯，一键超频，Xtreme Engine软件/GPU Gauntlet核心特挑技术，支持高达8K 60Hz显示，Xtreme VR Link技术，1680万色RGB炫彩LED灯，Xtreme Engine超频软件，支持最多4屏输出/支持最多4屏输出，1680万色可客制化全彩RGB灯光，Xtreme VR Link技术，Xtreme Engine超频软件/支持NVIDIA GameWorks技术，支持最多4屏输出，1680万色可客制化全彩RGB灯光/支持最多4屏输出，1680万色RGB炫彩LED灯，Xtreme VR Link技术，Xtreme SLI bridge技术，Xtreme Engine超频软件",
+      "上市日期": "2016年06月/2016年10月/2016年05月/2016年9月/2016年07月/2017年05月"
+    }
+  }
+]

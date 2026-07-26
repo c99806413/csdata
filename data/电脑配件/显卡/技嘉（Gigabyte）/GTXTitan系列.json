@@ -1,0 +1,61 @@
+[
+  {
+    "name": "GTXTitan系列 (6GB)",
+    "manufacturer": "技嘉",
+    "series": "GTXTitan系列",
+    "opendb_id": "gtxtitan_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX Titan",
+      "显示芯片系列": "NVIDIA GTX Titan系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK110",
+      "核心频率": "837/876MHz/928/980MHz",
+      "CUDA核心": "2688个",
+      "显存频率": "6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "6GB",
+      "显存位宽": "384bitbit/384bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇/散热风扇+热管散热",
+      "3D API": "DirectX 11.1",
+      "支持HDCP": "是",
+      "产品尺寸": "280×127×42mmmm",
+      "建议电源": "600W以上",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  },
+  {
+    "name": "GTXTitan系列 (12GB)",
+    "manufacturer": "技嘉",
+    "series": "GTXTitan系列",
+    "opendb_id": "gtxtitan_12gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX Titan Z",
+      "制作工艺": "28纳米",
+      "核心代号": "双GK110",
+      "核心频率": "706/876MHz",
+      "CUDA核心": "5760个",
+      "显存频率": "7000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "12GB",
+      "显存位宽": "384bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "8pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "轴承散热风扇",
+      "3D API": "DirectX 11.1，OpenGL 4.4",
+      "支持HDCP": "是",
+      "产品尺寸": "281×132×64mm",
+      "建议电源": "700W",
+      "其它特点": "支持NVIDIA SLI技术，支持最多4屏幕输出，OC GURU II超频软件"
+    }
+  }
+]

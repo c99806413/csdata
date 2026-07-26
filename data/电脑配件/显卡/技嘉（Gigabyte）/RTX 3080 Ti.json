@@ -1,0 +1,33 @@
+[
+  {
+    "name": "RTX 3080 Ti (12GB)",
+    "manufacturer": "技嘉",
+    "series": "RTX 3080 Ti",
+    "opendb_id": "rtx_3080_ti_12gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 3080 Ti",
+      "显示芯片系列": "NVIDIA RTX 30系列",
+      "制作工艺": "8纳米",
+      "核心代号": "GA102",
+      "核心频率": "1710MHz/1830MHz/1770MHz/1665MHz/1665-1680MHz",
+      "CUDA核心": "10240个",
+      "显存频率": "19000MHz/1‎9000MHz",
+      "显存类型": "GDDR6X",
+      "显存容量": "12GB",
+      "显存位宽": "384bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "2×HDMI2.1接口，3×DisplayPort1.4a接口/3×HDMI2.1接口，3×DisplayPort1.4a接口/3×HDMI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin/8pin+8pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热/水冷散热",
+      "3D API": "DirectX 12，OpenGL 4.6",
+      "支持HDCP": "是",
+      "产品尺寸": "320×129×55mm/320×126×55mm/319×140×70mm/252×135×40mm",
+      "建议电源": "750W以上/700W以上/750W",
+      "其它特点": "支持最多4屏输出/NVIDIA AMPERE架构第二代 RT Core第三代 Tensor Core零死角散热LCD显示屏RGB Fusion 2.06个显示输出接口金属造型强化背板/NVIDIA AMPERE架构第二代 RT Core第三代 Tensor Core水之力一体式水冷散热系统240mm铝制冷排与12公分ARGB风扇6个显示输出接口金属造型背板设计",
+      "其他参数": "显存带宽：912GB/s/显存带宽：7‎60GB/s"
+    }
+  }
+]
