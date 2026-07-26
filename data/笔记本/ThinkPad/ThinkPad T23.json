@@ -1,0 +1,77 @@
+[
+  {
+    "name": "IBM ThinkPad T 2647-3EC (Intel PIII)",
+    "manufacturer": "ThinkPad",
+    "series": "IBM ThinkPad T 2647-3EC",
+    "opendb_id": "ibm_thinkpad_t_2647_3ec_intel_piii",
+    "metadata": {
+      "CPU型号": "Intel PIII",
+      "CPU主频": "800MHz/850MHz/900MHz/1.13GHz/1.2GHz/750MHz/866MHz/1000MHz",
+      "总线规格": "二级高速缓存：256KB/采用Intel技术的850MHz Mobile Pentium III处理器，256KB二级缓存/采用Intel技术的800MHz Mobile Pentium III处理器，256KB二级缓存/采用Intel技术的750MHz Mobile Pentium III处理器，256KB二级缓存/Pentium III 866MHz，二级缓存（运行于处理器速度） 512KB 512KB/Pentium III 1.13GHz，二级缓存（运行于处理器速度） 512KB",
+      "内存容量": "128.000",
+      "最大内存容量": "最大512MB SDRAM/最大512MB",
+      "硬盘容量": "10GB/32.000/20GB/30.000/48.000/15.000",
+      "显卡芯片": "Savage IX8＋控制芯片/Savage IX8控制芯片",
+      "显存类型": "8/16",
+      "音频系统": "声卡",
+      "有线网卡": "IBM 10/100 以太网 Mini PCI卡/有/10/100 以太网 Mini PCI卡",
+      "其它接口": "RJ45，RJ11，串口，并口，键盘/鼠标，外接显示器，USB，视频输出S端口，耳机端口，音频输入和麦克风端口，红外端口，UltraPort端口，端口复制器/扩展坞的支持/RJ45、RJ11、串口、并口、键盘/鼠标、外接显示器、USB、S-视频输出、音频I/O、红外端口、UltraPort接口/RJ45，RJ11，串口，并口，键盘/鼠标，外置显示器，USB，音频输入/输出，红外线/RJ45，RJ11，串口，并口，键盘/鼠标，外置显示器，USB，视频输出S端口，耳机端口，音频输入和麦克风端口，红外端口，UltraPort端口/RJ45，RJ11，串口，并口，键盘/鼠标，外接显示器，USB，视频输出S端口，耳机端口，音频输入和麦克风端口，红外端口，UltraPort端口",
+      "指取设备": "TrackPoint定点设备具有“按压选择”特性和Internet浏览滚动条/具有“按压选择”Internet滚动条的TrackPoint指点设备/具有“按选”功能的TrackPoint 指点设备，以及Internet滚动条",
+      "键盘描述": "带有掌托的人体工程学键盘/具有掌托的人体工学键盘",
+      "电池类型": "6单元组型锂电池/6组锂离子电池/锂离子6-cell",
+      "续航时间": "3.5/3.2/3.7/3",
+      "电源适配器": "支持ACPI电源管理",
+      "笔记本重量": "2.2Kg/2.1Kg/2.4Kg/2.3Kg",
+      "特色功能": "有限保修 三年(电池一年)/有限保修(电池一年) 3年/保修：三年有限保修服务(电池一年)"
+    }
+  },
+  {
+    "name": "IBM ThinkPad T 2647-3EC (Intel PIII-M)",
+    "manufacturer": "ThinkPad",
+    "series": "IBM ThinkPad T 2647-3EC",
+    "opendb_id": "ibm_thinkpad_t_2647_3ec_intel_piii_m",
+    "metadata": {
+      "CPU型号": "Intel PIII-M",
+      "CPU主频": "1.13GHz/1000MHz",
+      "总线规格": "采用Intel SpeedStep技术的Mobile Intel Pentium III-M处理器，二级高速缓存 512KB",
+      "内存容量": "128.000",
+      "最大内存容量": "最大512MB SDRAM",
+      "硬盘容量": "30.000/20GB",
+      "显存类型": "16",
+      "音频系统": "声卡",
+      "有线网卡": "10/100 以太网",
+      "其它接口": "RJ45，RJ11，串口，并口，键盘/鼠标，外置显示器，2个USB，视频输出S端口，耳机端口，音频输入和麦克风端口，红外端口， UltraPort端口",
+      "指取设备": "TrackPoint定点设备具有“按压选择”特性和Internet浏览滚动条",
+      "键盘描述": "带有掌托的人体工程学键盘",
+      "电池类型": "6单元组型锂电池寿命",
+      "续航时间": "3",
+      "笔记本重量": "2.2Kg",
+      "特色功能": "三年有限保修服务（电池一年）"
+    }
+  },
+  {
+    "name": "IBM ThinkPad T 2647-3EC (未知CPU)",
+    "manufacturer": "ThinkPad",
+    "series": "IBM ThinkPad T 2647-3EC",
+    "opendb_id": "ibm_thinkpad_t_2647_3ec_cpu",
+    "metadata": {
+      "CPU主频": "1.2GHz/1000MHz",
+      "内存容量": "128.000/256MB",
+      "硬盘容量": "48.000/60GB/20GB/40GB",
+      "最大内存容量": "SDRAM，2 SODIMM (1 SODIMM)，最大1024MB/最大1024MB SDRAM/最大512MB SDRAM/最大1024MB/2 SODIMM (1 SODIMM)，最大1024MB",
+      "显卡芯片": "S3Graphics SuperSavage/ IXc，AGP 4X，3D Graphics/AGP 4x S3 SuperSavage/IXC16/AGP 4X,3D Graphics/AGP 4X，S3Graphics SuperSavage/ IXc，3D Graphics",
+      "显存类型": "16MB SDRAM/16MB SGRAM/16/16MB",
+      "音频系统": "Sound Blaster Pro 16 compatible sound system/声卡",
+      "有线网卡": "10/100/100M LAN/10/100 以太网/100Mbps/无线网卡",
+      "其它接口": "1 (EPP/ECP)，2 (USB)，1 (RS-232D)，AC adapter jack，Display，Expansion bus (for dock or port replicator)，Headphone jack，Infrared，Line in，Microphone/line in，RJ11，RJ45，Serial，S-Video out jack?/RJ45，RJ11，串口，并口，键盘/鼠标，显示器，USB，音频输入/输出，红外，S端子/RJ45，RJ11，串口，并口，键盘/鼠标，外置显示器，2个USB，视频输出S端口，耳机端口，音频输入和麦克风端口，红外端口， UltraPort端口/1 (EPP)，2 (USB)，S-Video out，Infrared，Line in，RJ11，Headphone/Line out，PS/2，RJ45，UltraPort Connector，Serial，Microphone，Display，2 Universal Serial Bus (USB)，Expansion bus (for dock or por/1 (EPP/ECP),1 (RS-232D), 2 (USB),AC adapter, Headphone/Line out, PS/2, Microphone, RJ45, UltraPort Connector, 2 Universal Serial Bus (USB), Serial, S-Video out, RJ11, Parallel, Line in, Infrared/1 (EPP/ECP)，1 (RS-232D)，2 (USB)，AC adapter，Headphone/Line out，PS/2，Microphone，RJ45，UltraPort Connector，2 Universal Serial Bus (USB)，Serial，S-Video out，RJ11，Parallel，Line in，Infrared，",
+      "指取设备": "TrackPoint with/TrackPoint定点设备具有“按压选择”特性和Internet浏览滚动条",
+      "键盘描述": "Full size/全尺寸键盘/带有掌托的人体工程学键盘/全尺寸标准键盘",
+      "电池类型": "6 Cell Lithium-Ion/锂离子6-cell/6单元组型锂电池寿命",
+      "续航时间": "3.1/2/3/3.5/3.2",
+      "电源适配器": "Battery Power Status Display，Hibernation mode，Power management mode，Standby mode，Suspend mode，Switching between display devices/Battery Power Status Display Suspend Mode/Battery Power Status Display，Suspend Mode",
+      "笔记本重量": "2.55Kg/2.3Kg/2.32Kg/2.4Kg",
+      "总线规格": "Pentium III-M 1 GHz,采用Intel SpeedStep技术/512K/采用Intel SpeedStep技术的Mobile Intel Pentium III-M处理器，二级高速缓存 512KB/L2 internal CPU cache 512KB/Mobile Intel Pentium III processor - M，L2 512KB，前端总线133MHz",
+      "特色功能": "IBM 特有的ThinkLight键盘照明灯，电子用户手册快捷按键。/三年有限保修服务（电池一年）/保修：1年部件及人力（系统电池：1年）/Three years parts and labor (system battery: one year) Customer Carry-in/保修：3年部件及人力（系统电池：1年）"
+    }
+  }
+]
