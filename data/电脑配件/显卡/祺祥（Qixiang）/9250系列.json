@@ -1,0 +1,19 @@
+[
+  {
+    "name": "9250系列 (128GB)",
+    "manufacturer": "祺祥",
+    "series": "9250系列",
+    "opendb_id": "9250_128gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "RADEON 9250/Radeon 9250",
+      "核心频率": "240MHzMHz",
+      "显存频率": "333MHzMHz",
+      "显存类型": "DDR",
+      "显存容量": "128GB",
+      "显存位宽": "128bitbit",
+      "接口类型": "AGP 4X/AGP 8X",
+      "3D API": "Microsoft DirectX 9.0/Microsoft DirectX 8.1X"
+    }
+  }
+]

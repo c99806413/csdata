@@ -1,0 +1,48 @@
+[
+  {
+    "name": "RTX3060 (6GB)",
+    "manufacturer": "磐正",
+    "series": "RTX3060",
+    "opendb_id": "rtx3060_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 3060",
+      "显示芯片系列": "NVIDIA RTX 30系列",
+      "核心代号": "GA106",
+      "核心频率": "900MHz",
+      "CUDA核心": "3840个",
+      "显存频率": "1750MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "6GB",
+      "显存位宽": "192bit",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "2×HDMI接口，2×DisplayPort接口",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热",
+      "产品尺寸": "230×130×45mm"
+    }
+  },
+  {
+    "name": "RTX3060 (12GB)",
+    "manufacturer": "磐正",
+    "series": "RTX3060",
+    "opendb_id": "rtx3060_12gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 3060",
+      "显示芯片系列": "NVIDIA RTX 30系列",
+      "核心代号": "GA106",
+      "核心频率": "900MHz",
+      "CUDA核心": "3840个",
+      "显存频率": "1750MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "12GB",
+      "显存位宽": "192bit",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "2×HDMI接口，2×DisplayPort接口",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热",
+      "产品尺寸": "230×130×45mm"
+    }
+  }
+]
