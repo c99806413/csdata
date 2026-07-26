@@ -1,0 +1,30 @@
+[
+  {
+    "name": "GTXTitan系列 (6GB)",
+    "manufacturer": "七彩虹",
+    "series": "GTXTitan系列",
+    "opendb_id": "gtxtitan_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX Titan",
+      "显示芯片系列": "NVIDIA GTX Titan系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK110",
+      "核心频率": "954/1006MHz/837MHz",
+      "显存频率": "6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "6GB",
+      "显存位宽": "384bitbit",
+      "最大分辨率": "4096×2160/2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口/双DVI接口/DisplayPort接口/Mini HDMI接口",
+      "电源接口": "6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "涡轮风扇/散热风扇/水冷散热",
+      "3D API": "DirectX 11.1",
+      "供电模式": "6+2相",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  }
+]

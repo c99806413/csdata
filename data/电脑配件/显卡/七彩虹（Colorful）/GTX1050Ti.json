@@ -1,0 +1,31 @@
+[
+  {
+    "name": "GTX1050Ti (4GB)",
+    "manufacturer": "七彩虹",
+    "series": "GTX1050Ti",
+    "opendb_id": "gtx1050ti_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1050 Ti/GeForce GTX 1050Ti",
+      "显示芯片系列": "NVIDIA GTX 10系列",
+      "制作工艺": "14纳米",
+      "核心代号": "GP107-400",
+      "核心频率": "1290/1392MHz/1290MHz/基础频率：Base:1290MHz；Boost:1392MHz一键OC核心频率：Boost:1493MHz；Base:1379MHz/1328/1442MHz/1366/1480MHz/1404/1518MHz/1367/1481MHz/1316/1430MHz",
+      "CUDA核心": "768个",
+      "显存频率": "7000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热/散热风扇/三风扇散热",
+      "3D API": "DirectX 12.1，OpenGL 4.5/DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "最大功耗": "75W",
+      "其它特点": "支持风扇调速/MMORPG&MOBA游戏选择/最新BLAZE DUO散热器/支持PhysX物理加速技术，支持风扇调速/支持PhysX物理加速技术",
+      "上市日期": "2017年10月/2016年10月"
+    }
+  }
+]

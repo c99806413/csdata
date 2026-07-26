@@ -1,0 +1,63 @@
+[
+  {
+    "name": "VE系列 (未知显存)",
+    "manufacturer": "七彩虹",
+    "series": "VE系列",
+    "opendb_id": "ve",
+    "metadata": {
+      "显卡芯片": "ATI Radeon VE芯片"
+    }
+  },
+  {
+    "name": "VE系列 (32GB)",
+    "manufacturer": "七彩虹",
+    "series": "VE系列",
+    "opendb_id": "ve_32gb",
+    "metadata": {
+      "显卡芯片": "ATI Radeon",
+      "显存频率": "366MHzMHz",
+      "显存类型": "DDR",
+      "显存容量": "32GB",
+      "最大分辨率": "2048×1536@60MHz",
+      "接口类型": "AGP 4X"
+    }
+  },
+  {
+    "name": "VE系列 (64GB)",
+    "manufacturer": "七彩虹",
+    "series": "VE系列",
+    "opendb_id": "ve_64gb",
+    "metadata": {
+      "芯片厂商": "nVIDIA",
+      "显卡芯片": "GeForce FX5200",
+      "制作工艺": "0.15 微米",
+      "核心频率": "250MHzMHz",
+      "显存频率": "400MHzMHz",
+      "显存类型": "DDR",
+      "显存容量": "64GB",
+      "接口类型": "AGP 8X",
+      "散热方式": "散热风扇",
+      "3D API": "Microsoft DirectX 9.0；OpenGL 1.4"
+    }
+  },
+  {
+    "name": "VE系列 (128GB)",
+    "manufacturer": "七彩虹",
+    "series": "VE系列",
+    "opendb_id": "ve_128gb",
+    "metadata": {
+      "芯片厂商": "nVIDIA",
+      "显卡芯片": "GeForce 6600LE",
+      "制作工艺": "0.11 微米",
+      "核心频率": "300MHz",
+      "显存频率": "500MHz",
+      "显存类型": "DDR",
+      "显存容量": "128GB",
+      "显存位宽": "128bitbit",
+      "最大分辨率": "2048*1536",
+      "接口类型": "PCI-E 16X",
+      "散热方式": "散热风扇",
+      "3D API": "Microsoft DirectX 9.0C"
+    }
+  }
+]

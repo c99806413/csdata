@@ -1,0 +1,44 @@
+[
+  {
+    "name": "HD5450系列 (128GB)",
+    "manufacturer": "七彩虹",
+    "series": "HD5450系列",
+    "opendb_id": "hd5450_128gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon HD 5450",
+      "制作工艺": "40纳米",
+      "核心代号": "Cedar Pro",
+      "CUDA核心": "80个",
+      "显存类型": "GDDR2",
+      "显存容量": "128GB",
+      "显存位宽": "64bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11"
+    }
+  },
+  {
+    "name": "HD5450系列 (512GB)",
+    "manufacturer": "七彩虹",
+    "series": "HD5450系列",
+    "opendb_id": "hd5450_512gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon HD 5450",
+      "制作工艺": "40纳米",
+      "核心代号": "Cedar Pro",
+      "CUDA核心": "80个",
+      "显存类型": "GDDR2",
+      "显存容量": "512GB",
+      "显存位宽": "64bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11"
+    }
+  }
+]

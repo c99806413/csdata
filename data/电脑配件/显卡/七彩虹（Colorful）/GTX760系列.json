@@ -1,0 +1,60 @@
+[
+  {
+    "name": "GTX760系列 (2GB)",
+    "manufacturer": "七彩虹",
+    "series": "GTX760系列",
+    "opendb_id": "gtx760_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 760",
+      "显示芯片系列": "NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK104",
+      "核心频率": "980/1202MHz/993/1058MHz/980/1136MHz/980MHz/980/1072MHz1033/1136MHz/980/1137MHzMHz/980/1072MHz",
+      "CUDA核心": "1152个",
+      "显存频率": "6008/6208MHz/6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "256bitbit/256bit",
+      "最大分辨率": "2560×1600/4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口/1×Mini HDMI接口，2×DVI接口/1×HDMI接口，2×DVI接口",
+      "电源接口": "8pin+8pin/6pin+6pin",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇+热管散热/涡轮风扇/散热风扇+热管散热+散热片/双散热风扇/散热风扇+热管散热+散热片（静音）/3散热风扇+6热管散热/散热风扇",
+      "3D API": "DirectX 11.1",
+      "支持HDCP": "是",
+      "最大功耗": "170W",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术/支持NVIDIA SLI技术，支持PhysX物理加速技术/支持NVIDIA 三路SLI技术/支持NVIDIA SLI技术，PhysX物理加速技术"
+    }
+  },
+  {
+    "name": "GTX760系列 (4GB)",
+    "manufacturer": "七彩虹",
+    "series": "GTX760系列",
+    "opendb_id": "gtx760_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 760",
+      "显示芯片系列": "NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK104",
+      "核心频率": "980/1136MHz",
+      "CUDA核心": "1152个",
+      "显存频率": "6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口",
+      "电源接口": "8pin+8pin",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇+热管散热",
+      "3D API": "DirectX 11.1",
+      "支持HDCP": "是",
+      "最大功耗": "170W",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持显卡三屏输出"
+    }
+  }
+]

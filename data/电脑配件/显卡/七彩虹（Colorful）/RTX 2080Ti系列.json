@@ -1,0 +1,36 @@
+[
+  {
+    "name": "RTX 2080Ti系列 (11GB)",
+    "manufacturer": "七彩虹",
+    "series": "RTX 2080Ti系列",
+    "opendb_id": "rtx_2080ti_11gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2080Ti",
+      "显示芯片系列": "NVIDIA RTX 20系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU102-300A/TU102",
+      "核心频率": "Base：1350MHz；Boost:1635MHz/基础频率：Base:1350Mhz；Boost:1545Mhz一键OC核心频率：Base:1350Mhz；Boost:1815MHz/基础频率：Base：1350MHz；Boost：1545MHz一键OC核心频率：Base：1350MHz；Boost：1770MHz/Base：1350Mhz；Boost：1635MHz/基础频率：Base:1350MHz；Boost:1545MHz一键OC核心频率：Base:1350MHz；Boost:1740MHz/基础频率：Base：1350MHz；Boost：1545MHz一键OC核心频率：Base：1350MHz；Boost：1545MHz/Base：1350MHz；Boost:1545MHz/Base：1350MHz；Boost：1545MHz",
+      "CUDA核心": "4352个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "11GB",
+      "显存位宽": "352bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口，1×USB Type-C接口/1×HDMI 2.0b接口，3×DisplayPort 1.4接口，1×USB Type-C接口/HDMI接口，3×DisplayPort接口，USB Type-C接口/1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin/8pin+8pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热+热管散热（冰海银鲨散热器）/风水混合散热器/三风扇散热+热管散热（突袭者（Raiders）散热器）/三风扇散热/Neptune一体水冷散热器/三风扇散热+热管散热（施剑者散热器2.0）/涡轮风扇",
+      "3D API": "DirectX 12.1，OpenGL 4.5",
+      "供电模式": "13+3相/16+3相",
+      "支持HDCP": "是",
+      "产品尺寸": "304×118×52mm/303×165×60mm，水排尺寸：373×125×68mm/318×147×59mm/产品尺寸：293.4×147×45mm水排尺寸：247×115×65mm/317×155×59mm/315×136×53mm",
+      "最大功耗": "250W",
+      "建议电源": "650W",
+      "其它特点": "支持最多4屏输出，VR Ready级别显卡，Real-Time Ray Tracing，Ansel，GPU Boost/支持最多4屏输出，VR Ready级别显卡",
+      "上市日期": "2018年08月/2019年01月/2018年/2019年",
+      "其他参数": "显存带宽：616GB/S显卡类型：超双槽能量核心RGB、风扇智能启停/显存带宽：616GB/S显卡类型：三槽精密加工外甲、二代LCD屏幕、“瑞士制造”水冷头/显存带宽：616GB/S显卡类型：超双槽LCD侧显屏维2.0、Raiders散热器、嗅温精灵+智能启停、极幻霓虹灯光控制/显存带宽：616GB/S显卡类型：双槽/显存带宽：616GB/S显卡类型：超双槽LCD侧显示屏维、RNG定制外甲/LCD侧显屏维2.0、Raiders散热器、嗅温精灵+智能启停、极幻霓虹灯光控制/显存带宽：616GB/S"
+    }
+  }
+]

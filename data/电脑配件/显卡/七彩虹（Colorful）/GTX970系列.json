@@ -1,0 +1,30 @@
+[
+  {
+    "name": "GTX970系列 (4GB)",
+    "manufacturer": "七彩虹",
+    "series": "GTX970系列",
+    "opendb_id": "gtx970_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 970",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM204",
+      "核心频率": "1051/1127MHz/1051/1203MHz/1051/1266MHz/1126MHz/1064/1165MHz/1064/1203MHz",
+      "CUDA核心": "1664个",
+      "显存频率": "7010MHz/6500MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bit/256bitbit",
+      "最大分辨率": "4096×2160/2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "6pin+6pin/8pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热+热管散热/三风扇散热+热管散热/三风扇散热+热管散热+散热片（静音）",
+      "3D API": "DirectX 11.2/DirectX 12/DirectX 12，OpenGL 4.5/DirectX 11.2，OpenGL 4.3",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术/支持NVIDIA SLI技术，全金属外壳，钢化背板，大红圈抗震散热设计，抗老化PCB，超炫红圈呼吸灯。/风扇智能启停，模块化发光金属背板，一键超频，镀银抗老化工艺，支持NVIDIA SLI技术，支持HDTV高清设备和视频回放技术"
+    }
+  }
+]

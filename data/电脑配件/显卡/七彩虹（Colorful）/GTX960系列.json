@@ -1,0 +1,62 @@
+[
+  {
+    "name": "GTX960系列 (2GB)",
+    "manufacturer": "七彩虹",
+    "series": "GTX960系列",
+    "opendb_id": "gtx960_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 960",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM206",
+      "核心频率": "1127/1178MHz/1127MHz/1140/1203MHz/1203/1266MHz/1127/1152MHz/1127/1228MHz/1127/1279MHz/1405/1469MHz",
+      "CUDA核心": "1024个",
+      "显存频率": "7010MHz/7000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit/128bitbit/128Bitbit",
+      "最大分辨率": "4096×2160/2560×1600/5120×3200",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin/6pin+6pin",
+      "显卡类型": "入门级",
+      "散热方式": "涡轮风扇/双风扇散热/双风扇散热+热管散热/散热风扇/三风扇散热+热管散热/三风扇散热",
+      "3D API": "DirectX 12/DirectX 11.2，OpenGL 4.5/DirectX 11.2，OpenGL 4.3/DirectX 11.2/DirectX 12，OpenGL 4.5/DirectX 12，OpenGL 4.4",
+      "支持HDCP": "是",
+      "最大功耗": "120W/150W",
+      "建议电源": "400W以上",
+      "其它特点": "支持NVIDIA SLI技术/支持NVIDIA SLI技术，一键超频，SPT超量镀银技术，iGame超频软件，风扇低功耗停转技术；/支持NVIDIA SLI技术，一键超频，SPT超量镀银技术，iGame超频软件，Air-kit散热部件，低负载风扇停转技术"
+    }
+  },
+  {
+    "name": "GTX960系列 (4GB)",
+    "manufacturer": "七彩虹",
+    "series": "GTX960系列",
+    "opendb_id": "gtx960_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 960",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM206",
+      "核心频率": "1203/1266MHz/1140/1266MHz",
+      "CUDA核心": "1024个",
+      "显存频率": "7010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "128Bitbit/128bit",
+      "最大分辨率": "4096×2160/5120×3200",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "6pin/6pin+6pin",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热+热管散热/双风扇散热/三风扇散热+热管散热",
+      "3D API": "DirectX 12/DirectX 12.1，OpenGL 4.5/DirectX 12，OpenGL 4.4/DirectX 12.1，OpenGL 4.4",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术/支持最多4屏输出，支持NVIDIA SLI技术/支持NVIDIA SLI技术支持一键超频，SPT超量镀银技术，iGame超频软件，低负载风扇停转技术/支持NVIDIA Maxwell技术，支持NVIDIA SLI技术",
+      "最大功耗": "120W/150W",
+      "建议电源": "450W以上/400W以上"
+    }
+  }
+]
