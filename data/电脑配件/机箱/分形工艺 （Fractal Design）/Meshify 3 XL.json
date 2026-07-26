@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Fractal Design Meshify 3 XL 金属版",
+    "manufacturer": "Fractal Design",
+    "series": "Meshify 3 XL",
+    "opendb_id": "fractal_design_meshify_3_xl____",
+    "metadata": {
+      "产品型号": "Meshify 3 X",
+      "机箱类型": "吸音降噪机箱",
+      "摆放方式": "立式",
+      "适用主板": "E-ATX/ATX/mATX/ITX/EE-ATX/SSI-EEB/SSI-CEB",
+      "电源设计": "下置",
+      "电源类型": "标准电源（ATX）",
+      "显卡限长": "512mm",
+      "CPU散热器限高": "182mm",
+      "扩展插槽": "7个",
+      "USB接口": "USB Type-C 20 Gbps×1，USB Type-A 5 Gbps×1",
+      "音频接口": "音频组合插孔×1",
+      "前置风扇位": "3×120/140mm、2×180mm",
+      "后置风扇位": "1×120mm",
+      "其它风扇位": "顶部：2×120/140mm",
+      "支持水冷": "420冷排",
+      "颜色": "黑色/白色",
+      "机箱材质": "钢",
+      "产品尺寸": "575×245×515mm",
+      "产品重量": "9.5kg"
+    }
+  },
+  {
+    "name": "Fractal Design Meshify 3 XL 玻璃版",
+    "manufacturer": "Fractal Design",
+    "series": "Meshify 3 XL",
+    "opendb_id": "fractal_design_meshify_3_xl____",
+    "metadata": {
+      "产品型号": "Meshify 3 X",
+      "机箱类型": "吸音降噪机箱",
+      "摆放方式": "立式",
+      "适用主板": "E-ATX/ATX/mATX/ITX/EE-ATX/SSI-EEB/SSI-CEB",
+      "电源设计": "下置",
+      "电源类型": "标准电源（ATX）",
+      "显卡限长": "512mm",
+      "CPU散热器限高": "182mm",
+      "扩展插槽": "7个",
+      "USB接口": "USB Type-C 20 Gbps×1，USB Type-A 5 Gbps×1",
+      "音频接口": "音频组合插孔×1",
+      "前置风扇位": "3×120/140mm、2×180mm",
+      "后置风扇位": "1×120mm",
+      "其它风扇位": "顶部：2×120/140mm",
+      "支持水冷": "420冷排",
+      "颜色": "黑色/白色",
+      "机箱材质": "钢",
+      "产品尺寸": "575×245×515mm",
+      "产品重量": "9.5kg"
+    }
+  },
+  {
+    "name": "Fractal Design Meshify 3 XL RGB玻璃版",
+    "manufacturer": "Fractal Design",
+    "series": "Meshify 3 XL",
+    "opendb_id": "fractal_design_meshify_3_xl_rgb___",
+    "metadata": {
+      "产品型号": "Meshify 3 X",
+      "机箱类型": "吸音降噪机箱",
+      "摆放方式": "立式",
+      "适用主板": "E-ATX/ATX/mATX/ITX/EE-ATX/SSI-EEB/SSI-CEB",
+      "电源设计": "下置",
+      "电源类型": "标准电源（ATX）",
+      "显卡限长": "512mm",
+      "CPU散热器限高": "182mm",
+      "扩展插槽": "7个",
+      "USB接口": "USB Type-C 20 Gbps×1，USB Type-A 5 Gbps×1",
+      "音频接口": "音频组合插孔×1",
+      "前置风扇位": "3×120/140mm、2×180mm",
+      "后置风扇位": "1×120mm",
+      "其它风扇位": "顶部：2×120/140mm",
+      "支持水冷": "420冷排",
+      "颜色": "黑色/白色",
+      "机箱材质": "钢",
+      "产品尺寸": "575×245×515mm",
+      "产品重量": "9.5kg"
+    }
+  }
+]
