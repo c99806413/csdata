@@ -1,0 +1,60 @@
+[
+  {
+    "name": "GTX750系列 (1GB)",
+    "manufacturer": "盈通",
+    "series": "GTX750系列",
+    "opendb_id": "gtx750_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 750",
+      "显示芯片系列": "NVIDIA GT700系列/NVIDIA GTX 700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM107",
+      "核心频率": "1020/1085MHz",
+      "CUDA核心": "512个",
+      "显存频率": "5000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bit/128bitbit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×VGA接口/HDMI接口/DVI接口/VGA接口/1×Mini HDMI接口，2×DVI接口/2×DVI接口，1×Mini HDMI接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "豪华智能双风扇/金刚战甲土豪金风扇/豪华双热管智能双风扇",
+      "3D API": "DirectX 11.2，OpenGL 4.4/DirectX 11.2/OpenGL 4.4",
+      "供电模式": "2+1相/3+1相",
+      "支持HDCP": "是",
+      "产品尺寸": "225×113×40mm/180×113×40mm/22.5×110×40mmmm/225×120×40mm",
+      "其它特点": "支持Windows XP/Vista/7/8操作系统；支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost 2.0技术，G-SYNC技术，/支持Windows XP/Vista/7/8操作系统；支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost 2.0技术，G-SYNC技术/Windows XP/Vista/7/8/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  },
+  {
+    "name": "GTX750系列 (2GB)",
+    "manufacturer": "盈通",
+    "series": "GTX750系列",
+    "opendb_id": "gtx750_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 750",
+      "显示芯片系列": "NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM107",
+      "核心频率": "1020/1085MHz",
+      "CUDA核心": "512个",
+      "显存频率": "5000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×VGA接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "豪华智能双风扇",
+      "3D API": "DirectX 11.2，OpenGL 4.4",
+      "供电模式": "3+1相",
+      "支持HDCP": "是",
+      "产品尺寸": "22.5×110×40mm",
+      "其它特点": "Windows XP/Vista/7/8"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "R7 240系列 (1GB)",
+    "manufacturer": "盈通",
+    "series": "R7 240系列",
+    "opendb_id": "r7_240_1gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon R7 240",
+      "显示芯片系列": "AMD R7系列",
+      "制作工艺": "28纳米",
+      "核心代号": "OIand",
+      "核心频率": "730MHz/780MHz/730/780MHz",
+      "显存频率": "4000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bitbit/128bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口/1×HDMI接口，1×DVI接口，1×VGA接口",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11.2",
+      "供电模式": "2+1相电路",
+      "支持HDCP": "是",
+      "产品尺寸": "210×125×44mmmm/210×125×44mm",
+      "其它特点": "AMD PowerTune技术，AMD ZeroCore Power技术、AMD应用程序加速技术/重量：300gWindows XP/Vista/Windows 7/Windows 8AMD PowerTune技术，AMD ZeroCore Power技术，AMD应用程序加速技术"
+    }
+  },
+  {
+    "name": "R7 240系列 (2GB)",
+    "manufacturer": "盈通",
+    "series": "R7 240系列",
+    "opendb_id": "r7_240_2gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon R7 240",
+      "显示芯片系列": "AMD R7系列",
+      "制作工艺": "28纳米",
+      "核心代号": "OIand",
+      "核心频率": "780MHz/730/780MHz",
+      "显存频率": "4000MHz/1333MHz",
+      "显存类型": "GDDR5/GDDR3",
+      "显存容量": "2GB",
+      "显存位宽": "128bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，D-sub接口/1×HDMI接口，1×DVI接口，1×VGA接口",
+      "显卡类型": "入门级",
+      "散热方式": "主动散热风扇(Y8H-64-Q)/散热风扇",
+      "3D API": "DirectX 11.2，Mantle，OpenGL 4.3/DirectX 11.2",
+      "供电模式": "1+1相",
+      "支持HDCP": "是",
+      "产品尺寸": "145×110×40mm",
+      "其它特点": "重量：300gWindows XP/Vista/Windows 7/Windows 8AMD PowerTune技术，AMD ZeroCore Power技术，AMD应用程序加速技术"
+    }
+  }
+]

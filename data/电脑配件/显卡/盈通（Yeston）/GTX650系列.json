@@ -1,0 +1,58 @@
+[
+  {
+    "name": "GTX650系列 (1GB)",
+    "manufacturer": "盈通",
+    "series": "GTX650系列",
+    "opendb_id": "gtx650_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 650",
+      "显示芯片系列": "NVIDIA GTX 600系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK107",
+      "核心频率": "1059MHz",
+      "CUDA核心": "384个",
+      "显存频率": "5000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bit/128bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×VGA接口/HDMI接口/DVI接口/VGA接口",
+      "电源接口": "无外接电源接口/6pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇/散热风扇+散热片（静音）+热管散热",
+      "3D API": "DirectX 11.1，OpenGL 4.3/DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  },
+  {
+    "name": "GTX650系列 (2GB)",
+    "manufacturer": "盈通",
+    "series": "GTX650系列",
+    "opendb_id": "gtx650_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 650",
+      "显示芯片系列": "NVIDIA GTX 600系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK107",
+      "核心频率": "1059MHz",
+      "CUDA核心": "384个",
+      "显存频率": "5000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，D-sub接口，1×DVI接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇+散热片（静音）+热管散热",
+      "3D API": "Direct X 11.1，OpenGL 4.3",
+      "支持HDCP": "是",
+      "其它特点": "OS特性：Windows XP/Vista/Windows 7PCB版本/尺寸/颜色：HK207A/210*110mm/黑色支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost 2.0技术，G-SYNC技术"
+    }
+  }
+]

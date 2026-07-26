@@ -1,0 +1,28 @@
+[
+  {
+    "name": "RTX3070 系列",
+    "manufacturer": "盈通",
+    "series": "RTX3070 系列",
+    "opendb_id": "rtx3070",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 3070",
+      "显示芯片系列": "NVIDIA RTX 30系列",
+      "制作工艺": "8纳米",
+      "核心代号": "GA104",
+      "核心频率": "核心频率：1500/1770MHz",
+      "CUDA核心": "5888个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热",
+      "3D API": "DirectX 12，OpenGL 4.6",
+      "其它特点": "支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术"
+    }
+  }
+]

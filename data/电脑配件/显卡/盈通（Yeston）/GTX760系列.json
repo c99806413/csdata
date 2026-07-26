@@ -1,0 +1,56 @@
+[
+  {
+    "name": "GTX760系列 (4GB)",
+    "manufacturer": "盈通",
+    "series": "GTX760系列",
+    "opendb_id": "gtx760_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX760",
+      "显示芯片系列": "NVIDIA GTX 700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK104",
+      "核心频率": "980/1033MHz",
+      "显存频率": "6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bitbit",
+      "接口类型": "PCI Express 3.0",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口",
+      "电源接口": "6pin+6pin",
+      "显卡类型": "入门级",
+      "散热方式": "豪华双热管铜底智能散热风扇",
+      "3D API": "Direct X 11.1/OpenGL 4.3",
+      "供电模式": "4+1相",
+      "产品尺寸": "230×140×40mmmm",
+      "其它特点": "Windows XP/Vista/7散热器：豪华双热管铜底智能风扇(Y8N-74-1)显卡重量：691g"
+    }
+  },
+  {
+    "name": "GTX760系列 (2GB)",
+    "manufacturer": "盈通",
+    "series": "GTX760系列",
+    "opendb_id": "gtx760_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX760",
+      "显示芯片系列": "NVIDIA GTX 700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK104",
+      "核心频率": "980/1033MHz",
+      "显存频率": "6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "256bitbit",
+      "接口类型": "PCI Express 3.0",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口",
+      "电源接口": "6pin+6pin",
+      "显卡类型": "入门级",
+      "散热方式": "豪华双热管铜底智能散热风扇",
+      "3D API": "Direct X 11/OpenGL 4.3",
+      "供电模式": "4+1相",
+      "产品尺寸": "230×140×40mmmm",
+      "其它特点": "Windows XP/Vista/7散热器：豪华双热管铜底智能风扇(Y8N-74-1)显卡重量：691g"
+    }
+  }
+]
