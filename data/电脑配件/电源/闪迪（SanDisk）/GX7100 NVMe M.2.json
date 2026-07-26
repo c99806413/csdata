@@ -1,0 +1,22 @@
+[
+  {
+    "name": "GX7100 NVMe M.2",
+    "manufacturer": "闪迪",
+    "series": "GX7100 NVMe M.2",
+    "opendb_id": "gx7100_nvme_m_2",
+    "metadata": {
+      "产品型号": "Optimus GX7100 NVMe M.2",
+      "产品定位": "消费类",
+      "存储容量": "500GB/1TB/2TB/4TB",
+      "接口类型": "M.2 PCIe接口",
+      "通道": "Gen4×4",
+      "读取速度": "6800MB/s/7250MB/s/7000MB/s",
+      "写入速度": "5800MB/s/6900MB/s/6700MB/s",
+      "4K随机读": "760K IOPS/1M IOPS/900K IOPS",
+      "4K随机写": "1.2M IOPS/1.3M IOPS/1.35M IOPS",
+      "外形尺寸": "80×22×2.38mm",
+      "产品重量": "5.8g",
+      "其它特点": "TBW：300/TBW：600/TBW：1200/TBW：2400"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "HHHL",
+    "manufacturer": "三星",
+    "series": "HHHL",
+    "opendb_id": "hhhl",
+    "metadata": {
+      "产品定位": "企业级",
+      "存储容量": "1.6TB/3.2TB/6.4TB/12.8TB",
+      "接口类型": "PCI-E接口",
+      "通道": "Gen3×8",
+      "读取速度": "5400mb/s/6200mb/s/6300mb/s",
+      "写入速度": "2000mb/s/2900mb/s/3300mb/s",
+      "4K随机读": "750K IOPS/980K IOPS/940K IOPS",
+      "4K随机写": "135K IOPS/180K IOPS/190K IOPS/110K IOPS"
+    }
+  }
+]

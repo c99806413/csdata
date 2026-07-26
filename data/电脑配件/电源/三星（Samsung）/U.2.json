@@ -1,0 +1,18 @@
+[
+  {
+    "name": "U.2",
+    "manufacturer": "三星",
+    "series": "U.2",
+    "opendb_id": "u_2",
+    "metadata": {
+      "产品定位": "企业级",
+      "存储容量": "1.6TB/6.4TB/12.8TB/3.2TB",
+      "接口类型": "U.2接口",
+      "通道": "Gen3×4",
+      "读取速度": "3500mb/s",
+      "写入速度": "2000mb/s/2800mb/s/3100mb/s",
+      "4K随机读": "720K IOPS/800K IOPS",
+      "4K随机写": "135K IOPS/190K IOPS/110K IOPS/180K IOPS"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "SATA 3Gb_s Ultra SSD 至尊高速固态硬盘系列",
+    "manufacturer": "闪迪",
+    "series": "SATA 3Gb_s Ultra SSD 至尊高速固态硬盘系列",
+    "opendb_id": "sata_3gb_s_ultra_ssd",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "60GB/120GB/240GB",
+      "接口类型": "SATA2（3Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "读取速度": "280MB/s",
+      "写入速度": "270MB/s",
+      "电源功耗": "0.7W",
+      "外形尺寸": "9.5×100.5×69.85mm",
+      "产品重量": "98g"
+    }
+  }
+]

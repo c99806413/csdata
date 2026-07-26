@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SSD G3系列",
+    "manufacturer": "闪迪",
+    "series": "SSD G3系列",
+    "opendb_id": "ssd_g3",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "120GB/60GB",
+      "读取速度": "220MB/s",
+      "系统要求": "Windows，Mac OS X，Linux等常见操作系统，支持Windows 7 TRIM",
+      "写入数据传输率": "120MB/s",
+      "其它性能": "让G3拥有高随机写入性能和长寿命",
+      "其它特点": "提供了10年质保"
+    }
+  }
+]
