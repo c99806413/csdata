@@ -1,0 +1,50 @@
+[
+  {
+    "name": "HD7770系列 (1GB)",
+    "manufacturer": "HIS",
+    "series": "HD7770系列",
+    "opendb_id": "hd7770_1gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon HD 7770",
+      "显示芯片系列": "AMD 7700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Cape Verde XT",
+      "核心频率": "1100MHz/1000MHz",
+      "CUDA核心": "640个",
+      "显存频率": "4800MHz/4500MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bitbit/128bit",
+      "最大分辨率": "2560×1600/4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "双Mini DisplayPort接口/HDMI接口/DVI接口/1×HDMI接口，1×DVI接口，1×VGA接口/HDMI接口/DVI接口/VGA接口/2×Mini DisplayPort接口，1×HDMI接口，1×DVI接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇+热管散热/散热风扇",
+      "3D API": "DirectX 11/DirectX 11.1",
+      "支持HDCP": "是",
+      "产品尺寸": "232×122×41mmmm/181×122×36mm/181×122×36mmmm/125×41×212mm",
+      "其它特点": "支持CrossFire技术，支持节能技术/支持CrossFire技术，支持节能技术，支持显卡四屏输出，AMD HD3D技术"
+    }
+  },
+  {
+    "name": "HD7770系列 (未知显存)",
+    "manufacturer": "HIS",
+    "series": "HD7770系列",
+    "opendb_id": "hd7770",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon HD 7770",
+      "显示芯片系列": "AMD 7700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Cape Verde XT",
+      "最大分辨率": "2560×1600",
+      "I/O接口": "双Mini DisplayPort接口/HDMI接口/DVI接口",
+      "电源接口": "6pin",
+      "散热方式": "散热风扇+热管散热",
+      "支持HDCP": "是",
+      "其它特点": "支持CrossFire技术，支持节能技术"
+    }
+  }
+]

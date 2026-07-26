@@ -1,0 +1,22 @@
+[
+  {
+    "name": "RTX 4060 Ti (16GB)",
+    "manufacturer": "NVIDIA",
+    "series": "RTX 4060 Ti",
+    "opendb_id": "rtx_4060_ti_16gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 4060 Ti",
+      "显示芯片系列": "NVIDIA RTX 40系列",
+      "CUDA核心": "4352个",
+      "显存频率": "23100MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "16GB",
+      "显存位宽": "128bit",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "显卡设计": "公版",
+      "插槽": "2槽",
+      "建议电源": "550W"
+    }
+  }
+]

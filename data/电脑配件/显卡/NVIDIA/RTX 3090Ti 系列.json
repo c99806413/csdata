@@ -1,0 +1,20 @@
+[
+  {
+    "name": "RTX 3090Ti 系列",
+    "manufacturer": "NVIDIA",
+    "series": "RTX 3090Ti 系列",
+    "opendb_id": "rtx_3090ti",
+    "metadata": {
+      "产品型号": "RTX 3090Ti",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 3090 Ti",
+      "显存类型": "GDDR6X",
+      "显存容量": "24GB",
+      "显存位宽": "384bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "HDMI接口，3×DisplayPort接口",
+      "散热方式": "涡轮风扇"
+    }
+  }
+]

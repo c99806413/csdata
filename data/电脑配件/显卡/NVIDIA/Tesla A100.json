@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Tesla A100 (80GB)",
+    "manufacturer": "NVIDIA",
+    "series": "Tesla A100",
+    "opendb_id": "tesla_a100_80gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "CUDA核心": "6912个",
+      "显存类型": "HBM2e",
+      "显存容量": "80GB",
+      "显存位宽": "5120bit",
+      "内存带宽": "1555GB/s",
+      "接口类型": "PCI Express 4.0",
+      "电源接口": "8pin",
+      "散热方式": "热管散热",
+      "最大功耗": "400W"
+    }
+  },
+  {
+    "name": "Tesla A100 (40GB)",
+    "manufacturer": "NVIDIA",
+    "series": "Tesla A100",
+    "opendb_id": "tesla_a100_40gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "CUDA核心": "6912个",
+      "显存类型": "HBM2e",
+      "显存容量": "40GB",
+      "显存位宽": "5120bit",
+      "内存带宽": "1555GB/s",
+      "接口类型": "PCI Express 4.0",
+      "电源接口": "8pin",
+      "散热方式": "热管散热",
+      "最大功耗": "250W"
+    }
+  }
+]

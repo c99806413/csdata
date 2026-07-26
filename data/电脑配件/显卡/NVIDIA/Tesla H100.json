@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Tesla H100 (80GB)",
+    "manufacturer": "NVIDIA",
+    "series": "Tesla H100",
+    "opendb_id": "tesla_h100_80gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Tesla H100",
+      "制作工艺": "4纳米",
+      "核心代号": "GH100",
+      "核心频率": "1830MHz",
+      "CUDA核心": "14592个",
+      "显存频率": "5240MHz",
+      "显存类型": "HBM3",
+      "显存容量": "80GB",
+      "显存位宽": "5120bit",
+      "内存带宽": "2039GB/s",
+      "接口类型": "PCI Express 5.0 16X",
+      "显卡类型": "专业级",
+      "显卡设计": "公版",
+      "散热方式": "风扇散热",
+      "最大功耗": "300-350W",
+      "其它特点": "支持NVIDIA NVLink技术，支持 Tensor Core"
+    }
+  },
+  {
+    "name": "Tesla H100 (94GB)",
+    "manufacturer": "NVIDIA",
+    "series": "Tesla H100",
+    "opendb_id": "tesla_h100_94gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Tesla H100",
+      "制作工艺": "4纳米",
+      "核心代号": "GH100",
+      "CUDA核心": "14592个",
+      "显存容量": "94GB",
+      "显存位宽": "5120bit",
+      "内存带宽": "3.9TB/s",
+      "接口类型": "PCI Express 5.0 16X",
+      "显卡类型": "专业级",
+      "显卡设计": "公版",
+      "散热方式": "风扇散热",
+      "最大功耗": "350-400W",
+      "其它特点": "支持NVIDIA NVLink技术，支持 Tensor Core"
+    }
+  }
+]

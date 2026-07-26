@@ -1,0 +1,30 @@
+[
+  {
+    "name": "R9 290系列 (4GB)",
+    "manufacturer": "HIS",
+    "series": "R9 290系列",
+    "opendb_id": "r9_290_4gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon R9 290",
+      "显示芯片系列": "AMD R9 200系列/AMD R9系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Hawaii Pro",
+      "核心频率": "947MHz",
+      "显存频率": "5000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "512bit/512bitbit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口/HDMI接口/双DVI接口/DisplayPort接口",
+      "电源接口": "6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇+热管散热/散热风扇",
+      "3D API": "DirectX 11.2",
+      "供电模式": "5+1相",
+      "支持HDCP": "是",
+      "其它特点": "支持Windows 8/支持CrossFire技术，支持节能技术支持Windows 8"
+    }
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "RTX PRO 6000 (96GB)",
+    "manufacturer": "NVIDIA",
+    "series": "RTX PRO 6000",
+    "opendb_id": "rtx_pro_6000_96gb",
+    "metadata": {
+      "产品型号": "RTX PRO 6000 Blackwell 服务器版/RTX PRO 6000 Blackwell 工作站版/RTX PRO 6000 Blackwell Max-Q 工作站版",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "RTX PRO 6000",
+      "显示芯片系列": "NVIDIA RTX PRO 6000系列",
+      "CUDA核心": "24064个",
+      "显存类型": "GDDR7",
+      "显存容量": "96GB",
+      "显存位宽": "512bit",
+      "最大分辨率": "7680×4320",
+      "内存带宽": "1597GB/s/1792GB/s",
+      "接口类型": "PCI Express 5.0 16X",
+      "I/O接口": "4×DisplayPort 2.1接口",
+      "电源接口": "16pin",
+      "显卡类型": "专业级",
+      "显卡设计": "公版",
+      "散热设计": "被动式散热/双流式/主动式",
+      "插槽": "2槽",
+      "最大功耗": "600W/300W",
+      "多屏设计": "4"
+    }
+  }
+]
