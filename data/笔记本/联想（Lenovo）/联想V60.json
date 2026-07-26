@@ -1,0 +1,55 @@
+[
+  {
+    "name": "联想昭阳V60 T0933128M020GCOe",
+    "manufacturer": "联想",
+    "series": "联想昭阳V60 T0933128M020GCOe",
+    "opendb_id": "v60_t0933128m020gcoe_intel_piii",
+    "metadata": {
+      "CPU型号": "Intel PIII",
+      "CPU主频": "933MHz",
+      "总线规格": "采用专为笔记本电脑设计的移动式Mobile Intel®Pentium®III 处理器，支持增强式Intel® SpeedStep™技术",
+      "内存容量": "128.000",
+      "最大内存容量": "128MB PC133 SDRAM （最大1GB）",
+      "硬盘容量": "20GB",
+      "硬盘描述": "EIDE 20GB Ultra DMA100",
+      "显卡芯片": "nVidia GeForce2 Go，支持4倍速AGP",
+      "显存类型": "16",
+      "音频系统": "Crystal 4299",
+      "有线网卡": "内置10/100M网卡",
+      "其它接口": "VGA接口、串口、标准并口、3个USB接口、Line-in, Microphone-in, Headphone out、RJ11（Modem接口），RJ45(网卡接口)，IEEE1394接口，TV-out（S端子）",
+      "指取设备": "两键触控板",
+      "键盘描述": "标准尺寸键盘",
+      "电池类型": "高效锂电池",
+      "续航时间": "4",
+      "电源适配器": "支持ACPI",
+      "笔记本重量": "2.6Kg",
+      "特色功能": "内置2根无线局域网专用天线，预留Mini PCI无线网卡接口；不开机播放CD、快捷播放MP3，2个用户自定义应用键，一个RF关闭键；光驱智能互换支持：支持CDROM，DVD-ROM，CDRW，DVD-COMBO及软驱的热插拔互换"
+    }
+  },
+  {
+    "name": "联想昭阳V60 T0933128M020GCOe (未知CPU)",
+    "manufacturer": "联想",
+    "series": "联想昭阳V60 T0933128M020GCOe",
+    "opendb_id": "v60_t0933128m020gcoe_cpu",
+    "metadata": {
+      "CPU主频": "1000MHz",
+      "总线规格": "采用专为笔记本电脑设计的移动式Intel®Pentium®III处理器1GHz - M，支持增强Intel® SpeedStep™技术，L2 Cache 512KB，BIOS　ROM 512KB",
+      "内存容量": "128.000",
+      "最大内存容量": "128MB PC133 SDRAM (最大1GB)",
+      "硬盘容量": "20GB",
+      "硬盘描述": "EIDE 20GB Ultra DMA100",
+      "显卡芯片": "nVidia GeForce2 Go，支持4倍速AGP",
+      "显存类型": "16",
+      "音频系统": "Crystal 4299",
+      "有线网卡": "内置 10/100M网卡",
+      "其它接口": "VGA接口、串口、标准并口、3个USB接口、Line-in, Microphone-in, Headphone out、RJ11（Modem接口），RJ45(网卡接口)，IEEE1394接口，TV-out（S端子）",
+      "指取设备": "两键触控板",
+      "键盘描述": "标准尺寸键盘",
+      "电池类型": "高效锂电池",
+      "续航时间": "4",
+      "电源适配器": "支持ACPI",
+      "笔记本重量": "2.6Kg",
+      "特色功能": "内置2根无线局域网专用天线，预留Mini PCI无线网卡接口；不开机播放CD、快捷播放MP3，2个用户自定义应用键，一个RF关闭键；光驱智能互换支持：支持CDROM，DVD-ROM，CDRW，DVD-COMBO及软驱的热插拔互换"
+    }
+  }
+]

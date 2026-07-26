@@ -1,0 +1,47 @@
+[
+  {
+    "name": "联想昭阳K31 P0750064M010GCFe (Intel PIII)",
+    "manufacturer": "联想",
+    "series": "联想昭阳K31 P0750064M010GCFe",
+    "opendb_id": "k31_p0750064m010gcfe_intel_piii",
+    "metadata": {
+      "CPU型号": "Intel PIII",
+      "CPU主频": "750MHz/800MHz",
+      "总线规格": "采用笔记本专用英特尔®奔腾® III 处理器750Mhz，支持Intel® SpeedStep™技术/采用笔记本专用英特尔®奔腾® III 处理器800Mhz，支持Intel® SpeedStep™技术，二级缓存（L2 Cache）：256KB，BIOS ROM 512KB",
+      "内存容量": "64.000",
+      "最大内存容量": "64MB SDRAM（最大为512MB）",
+      "硬盘容量": "10GB",
+      "硬盘描述": "EIDE 10GB",
+      "显卡芯片": "S3 savageIV 支持4倍速AGP",
+      "显存类型": "8MB（共享）",
+      "音频系统": "完整PCI总线的16位声卡，符合AC97标准",
+      "有线网卡": "有",
+      "其它接口": "VGA接口、标准串口（9pin）、标准并口（25pin） PS/2接口、USB接口（2个）、红外接口（Fir）、Line-in, Microphone-in, Line-out",
+      "指取设备": "两键触控板",
+      "键盘描述": "WIN95键盘（87键）/标准尺寸键盘 （87键）/WIN95键盘（87键）",
+      "电池类型": "高效锂离子电池",
+      "续航时间": "3",
+      "电源适配器": "支持ACPI",
+      "笔记本重量": "3Kg"
+    }
+  },
+  {
+    "name": "联想昭阳K31 P0750064M010GCFe (未知CPU)",
+    "manufacturer": "联想",
+    "series": "联想昭阳K31 P0750064M010GCFe",
+    "opendb_id": "k31_p0750064m010gcfe_cpu",
+    "metadata": {
+      "总线规格": "采用笔记本专用带有Intel® SpeedStep™技术的英特尔®奔腾® III 处理器900Mhz，二级缓存（L2 Cache）256KB",
+      "最大内存容量": "128 MB SDRAM（最大512MB）/64 MB SDRAM（最大为512MB）",
+      "硬盘描述": "EIDE 20GB/EIDE 15GB",
+      "显存类型": "8MB（共享）",
+      "有线网卡": "内置 10/100M网卡",
+      "其它接口": "VGA接口、标准串口（9pin）、标准并口（25pin）、PS/2接口、USB接口（2个）",
+      "指取设备": "两键触控板",
+      "键盘描述": "标准尺寸键盘",
+      "电池类型": "20/15",
+      "续航时间": "3",
+      "笔记本重量": "3Kg"
+    }
+  }
+]

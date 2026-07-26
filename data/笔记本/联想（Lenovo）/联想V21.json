@@ -1,0 +1,69 @@
+[
+  {
+    "name": "联想昭阳V21 CO750064M010GCO",
+    "manufacturer": "联想",
+    "series": "联想昭阳V21 PO800064M010GCO",
+    "opendb_id": "v21_po800064m010gco_intel",
+    "metadata": {
+      "CPU型号": "Intel 赛扬",
+      "总线规格": "采用笔记本专用Intel® Celeron® 处理器750Mhz，二级缓存（L2 Cache）128KB，USB闪存盘16MB",
+      "最大内存容量": "64MB SDRAM（最大320MB）",
+      "硬盘描述": "EIDE 10GB",
+      "显卡芯片": "S3 savageIV 支持4倍速AGP",
+      "显存类型": "8MB （共享）",
+      "音频系统": "Crystal CS4299",
+      "有线网卡": "内置10/100M",
+      "其它接口": "VGA接口（15Pin）、USB接口(2个)、Microphone，Line-out",
+      "指取设备": "两键触控板",
+      "键盘描述": "Win95/98键盘",
+      "电池类型": "10",
+      "续航时间": "2.5",
+      "电源适配器": "支持ACPI",
+      "笔记本重量": "1.99Kg"
+    }
+  },
+  {
+    "name": "联想昭阳V21 PO800064M010GCO (Intel PIII)",
+    "manufacturer": "联想",
+    "series": "联想昭阳V21 PO800064M010GCO",
+    "opendb_id": "v21_po800064m010gco_intel_piii",
+    "metadata": {
+      "CPU型号": "Intel PIII",
+      "总线规格": "采用笔记本专用英特尔®奔腾® III 处理器800Mhz，支持Intel® SpeedStep™技术，二级缓存（L2 Cache）256KB，USB闪存盘 16M/采用笔记本专用英特尔®奔腾® III 处理器750Mhz，支持Intel® SpeedStep™技术，二级缓存（L2 Cache）256KB，USB闪存盘16MB",
+      "最大内存容量": "64MB SDRAM（最大320MB）",
+      "硬盘描述": "EIDE 10GB",
+      "显卡芯片": "S3 savageIV",
+      "显存类型": "8MB （共享）",
+      "音频系统": "Crystal CS4299",
+      "有线网卡": "内置10/100M",
+      "其它接口": "VGA接口（15Pin）、USB接口(2个)、Microphone jack, Line-out、microphone-in/VGA接口（15Pin）、USB接口(2个)、Microphone jack, Line-out",
+      "指取设备": "两键触控板",
+      "键盘描述": "Win95/98键盘",
+      "电池类型": "10",
+      "续航时间": "2.5",
+      "电源适配器": "支持ACPI",
+      "笔记本重量": "1.99Kg",
+      "特色功能": "选配外挂1.44M USB软驱/选配 外挂1.44M USB软驱"
+    }
+  },
+  {
+    "name": "联想昭阳V21 PO800064M010GCO (未知CPU)",
+    "manufacturer": "联想",
+    "series": "联想昭阳V21 PO800064M010GCO",
+    "opendb_id": "v21_po800064m010gco_cpu",
+    "metadata": {
+      "总线规格": "采用笔记本专用带有Intel® SpeedStep™技术的英特尔®奔腾® III 处理器900Mhz，二级缓存（L2 Cache）256KB，USB闪存盘16M/采用笔记本专用Intel® Celeron™ 处理器800Mhz，二级缓存（L2 Cache）128KB，USB闪存盘16M",
+      "最大内存容量": "64MB SDRAM（最大320MB）/128MB SDRAM",
+      "硬盘描述": "EIDE 15GB/EIDE 20GB",
+      "显卡芯片": "S3 savageIV",
+      "显存类型": "8MB （共享）",
+      "有线网卡": "内置10/100M",
+      "其它接口": "VGA接口（15Pin）、USB接口(2个), Microphone-in, headphone、内置microphone",
+      "键盘描述": "Win95/98键盘",
+      "电池类型": "15/20",
+      "续航时间": "2.5",
+      "笔记本重量": "1.99Kg",
+      "特色功能": "移动之窗"
+    }
+  }
+]
