@@ -1,0 +1,35 @@
+[
+  {
+    "name": "宇瞻128MB SDRAM PC133",
+    "manufacturer": "宇瞻",
+    "series": "SDRAM PC133台式机内存系列",
+    "opendb_id": "__128mb_sdram_pc133",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "SDRAM",
+      "内存主频": "133MHz"
+    }
+  },
+  {
+    "name": "宇瞻256MB SDRAM PC133",
+    "manufacturer": "宇瞻",
+    "series": "SDRAM PC133台式机内存系列",
+    "opendb_id": "__256mb_sdram_pc133",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "SDRAM",
+      "内存主频": "133MHz"
+    }
+  },
+  {
+    "name": "宇瞻512MB SDRAM PC133",
+    "manufacturer": "宇瞻",
+    "series": "SDRAM PC133台式机内存系列",
+    "opendb_id": "__512mb_sdram_pc133",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "SDRAM",
+      "内存主频": "133MHz"
+    }
+  }
+]

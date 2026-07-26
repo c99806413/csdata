@@ -1,0 +1,26 @@
+[
+  {
+    "name": "宇瞻512MB DDR500(金牌超频)",
+    "manufacturer": "宇瞻",
+    "series": "DDR 500台式机内存系列",
+    "opendb_id": "__512mb_ddr500______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "500MHz",
+      "颗粒封装": "TSOP"
+    }
+  },
+  {
+    "name": "宇瞻256MB DDR500(金牌超频)",
+    "manufacturer": "宇瞻",
+    "series": "DDR 500台式机内存系列",
+    "opendb_id": "__256mb_ddr500______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "500MHz",
+      "颗粒封装": "TSOP"
+    }
+  }
+]

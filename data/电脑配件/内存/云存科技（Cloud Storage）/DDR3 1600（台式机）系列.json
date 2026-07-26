@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Goldendisk 2GB DDR3 1600（台式机）",
+    "manufacturer": "云存科技",
+    "series": "DDR3 1600（台式机）系列",
+    "opendb_id": "goldendisk_2gb_ddr3_1600_____",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（2GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "240pin",
+      "插槽类型": "SDRAM",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "Goldendisk 8GB DDR3 1600（台式机）",
+    "manufacturer": "云存科技",
+    "series": "DDR3 1600（台式机）系列",
+    "opendb_id": "goldendisk_8gb_ddr3_1600_____",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "240pin",
+      "插槽类型": "SDRAM",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "Goldendisk 4GB DDR3 1600（台式机）",
+    "manufacturer": "云存科技",
+    "series": "DDR3 1600（台式机）系列",
+    "opendb_id": "goldendisk_4gb_ddr3_1600_____",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "240pin",
+      "插槽类型": "SDRAM",
+      "工作电压": "1.5V"
+    }
+  }
+]

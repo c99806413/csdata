@@ -1,0 +1,35 @@
+[
+  {
+    "name": "宇瞻512MB DDRII533(环保无铅)",
+    "manufacturer": "宇瞻",
+    "series": "DDR2 533台式机内存系列",
+    "opendb_id": "__512mb_ddrii533______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "533MHz"
+    }
+  },
+  {
+    "name": "宇瞻1GB DDRII533(环保无铅)",
+    "manufacturer": "宇瞻",
+    "series": "DDR2 533台式机内存系列",
+    "opendb_id": "__1gb_ddrii533______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "533MHz"
+    }
+  },
+  {
+    "name": "宇瞻256MB DDRII533(环保无铅)",
+    "manufacturer": "宇瞻",
+    "series": "DDR2 533台式机内存系列",
+    "opendb_id": "__256mb_ddrii533______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "533MHz"
+    }
+  }
+]
