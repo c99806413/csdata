@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KF2509MCF 2.5英寸SATA MLC系列",
+    "manufacturer": "金速",
+    "series": "KF2509MCF 2.5英寸SATA MLC系列",
+    "opendb_id": "kf2509mcf_2_5_sata_mlc",
+    "metadata": {
+      "存储容量": "240GB/60GB/120GB/480GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC多层单元",
+      "读取速度": "读出：539MB/s，写入：468MB/s",
+      "电源功耗": "5V",
+      "外形尺寸": "100*69.85*9.5mm"
+    }
+  }
+]

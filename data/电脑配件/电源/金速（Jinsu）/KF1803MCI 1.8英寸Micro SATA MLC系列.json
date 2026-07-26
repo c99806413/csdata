@@ -1,0 +1,23 @@
+[
+  {
+    "name": "KF1803MCI 1.8英寸Micro SATA MLC系列",
+    "manufacturer": "金速",
+    "series": "KF1803MCI 1.8英寸Micro SATA MLC系列",
+    "opendb_id": "kf1803mci_1_8_micro_sata_mlc",
+    "metadata": {
+      "存储容量": "64GB/32GB/128GB",
+      "接口类型": "Micro SATA",
+      "硬盘尺寸": "1.8英寸",
+      "闪存架构": "MLC/MLC多层单元",
+      "缓存": "64MB",
+      "读取速度": "连续读出：129MB/s，连续写入：96MB/s4KB随机读出：4232IOPS，4KB随机写入：630IOPS",
+      "电源功耗": "5V±5%",
+      "平均寻道时间": "0.1ms",
+      "平均无故障时间": "200万小时",
+      "外形尺寸": "70*60.1*8.3mm",
+      "产品重量": "62-72g",
+      "其它性能": "S.M.A.R.T支持功能：支持MTBF：2,000,000 Hours 运行功率：Max 2W空转功率：Max 0.5W待机功率：Max 0.3W休眠功率：Max 0.3W主控：INDILINX",
+      "其它特点": "工作温度：0℃-70℃存储温度：-55℃-99℃运行状态抗冲击力1500G（0.5msec half sine wave）抗振动受力20G Peak，10-2000Hz，（15mins/Axis）×3 Axis环境湿度要求0℃-55℃/90-95% RH"
+    }
+  }
+]
