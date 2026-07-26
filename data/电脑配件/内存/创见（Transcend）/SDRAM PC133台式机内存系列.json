@@ -1,0 +1,20 @@
+[
+  {
+    "name": "创见128MB SDRAM PC133",
+    "manufacturer": "创见",
+    "series": "SDRAM PC133台式机内存系列",
+    "opendb_id": "__128mb_sdram_pc133",
+    "metadata": {
+      "内存类型": "SDRAM"
+    }
+  },
+  {
+    "name": "创见256MB SDRAM PC133",
+    "manufacturer": "创见",
+    "series": "SDRAM PC133台式机内存系列",
+    "opendb_id": "__256mb_sdram_pc133",
+    "metadata": {
+      "内存类型": "SDRAM"
+    }
+  }
+]

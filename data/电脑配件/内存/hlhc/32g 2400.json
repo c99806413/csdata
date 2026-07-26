@@ -1,0 +1,24 @@
+[
+  {
+    "name": "hlhc 32g 2400 32g ddr4 2400 单条",
+    "manufacturer": "hlhc",
+    "series": "32g 2400",
+    "opendb_id": "hlhc_32g_2400_32g_ddr4_2400___",
+    "metadata": {
+      "产品型号": "32g 2400",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "hlhc 32g 2400 32g ddr4 2400 双条",
+    "manufacturer": "hlhc",
+    "series": "32g 2400",
+    "opendb_id": "hlhc_32g_2400_32g_ddr4_2400___",
+    "metadata": {
+      "产品型号": "32g 2400",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  }
+]

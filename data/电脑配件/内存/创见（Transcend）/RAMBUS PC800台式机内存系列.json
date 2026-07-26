@@ -1,0 +1,20 @@
+[
+  {
+    "name": "创见128MB RAMBUS PC800",
+    "manufacturer": "创见",
+    "series": "RAMBUS PC800台式机内存系列",
+    "opendb_id": "__128mb_rambus_pc800",
+    "metadata": {
+      "内存类型": "RDRAM"
+    }
+  },
+  {
+    "name": "创见256MB RAMBUS PC800",
+    "manufacturer": "创见",
+    "series": "RAMBUS PC800台式机内存系列",
+    "opendb_id": "__256mb_rambus_pc800",
+    "metadata": {
+      "内存类型": "RDRAM"
+    }
+  }
+]

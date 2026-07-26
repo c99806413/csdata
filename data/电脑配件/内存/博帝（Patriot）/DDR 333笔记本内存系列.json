@@ -1,0 +1,26 @@
+[
+  {
+    "name": "博帝512MB DDR 333（笔记本）",
+    "manufacturer": "博帝",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__512mb_ddr_333_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz"
+    }
+  },
+  {
+    "name": "博帝1GB DDR 333（笔记本）",
+    "manufacturer": "博帝",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__1gb_ddr_333_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "CL延迟": "3",
+      "内存校验": "ECC"
+    }
+  }
+]

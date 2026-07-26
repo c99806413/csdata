@@ -1,0 +1,35 @@
+[
+  {
+    "name": "创见512MB DDR2 667",
+    "manufacturer": "创见",
+    "series": "DDR2 667台式机内存系列",
+    "opendb_id": "__512mb_ddr2_667",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "667MHz"
+    }
+  },
+  {
+    "name": "创见1GB DDR2 667",
+    "manufacturer": "创见",
+    "series": "DDR2 667台式机内存系列",
+    "opendb_id": "__1gb_ddr2_667",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "667MHz"
+    }
+  },
+  {
+    "name": "创见2GB DDR2 667",
+    "manufacturer": "创见",
+    "series": "DDR2 667台式机内存系列",
+    "opendb_id": "__2gb_ddr2_667",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "667MHz"
+    }
+  }
+]

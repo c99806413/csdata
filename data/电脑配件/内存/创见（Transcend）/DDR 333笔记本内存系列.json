@@ -1,0 +1,123 @@
+[
+  {
+    "name": "创见512MB DDR 333(笔记本)",
+    "manufacturer": "创见",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__512mb_ddr_333_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（512MB）",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "针脚数": "200pin",
+      "插槽类型": "DIMM",
+      "颗粒封装": "FBGA",
+      "CL延迟": "2.5"
+    }
+  },
+  {
+    "name": "创见1GB DDR 333（笔记本）",
+    "manufacturer": "创见",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__1gb_ddr_333_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（1GB）",
+      "内存类型": "DDR2",
+      "内存主频": "333MHz",
+      "针脚数": "184pin",
+      "插槽类型": "DIMM",
+      "颗粒封装": "BGA"
+    }
+  },
+  {
+    "name": "创见256MB DDR 333(笔记本)",
+    "manufacturer": "创见",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__256mb_ddr_333_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "FBGA",
+      "CL延迟": "2.5"
+    }
+  },
+  {
+    "name": "创见256MB DDR333_TS",
+    "manufacturer": "创见",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__256mb_ddr333_ts",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz"
+    }
+  },
+  {
+    "name": "创见512MB DDR333_TS",
+    "manufacturer": "创见",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__512mb_ddr333_ts",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz"
+    }
+  },
+  {
+    "name": "创见256MB DDR333_TM",
+    "manufacturer": "创见",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__256mb_ddr333_tm",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz"
+    }
+  },
+  {
+    "name": "创见512MB DDR333_TM",
+    "manufacturer": "创见",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__512mb_ddr333_tm",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz"
+    }
+  },
+  {
+    "name": "创见256MB MICRO DIMM DDR333(TS32MMD64V3F)",
+    "manufacturer": "创见",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__256mb_micro_dimm_ddr333_ts32mmd64v3f_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "SDRAM",
+      "内存主频": "333MHz"
+    }
+  },
+  {
+    "name": "创见256MB SO-DIMM DDR333",
+    "manufacturer": "创见",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__256mb_so_dimm_ddr333",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz"
+    }
+  },
+  {
+    "name": "创见512MB SO-DIMM DDR333",
+    "manufacturer": "创见",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "__512mb_so_dimm_ddr333",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "name": "创见1GB DDR266",
+    "manufacturer": "创见",
+    "series": "DDR 266台式机内存系列",
+    "opendb_id": "__1gb_ddr266",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "266MHz"
+    }
+  },
+  {
+    "name": "创见256MB DDR266",
+    "manufacturer": "创见",
+    "series": "DDR 266台式机内存系列",
+    "opendb_id": "__256mb_ddr266",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存主频": "266MHz"
+    }
+  },
+  {
+    "name": "创见512MB DDR266",
+    "manufacturer": "创见",
+    "series": "DDR 266台式机内存系列",
+    "opendb_id": "__512mb_ddr266",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存主频": "266MHz"
+    }
+  }
+]

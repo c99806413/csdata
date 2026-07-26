@@ -1,0 +1,59 @@
+[
+  {
+    "name": "PNY 2GB DDR2 800",
+    "manufacturer": "PNY",
+    "series": "DDR2 800台式机内存系列",
+    "opendb_id": "pny_2gb_ddr2_800",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "800MHz",
+      "颗粒封装": "FBGA"
+    }
+  },
+  {
+    "name": "PNY 2GB DDR2 800(奇剑版)",
+    "manufacturer": "PNY",
+    "series": "DDR2 800台式机内存系列",
+    "opendb_id": "pny_2gb_ddr2_800_____",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "800MHz"
+    }
+  },
+  {
+    "name": "PNY 512MB DDR2 800",
+    "manufacturer": "PNY",
+    "series": "DDR2 800台式机内存系列",
+    "opendb_id": "pny_512mb_ddr2_800",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "800MHz"
+    }
+  },
+  {
+    "name": "PNY 2GB DDR2 800 （1GB×2双通道套装）",
+    "manufacturer": "PNY",
+    "series": "DDR2 800台式机内存系列",
+    "opendb_id": "pny_2gb_ddr2_800__1gb_2______",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "800MHz",
+      "工作电压": "1.8V"
+    }
+  },
+  {
+    "name": "PNY 1GB DDR2 800",
+    "manufacturer": "PNY",
+    "series": "DDR2 800台式机内存系列",
+    "opendb_id": "pny_1gb_ddr2_800",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR2",
+      "内存主频": "800MHz"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "PNY 1GB DDR2 667(笔记本)",
+    "manufacturer": "PNY",
+    "series": "DDR2 667笔记本内存系列",
+    "opendb_id": "pny_1gb_ddr2_667_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR2",
+      "内存主频": "667MHz",
+      "颗粒封装": "FBGA",
+      "CL延迟": "4-4-4",
+      "内存校验": "否"
+    }
+  },
+  {
+    "name": "PNY 2GB DDR2 667(笔记本)",
+    "manufacturer": "PNY",
+    "series": "DDR2 667笔记本内存系列",
+    "opendb_id": "pny_2gb_ddr2_667_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR2",
+      "内存主频": "667MHz",
+      "颗粒封装": "FBGA",
+      "CL延迟": "4-4-4",
+      "内存校验": "否"
+    }
+  },
+  {
+    "name": "PNY 512MB DDR2 667(笔记本)",
+    "manufacturer": "PNY",
+    "series": "DDR2 667笔记本内存系列",
+    "opendb_id": "pny_512mb_ddr2_667_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR2",
+      "内存主频": "667MHz",
+      "颗粒封装": "FBGA",
+      "CL延迟": "4-4-4",
+      "内存校验": "否"
+    }
+  }
+]

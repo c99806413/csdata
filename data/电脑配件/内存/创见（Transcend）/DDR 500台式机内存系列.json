@@ -1,0 +1,24 @@
+[
+  {
+    "name": "创见256MB DDR500",
+    "manufacturer": "创见",
+    "series": "DDR 500台式机内存系列",
+    "opendb_id": "__256mb_ddr500",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "500MHz"
+    }
+  },
+  {
+    "name": "创见512MB DDR500",
+    "manufacturer": "创见",
+    "series": "DDR 500台式机内存系列",
+    "opendb_id": "__512mb_ddr500",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "500MHz"
+    }
+  }
+]

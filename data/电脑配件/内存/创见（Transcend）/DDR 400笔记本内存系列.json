@@ -1,0 +1,104 @@
+[
+  {
+    "name": "创见256MB DDR400_TS",
+    "manufacturer": "创见",
+    "series": "DDR 400笔记本内存系列",
+    "opendb_id": "__256mb_ddr400_ts",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "400MHz"
+    }
+  },
+  {
+    "name": "创见512MB DDR400_TM",
+    "manufacturer": "创见",
+    "series": "DDR 400笔记本内存系列",
+    "opendb_id": "__512mb_ddr400_tm",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "400MHz"
+    }
+  },
+  {
+    "name": "创见1GB DDR400(笔记本)",
+    "manufacturer": "创见",
+    "series": "DDR 400笔记本内存系列",
+    "opendb_id": "__1gb_ddr400_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "CL延迟": "3"
+    }
+  },
+  {
+    "name": "创见256MB DDR400(笔记本)",
+    "manufacturer": "创见",
+    "series": "DDR 400笔记本内存系列",
+    "opendb_id": "__256mb_ddr400_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "CL延迟": "3"
+    }
+  },
+  {
+    "name": "创见512MB DDR400(笔记本)",
+    "manufacturer": "创见",
+    "series": "DDR 400笔记本内存系列",
+    "opendb_id": "__512mb_ddr400_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "CL延迟": "3"
+    }
+  },
+  {
+    "name": "创见512MB DDR400_TS",
+    "manufacturer": "创见",
+    "series": "DDR 400笔记本内存系列",
+    "opendb_id": "__512mb_ddr400_ts",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "400MHz"
+    }
+  },
+  {
+    "name": "创见256MB DDR400_TM",
+    "manufacturer": "创见",
+    "series": "DDR 400笔记本内存系列",
+    "opendb_id": "__256mb_ddr400_tm",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "400MHz"
+    }
+  },
+  {
+    "name": "创见256MB DDR400(JM434D643A-50)",
+    "manufacturer": "创见",
+    "series": "DDR 400笔记本内存系列",
+    "opendb_id": "__256mb_ddr400_jm434d643a_50_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "400MHz"
+    }
+  },
+  {
+    "name": "创见256MB SO-DIMM DDR400",
+    "manufacturer": "创见",
+    "series": "DDR 400笔记本内存系列",
+    "opendb_id": "__256mb_so_dimm_ddr400",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "400MHz"
+    }
+  }
+]

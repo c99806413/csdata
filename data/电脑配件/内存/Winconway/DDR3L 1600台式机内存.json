@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Winconway 4GB DDR3 1600",
+    "manufacturer": "Winconway",
+    "series": "DDR3L 1600台式机内存",
+    "opendb_id": "winconway_4gb_ddr3_1600",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "240pin",
+      "插槽类型": "DIMM",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "Winconway 8GB DDR3L 1600",
+    "manufacturer": "Winconway",
+    "series": "DDR3L 1600台式机内存",
+    "opendb_id": "winconway_8gb_ddr3l_1600",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "204pin",
+      "插槽类型": "DIMM",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "Winconway 4GB DDR3L 1600",
+    "manufacturer": "Winconway",
+    "series": "DDR3L 1600台式机内存",
+    "opendb_id": "winconway_4gb_ddr3l_1600",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "204pin",
+      "插槽类型": "DIMM",
+      "工作电压": "1.35V"
+    }
+  }
+]

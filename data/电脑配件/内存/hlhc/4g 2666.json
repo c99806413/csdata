@@ -1,0 +1,90 @@
+[
+  {
+    "name": "hlhc 4g 2666 8g ddr4 2666 单条",
+    "manufacturer": "hlhc",
+    "series": "4g 2666",
+    "opendb_id": "hlhc_4g_2666_8g_ddr4_2666___",
+    "metadata": {
+      "产品型号": "苹果内存条",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "hlhc 4g 2666 32g ddr4 2666 单条",
+    "manufacturer": "hlhc",
+    "series": "4g 2666",
+    "opendb_id": "hlhc_4g_2666_32g_ddr4_2666___",
+    "metadata": {
+      "产品型号": "苹果内存条",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "hlhc 4g 2666 4g ddr4 2666 双条",
+    "manufacturer": "hlhc",
+    "series": "4g 2666",
+    "opendb_id": "hlhc_4g_2666_4g_ddr4_2666___",
+    "metadata": {
+      "产品型号": "苹果内存条",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "hlhc 4g 2666 4g ddr4 2666 单条",
+    "manufacturer": "hlhc",
+    "series": "4g 2666",
+    "opendb_id": "hlhc_4g_2666_4g_ddr4_2666___",
+    "metadata": {
+      "产品型号": "4g 2666",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "hlhc 4g 2666 16g ddr4 2666 单条",
+    "manufacturer": "hlhc",
+    "series": "4g 2666",
+    "opendb_id": "hlhc_4g_2666_16g_ddr4_2666___",
+    "metadata": {
+      "产品型号": "苹果内存条",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "hlhc 4g 2666 8g ddr4 2666 双条",
+    "manufacturer": "hlhc",
+    "series": "4g 2666",
+    "opendb_id": "hlhc_4g_2666_8g_ddr4_2666___",
+    "metadata": {
+      "产品型号": "苹果内存条",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "hlhc 4g 2666 16g ddr4 2666 双条",
+    "manufacturer": "hlhc",
+    "series": "4g 2666",
+    "opendb_id": "hlhc_4g_2666_16g_ddr4_2666___",
+    "metadata": {
+      "产品型号": "苹果内存条",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  },
+  {
+    "name": "hlhc 4g 2666 32g ddr4 2666 双条",
+    "manufacturer": "hlhc",
+    "series": "4g 2666",
+    "opendb_id": "hlhc_4g_2666_32g_ddr4_2666___",
+    "metadata": {
+      "产品型号": "苹果内存条",
+      "适用类型": "260-pin ddr4 sdram",
+      "内存主频": "2400MHz"
+    }
+  }
+]

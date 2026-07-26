@@ -1,0 +1,24 @@
+[
+  {
+    "name": "hlhc 8g 1600 8g ddr3 1600 单条",
+    "manufacturer": "hlhc",
+    "series": "8g 1600",
+    "opendb_id": "hlhc_8g_1600_8g_ddr3_1600___",
+    "metadata": {
+      "产品型号": "8g 1600",
+      "适用类型": "204-pin ddr3 sdram",
+      "内存主频": "1600MHz"
+    }
+  },
+  {
+    "name": "hlhc 8g 1600 4g ddr3 1600 双条",
+    "manufacturer": "hlhc",
+    "series": "8g 1600",
+    "opendb_id": "hlhc_8g_1600_4g_ddr3_1600___",
+    "metadata": {
+      "产品型号": "8g 1600",
+      "适用类型": "204-pin ddr3 sdram",
+      "内存主频": "1600MHz"
+    }
+  }
+]
