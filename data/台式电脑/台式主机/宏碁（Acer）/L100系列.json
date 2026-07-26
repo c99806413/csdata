@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Acer Aspire L100",
+    "manufacturer": "Acer宏碁",
+    "series": "L100系列",
+    "opendb_id": "acer_aspire_l100",
+    "metadata": {
+      "产品类型": "家用电脑",
+      "操作系统": "Windows Vista Premium",
+      "CPU系列": "AMD Athlon64 X2",
+      "CPU型号": "AX2 64 4000+",
+      "CPU频率": "2100GHz",
+      "内存容量": "1GBGB",
+      "硬盘容量": "250GB",
+      "光驱类型": "DVD刻录机",
+      "视频接口": "1394数码接口+读卡器"
+    }
+  }
+]

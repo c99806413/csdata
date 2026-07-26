@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Acer Aspire M264",
+    "manufacturer": "Acer宏碁",
+    "series": "Acer Veriton M261",
+    "opendb_id": "acer_veriton_m261_intel_e2200",
+    "metadata": {
+      "产品类型": "商用电脑",
+      "主板芯片组": "SIS672",
+      "CPU系列": "英特尔 奔腾双核",
+      "CPU型号": "Intel 奔腾双核 E2200",
+      "CPU频率": "2200GHz",
+      "总线规格": "800",
+      "核心/线程数": "双核",
+      "内存容量": "1GBGB",
+      "硬盘容量": "160GB",
+      "硬盘描述": "SATA",
+      "显示器尺寸": "19英寸",
+      "显示器描述": "宽屏LCD",
+      "机箱类型": "立式",
+      "显卡类型": "集成显卡",
+      "有线网卡": "1000Mbps以太网卡"
+    }
+  },
+  {
+    "name": "Acer VTM261-2",
+    "manufacturer": "Acer宏碁",
+    "series": "Acer Veriton M261",
+    "opendb_id": "acer_veriton_m261_pd925",
+    "metadata": {
+      "操作系统": "Linux",
+      "CPU系列": "赛扬D",
+      "CPU型号": "PD925",
+      "CPU频率": "3000GHz",
+      "内存容量": "512MBGB",
+      "硬盘容量": "80GB"
+    }
+  },
+  {
+    "name": "Acer VTM261-3",
+    "manufacturer": "Acer宏碁",
+    "series": "Acer Veriton M261",
+    "opendb_id": "acer_veriton_m261_cd420",
+    "metadata": {
+      "操作系统": "Linux",
+      "CPU系列": "赛扬",
+      "CPU型号": "CD420",
+      "CPU频率": "1600GHz",
+      "内存容量": "512MBGB",
+      "硬盘容量": "80GB"
+    }
+  },
+  {
+    "name": "Acer Veriton M261",
+    "manufacturer": "Acer宏碁",
+    "series": "Acer Veriton M261",
+    "opendb_id": "acer_veriton_m261_intel_d420",
+    "metadata": {
+      "产品类型": "家用电脑",
+      "操作系统": "Linux",
+      "主板芯片组": "SiS 672高速芯片组",
+      "CPU系列": "赛扬D",
+      "CPU型号": "Intel 赛扬D420",
+      "CPU频率": "1600GHz",
+      "总线规格": "800",
+      "核心/线程数": "单核",
+      "内存容量": "512MBGB",
+      "硬盘容量": "80GB",
+      "硬盘描述": "SATA2",
+      "显示器尺寸": "17英寸",
+      "显示器描述": "液晶",
+      "机箱类型": "立式"
+    }
+  },
+  {
+    "name": "Acer Veriton M261 (未知CPU)",
+    "manufacturer": "Acer宏碁",
+    "series": "Acer Veriton M261",
+    "opendb_id": "acer_veriton_m261_cpu",
+    "metadata": {
+      "操作系统": "Linux",
+      "CPU系列": "Intel 奔腾 双核 E2140(1.6GHz)",
+      "内存容量": "512MBGB",
+      "硬盘容量": "80GB",
+      "CPU频率": "1600GHz"
+    }
+  },
+  {
+    "name": "Acer Veriton M261（GC089）",
+    "manufacturer": "Acer宏碁",
+    "series": "Acer Veriton M261",
+    "opendb_id": "acer_veriton_m261_intel_e2160",
+    "metadata": {
+      "产品类型": "商用电脑",
+      "操作系统": "Linux",
+      "主板芯片组": "SIS672",
+      "CPU系列": "英特尔 奔腾双核",
+      "CPU型号": "Intel 奔腾双核 E2160",
+      "CPU频率": "1800GHz",
+      "总线规格": "800",
+      "核心/线程数": "双核",
+      "内存容量": "1GBGB",
+      "硬盘容量": "160GB",
+      "显示器尺寸": "17英寸",
+      "显示器描述": "宽屏LCD",
+      "机箱类型": "立式",
+      "显卡类型": "集成显卡",
+      "有线网卡": "1000Mbps以太网卡"
+    }
+  },
+  {
+    "name": "Acer Veriton M261（GC103）",
+    "manufacturer": "Acer宏碁",
+    "series": "Acer Veriton M261",
+    "opendb_id": "acer_veriton_m261_intel_e1200",
+    "metadata": {
+      "产品类型": "商用电脑",
+      "操作系统": "Linux",
+      "主板芯片组": "SIS672",
+      "CPU系列": "赛扬双核",
+      "CPU型号": "Intel 赛扬双核 E1200",
+      "CPU频率": "1600GHz",
+      "总线规格": "800",
+      "核心/线程数": "双核",
+      "内存容量": "512MBGB",
+      "硬盘容量": "160GB",
+      "显示器尺寸": "17英寸",
+      "显示器描述": "宽屏LCD",
+      "机箱类型": "立式",
+      "显卡类型": "集成显卡",
+      "有线网卡": "1000Mbps以太网卡"
+    }
+  },
+  {
+    "name": "Acer Veriton M261（GC105）",
+    "manufacturer": "Acer宏碁",
+    "series": "Acer Veriton M261",
+    "opendb_id": "acer_veriton_m261_intel_2_e4600",
+    "metadata": {
+      "产品类型": "商用电脑",
+      "操作系统": "Linux",
+      "主板芯片组": "SIS672",
+      "CPU系列": "酷睿2双核",
+      "CPU型号": "Intel 酷睿2双核 E4600",
+      "CPU频率": "2400GHz",
+      "总线规格": "800",
+      "核心/线程数": "双核",
+      "内存容量": "1GBGB",
+      "硬盘容量": "160GB",
+      "显示器尺寸": "17英寸",
+      "显示器描述": "宽屏LCD",
+      "机箱类型": "立式",
+      "显卡类型": "集成显卡",
+      "有线网卡": "1000Mbps以太网卡"
+    }
+  },
+  {
+    "name": "Acer Veriton M261（GC106）",
+    "manufacturer": "Acer宏碁",
+    "series": "Acer Veriton M261",
+    "opendb_id": "acer_veriton_m261_intel_440",
+    "metadata": {
+      "产品类型": "商用电脑",
+      "操作系统": "Linux",
+      "主板芯片组": "SIS672",
+      "CPU系列": "赛扬",
+      "CPU型号": "Intel 赛扬 440",
+      "CPU频率": "2000GHz",
+      "总线规格": "800",
+      "核心/线程数": "单核",
+      "内存容量": "512MBGB",
+      "硬盘容量": "160GB",
+      "显示器尺寸": "17英寸",
+      "显示器描述": "宽屏LCD",
+      "机箱类型": "立式",
+      "显卡类型": "集成显卡",
+      "有线网卡": "1000Mbps以太网卡"
+    }
+  },
+  {
+    "name": "Acer Veriton M261（LE161G32）",
+    "manufacturer": "Acer宏碁",
+    "series": "Acer Veriton M261",
+    "opendb_id": "acer_veriton_m261_amd_athlon_le_1640",
+    "metadata": {
+      "产品类型": "家用电脑",
+      "操作系统": "Linux",
+      "CPU系列": "AMD Athlon",
+      "CPU型号": "AMD Athlon LE-1640",
+      "CPU频率": "2600GHz",
+      "总线规格": "1000",
+      "核心/线程数": "单核",
+      "内存容量": "1GBGB",
+      "硬盘容量": "320GB",
+      "硬盘描述": "SATA",
+      "显示器尺寸": "19英寸",
+      "显示器描述": "宽屏LCD",
+      "机箱类型": "立式",
+      "有线网卡": "1000Mbps以太网卡"
+    }
+  }
+]

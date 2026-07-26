@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Acer Aspire L5100",
+    "manufacturer": "Acer宏碁",
+    "series": "L5100系列",
+    "opendb_id": "acer_aspire_l5100",
+    "metadata": {
+      "产品类型": "家用电脑",
+      "操作系统": "Windows Vista Home Premium",
+      "主板芯片组": "AMD 690G高速芯片组",
+      "CPU系列": "AMD Athlon64 X2",
+      "CPU型号": "AMD Athlon64 X2 4400+",
+      "CPU频率": "2300GHz",
+      "总线规格": "1000",
+      "核心/线程数": "双核",
+      "内存容量": "2GB",
+      "硬盘容量": "250GB",
+      "硬盘描述": "SATA2",
+      "光驱类型": "DVD刻录机",
+      "显卡类型": "集成显卡",
+      "显卡芯片": "集成ATI RadeonX1250高性能显卡",
+      "显示器尺寸": "22英寸",
+      "显示器描述": "液晶",
+      "有线网卡": "1000Mbps以太网卡",
+      "机箱类型": "立式",
+      "随机附件": "TV Tuner及摇控器"
+    }
+  }
+]

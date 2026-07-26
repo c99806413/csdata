@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Acer Aspire L320",
+    "manufacturer": "Acer宏碁",
+    "series": "L320系列",
+    "opendb_id": "acer_aspire_l320",
+    "metadata": {
+      "产品类型": "家用电脑",
+      "操作系统": "Windows Vista Home Ultimate",
+      "CPU系列": "Intel 酷睿2双核 E6300(1.86GHz)",
+      "CPU频率": "1860GHz",
+      "总线规格": "1066",
+      "内存容量": "1GBGB",
+      "硬盘容量": "250GB",
+      "光驱类型": "Slot-in SM刻录器",
+      "视频接口": "1394数码接口+读卡器"
+    }
+  }
+]
