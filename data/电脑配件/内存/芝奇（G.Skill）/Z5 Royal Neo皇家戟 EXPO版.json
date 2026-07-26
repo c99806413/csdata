@@ -1,0 +1,40 @@
+[
+  {
+    "name": "芝奇皇家戟 EXPO版  DDR5 6000 32GB（2×16GB）银色",
+    "manufacturer": "芝奇",
+    "series": "Z5 Royal Neo皇家戟 EXPO版",
+    "opendb_id": "______expo___ddr5_6000_32gb_2_16gb___",
+    "metadata": {
+      "产品型号": "F5-6000J2836G16GX2-TR5NS",
+      "适用类型": "台式机",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR5",
+      "内存主频": "6000MHz",
+      "CL延迟": "28-36-36-96",
+      "散热片": "银色电镀镜面铝合金散热片",
+      "灯效": "支持，RGB灯效",
+      "工作电压": "1.40V",
+      "其他性能": "系统灯效同步支持：华硕「神光同步」，技嘉「RGB Fusion」，微星「MSI Mystic Light Sync」 及华擎「Polychrome Sync」灯效整合软件",
+      "其他特点": "AMD EXPO Profile Ready"
+    }
+  },
+  {
+    "name": "芝奇皇家戟 EXPO版  DDR5 8000 32GB（2×16GB）银色",
+    "manufacturer": "芝奇",
+    "series": "Z5 Royal Neo皇家戟 EXPO版",
+    "opendb_id": "______expo___ddr5_8000_32gb_2_16gb___",
+    "metadata": {
+      "产品型号": "F5-8000J3848H16GX2-TR5NS",
+      "适用类型": "台式机",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR5",
+      "内存主频": "8000MHz",
+      "CL延迟": "38-48-48-128",
+      "散热片": "银色电镀镜面铝合金散热片",
+      "灯效": "支持，RGB灯效",
+      "工作电压": "1.45V",
+      "其他性能": "系统灯效同步支持：华硕「神光同步」，技嘉「RGB Fusion」，微星「MSI Mystic Light Sync」 及华擎「Polychrome Sync」灯效整合软件",
+      "其他特点": "AMD EXPO Profile Ready"
+    }
+  }
+]

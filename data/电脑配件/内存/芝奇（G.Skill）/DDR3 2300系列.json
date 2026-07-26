@@ -1,0 +1,33 @@
+[
+  {
+    "name": "芝奇4GB DDR3 2300（F3-18400CL8D-4GBPIS）",
+    "manufacturer": "芝奇",
+    "series": "DDR3 2300系列",
+    "opendb_id": "__4gb_ddr3_2300_f3_18400cl8d_4gbpis_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×2GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2300MHz",
+      "传输标准": "PC3-18400",
+      "针脚数": "240pin",
+      "CL延迟": "8-11-8-28-2N"
+    }
+  },
+  {
+    "name": "芝奇RipjawsX 8GB DDR3 2300（F3-18400CL9D-8GBXMD）",
+    "manufacturer": "芝奇",
+    "series": "DDR3 2300系列",
+    "opendb_id": "__ripjawsx_8gb_ddr3_2300_f3_18400cl9d_8gbxmd_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2300MHz",
+      "针脚数": "240pin",
+      "CL延迟": "9-11-9-28-2N",
+      "散热片": "支持散热",
+      "工作电压": "1.65V"
+    }
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "name": "芝奇RipjawsX 16GB DDR3 2666（F3-2666C11D-16GTXD）",
+    "manufacturer": "芝奇",
+    "series": "RipjawsX（大钢牙）系列",
+    "opendb_id": "__ripjawsx_16gb_ddr3_2666_f3_2666c11d_16gtxd_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2666MHz",
+      "针脚数": "240pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "11",
+      "散热片": "支持散热",
+      "工作电压": "1.65V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇RipjawsX 16GB DDR3 1600（F3-12800CL10D-16GBXL）",
+    "manufacturer": "芝奇",
+    "series": "RipjawsX（大钢牙）系列",
+    "opendb_id": "__ripjawsx_16gb_ddr3_1600_f3_12800cl10d_16gbxl_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "240pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "10-10-10-30",
+      "散热片": "支持散热",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "芝奇RipjawsX 16GB DDR3 2133（F3-2133C9Q-16GXL）",
+    "manufacturer": "芝奇",
+    "series": "RipjawsX（大钢牙）系列",
+    "opendb_id": "__ripjawsx_16gb_ddr3_2133_f3_2133c9q_16gxl_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（4×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2133MHz",
+      "针脚数": "240pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "9-11-11-31",
+      "散热片": "支持散热",
+      "工作电压": "1.65V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇RipjawsX 8GB DDR3 2800（F3-2800C12D-8GTXDG）",
+    "manufacturer": "芝奇",
+    "series": "RipjawsX（大钢牙）系列",
+    "opendb_id": "__ripjawsx_8gb_ddr3_2800_f3_2800c12d_8gtxdg_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2800MHz",
+      "针脚数": "240pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "12",
+      "散热片": "支持散热",
+      "工作电压": "1.65V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇RipjawsX 8GB DDR3 3000（F3-3000C12D-8GTXDG）",
+    "manufacturer": "芝奇",
+    "series": "RipjawsX（大钢牙）系列",
+    "opendb_id": "__ripjawsx_8gb_ddr3_3000_f3_3000c12d_8gtxdg_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "3000MHz",
+      "针脚数": "240pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "12",
+      "散热片": "支持散热",
+      "工作电压": "1.65V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇RipjawsX 8GB DDR3 2666（F3-2666C11D-8GTXD）",
+    "manufacturer": "芝奇",
+    "series": "RipjawsX（大钢牙）系列",
+    "opendb_id": "__ripjawsx_8gb_ddr3_2666_f3_2666c11d_8gtxd_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2666MHz",
+      "针脚数": "240pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "11",
+      "散热片": "支持散热",
+      "工作电压": "1.65V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇RipjawsX 8GB DDR3 1866（F3-14900CL9D-8GBXL）",
+    "manufacturer": "芝奇",
+    "series": "RipjawsX（大钢牙）系列",
+    "opendb_id": "__ripjawsx_8gb_ddr3_1866_f3_14900cl9d_8gbxl_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1866MHz",
+      "针脚数": "240pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "9-10-9-28-2N",
+      "散热片": "支持散热",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "芝奇RipjawsX 8GB DDR3 1600（F3-12800CL10S-8GBXL）",
+    "manufacturer": "芝奇",
+    "series": "RipjawsX（大钢牙）系列",
+    "opendb_id": "__ripjawsx_8gb_ddr3_1600_f3_12800cl10s_8gbxl_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "240pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "10",
+      "散热片": "支持散热",
+      "工作电压": "1.5V",
+      "XMP": "支持"
+    }
+  },
+  {
+    "name": "芝奇RipjawsX 8GB DDR3 2133（F3-2133C11S-8GXL）",
+    "manufacturer": "芝奇",
+    "series": "RipjawsX（大钢牙）系列",
+    "opendb_id": "__ripjawsx_8gb_ddr3_2133_f3_2133c11s_8gxl_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2133MHz",
+      "针脚数": "240pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "11-13-13-31",
+      "散热片": "支持散热",
+      "工作电压": "1.5V",
+      "XMP": "支持"
+    }
+  },
+  {
+    "name": "芝奇RipjawsX 8GB DDR3 1333（F3-10666CL9S-8GBXL）",
+    "manufacturer": "芝奇",
+    "series": "RipjawsX（大钢牙）系列",
+    "opendb_id": "__ripjawsx_8gb_ddr3_1333_f3_10666cl9s_8gbxl_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1333MHz",
+      "针脚数": "240pin",
+      "CL延迟": "9",
+      "散热片": "支持散热",
+      "工作电压": "1.5V"
+    }
+  }
+]

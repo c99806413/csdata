@@ -1,0 +1,50 @@
+[
+  {
+    "name": "长城8GB DDR4 3200MHz",
+    "manufacturer": "长城",
+    "series": "3200MHz",
+    "opendb_id": "__8gb_ddr4_3200mhz",
+    "metadata": {
+      "产品型号": "长城 8GB DDR4 3200MHz 台式机内存条",
+      "适用类型": "台式机",
+      "容量描述": "8GB",
+      "内存类型": "DDR4",
+      "内存主频": "3200MHz",
+      "针脚数": "288pin",
+      "插槽类型": "UD-IMM",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "长城16GB DDR4 3200MHz",
+    "manufacturer": "长城",
+    "series": "3200MHz",
+    "opendb_id": "__16gb_ddr4_3200mhz",
+    "metadata": {
+      "产品型号": "长城 16GB DDR4 3200MHz 台式机内存条",
+      "适用类型": "台式机",
+      "容量描述": "16GB",
+      "内存类型": "DDR4",
+      "内存主频": "3200MHz",
+      "针脚数": "288pin",
+      "插槽类型": "UD-IMM",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "长城32GB DDR4 3200MHz",
+    "manufacturer": "长城",
+    "series": "3200MHz",
+    "opendb_id": "__32gb_ddr4_3200mhz",
+    "metadata": {
+      "产品型号": "长城 32GB DDR4 3200MHz 台式机内存条",
+      "适用类型": "台式机",
+      "容量描述": "32GB",
+      "内存类型": "DDR4",
+      "内存主频": "3200MHz",
+      "针脚数": "288pin",
+      "插槽类型": "UD-IMM",
+      "工作电压": "1.2V"
+    }
+  }
+]

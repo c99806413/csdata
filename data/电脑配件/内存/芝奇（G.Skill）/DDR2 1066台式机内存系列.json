@@ -1,0 +1,40 @@
+[
+  {
+    "name": "芝奇F2-8500CL5D-4GBPI-B",
+    "manufacturer": "芝奇",
+    "series": "DDR2 1066台式机内存系列",
+    "opendb_id": "__f2_8500cl5d_4gbpi_b",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×2GB）",
+      "内存类型": "DDR2",
+      "内存主频": "1066MHz"
+    }
+  },
+  {
+    "name": "芝奇4GB DDR2 1066（F2-8500CL5D-4GBPQ）",
+    "manufacturer": "芝奇",
+    "series": "DDR2 1066台式机内存系列",
+    "opendb_id": "__4gb_ddr2_1066_f2_8500cl5d_4gbpq_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×2GB）",
+      "内存类型": "DDR2",
+      "内存主频": "1066MHz",
+      "CL延迟": "5-6-6-18"
+    }
+  },
+  {
+    "name": "芝奇4GB DDR2 1066（F2-8500CL5D-4GBPK）",
+    "manufacturer": "芝奇",
+    "series": "DDR2 1066台式机内存系列",
+    "opendb_id": "__4gb_ddr2_1066_f2_8500cl5d_4gbpk_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×2GB）",
+      "内存类型": "DDR2",
+      "内存主频": "1066MHz",
+      "CL延迟": "5-5-515"
+    }
+  }
+]

@@ -1,0 +1,453 @@
+[
+  {
+    "name": "芝奇Ripjaws4 16GB DDR4 2400（F4-2400C15D-16GVR）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_16gb_ddr4_2400_f4_2400c15d_16gvr_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2800MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "16-16-16-36",
+      "散热片": "支持散热",
+      "工作电压": "1.2V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 8GB DDR4 3000（F4-3000C15S-8GRBB）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_8gb_ddr4_3000_f4_3000c15s_8grbb_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3000MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "15-16-16-35",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 8GB DDR4 3200（F4-3200C16S-8GRKB）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_8gb_ddr4_3200_f4_3200c16s_8grkb_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3200MHz",
+      "CL延迟": "16-18-18-38",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 16GB DDR4 3600（F4-3600C19D-16GRKB）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_16gb_ddr4_3600_f4_3600c19d_16grkb_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3600MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "19",
+      "散热片": "支持散热",
+      "工作电压": "1.2V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 8GB DDR4 2400（F4-2400C15S-8GRK）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_8gb_ddr4_2400_f4_2400c15s_8grk_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "15-15-15-35",
+      "散热片": "支持散热",
+      "工作电压": "1.2V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 16GB DDR4 3000（F4-3000C16D-16GRRB）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_16gb_ddr4_3000_f4_3000c16d_16grrb_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3000MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "16-18-18-38",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 8GB DDR4 2800（F4-2800C16S-8GRK）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_8gb_ddr4_2800_f4_2800c16s_8grk_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2800MHz",
+      "CL延迟": "16-16-16-36-2N",
+      "工作电压": "1.2V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 16GB DDR4 3000（F4-3300C16Q-16GRK）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_16gb_ddr4_3000_f4_3300c16q_16grk_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（4×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3000MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "16-16-16-36",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 64GB DDR4 2666（F4-2666C16Q2-64GRB）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_64gb_ddr4_2666_f4_2666c16q2_64grb_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（8×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2666MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "16-16-16-36",
+      "散热片": "支持散热",
+      "工作电压": "1.2V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 32GB DDR4 2800（F4-2800C15Q-32GRBB）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_32gb_ddr4_2800_f4_2800c15q_32grbb_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（8×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2800MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "15-16-16-35",
+      "散热片": "支持散热",
+      "工作电压": "1.25V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 16GB DDR4 3000（F4-3000C15D-16GRBB）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_16gb_ddr4_3000_f4_3000c15d_16grbb_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3000MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "15-16-16-35",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 8GB DDR4 2666（F4-2666C19S-8GRK）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_8gb_ddr4_2666_f4_2666c19s_8grk_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2666MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "19",
+      "散热片": "支持散热",
+      "工作电压": "1.2V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 16GB DDR4 2666（F4-2666C19D-16GRK）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_16gb_ddr4_2666_f4_2666c19d_16grk_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2666MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "19",
+      "散热片": "支持散热",
+      "工作电压": "1.2V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 8GB DDR4 3200（F4-3200C16D-8GRB）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_8gb_ddr4_3200_f4_3200c16d_8grb_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3200MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "16-18-18-38",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 16GB DDR4 2666（F4-2666C15Q-16GRR）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_16gb_ddr4_2666_f4_2666c15q_16grr_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（4×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2666MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "15-15-15-35",
+      "散热片": "支持散热",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 16GB DDR4 2800（F4-2800C16Q-16GRK）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_16gb_ddr4_2800_f4_2800c16q_16grk_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（4×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2800MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "16",
+      "散热片": "支持散热",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 32GB DDR4 2400（F4-2400C15Q-32GRB）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_32gb_ddr4_2400_f4_2400c15q_32grb_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（8×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "15-15-15-35",
+      "散热片": "支持散热",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 128GB DDR4 2400（F4-2400C14Q2-128GRK）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_128gb_ddr4_2400_f4_2400c14q2_128grk_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（8×16GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "14-14-14-34",
+      "散热片": "支持散热",
+      "工作电压": "1.2V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 16GB DDR4 2666（F4-2666C16Q-16GRB）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_16gb_ddr4_2666_f4_2666c16q_16grb_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（4×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2666MHz",
+      "CL延迟": "16-16-16-36",
+      "散热片": "支持散热",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 32GB DDR4 2666（F4-2666C15Q-32GRR）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_32gb_ddr4_2666_f4_2666c15q_32grr_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（4×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2666MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "15-15-15-35",
+      "散热片": "支持散热",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 16GB DDR4 3333（F4-3333C16Q-16GRK）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_16gb_ddr4_3333_f4_3333c16q_16grk_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（4×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3333MHz",
+      "针脚数": "240pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "16-16-16-36",
+      "散热片": "支持散热",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 16GB DDR4 3000（F4-3000C15Q-16GRR）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_16gb_ddr4_3000_f4_3000c15q_16grr_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（4×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3000MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "15-15-15-35",
+      "散热片": "支持散热",
+      "工作电压": "1.35V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 16GB DDR4 2400（F4-2400C15Q-16GRR）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_16gb_ddr4_2400_f4_2400c15q_16grr_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（4×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "15-15-15-35",
+      "散热片": "支持散热",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 32GB DDR4 2400（F4-2400C15Q-32GRR）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_32gb_ddr4_2400_f4_2400c15q_32grr_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（8×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "15-15-15-35",
+      "散热片": "支持散热",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 16GB DDR4 2400（F4-2400C15Q-16GRB）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_16gb_ddr4_2400_f4_2400c15q_16grb_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（4×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "15-15-15-35",
+      "散热片": "支持散热",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "芝奇Ripjaws4 16GB DDR4 2133（F4-2133C15Q-16GRB）",
+    "manufacturer": "芝奇",
+    "series": "Ripjaws4",
+    "opendb_id": "__ripjaws4_16gb_ddr4_2133_f4_2133c15q_16grb_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（4×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2133MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "15-15-15-35",
+      "散热片": "支持散热",
+      "工作电压": "1.2V"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "芝奇Aegis 8GB DDR4 2400（F4-2400C17S-8GISM）",
+    "manufacturer": "芝奇",
+    "series": "Aegis系列",
+    "opendb_id": "__aegis_8gb_ddr4_2400_f4_2400c17s_8gism_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "17-17-17-39",
+      "性能评分": "13258",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "芝奇Aegis 8GB DDR4 2400（F4-2400C15S-8GIS）",
+    "manufacturer": "芝奇",
+    "series": "Aegis系列",
+    "opendb_id": "__aegis_8gb_ddr4_2400_f4_2400c15s_8gis_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "15-15-15-35",
+      "工作电压": "1.2V"
+    }
+  }
+]
