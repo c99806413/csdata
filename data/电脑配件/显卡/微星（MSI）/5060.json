@@ -1,0 +1,36 @@
+[
+  {
+    "name": "5060 (8GB)",
+    "manufacturer": "msi微星",
+    "series": "5060",
+    "opendb_id": "5060_8gb",
+    "metadata": {
+      "产品型号": "GeForce RTX 5060 8G GAMING TRIO OC/GeForce RTX 5060 8G VENTUS 3X OC/GeForce RTX 5060 8G GAMING TRIO OC WHITE/GeForce RTX 5060 8G GAMING DUKE 3X/GeForce RTX 5060 8G VENTUS 2X OC/GeForce RTX 5060 8G VENTUS 2X WHITE/GeForce RTX 5060 8G SHADOW 2X OC/GeForce RTX 5060 8G VENTUS 2X OC WHITE/GeForce RTX? 5060 8G GAMING OC/GeForce RTX 5060 8G INSPIRE 2X OC/GeForce RTX 5060 8G VENTUS 2X/GeForce RTX 5060 8G GAMING DUKE 3X OC/GeForce RTX 5060 8G VENTUS 3X/GeForce RTX 5060 8G SHADOW 2X/GeForce RTX 5060 8G GAMING TRIO WHITE/GeForce RTX 5060 8G GAMING TRIO/GeForce RTX 5060 8G GAMING/GeForce RTX 5060 8G INSPIRE 2X",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 5060",
+      "显示芯片系列": "NVIDIA GTX 50系列",
+      "核心频率": "极致模式: 2640 MHz (MSI Center)Boost模式: 2625MHz/极致模式：2512MHz (MSI Center)Boost模式：2497MHz/极致模式：2535MHz (MSI Center)Boost模式：2527MHz/极致模式: 2512MHz (MSI Center)Boost模式: 2497MHz/极致模式: 2535MHz (MSI Center)Boost模式: 2527MHz/极致模式： 2640MHz (MSI Center)Boost模式：2625MHz/极致模式：2550MHz (MSI Center)Boost模式：2535MHz",
+      "CUDA核心": "3840个",
+      "显存频率": "2800MHz",
+      "显存类型": "GDDR7",
+      "显存容量": "8GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 5.0 16X",
+      "I/O接口": "1×HDMI2.1b接口，3×DisplayPor2.1bt接口",
+      "电源接口": "8pin",
+      "显卡类型": "发烧级",
+      "显卡设计": "非公版",
+      "散热方式": "三风扇散热+热管散热/双风扇散热+热管散热",
+      "散热设计": "TRI FROZR 4 散热设计",
+      "3D API": "DirectX 12 Ultimate，OpenGL 4.6",
+      "支持HDCP": "是",
+      "产品尺寸": "300×125×44mm/325×121×45mm/197×120×41mm/197×120×40mm/248×135×41mm/204×117×41mm/303×121×41mm",
+      "重量": "0.797kg/0.972kg/0.511kg/0.493kg/0.649kg/0.684kg/0.497kg",
+      "建议电源": "550W",
+      "多屏设计": "4",
+      "VR Ready级别": "是",
+      "其它特点": "NVIDIA G-SYNC技术"
+    }
+  }
+]

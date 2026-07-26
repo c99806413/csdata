@@ -1,0 +1,41 @@
+[
+  {
+    "name": "5060 Ti (8GB)",
+    "manufacturer": "msi微星",
+    "series": "5060 Ti",
+    "opendb_id": "5060_ti_8gb",
+    "metadata": {
+      "产品型号": "GeForce RTX 5060 Ti 8G GAMING TRIO/GeForce RTX 5060 Ti 8G GAMING DUKE 3X OC/GeForce RTX 5060 Ti 8G SHADOW 3X OC CLASSIC/GeForce RTX 5060 Ti 8G VENTUS 3X OC/GeForce RTX 5060 Ti 8G VENTUS 2X OC CLASSIC/GeForce RTX 5060 Ti 8G GAMING/GeForce RTX 5060 Ti 8G GAMING TRIO WHITE/GeForce RTX 5060 Ti 8G VENTUS 3X/GeForce RTX 5060 Ti 8G GAMING DUKE 3X/GeForce RTX 5060 Ti 8G INSPIRE 2X/GeForce RTX 5060 Ti 8G VENTUS 2X PLUS",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 5060 Ti",
+      "显示芯片系列": "NVIDIA RTX 50系列",
+      "核心代号": "Blackwell",
+      "核心频率": "极致模式：2587MHzBoost模式：2572MHz/2602-2617MHz/2647-2662MHz/2617-2632MHz/极致模式：2632MHzBoost模式：2617MHz/极致模式：2617MHzBoost模式：2602MHz/极致模式：2662MHzBoost模式：2647MHz",
+      "CUDA核心": "4608个",
+      "显存频率": "28000MHz",
+      "显存类型": "GDDR7",
+      "显存容量": "8GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 5.0 16X",
+      "I/O接口": "1×HDMI 2.1接口，3×DisplayPort2.1接口",
+      "电源接口": "8pin/16pin",
+      "显卡类型": "主流级",
+      "散热方式": "三风扇散热+热管散热/双风扇散热+热管散热",
+      "3D API": "DirectX 12，OpenGL 4.6",
+      "支持HDCP": "是",
+      "产品尺寸": "300×125×44mm/226×126×41mm/204×117×50mm/325×121×45mm/308×120×43mm/306×121×44mm/241×125×51mm/247×135×51mm/227×126×41mm",
+      "重量": "0.839kg/0.553kg/0.652kg/0.884kg/0.802kg/0.793kg/0.809kg/0.768kg",
+      "建议电源": "600W",
+      "多屏设计": "4",
+      "其它特点": "NVIDIA G-SYNC技术"
+    }
+  },
+  {
+    "name": "5060 Ti (未知显存)",
+    "manufacturer": "msi微星",
+    "series": "5060 Ti",
+    "opendb_id": "5060_ti",
+    "metadata": {}
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "GTX465系列 (1GB)",
+    "manufacturer": "msi微星",
+    "series": "GTX465系列",
+    "opendb_id": "gtx465_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 465",
+      "显示芯片系列": "NVIDIA GTX400系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF100",
+      "核心频率": "607MHz",
+      "CUDA核心": "352个",
+      "显存频率": "3206MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "Mini HDMI接口/双DVI接口",
+      "散热方式": "涡轮风扇/散热风扇",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "GTX960系列 (2GB)",
+    "manufacturer": "msi微星",
+    "series": "GTX960系列",
+    "opendb_id": "gtx960_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 960",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM206",
+      "核心频率": "1216/1279MHz/1178/1241MHz",
+      "CUDA核心": "1024个",
+      "显存频率": "7010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "4096×2160/2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "8pin/6pin",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热+热管散热/散热风扇+热管散热",
+      "3D API": "DirectX 12",
+      "支持HDCP": "是",
+      "产品尺寸": "267×139×36mm/273×130×37mm/267×139×48mm/170×110×38mm",
+      "最大功耗": "120W",
+      "其它特点": "支持NVIDIA SLI技术，Afterburner超频软件/支持NVIDIA SLI技术，3D Vision技术，GPU Boost 2.0技术，Afterburner超频软件"
+    }
+  },
+  {
+    "name": "GTX960系列 (4GB)",
+    "manufacturer": "msi微星",
+    "series": "GTX960系列",
+    "opendb_id": "gtx960_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 960",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM206",
+      "核心频率": "1178/1241MHz/1127/1304MHz",
+      "CUDA核心": "1024个",
+      "显存频率": "7010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热+热管散热/双风扇散热+三热管散热",
+      "3D API": "DirectX 12/DirectX 12，OpenGL 4.4",
+      "支持HDCP": "是",
+      "产品尺寸": "273×130×37mm/267×139×40mm",
+      "最大功耗": "120W",
+      "其它特点": "支持NVIDIA SLI技术/支持NVIDIA 2-way SLI技术，Afterburner超频软件"
+    }
+  }
+]

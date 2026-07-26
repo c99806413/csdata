@@ -1,0 +1,77 @@
+[
+  {
+    "name": "GTS450系列 (1GB)",
+    "manufacturer": "msi微星",
+    "series": "GTS450系列",
+    "opendb_id": "gts450_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTS 450",
+      "显示芯片系列": "NVIDIA GTS400系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF106",
+      "核心频率": "783MHz/850MHz/925MHz/900MHz/700MHz",
+      "CUDA核心": "192个",
+      "显存频率": "3608MHz/4000MHz/3840MHz/3640MHz/1800MHz",
+      "显存类型": "GDDR5/GDDR3",
+      "显存容量": "1GB",
+      "显存位宽": "128bitbit",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口/HDMI接口/双DVI接口/双DVI接口/Mini HDMI接口/DVI接口/VGA接口/HDMI接口/Mini HDMI接口/双DVI接口/HDMI接口/DVI接口/D-sub接口",
+      "散热方式": "散热风扇/散热风扇+热管/散热片（静音）",
+      "3D API": "DirectX 11/DirectX 11OpenGL 4.1",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术显卡功耗：104W/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术，重量：425g/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术，TDB功耗104W"
+    }
+  },
+  {
+    "name": "GTS450系列 (512GB)",
+    "manufacturer": "msi微星",
+    "series": "GTS450系列",
+    "opendb_id": "gts450_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTS 450",
+      "显示芯片系列": "NVIDIA GTS400系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF106",
+      "核心频率": "783MHz/850MHz",
+      "CUDA核心": "192个",
+      "显存频率": "3608MHz/4000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "512GB",
+      "显存位宽": "128bitbit",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口/DVI接口/VGA接口/HDMI接口",
+      "散热方式": "散热风扇",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术显卡功耗：104W/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术，TDB功耗104W/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术，重量：425g",
+      "接口类型": "PCI Express 2.0 16X",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是"
+    }
+  },
+  {
+    "name": "GTS450系列 (0.512GB)",
+    "manufacturer": "msi微星",
+    "series": "GTS450系列",
+    "opendb_id": "gts450_0_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTS 450",
+      "显示芯片系列": "NVIDIA GTS400系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF106",
+      "核心频率": "783MHz",
+      "CUDA核心": "192个",
+      "显存频率": "3608MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "0.512GB",
+      "显存位宽": "128bitbit",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  }
+]

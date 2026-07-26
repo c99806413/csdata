@@ -1,0 +1,74 @@
+[
+  {
+    "name": "9600GT系列 (1GB)",
+    "manufacturer": "msi微星",
+    "series": "9600GT系列",
+    "opendb_id": "9600gt_1gb",
+    "metadata": {
+      "芯片厂商": "nVIDIA/NVIDIA",
+      "显卡芯片": "GeForce 9600GT",
+      "制作工艺": "65纳米/55纳米",
+      "核心代号": "G94",
+      "核心频率": "700MHz/600MHz/650MHz",
+      "CUDA核心": "64个",
+      "显存频率": "1800MHz/1400MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)/HDMI",
+      "电源接口": "6PIN/6pin",
+      "散热方式": "散热风扇+热管散热/散热风扇/HYBIRD FAN",
+      "3D API": "DirectX 10/DirectX 10OpenGL 2.1"
+    }
+  },
+  {
+    "name": "9600GT系列 (512GB)",
+    "manufacturer": "msi微星",
+    "series": "9600GT系列",
+    "opendb_id": "9600gt_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA/nVIDIA",
+      "显卡芯片": "GeForce 9600GT",
+      "制作工艺": "55纳米/65纳米",
+      "核心代号": "G94",
+      "核心频率": "600MHz/700MHz/650MHz",
+      "显存频率": "1400MHz/1900MHz/1800MHz/1600MHz/1700MHz",
+      "显存容量": "512GB",
+      "最大分辨率": "2560×1600/2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI/S-video接口(TV-Out)/DisplayPort/HDMI",
+      "散热方式": "散热风扇/海藻扇+热管散热",
+      "3D API": "DirectX 10/DirectX 10OpenGL 2.1",
+      "CUDA核心": "64个",
+      "显存类型": "GDDR3",
+      "显存位宽": "256bitbit",
+      "电源接口": "6pin/6PIN"
+    }
+  },
+  {
+    "name": "9600GT系列 (256GB)",
+    "manufacturer": "msi微星",
+    "series": "9600GT系列",
+    "opendb_id": "9600gt_256gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA/nVIDIA",
+      "显卡芯片": "GeForce 9600GT",
+      "制作工艺": "65纳米",
+      "核心代号": "G94",
+      "CUDA核心": "64个",
+      "显存类型": "DDR3/GDDR3",
+      "显存容量": "256GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10",
+      "核心频率": "700MHz",
+      "显存频率": "1400MHz",
+      "电源接口": "6pin"
+    }
+  }
+]

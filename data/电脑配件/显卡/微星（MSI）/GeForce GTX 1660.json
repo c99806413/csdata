@@ -1,0 +1,31 @@
+[
+  {
+    "name": "GeForce GTX 1660 (6GB)",
+    "manufacturer": "msi微星",
+    "series": "GeForce GTX 1660",
+    "opendb_id": "geforce_gtx_1660_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1660",
+      "显示芯片系列": "NVIDIA GTX 16系列",
+      "核心频率": "1830MHz/1785MHz/1860MHz/1845MHz",
+      "流处理单元": "1408个",
+      "显存频率": "8000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "6GB",
+      "显存位宽": "192bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口/1×HDMI接口，3×DisplayPort接口/1×HDMI接口，1×DisplayPort接口，1×DVI接口",
+      "电源接口": "6pin/8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热/散热风扇/双风扇散热（TwinFrozr7/刀锋5带风扇*2）",
+      "3D API": "DirectX 12，OpenGL 4.5/DirectX 12.1，OpenGL 4.5",
+      "支持HDCP": "是，HDCP 2.2/是",
+      "产品尺寸": "205×126×42mm/178×126×41mm/206×127×43mm/247×127×46mm/243×129×42mm",
+      "最大功耗": "130W/120W",
+      "建议电源": "450W",
+      "其它特点": "支持3屏输出，NVIDIA G-SYNC技术/支持4屏输出，NVIDIA G-SYNC技术/VR Ready级别显卡，NVIDIA G-SYNC技术/背板/灯效：金属背板/RGB流光灯效，VR Ready级别显卡，NVIDIA G-SYNC技术"
+    }
+  }
+]

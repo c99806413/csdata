@@ -1,0 +1,32 @@
+[
+  {
+    "name": "GeForce GTX 1650系列 (4GB)",
+    "manufacturer": "msi微星",
+    "series": "GeForce GTX 1650系列",
+    "opendb_id": "geforce_gtx_1650_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1650",
+      "显示芯片系列": "NVIDIA GTX 16系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU117",
+      "核心频率": "1740MHz/1860MHz/1695MHz",
+      "CUDA核心": "896个",
+      "显存频率": "8000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口/1×HDMI接口，2×DisplayPort接口",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热/双风扇散热（TwinFrozr 7/刀锋5带风扇*2）/散热风扇",
+      "3D API": "DirectX 12.1，OpenGL 4.5/DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是，HDCP 2.2",
+      "产品尺寸": "177×111×38mm/245×127×39mm/170×111×38mm",
+      "最大功耗": "75W/85W",
+      "其它特点": "最大屏幕输出数：3支持NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNCGame Ready 驱动程序支持NVIDIA GPU BoostNVIDIA Encoder (NVENC)/炫白龙魂灯支持NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNCGame Ready 驱动程序支持NVIDIA GPU BoostNVIDIA Encoder (NVENC)/支持NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNCGame Ready 驱动程序支持NVIDIA GPU BoostNVIDIA Encoder/支持NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNCGame Ready 驱动程序支持NVIDIA GPU BoostNVIDIA Encoder (NVENC)",
+      "上市日期": "2019年04月/2020年04月"
+    }
+  }
+]

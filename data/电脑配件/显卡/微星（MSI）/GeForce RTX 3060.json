@@ -1,0 +1,30 @@
+[
+  {
+    "name": "GeForce RTX 3060 (12GB)",
+    "manufacturer": "msi微星",
+    "series": "GeForce RTX 3060",
+    "opendb_id": "geforce_rtx_3060_12gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 3060",
+      "显示芯片系列": "NVIDIA RTX 30系列",
+      "制作工艺": "8纳米",
+      "核心代号": "GA106",
+      "显存频率": "15000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "12GB",
+      "显存位宽": "192bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口/1×HDMI2.1接口，3×DisplayPort1.4a接口",
+      "电源接口": "8pin+8pin/8pin/8pin+6pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热/双风扇散热/散热风扇",
+      "3D API": "DirectX 12，OpenGL 4.6",
+      "支持HDCP": "是",
+      "产品尺寸": "323×140×56mm/235×124×42mm/172×125×43mm/276×131×51mm/324×140×57mm/316×120×42mm",
+      "建议电源": "550W以上",
+      "其它特点": "NVIDIA G-SYNC技术，自适应垂直同步，VR READY/NVIDIA G-SYNC技术，自适应垂直同步，VR READY，支持最多4屏输出/支持最多4屏输出，支持G-SYNC技术，自适应垂直同步/NVIDIA G-SYNC技术，自适应垂直同步，多显卡技术，VR READY/最多支持4屏输出"
+    }
+  }
+]

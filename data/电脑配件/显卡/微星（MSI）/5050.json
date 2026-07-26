@@ -1,0 +1,35 @@
+[
+  {
+    "name": "5050 (8GB)",
+    "manufacturer": "msi微星",
+    "series": "5050",
+    "opendb_id": "5050_8gb",
+    "metadata": {
+      "产品型号": "GeForce RTX 5050 8G VENTUS 2X OC/GeForce RTX 5050 8G GAMING OC/GeForce RTX 5050 8G SHADOW 2X OC/GeForce RTX 5050 8G GAMING/GeForce RTX 5050 8G VENTUS 2X",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 5050",
+      "显示芯片系列": "NVIDIA RTX 50系列",
+      "核心代号": "Blackwell",
+      "核心频率": "极致模式: 2617MHz (MSI Center)Boost模式: 2602MHz/极致模式: 2647MHz (MSI Center)Boost模式: 2632MHz/极致模式: 2587MHz (MSI Center)Boost模式: 2572MHz",
+      "CUDA核心": "2560个",
+      "显存频率": "20000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 5.0 16X",
+      "I/O接口": "1×HDMI2.1b接口，3×DisplayPort2.1b接口",
+      "电源接口": "8pin",
+      "显卡类型": "入门级",
+      "显卡设计": "非公版",
+      "散热方式": "二风扇散热",
+      "3D API": "DirectX 12 Ultimate，OpenGL 4.6",
+      "支持HDCP": "是",
+      "产品尺寸": "197×120×41mm/202×120×41mm/197×120×40mm",
+      "重量": "0.491kg/0.497kg/0.478kg",
+      "最大功耗": "130W",
+      "建议电源": "550W",
+      "多屏设计": "4"
+    }
+  }
+]
