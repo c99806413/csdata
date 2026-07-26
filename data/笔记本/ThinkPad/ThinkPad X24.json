@@ -1,0 +1,62 @@
+[
+  {
+    "name": "IBM ThinkPad X24 2662-CGC",
+    "manufacturer": "ThinkPad",
+    "series": "IBM ThinkPad X24 2662-F1C",
+    "opendb_id": "ibm_thinkpad_x24_2662_f1c_cpu",
+    "metadata": {
+      "CPU主频": "1.133GHz",
+      "内存容量": "256MB",
+      "硬盘容量": "30.000",
+      "有线网卡": "10/100 Ethernet",
+      "显卡芯片": "ATI Mobility RADEON M6，AGP 4X，3D Graphics",
+      "显存类型": "8MB SDRAM",
+      "音频系统": "Microsoft Windows XP 专业版",
+      "其它接口": "2 (USB)，RJ45，RJ11，Microphone jack，Line in，Infrared，IEEE1394，Expansion bus (for dock or port replicator)，AC adapter jack，Headphone/Line out，External Display Port，Docking/UltraBase X2，2 U",
+      "指取设备": "TrackPoint with",
+      "键盘描述": "标准全尺寸键盘",
+      "电池类型": "6 Cell Lithium-Ion",
+      "续航时间": "4",
+      "电源适配器": "Hibernation mode，Battery Power Status Display",
+      "笔记本重量": "1.7Kg",
+      "特色功能": "保修：3年部件及人力（系统电池：1年）"
+    }
+  },
+  {
+    "name": "IBM ThinkPad X24 2662-F1C",
+    "manufacturer": "ThinkPad",
+    "series": "IBM ThinkPad X24 2662-F1C",
+    "opendb_id": "ibm_thinkpad_x24_2662_f1c_intel_piii",
+    "metadata": {
+      "CPU型号": "Intel PIII",
+      "CPU主频": "1.06GHz",
+      "内存容量": "128.000",
+      "硬盘容量": "20GB",
+      "有线网卡": "100M"
+    }
+  },
+  {
+    "name": "IBM ThinkPad X24 2672-33C",
+    "manufacturer": "ThinkPad",
+    "series": "IBM ThinkPad X24 2662-F1C",
+    "opendb_id": "ibm_thinkpad_x24_2662_f1c_intel_piii_m",
+    "metadata": {
+      "CPU型号": "Intel PIII-M",
+      "CPU主频": "866MHz",
+      "内存容量": "128.000",
+      "硬盘容量": "30.000",
+      "有线网卡": "10/100",
+      "显卡芯片": "ATI Mobility RADEON M6，AGP 4X，3D Graphics",
+      "显存类型": "8MB SDRAM",
+      "音频系统": "Sound Blaster Pro 16 compatible sound system",
+      "其它接口": "2 (USB)，RJ45，RJ11，Microphone jack，Line in，Infrared，IEEE1394，Expansion bus (for dock or port replicator)，AC adapter jack，Headphone/Line out，External Display Port，Docking/UltraBase X2，2 U",
+      "指取设备": "TrackPoint with",
+      "键盘描述": "标准全尺寸键盘",
+      "电池类型": "6 Cell Lithium-Ion",
+      "续航时间": "4.6",
+      "电源适配器": "Hibernation mode，Battery Power Status Display",
+      "笔记本重量": "1.6Kg",
+      "特色功能": "Ultrabase X2扩展基座"
+    }
+  }
+]

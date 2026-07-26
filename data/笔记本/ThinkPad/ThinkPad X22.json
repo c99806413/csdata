@@ -1,0 +1,53 @@
+[
+  {
+    "name": "IBM ThinkPad X22 2662-QJC(无底座)",
+    "manufacturer": "ThinkPad",
+    "series": "IBM ThinkPad X22 2672-4PC",
+    "opendb_id": "ibm_thinkpad_x22_2672_4pc_intel_piii_m",
+    "metadata": {
+      "CPU型号": "Intel PIII-M",
+      "CPU主频": "800MHz",
+      "内存容量": "128.000",
+      "硬盘容量": "20GB",
+      "有线网卡": "10/100 以太网 802.11b无线",
+      "电池类型": "锂电池",
+      "特色功能": "Ultrabase X2扩展基座",
+      "操作系统": "Microsoft Windows 98 第二版",
+      "屏幕尺寸": "12.1英寸",
+      "显卡芯片": "ATI Mobility Radeon 8M显存",
+      "显存类型": "8M显存",
+      "音频系统": "Sound Blaster Pro 16 compatible sound system",
+      "其它接口": "红外，RJ11，RJ45，2个USB，头戴式耳机，音频输入，麦克风，外置显示器，UltraPort 连接器",
+      "指取设备": "带有按压选择的TrackPoint 定点设备， Internet 滚动条",
+      "键盘描述": "带有掌托的人体工程学键盘（85按键，18.5mm垂直按键高度、18.2mm水平按键宽度，2.5mm 按键冲程）",
+      "笔记本重量": "1.7Kg",
+      "外壳材质": "钛合金复合材料外盖"
+    }
+  },
+  {
+    "name": "IBM ThinkPad X22 2672-4PC",
+    "manufacturer": "ThinkPad",
+    "series": "IBM ThinkPad X22 2672-4PC",
+    "opendb_id": "ibm_thinkpad_x22_2672_4pc_intel_piii",
+    "metadata": {
+      "CPU型号": "Intel PIII",
+      "CPU主频": "800MHz",
+      "内存容量": "128.000",
+      "硬盘容量": "20GB",
+      "有线网卡": "10/100",
+      "电池类型": "6 Cell Lithium-Ion",
+      "特色功能": "Ultrabase X2扩展基座"
+    }
+  },
+  {
+    "name": "IBM ThinkPad X22 2672-4PC (未知CPU)",
+    "manufacturer": "ThinkPad",
+    "series": "IBM ThinkPad X22 2672-4PC",
+    "opendb_id": "ibm_thinkpad_x22_2672_4pc_cpu",
+    "metadata": {
+      "CPU主频": "733MHz/800MHz",
+      "内存容量": "128.000",
+      "硬盘容量": "15.000/20GB"
+    }
+  }
+]
