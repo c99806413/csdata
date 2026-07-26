@@ -1,0 +1,106 @@
+[
+  {
+    "name": "USCorsair（美商海盗船）QL QL140 RGB 单包黑色",
+    "manufacturer": "美商海盗船",
+    "series": "QL",
+    "opendb_id": "uscorsair_______ql_ql140_rgb_____",
+    "metadata": {
+      "产品型号": "QL系列风扇",
+      "散热方式": "风冷",
+      "风扇尺寸": "140*140*25mm",
+      "最高转数": "1250RPM",
+      "散热片尺寸": "140*140*25mm"
+    }
+  },
+  {
+    "name": "USCorsair（美商海盗船）QL QL120 RGB 单包白色",
+    "manufacturer": "美商海盗船",
+    "series": "QL",
+    "opendb_id": "uscorsair_______ql_ql120_rgb_____",
+    "metadata": {
+      "产品型号": "QL系列风扇",
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25MMmm",
+      "最高转数": "1500RPM",
+      "散热片尺寸": "120*120*25MMmm"
+    }
+  },
+  {
+    "name": "USCorsair（美商海盗船）QL QL140 RGB 套包黑色",
+    "manufacturer": "美商海盗船",
+    "series": "QL",
+    "opendb_id": "uscorsair_______ql_ql140_rgb_____",
+    "metadata": {
+      "产品型号": "QL系列风扇",
+      "散热方式": "风冷",
+      "风扇尺寸": "140*140*25mm",
+      "最高转数": "1250RPM",
+      "散热片尺寸": "140*140*25mm"
+    }
+  },
+  {
+    "name": "USCorsair（美商海盗船）QL QL140 RGB 套包白色",
+    "manufacturer": "美商海盗船",
+    "series": "QL",
+    "opendb_id": "uscorsair_______ql_ql140_rgb_____",
+    "metadata": {
+      "产品型号": "QL系列风扇",
+      "散热方式": "风冷",
+      "风扇尺寸": "140*140*25mm",
+      "最高转数": "1250RPM",
+      "散热片尺寸": "140*140*25mm"
+    }
+  },
+  {
+    "name": "USCorsair（美商海盗船）QL QL120 RGB 套包白色",
+    "manufacturer": "美商海盗船",
+    "series": "QL",
+    "opendb_id": "uscorsair_______ql_ql120_rgb_____",
+    "metadata": {
+      "产品型号": "QL系列风扇",
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25MMmm",
+      "最高转数": "1500RPM",
+      "散热片尺寸": "120*120*25MMmm"
+    }
+  },
+  {
+    "name": "USCorsair（美商海盗船）QL QL120 RGB 单包黑色",
+    "manufacturer": "美商海盗船",
+    "series": "QL",
+    "opendb_id": "uscorsair_______ql_ql120_rgb_____",
+    "metadata": {
+      "产品型号": "QL系列风扇",
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25MMmm",
+      "最高转数": "1500RPM",
+      "散热片尺寸": "120*120*25MMmm"
+    }
+  },
+  {
+    "name": "USCorsair（美商海盗船）QL QL140 RGB 单包白色",
+    "manufacturer": "美商海盗船",
+    "series": "QL",
+    "opendb_id": "uscorsair_______ql_ql140_rgb_____",
+    "metadata": {
+      "产品型号": "QL系列风扇",
+      "散热方式": "风冷",
+      "风扇尺寸": "140*140*25mm",
+      "最高转数": "1250RPM",
+      "散热片尺寸": "140*140*25mm"
+    }
+  },
+  {
+    "name": "USCorsair（美商海盗船）QL QL120 RGB 套包黑色",
+    "manufacturer": "美商海盗船",
+    "series": "QL",
+    "opendb_id": "uscorsair_______ql_ql120_rgb_____",
+    "metadata": {
+      "产品型号": "QL系列风扇",
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25MMmm",
+      "最高转数": "1500RPM",
+      "散热片尺寸": "120*120*25MMmm"
+    }
+  }
+]

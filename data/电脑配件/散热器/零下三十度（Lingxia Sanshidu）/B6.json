@@ -1,0 +1,41 @@
+[
+  {
+    "name": "零下三十度B6 镀镍4铜管(12CM无光风扇) 温控调速",
+    "manufacturer": "零下三十度",
+    "series": "B6",
+    "opendb_id": "_____b6___4___12cm__________",
+    "metadata": {
+      "产品型号": "B6",
+      "散热器类型": "风冷散热器",
+      "适用范围": "宽度大于180mm",
+      "产品重量": "1kg",
+      "端子接口": "INTEL LGA2066，INTEL LGA1200，AMD AM4，INTEL LGA1700"
+    }
+  },
+  {
+    "name": "零下三十度B6 镀镍4铜管(12CM-RGB彩光风扇) 温控调速",
+    "manufacturer": "零下三十度",
+    "series": "B6",
+    "opendb_id": "_____b6___4___12cm_rgb__________",
+    "metadata": {
+      "产品型号": "B6",
+      "散热器类型": "风冷散热器",
+      "适用范围": "宽度大于180mm",
+      "产品重量": "1kg",
+      "端子接口": "INTEL LGA2066，INTEL LGA1200，AMD AM4，INTEL LGA1700"
+    }
+  },
+  {
+    "name": "零下三十度B6 镀镍4铜管(12CM-5V-ARGB风扇) 神光同",
+    "manufacturer": "零下三十度",
+    "series": "B6",
+    "opendb_id": "_____b6___4___12cm_5v_argb_______",
+    "metadata": {
+      "产品型号": "B6",
+      "散热器类型": "风冷散热器",
+      "适用范围": "宽度大于180mm",
+      "产品重量": "1kg",
+      "端子接口": "INTEL LGA2066，INTEL LGA1200，AMD AM4，INTEL LGA1700"
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "maxtor GLE 50克装(配刮板+拆机工具包)",
+    "manufacturer": "maxtor",
+    "series": "GLE",
+    "opendb_id": "maxtor_gle_50_____________",
+    "metadata": {
+      "产品型号": "GL-E",
+      "散热器类型": "导热硅脂",
+      "散热方式": "风冷",
+      "产品重量": "100g",
+      "风扇尺寸": "NAmm",
+      "散热片尺寸": "NAmm"
+    }
+  },
+  {
+    "name": "maxtor GLE 80克装(配刮板+拆机工具包)",
+    "manufacturer": "maxtor",
+    "series": "GLE",
+    "opendb_id": "maxtor_gle_80_____________",
+    "metadata": {
+      "产品型号": "GL-E",
+      "散热方式": "风冷",
+      "风扇尺寸": "NAmm",
+      "散热片尺寸": "NAmm"
+    }
+  }
+]
