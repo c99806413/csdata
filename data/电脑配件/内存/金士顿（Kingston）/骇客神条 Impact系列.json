@@ -1,0 +1,395 @@
+[
+  {
+    "name": "金士顿骇客神条Impact 4GB DDR3 1600（HX316LS9IB/4）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_4gb_ddr3_1600_hx316ls9ib_4_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "204pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "9",
+      "散热片": "支持散热",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 16GB DDR3L 2133（HX321LS11IB2K2/16）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_16gb_ddr3l_2133_hx321ls11ib2k2_16_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR3L",
+      "内存主频": "2133MHz",
+      "针脚数": "204pin",
+      "插槽类型": "SO-DIMM",
+      "CL延迟": "11",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 8GB DDR3 2133（HX321LS11IBK1/8）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_8gb_ddr3_2133_hx321ls11ibk1_8_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2133MHz",
+      "针脚数": "204pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "11",
+      "散热片": "支持散热",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 8GB DDR3 1600",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_8gb_ddr3_1600",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "204pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "9",
+      "散热片": "支持散热",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 8GB DDR3 2133（HX321LS11IBK2/8）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_8gb_ddr3_2133_hx321ls11ibk2_8_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2133MHz",
+      "针脚数": "204pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "11",
+      "散热片": "支持散热",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 32GB DDR4 2400（HX424S14IBK2/32）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_32gb_ddr4_2400_hx424s14ibk2_32_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "260pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "14",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 16GB DDR3 1600（HX316LS9IBK2/16）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_16gb_ddr3_1600_hx316ls9ibk2_16_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "204pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "9",
+      "散热片": "支持散热",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 8GB DDR3 1600（HX316LS9IB/8）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_8gb_ddr3_1600_hx316ls9ib_8_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "204pin",
+      "CL延迟": "9",
+      "散热片": "支持散热",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 16GB DDR3 2133（HX321LS11IBK2/16）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_16gb_ddr3_2133_hx321ls11ibk2_16_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2133MHz",
+      "针脚数": "204pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "11",
+      "散热片": "支持散热",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 8GB DDR3 1866（HX318LS10IBK2/8）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_8gb_ddr3_1866_hx318ls10ibk2_8_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1866MHz",
+      "针脚数": "204pin",
+      "CL延迟": "10",
+      "散热片": "支持散热",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 8GB DDR4 2400（HX424S14IB/8）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_8gb_ddr4_2400_hx424s14ib_8_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "260pin",
+      "插槽类型": "SO-DIMM",
+      "CL延迟": "14",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 4GB DDR4 2133（HX421S13IB/4）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_4gb_ddr4_2133_hx421s13ib_4_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2133MHz",
+      "针脚数": "260pin",
+      "插槽类型": "SO-DIMM",
+      "CL延迟": "13",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 8GB DDR4 2133（HX421S13IBK2/8）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_8gb_ddr4_2133_hx421s13ibk2_8_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2133MHz",
+      "针脚数": "260pin",
+      "插槽类型": "SO-DIMM",
+      "CL延迟": "13",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 16GB DDR4 2133（HX421S13IBK2/16）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_16gb_ddr4_2133_hx421s13ibk2_16_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2133MHz",
+      "针脚数": "260pin",
+      "插槽类型": "SO-DIMM",
+      "CL延迟": "13",
+      "散热片": "支持散热",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 8GB DDR4 2400（HX424S14IBK2/8）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_8gb_ddr4_2400_hx424s14ibk2_8_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "260pin",
+      "插槽类型": "SO-DIMM",
+      "CL延迟": "14",
+      "散热片": "支持散热",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 8GB DDR4 2133（HX421S13IB/8）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_8gb_ddr4_2133_hx421s13ib_8_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2133MHz",
+      "针脚数": "260pin",
+      "插槽类型": "SO-DIMM",
+      "CL延迟": "13",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 32GB DDR4 2133（HX421S13IBK2/32）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_32gb_ddr4_2133_hx421s13ibk2_32_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2133MHz",
+      "针脚数": "260pin",
+      "插槽类型": "SO-DIMM",
+      "CL延迟": "13",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 8GB DDR3L 2133（HX321LS11IB2K2/8）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_8gb_ddr3l_2133_hx321ls11ib2k2_8_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3L",
+      "内存主频": "2133MHz",
+      "针脚数": "204pin",
+      "插槽类型": "SO-DIMM",
+      "CL延迟": "11",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 8GB DDR3 1600（HX316LS9IBK2/8）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_8gb_ddr3_1600_hx316ls9ibk2_8_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "204pin",
+      "CL延迟": "9",
+      "散热片": "支持散热",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 16GB DDR3 1866（HX318LS10IBK2/16）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_16gb_ddr3_1866_hx318ls10ibk2_16_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1866MHz",
+      "针脚数": "204pin",
+      "CL延迟": "10",
+      "散热片": "支持散热",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 16GB DDR4 2133（HX421S13IB/16）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_16gb_ddr4_2133_hx421s13ib_16_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（16GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2133MHz",
+      "针脚数": "260pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "13",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 16GB DDR4 2400（HX424S14IB/16）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_16gb_ddr4_2400_hx424s14ib_16_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（16GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "260pin",
+      "插槽类型": "SO-DIMM",
+      "CL延迟": "14",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 16GB DDR4 2400（HX424S14IBK2/16）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_16gb_ddr4_2400_hx424s14ibk2_16_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "260pin",
+      "插槽类型": "SO-DIMM",
+      "CL延迟": "14",
+      "散热片": "支持散热",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "金士顿骇客神条Impact 4GB DDR4 2400（HX424S14IB/4）",
+    "manufacturer": "金士顿",
+    "series": "骇客神条 Impact系列",
+    "opendb_id": "_______impact_4gb_ddr4_2400_hx424s14ib_4_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "260pin",
+      "插槽类型": "SO-DIMM",
+      "CL延迟": "14",
+      "工作电压": "1.2V"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "金士顿1GB FB-DIMM533",
+    "manufacturer": "金士顿",
+    "series": "FB-DIMM533台式机内存系列",
+    "opendb_id": "___1gb_fb_dimm533",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "FB-DIMM",
+      "内存主频": "533MHz"
+    }
+  },
+  {
+    "name": "金士顿512MB FB-DIMM533",
+    "manufacturer": "金士顿",
+    "series": "FB-DIMM533台式机内存系列",
+    "opendb_id": "___512mb_fb_dimm533",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "FB-DIMM",
+      "内存主频": "533MHz"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "金士顿256MB DDR266",
+    "manufacturer": "金士顿",
+    "series": "DDR 266台式机内存系列",
+    "opendb_id": "___256mb_ddr266",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（256MB）",
+      "内存类型": "DDR",
+      "内存主频": "266MHz",
+      "传输标准": "PC-2100"
+    }
+  },
+  {
+    "name": "金士顿128MB DDR 266",
+    "manufacturer": "金士顿",
+    "series": "DDR 266台式机内存系列",
+    "opendb_id": "___128mb_ddr_266",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（128MB）",
+      "内存类型": "DDR"
+    }
+  },
+  {
+    "name": "金士顿512MB DDR266",
+    "manufacturer": "金士顿",
+    "series": "DDR 266台式机内存系列",
+    "opendb_id": "___512mb_ddr266",
+    "metadata": {
+      "内存类型": "DDR"
+    }
+  }
+]

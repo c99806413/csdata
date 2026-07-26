@@ -1,0 +1,26 @@
+[
+  {
+    "name": "金士顿512MB DDRII400",
+    "manufacturer": "金士顿",
+    "series": "DDR2 400笔记本内存系列",
+    "opendb_id": "___512mb_ddrii400",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "FBGA"
+    }
+  },
+  {
+    "name": "金士顿256MB DDRII400",
+    "manufacturer": "金士顿",
+    "series": "DDR2 400笔记本内存系列",
+    "opendb_id": "___256mb_ddrii400",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "FBGA"
+    }
+  }
+]

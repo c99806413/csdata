@@ -1,0 +1,56 @@
+[
+  {
+    "name": "金士顿256MB DDR400",
+    "manufacturer": "金士顿",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___256mb_ddr400",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "TSOP",
+      "CL延迟": "3",
+      "内存校验": "否"
+    }
+  },
+  {
+    "name": "金士顿512MB DDR 400",
+    "manufacturer": "金士顿",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___512mb_ddr_400",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "TSOP",
+      "CL延迟": "3",
+      "内存校验": "否"
+    }
+  },
+  {
+    "name": "金士顿512MB DDR400(DT-D43内存颗粒)",
+    "manufacturer": "金士顿",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___512mb_ddr400_dt_d43_____",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "CL延迟": "3-3-3-8",
+      "其他性能": "内存ID号码(Module ID#): 9905216-007.A00；产品序列号码(Serial #): 1947262-0943022；安全序列号码(Security ID#):ASMH1660516。"
+    }
+  },
+  {
+    "name": "金士顿1GB DDR 400",
+    "manufacturer": "金士顿",
+    "series": "DDR 400台式机内存系列",
+    "opendb_id": "___1gb_ddr_400",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "TSOP",
+      "CL延迟": "3"
+    }
+  }
+]

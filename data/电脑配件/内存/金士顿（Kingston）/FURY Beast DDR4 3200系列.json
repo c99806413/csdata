@@ -1,0 +1,56 @@
+[
+  {
+    "name": "金士顿FURY Beast 32GB DDR4 3200（KF432C16BB/32）",
+    "manufacturer": "金士顿",
+    "series": "FURY Beast DDR4 3200系列",
+    "opendb_id": "___fury_beast_32gb_ddr4_3200_kf432c16bb_32_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（32GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3200MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "16",
+      "散热片": "自带散热片",
+      "工作电压": "1.35V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "金士顿FURY Beast 32GB（2×16GB）DDR4 3200（KF432C16BB1K2/32）",
+    "manufacturer": "金士顿",
+    "series": "FURY Beast DDR4 3200系列",
+    "opendb_id": "___fury_beast_32gb_2_16gb_ddr4_3200_kf432c16bb1k2_32_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3200MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "16",
+      "散热片": "自带散热片",
+      "工作电压": "1.35V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "金士顿FURY Beast 64GB（2×32GB）DDR4 3200（KF432C16BBK2/64）",
+    "manufacturer": "金士顿",
+    "series": "FURY Beast DDR4 3200系列",
+    "opendb_id": "___fury_beast_64gb_2_32gb_ddr4_3200_kf432c16bbk2_64_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×32GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3200MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "16",
+      "散热片": "自带散热片",
+      "工作电压": "1.35V",
+      "XMP": "支持，XMP2.0"
+    }
+  }
+]
