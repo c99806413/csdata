@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Intel 赛扬 1.7GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 1.7GHz",
+    "opendb_id": "intel_1_7ghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "赛扬",
+      "制作工艺": "180纳米",
+      "核心代号": "Willamette",
+      "CPU架构": "ia-32",
+      "CPU主频": "1.7GHz",
+      "核心数量": "单核心",
+      "一级缓存": "20KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "不支持",
+      "指令集": "SEE/MMX"
+    }
+  },
+  {
+    "name": "Intel 赛扬 1.8GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 1.8GHz",
+    "opendb_id": "intel_1_8ghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "赛扬",
+      "制作工艺": "180纳米",
+      "核心代号": "Willamette",
+      "CPU架构": "ia-32",
+      "CPU主频": "1.8GHz",
+      "一级缓存": "20KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "不支持",
+      "指令集": "SEE2/SEE/MMX"
+    }
+  },
+  {
+    "name": "Intel 赛扬 2.0GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 2.0GHz",
+    "opendb_id": "intel_2_0ghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "赛扬",
+      "制作工艺": "130纳米",
+      "核心代号": "Northwood",
+      "CPU架构": "32位",
+      "CPU主频": "2GHz",
+      "一级缓存": "20KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "不支持",
+      "指令集": "MMX/SEE/SEE2指令"
+    }
+  },
+  {
+    "name": "Intel 赛扬 2.1GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 2.1GHz",
+    "opendb_id": "intel_2_1ghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "赛扬",
+      "制作工艺": "0.13微米",
+      "核心代号": "Northwood",
+      "CPU架构": "32位",
+      "CPU主频": "2.1GHz",
+      "核心数量": "单核心",
+      "一级缓存": "20KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "不支持",
+      "指令集": "MMX/SEE/SEE2指令"
+    }
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Intel 赛扬 2.4GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 2.4GHz",
+    "opendb_id": "intel_2_4ghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "赛扬",
+      "制作工艺": "130纳米",
+      "核心代号": "Northwood",
+      "CPU主频": "2.4GHz",
+      "核心数量": "单核心",
+      "一级缓存": "32KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 478",
+      "超线程技术": "不支持",
+      "指令集": "MMX，SSE，SSE2"
+    }
+  },
+  {
+    "name": "Intel 赛扬 420",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 420",
+    "opendb_id": "intel_420",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "赛扬单核",
+      "制作工艺": "65纳米",
+      "核心代号": "Conroe-L",
+      "CPU架构": "Core",
+      "CPU主频": "1.6GHz",
+      "核心数量": "单核心",
+      "一级缓存": "64KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "35W",
+      "内存描述": "视主板芯片而定",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "虚拟化技术": "不支持",
+      "指令集": "MMS、SSE、SSE2、SSE3、Sup-SSE3、EM64T等"
+    }
+  },
+  {
+    "name": "Intel 赛扬 430",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 430",
+    "opendb_id": "intel_430",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "赛扬单核",
+      "制作工艺": "65纳米",
+      "核心代号": "Conroe-L",
+      "CPU主频": "1.8GHz",
+      "核心数量": "单核心",
+      "一级缓存": "64KB",
+      "二级缓存": "512KB",
+      "热设计功耗(TDP)": "35W",
+      "内存描述": "视主板芯片而定",
+      "插槽类型": "LGA 775",
+      "超线程技术": "不支持",
+      "虚拟化技术": "不支持",
+      "指令集": "支持MMS、SSE、SSE2、SSE3、Sup-SSE3、EM64T等/支持SSE3/EM64T"
+    }
+  },
+  {
+    "name": "Intel 赛扬 440",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 440",
+    "opendb_id": "intel_440",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "赛扬",
+      "制作工艺": "65纳米",
+      "CPU主频": "2GHz",
+      "核心数量": "单核心",
+      "二级缓存": "512KB"
+    }
+  },
+  {
+    "name": "Intel 赛扬 450",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 450",
+    "opendb_id": "intel_450",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU系列": "赛扬",
+      "制作工艺": "65纳米",
+      "CPU主频": "2.2GHz",
+      "核心数量": "单核心",
+      "二级缓存": "512KB",
+      "插槽类型": "LGA 775",
+      "虚拟化技术": "Intel VT"
+    }
+  },
+  {
+    "name": "Intel 赛扬 M763",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 M763",
+    "opendb_id": "intel_m763",
+    "metadata": {
+      "CPU主频": "1.4GHz",
+      "热设计功耗(TDP)": "10W",
+      "睿频加速技术": "不支持"
+    }
+  },
+  {
+    "name": "Intel 赛扬单核797",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬单核797",
+    "opendb_id": "intel_797",
+    "metadata": {
+      "适用类型": "台式机",
+      "CPU主频": "1.3GHz",
+      "三级缓存": "1MB",
+      "热设计功耗(TDP)": "17W",
+      "集成显卡": "是",
+      "显卡基本频率": "350MHz",
+      "睿频加速技术": "不支持",
+      "超线程技术": "不支持",
+      "64位处理器": "是"
+    }
+  }
+]

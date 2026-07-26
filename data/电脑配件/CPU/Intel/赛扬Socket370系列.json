@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Intel 赛扬 800",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 800",
+    "opendb_id": "intel_800",
+    "metadata": {
+      "制作工艺": "0.16微米",
+      "核心代号": "Coppermine-128k",
+      "CPU主频": "0.8GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 赛扬 900",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 900",
+    "opendb_id": "intel_900",
+    "metadata": {
+      "制作工艺": "0.16微米",
+      "核心代号": "Coppermine-128k",
+      "CPU主频": "0.9GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 赛扬 1.4GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 1.4GHz",
+    "opendb_id": "intel_1_4ghz",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Tualatin",
+      "CPU主频": "1.4GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 370",
+      "指令集": "MMX,SSE"
+    }
+  },
+  {
+    "name": "Intel 赛扬 600",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 600",
+    "opendb_id": "intel_600",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "CPU主频": "0.6GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 赛扬 633",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 633",
+    "opendb_id": "intel_633",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Coppermine-128k",
+      "CPU主频": "0.633GHz",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 赛扬 733",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 733",
+    "opendb_id": "intel_733",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Coppermine-128k",
+      "CPU主频": "0.733GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 赛扬 1.1GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 1.1GHz",
+    "opendb_id": "intel_1_1ghz",
+    "metadata": {
+      "制作工艺": "0.16微米",
+      "核心代号": "cC0/cD0",
+      "CPU主频": "1.1GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 赛扬 850",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 850",
+    "opendb_id": "intel_850",
+    "metadata": {
+      "制作工艺": "0.16微米",
+      "核心代号": "Coppermine-128k",
+      "CPU主频": "0.85GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 赛扬 1GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 1GHz",
+    "opendb_id": "intel_1ghz",
+    "metadata": {
+      "制作工艺": "0.16微米",
+      "核心代号": "Tualatin",
+      "CPU主频": "1GHz",
+      "一级缓存": "128KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  },
+  {
+    "name": "Intel 赛扬 700",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬 700",
+    "opendb_id": "intel_700",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Coppermine-128k",
+      "CPU主频": "0.7GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX SIMD指令集"
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Intel 赛扬4 1.7GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬4 1.7GHz",
+    "opendb_id": "intel_4_1_7ghz",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Willamette",
+      "CPU主频": "1.7GHz",
+      "一级缓存": "20KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 478",
+      "指令集": "SEE2/SEE/MMX"
+    }
+  },
+  {
+    "name": "Intel 赛扬4 1.8GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬4 1.8GHz",
+    "opendb_id": "intel_4_1_8ghz",
+    "metadata": {
+      "制作工艺": "0.18微米",
+      "核心代号": "Willamette",
+      "CPU主频": "1.8GHz",
+      "一级缓存": "20KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 478",
+      "指令集": "SEE2/SEE/MMX"
+    }
+  },
+  {
+    "name": "Intel 赛扬4 2.0GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬4 2.0GHz",
+    "opendb_id": "intel_4_2_0ghz",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Northwood",
+      "CPU主频": "2GHz",
+      "一级缓存": "20KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 478",
+      "指令集": "MMX/SEE/SEE2指令"
+    }
+  },
+  {
+    "name": "Intel 赛扬4 2.2GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬4 2.2GHz",
+    "opendb_id": "intel_4_2_2ghz",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Northwood",
+      "CPU主频": "2.2GHz",
+      "一级缓存": "20KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 478",
+      "指令集": "MMX/SEE/SEE2指令"
+    }
+  },
+  {
+    "name": "Intel 赛扬4 2.6GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬4 2.6GHz",
+    "opendb_id": "intel_4_2_6ghz",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Northwood",
+      "CPU主频": "2.6GHz",
+      "一级缓存": "20KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 478",
+      "指令集": "MMX，SSE，SSE2"
+    }
+  },
+  {
+    "name": "Intel 赛扬4 2.7GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬4 2.7GHz",
+    "opendb_id": "intel_4_2_7ghz",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Northwood",
+      "CPU主频": "2.7GHz",
+      "一级缓存": "20KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 478",
+      "指令集": "MMX，SSE，SSE2"
+    }
+  },
+  {
+    "name": "Intel 赛扬4 2.8GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬4 2.8GHz",
+    "opendb_id": "intel_4_2_8ghz",
+    "metadata": {
+      "制作工艺": "0.13微米",
+      "核心代号": "Northwood",
+      "CPU主频": "2.8GHz",
+      "一级缓存": "20KB",
+      "二级缓存": "128KB",
+      "插槽类型": "Socket 478",
+      "指令集": "MMX，SSE，SSE2"
+    }
+  }
+]

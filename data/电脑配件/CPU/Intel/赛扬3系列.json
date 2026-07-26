@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Intel 赛扬3 1.0GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬3 1.0GHz",
+    "opendb_id": "intel_3_1_0ghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "核心代号": "Tualatin",
+      "CPU主频": "1GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX指令集"
+    }
+  },
+  {
+    "name": "Intel 赛扬3 1.1GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬3 1.1GHz",
+    "opendb_id": "intel_3_1_1ghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "核心代号": "Tualatin",
+      "CPU架构": "soket 370",
+      "CPU主频": "1.1GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX指令集"
+    }
+  },
+  {
+    "name": "Intel 赛扬3 1.2GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬3 1.2GHz",
+    "opendb_id": "intel_3_1_2ghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "核心代号": "Tualatin",
+      "CPU架构": "ia-32",
+      "CPU主频": "1.2GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 370",
+      "指令集": "MMX,SSE"
+    }
+  },
+  {
+    "name": "Intel 赛扬3 1.3GHz",
+    "manufacturer": "Intel",
+    "series": "Intel 赛扬3 1.3GHz",
+    "opendb_id": "intel_3_1_3ghz",
+    "metadata": {
+      "适用类型": "台式机",
+      "制作工艺": "0.13微米",
+      "核心代号": "Tualatin",
+      "CPU架构": "ia-32ia-32",
+      "CPU主频": "1.3GHz",
+      "一级缓存": "32KB",
+      "二级缓存": "256KB",
+      "插槽类型": "Socket 370",
+      "指令集": "SSE和MMX指令集"
+    }
+  }
+]
