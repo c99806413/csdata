@@ -1,0 +1,24 @@
+[
+  {
+    "name": "正肯IPC-710H",
+    "manufacturer": "正肯",
+    "series": "正肯IPC-710H",
+    "opendb_id": "ipc_710h",
+    "metadata": {
+      "产品型号": "ipc-710h",
+      "产品类型": "机架服务器，工控机",
+      "CPU类型": "intel i7，intel i5，intel i3，intel 奔腾，其他/intel i7，intel i5，intel i3，intel奔腾，其他",
+      "主板芯片组": "h81/h110",
+      "内存类型": "其他",
+      "内存大小": "4gb，8gb，16gb，32gb",
+      "硬盘接口类型": "sata",
+      "硬盘容量": "500gb以下，500gb-1tb，1tb-2tb",
+      "硬盘描述": "7200rpm，5400rpm",
+      "显存容量": "集成显卡",
+      "预装操作系统": "windows 10",
+      "机箱类型": "4u机架式",
+      "产品重量": "1818.0kg",
+      "电源描述": "非冗余"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "name": "ThinkPad P16 2023 (I7 13700H)",
+    "manufacturer": "ThinkPad",
+    "series": "ThinkPad P16 2023",
+    "opendb_id": "thinkpad_p16_2023_i7_13700h",
+    "metadata": {
+      "产品型号": "ThinkPad P16 2023",
+      "产品类型": "工作站",
+      "CPU类型": "酷睿i9 13代系列",
+      "CPU型号": "i7 13700HX",
+      "CPU主频": "3.7GHz",
+      "最高睿频": "5GHz",
+      "标配CPU数量": "1颗",
+      "制程工艺": "Intel 7（10）nm",
+      "三级缓存": "36MB",
+      "CPU核心": "十六核心",
+      "CPU线程数": "二十四线程",
+      "内存类型": "DDR5",
+      "内存大小": "64GB/16GB/32GB/128GB",
+      "最大内存容量": "192GB",
+      "硬盘接口类型": "SSD",
+      "硬盘容量": "1TB/4TB/8TB",
+      "硬盘描述": "SSD固态硬盘（PCIe4.0）",
+      "显示器大小": "16英寸",
+      "显示器描述": "2.5K IPS屏幕机型，亮度800尼特，100%SRGB色域，分辨率3840*2400，支持HDR400，支持Dolby Vision低蓝光技术/2.5K IPS屏幕机型，亮度400尼特，100%SRGB色域，分辨率2560 X1600，165Hz高刷新率，低蓝光技术",
+      "显卡芯片": "NVIDIA RTX 3500Ada/NVIDIA RTX A1000/NVIDIA RTX 2000 Ada",
+      "显存容量": "12GB/8GB",
+      "显存类型": "GDDR6"
+    }
+  },
+  {
+    "name": "ThinkPad P16 2023 (I9 13980H)",
+    "manufacturer": "ThinkPad",
+    "series": "ThinkPad P16 2023",
+    "opendb_id": "thinkpad_p16_2023_i9_13980h",
+    "metadata": {
+      "产品型号": "ThinkPad P16 2023",
+      "产品类型": "工作站",
+      "CPU类型": "酷睿i9 13代系列",
+      "CPU型号": "i9 13980HX",
+      "最高睿频": "5.6GHz",
+      "标配CPU数量": "1颗",
+      "制程工艺": "Intel 7（10）nm",
+      "三级缓存": "36MB",
+      "CPU核心": "二十四核心",
+      "CPU线程数": "三十二线程",
+      "内存类型": "DDR5",
+      "内存大小": "32GB/128GB/64GB/16GB",
+      "最大内存容量": "192GB",
+      "硬盘接口类型": "SSD",
+      "硬盘容量": "1TB/4TB/8TB",
+      "硬盘描述": "SSD固态硬盘（PCIe4.0）",
+      "显示器大小": "16英寸",
+      "显示器描述": "2.5K IPS屏幕机型，亮度800尼特，100%SRGB色域，分辨率3840*2400，支持HDR400，支持Dolby Vision低蓝光技术",
+      "显卡芯片": "NVIDIA RTX 3500Ada/NVIDIA RTX 5000 Ada/NVIDIA RTX 4000Ada",
+      "显存容量": "12GB/32GB/20GB",
+      "显存类型": "GDDR6"
+    }
+  }
+]

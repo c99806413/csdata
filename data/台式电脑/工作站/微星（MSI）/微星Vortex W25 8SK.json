@@ -1,0 +1,42 @@
+[
+  {
+    "name": "微星Vortex W25 8SK",
+    "manufacturer": "msi微星",
+    "series": "微星Vortex W25 8SK",
+    "opendb_id": "vortex_w25_8sk",
+    "metadata": {
+      "产品类型": "台式工作站",
+      "CPU类型": "Intel 酷睿i7 八代",
+      "CPU型号": "酷睿i7-8700",
+      "CPU主频": "3.2GHz",
+      "最高睿频": "4.6GHz",
+      "标配CPU数量": "1颗",
+      "最大CPU数量": "1颗",
+      "制程工艺": "14nm",
+      "三级缓存": "12MB",
+      "总线规格": "DMI3 8GT/s",
+      "CPU核心": "六核",
+      "CPU线程数": "十二线程",
+      "主板芯片组": "Intel Z370",
+      "内存类型": "DDR4",
+      "内存大小": "16GB/64GB",
+      "内存插槽数量": "4×DDR4 DIMM",
+      "最大内存容量": "64GB",
+      "硬盘接口类型": "SATA/SSD",
+      "硬盘容量": "256GB+1TB",
+      "硬盘描述": "标配1块256GB NVMe PCIe SSD+1块1TB SATA 7200rpm硬盘",
+      "显卡芯片": "NVIDIA Quadro P3200",
+      "显存容量": "6GB",
+      "显存类型": "GDDR5",
+      "网卡描述": "1000Mbps以太网卡",
+      "无线网卡": "Intel Wireless-AC 9260 (2*2 a/c)",
+      "蓝牙": "支持，蓝牙5.0模块",
+      "预装操作系统": "Windows 10",
+      "机箱类型": "塔式",
+      "产品尺寸": "279×43×331mm",
+      "产品重量": "2.5kg",
+      "I/O接口": "1×Type-C (USB3.1 Gen2/DP/Thunderbolt 3)1×Type-C USB3.1 Gen11×Type-A USB3.1 Gen21×RJ452×(4K@60Hz)HDMI1×Mini-DisplayPort1×Mic-in1×Headphone-out (HiFi/SPDIF)1×TOSLINK SPDIF Out",
+      "电源描述": "230W适配器"
+    }
+  }
+]
