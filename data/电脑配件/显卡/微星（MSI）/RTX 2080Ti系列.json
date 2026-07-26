@@ -1,0 +1,33 @@
+[
+  {
+    "name": "RTX 2080Ti系列 (11GB)",
+    "manufacturer": "msi微星",
+    "series": "RTX 2080Ti系列",
+    "opendb_id": "rtx_2080ti_11gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2080 Ti/GeForce RTX 2080Ti",
+      "显示芯片系列": "NVIDIA RTX 20系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU102-300A",
+      "CUDA核心": "4352个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "11GB",
+      "显存位宽": "352bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口/1×HDMI接口，1×USB Type-C接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin+6pin/8pin+8pin/8pin+8pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热/分体水冷/EK全覆盖水冷头/刀锋5代风扇/空气动力学技术/双风扇散热+热管散热/双风扇散热/风水冷一体式散热",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是/是，HDCP 2.2",
+      "产品尺寸": "314×120×52mm/305×169.3×41.5mm/328×143×63mm/268×114×50mm/268×114×41mm",
+      "最大功耗": "250W/300W/350W",
+      "建议电源": "650W以上/650W",
+      "其它特点": "支持最多4屏输出，VR Ready级别显卡，支持NVIDIA NVLink技术/背板/灯效：金属背板/单色白光，VR Ready级别显卡，支持NVIDIA NVLink技术/支持最多4屏输出，碳纤维背板，灯效：风扇炫影/背板&侧面流光，动态显示屏，VR Ready级别显卡，支持NVIDIA NVLink技术",
+      "上市日期": "2018年08月/2019年"
+    }
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "R6790系列 (1GB)",
+    "manufacturer": "msi微星",
+    "series": "R6790系列",
+    "opendb_id": "r6790_1gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon HD 6790",
+      "制作工艺": "40纳米",
+      "核心代号": "Barts/Barts LE",
+      "核心频率": "840MHz/920MHz",
+      "显存频率": "4200MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600/4×1920×1200/1920×1200",
+      "接口类型": "PCI Express 2.1 16X/PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口/双Mini DisplayPort接口/HDMI接口/双DVI接口/DisplayPort接口/HDMI接口/双DVI接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇/散热风扇+热管",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是",
+      "产品尺寸": "231×115×37mmmm/245×115×35mmmm",
+      "其它特点": "支持CrossFire技术，支持节能技术"
+    }
+  }
+]

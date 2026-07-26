@@ -1,0 +1,76 @@
+[
+  {
+    "name": "HD3850系列 (512GB)",
+    "manufacturer": "msi微星",
+    "series": "HD3850系列",
+    "opendb_id": "hd3850_512gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon HD 3850",
+      "制作工艺": "55纳米",
+      "核心代号": "RV670",
+      "核心频率": "667MHz/690MHz",
+      "CUDA核心": "320个",
+      "显存频率": "1600MHz/1656MHz",
+      "显存类型": "GDDR3/DDR3",
+      "显存容量": "512GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "电源接口": "6PIN",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10.1OpenGL 2.0/DirectX 10.1",
+      "其它特点": "支持CrossFireX"
+    }
+  },
+  {
+    "name": "HD3850系列 (256GB)",
+    "manufacturer": "msi微星",
+    "series": "HD3850系列",
+    "opendb_id": "hd3850_256gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon HD 3850",
+      "制作工艺": "55纳米",
+      "核心代号": "RV670",
+      "核心频率": "670MHz/690MHz",
+      "CUDA核心": "320个",
+      "显存频率": "1400MHz/1656MHz",
+      "显存类型": "GDDR3/DDR3",
+      "显存容量": "256GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "电源接口": "6PIN",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10.1OpenGL 2.0/DirectX 10.1",
+      "其它特点": "支持CrossFireX"
+    }
+  },
+  {
+    "name": "HD3850系列 (1GB)",
+    "manufacturer": "msi微星",
+    "series": "HD3850系列",
+    "opendb_id": "hd3850_1gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon HD 3850",
+      "制作工艺": "55纳米",
+      "核心代号": "RV670",
+      "核心频率": "669MHz",
+      "CUDA核心": "320个",
+      "显存频率": "800MHz",
+      "显存类型": "DDR2",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "电源接口": "6PIN",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10.1"
+    }
+  }
+]

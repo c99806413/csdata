@@ -1,0 +1,50 @@
+[
+  {
+    "name": "HD5870系列 (2GB)",
+    "manufacturer": "msi微星",
+    "series": "HD5870系列",
+    "opendb_id": "hd5870_2gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon HD 5870",
+      "显示芯片系列": "ATI 5800系列",
+      "制作工艺": "40纳米",
+      "核心代号": "Cypress",
+      "核心频率": "850MHz",
+      "CUDA核心": "1600个",
+      "显存频率": "4800MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "最大分辨率": "6×2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "6个DisplayPort",
+      "散热方式": "涡轮风扇",
+      "3D API": "DirectX 11",
+      "其它特点": "支持CrossFire技术，支持节能技术"
+    }
+  },
+  {
+    "name": "HD5870系列 (1GB)",
+    "manufacturer": "msi微星",
+    "series": "HD5870系列",
+    "opendb_id": "hd5870_1gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon HD 5870",
+      "显示芯片系列": "ATI 5800系列",
+      "制作工艺": "40纳米",
+      "核心代号": "Cypress",
+      "核心频率": "900MHz/850MHz",
+      "CUDA核心": "1600个",
+      "显存频率": "4800MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "最大分辨率": "3×2560×1600/2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "DisplayPort接口/HDMI接口/双DVI接口/DisplayPort/HDMI/双24针DVI-I接口/DisplayPort接口/HDMI接口/DVI接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11OpenGL 3.2/DirectX 11",
+      "其它特点": "支持CrossFire技术，支持节能技术"
+    }
+  }
+]

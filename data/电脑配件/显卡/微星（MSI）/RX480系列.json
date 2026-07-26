@@ -1,0 +1,53 @@
+[
+  {
+    "name": "RX480系列 (8GB)",
+    "manufacturer": "msi微星",
+    "series": "RX480系列",
+    "opendb_id": "rx480_8gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 480",
+      "显示芯片系列": "AMD RX 400系列",
+      "制作工艺": "14纳米",
+      "核心代号": "Polaris 10",
+      "核心频率": "1279/1292MHz/1316MHz",
+      "CUDA核心": "2304个",
+      "显存频率": "8000MHz/7100MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "2×HDMI接口，1×DVI接口，2×DisplayPort接口",
+      "显卡类型": "发烧级",
+      "散热方式": "双风扇散热",
+      "3D API": "DirectX 12/DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "上市日期": "2016年06月/2017年01月"
+    }
+  },
+  {
+    "name": "RX480系列 (4GB)",
+    "manufacturer": "msi微星",
+    "series": "RX480系列",
+    "opendb_id": "rx480_4gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 480",
+      "显示芯片系列": "AMD RX 400系列",
+      "制作工艺": "14纳米",
+      "核心代号": "Polaris 10",
+      "核心频率": "1303/1316MHz",
+      "显存频率": "7100MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "2×HDMI接口，1×DVI接口，2×DisplayPort接口",
+      "显卡类型": "发烧级",
+      "散热方式": "双风扇散热",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "上市日期": "2016年06月"
+    }
+  }
+]

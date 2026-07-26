@@ -1,0 +1,35 @@
+[
+  {
+    "name": "GTX1080Ti系列 (11GB)",
+    "manufacturer": "msi微星",
+    "series": "GTX1080Ti系列",
+    "opendb_id": "gtx1080ti_11gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1080Ti",
+      "显示芯片系列": "NVIDIA GTX 10系列/GeForce GTX 1080Ti系列",
+      "制作工艺": "16纳米",
+      "核心代号": "GP102-350-K1-A1",
+      "核心频率": "1480/1683MHz/1531/1645MHz/1480/1721MHz/1506/1620MHz/1480/1582MHz/1582/1480MHz",
+      "CUDA核心": "3584个",
+      "显存频率": "11016/11124MHz/11016MHz/11000MHz/11010MHz",
+      "显存类型": "GDDR5X",
+      "显存容量": "11GB",
+      "显存位宽": "352bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "2×HDMI接口，1×DVI接口，2×DisplayPort接口/1×DVI接口，2×HDMI接口，1×DisplayPort接口/1×HDMI接口，3×DisplayPort接口/1×DVI接口，1×HDMI接口，3×DisplayPort接口/1×DVI接口，2×HDMI接口，2×DisplayPort接口",
+      "电源接口": "8pin+8pin/8pin+8pin+8pin/6pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "双风扇散热/三风扇散热/三风扇散热+热管散热/涡轮风扇/水冷散热",
+      "3D API": "DirectX 12，OpenGL 4.5/DirectX 12",
+      "支持HDCP": "是",
+      "产品尺寸": "290×140×51mm/320×141×42mm/325×140×48mm/320×140×61mm/269×111×35mm",
+      "最大功耗": "250W",
+      "建议电源": "600W以上/600W/750W",
+      "其它特点": "支持CrossFire技术，支持NVIDIA SLI技术，支持最多4屏输出/支持最多4屏输出/支持CrossFire技术，支持NVIDIA SLI、2-Way技术，支持最多4屏输出，1484g（无包装），2230g（含包装）/支持最多4屏输出，支持NVIDIA SLI技术，支持VR技术/支持NVIDIA SLI技术/VR Ready级别显卡/支持最多4屏输出，支持NVIDIA SLI技术/最大屏幕输出数：4支持VR虚拟现实技术",
+      "上市日期": "2017年03月/2017年10月/2017年08月",
+      "性能评分": "177281"
+    }
+  }
+]
