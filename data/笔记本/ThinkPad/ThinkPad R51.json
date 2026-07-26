@@ -1,0 +1,74 @@
+[
+  {
+    "name": "IBM ThinkPad R51 1829-EC2",
+    "manufacturer": "ThinkPad",
+    "series": "IBM ThinkPad R51 2887-HEJ",
+    "opendb_id": "ibm_thinkpad_r51_2887_hej_intel_m",
+    "metadata": {
+      "操作系统": "中文 Microsoft Windows XP 家庭版",
+      "CPU型号": "Intel 奔腾-M",
+      "CPU主频": "1.7GHz",
+      "内存容量": "512MB",
+      "内存类型": "DDR",
+      "最大内存容量": "2 SODIMM，PC2700 DDR，最大2GB",
+      "硬盘容量": "60GB",
+      "屏幕尺寸": "14.1英寸",
+      "电池类型": "6 Cell Lithium-Ion",
+      "续航时间": "4.7 Hrs；充电时间 - 充电时/关闭时: 4.0Hrs / 3.6Hrs",
+      "笔记本重量": "2.7Kg",
+      "音频系统": "1.0 Watts*2",
+      "有线网卡": "Intel PRO/1000 Gigabit Ethernet；无线 Wi-Fi wireless upgradable"
+    }
+  },
+  {
+    "name": "IBM ThinkPad R51 2887-HEJ (奔腾-M(Dothan-400))",
+    "manufacturer": "ThinkPad",
+    "series": "IBM ThinkPad R51 2887-HEJ",
+    "opendb_id": "ibm_thinkpad_r51_2887_hej_m",
+    "metadata": {
+      "操作系统": "Windows XP Professional(SP2)/中文 Microsoft Windows XP 家庭版/Windows XP 家庭版/Windows XP/中文Microsoft Windows XP家庭版/Windows XP Home",
+      "CPU型号": "奔腾-M(Dothan-400)",
+      "CPU主频": "1.6GHz/1.7GHz/1.5GHz/1.8GHz",
+      "总线规格": "采用了Dothan核心Pentium M 725处理器而且还植入了TCPA模块（Trusted Computing Platform Alliance）/前端总线 400MHz/前端总线: 400MHz/400MHz前端总线/前端总线400MHz/前端总线:400MHz/400/英特尔奔腾 M 处理器715FSB:400MHz/英特尔奔腾 M 处理器735/英特尔奔腾 M 处理器745/英特尔奔腾 M 处理器725/Intel Pentium M Processor 735",
+      "内存容量": "512MB/256MB",
+      "内存类型": "DDR",
+      "最大内存容量": "最大可扩展至2GB/最大2GB，2 SODIMM，PC2700/最大2GB，2 SODIMM，PC2700 DDR/2 SODIMM，PC2700 DDR/PC2700 DDR SDRAM，333MHz，最大支持2GB/最大2GB，2 SODIMM，333MHz/PC2700，2 SODIMM，最大2GB/2 SODIMM，最大2GB，PC2700 DDR/2 SODIMM，PC2700 DDR，最大2GB/PC2700 DDR SDRAM/最大2GB，333MHz，PC2700 DDR SDRAM/PC2700 DDR SDRAM，333MHz，最大2GB/333MHz/最大支持2GB，2 SODIMM，333MHz，PC2700 DDR SDRAM",
+      "硬盘容量": "40GB/60GB/30.000",
+      "屏幕尺寸": "15英寸/14.1英寸/15.1英寸",
+      "显卡类型": "集成显卡/独立显卡",
+      "其它接口": "USB2.0接口×2、IEEE1394端口×1、IEEE 802.11a/b/g无线LAN接口、Ethernet接口、V.90调制解调器、Type2 PC卡槽×1、15针D-Sub端子以及并口/AC adapter，External microphone，External Display，Headphone/Line out，Microphone in，RJ11，2个USB2.0，IEEE1394/RJ11,RJ45,S-Video out,2 USB2.0,AC adapter,Expansion Bus port (for Dock II/Mini Dock or Port Replicator II),External microphone,External Display,Headphone/Line out,Infrared,IEEE1394,Parallel/AC adapter，External microphone，External Display，Headphone/Line out，Microphone in，RJ11，RJ45，2个USB2.0，IEEE1394，S-Video out/IEEE1394/AC adapter；Expansion Bus port (for Dock II/Mini Dock or Port Replicator II)；External microphone；External Display；Headphone/Line out；Infrared；IEEE1394；Parallel；RJ11；RJ45；S-Video out；2 USB2.0/IEEE1394，Parallel，RJ11，RJ45，S-Video out，2 USB2.0，Expansion Bus port (for Dock II/Mini Dock or Port Replicator II)，External microphone，External Display，Headphone/Line out，AC adapter/2 USB2.0，S-Video out，RJ45，RJ11，Parallel，IEEE1394，Infrared，Headphone/Line out，External Display，External microphone，Expansion Bus port (for Dock II/Mini Dock or Port Replicator II)，AC adapter/Expansion Bus port (for Dock II/Mini Dock or Port Replicator II)，External microphone，External Display，Headphone/Line out，Infrared，IEEE1394，Parallel，RJ11，RJ45，S-Video out，2 USB2.0/AC adapter，Expansion Bus port (for Dock II/Mini Dock or Port Replicator II)，External microphone，External Display，Headphone/Line out，Infrared，IEEE1394，Parallel，RJ11，RJ45，S-Video out，2 USB2.0/AC adapterExpansion Bus port (for Dock II/Mini Dock or Port Replicator II)External microphoneExternal DisplayHeadphone / Line out2USB 2.0InfraredS-Video outIEEE13941个并口RJ11RJ45/1 (EPP)/支持PCMCIA，速度：4Mbps;2个USB2.0接口，Headphone/Line out，IEEE1394，RJ11，RJ45，S-Video out/2 USB2.0；S-Video out；RJ45；RJ11；Parallel；IEEE1394；Infrared；Headphone/Line out；External Display；External microphone；Expansion Bus port (for Dock II/Mini Dock or Port Replicator II)；AC adapter",
+      "电池类型": "锂子电池/6 Cell Lithium-Ion/9 Cell Lithium-Ion",
+      "续航时间": "4/4.7 Hrs；充电时间 - 充电时/关闭时: 4.0Hrs / 3.6Hrs/4.7 Hrs，充电时间 - 充电时/关闭时: 4.0Hrs / 3.6Hrs/6.0 Hrs；充电时间 - 充电时/关闭时: 5.0Hrs / 4.3Hrs/4.5 Hrs/5/4.5/3.5 Hrs",
+      "笔记本重量": "3Kg/2.7Kg/3.1Kg/2.8Kg/2.6Kg",
+      "音频系统": "2*0.5 Watts，SoundMAX/1.0 Watts*2/2*1.0 Watts，SoundMAX/0.5 Watts*2/2*0.5 Watts/SoundMAX",
+      "有线网卡": "1000Mbps以太网卡/Intel PRO/Wireless 2200BG，Integrated Intel PRO/1000 Gigabit Ethernet",
+      "指取设备": "IBM ThinkPad UltraNav/指点杆加触摸板双鼠标",
+      "键盘描述": "Full size/标准键盘"
+    }
+  },
+  {
+    "name": "IBM ThinkPad R51 2887BC2",
+    "manufacturer": "ThinkPad",
+    "series": "IBM ThinkPad R51 2887-HEJ",
+    "opendb_id": "ibm_thinkpad_r51_2887_hej_m",
+    "metadata": {
+      "操作系统": "中文 Microsoft Windows XP 家庭版",
+      "CPU型号": "赛扬-M(Dothan)",
+      "CPU主频": "1.5GHz",
+      "总线规格": "400",
+      "内存容量": "256MB",
+      "内存类型": "DDR",
+      "最大内存容量": "最大2GB，2 SODIMM，PC2700 DDR",
+      "硬盘容量": "40GB",
+      "屏幕尺寸": "14.1英寸",
+      "显卡类型": "集成显卡",
+      "电池类型": "6 Cell Lithium-Ion",
+      "续航时间": "4.7 Hrs；充电时间 - 充电时/关闭时: 4.0Hrs / 3.6Hrs",
+      "笔记本重量": "2.7Kg",
+      "音频系统": "0.5 Watts*2",
+      "有线网卡": "1000Mbps以太网卡",
+      "指取设备": "IBM ThinkPad UltraNav",
+      "键盘描述": "Full size"
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "IBM ThinkPad R50 18295LC (Intel 奔腾-M)",
+    "manufacturer": "ThinkPad",
+    "series": "IBM ThinkPad R50 18295LC",
+    "opendb_id": "ibm_thinkpad_r50_18295lc_intel_m",
+    "metadata": {
+      "操作系统": "中文 Microsoft Windows XP 家庭版/中文 Microsoft Windows XP 专业版",
+      "CPU型号": "Intel 奔腾-M",
+      "CPU主频": "1.6GHz",
+      "内存容量": "512MB",
+      "内存类型": "DDR",
+      "最大内存容量": "333MHz/333MHz；2 SODIMM；最大2GB",
+      "硬盘容量": "60GB/40GB",
+      "硬盘描述": "ATA-100 (Enhanced IDE)",
+      "屏幕尺寸": "14.1英寸/15英寸",
+      "显卡芯片": "32M/ATI Mobility RADEON 9000",
+      "音频系统": "SoundMAX/SoundMAX；2扬声器1.0 Watts",
+      "有线网卡": "Intel PRO/1000千兆网卡和802.11b无线网卡/Intel PRO/1000千兆网卡,802.11b无线网卡/Intel PRO/1000千兆网卡/Integrated Intel PRO/1000 Gigabit Ethernet",
+      "电池类型": "6 Cell Lithium-Ion/9 Cell Lithium-Ion",
+      "续航时间": "充电时间 - 充电时/关闭时: 4Hrs / 3.6Hrs/充电时间 - 充电时/关闭时: 5Hrs / 4.3Hrs/6.0 Hrs；充电时间 - 充电时/关闭时: 5Hrs / 4.3Hrs",
+      "笔记本重量": "2.5Kg/2.8Kg/3Kg/3.1Kg",
+      "其它接口": "2 USB2.0,S-Video out,RJ45,RJ11,Parallel,IEEE1394",
+      "工作温度": "10-31℃",
+      "工作湿度": "8%-80%",
+      "存储温度": "-25-60℃",
+      "总线规格": "前端总线: 400MHz"
+    }
+  },
+  {
+    "name": "IBM ThinkPad R50 18295LC (奔腾-M(Dothan-400))",
+    "manufacturer": "ThinkPad",
+    "series": "IBM ThinkPad R50 18295LC",
+    "opendb_id": "ibm_thinkpad_r50_18295lc_m",
+    "metadata": {
+      "操作系统": "中文 Microsoft Windows XP 家/中文Microsoft Windows XP专业版/Windows XP家庭版中文",
+      "CPU型号": "奔腾-M(Dothan-400)",
+      "CPU主频": "1.5GHz/1.4GHz",
+      "总线规格": "前端总线: 400MHz/400/前端总线: 400MHz",
+      "内存容量": "256MB",
+      "内存类型": "DDR",
+      "最大内存容量": "最大2GB，2 SODIMM，333MHz/最大支持内存2048(MB)",
+      "硬盘容量": "40GB/30.000",
+      "硬盘描述": "ATA-100",
+      "屏幕尺寸": "14.1英寸/15英寸",
+      "显示比例": "否",
+      "显卡类型": "独立显卡",
+      "显卡芯片": "ATI Radeon 7500/ATI Radeon 9000",
+      "显存容量": "32",
+      "音频系统": "2 1.0 Watts/SoundMAX",
+      "有线网卡": "1000Mbps以太网卡",
+      "电池类型": "6 Cell Lithium-Ion",
+      "续航时间": "4.7 Hrs；充电时间 - 充电时/关闭时: 4Hrs / 3.6Hrs/4.7小时/4.7 Hrs；充电时间 充电时/关闭时: 4Hrs / 3.6Hrs",
+      "笔记本重量": "2.7Kg/3Kg/2.6Kg",
+      "其它接口": "2USB2.0,RJ-11,RJ-45,IEEE1394,S-Video out/1 Type II or 1 Type III",
+      "指取设备": "触摸板",
+      "工作温度": "10-31℃",
+      "工作湿度": "8%-80%",
+      "存储温度": "-25-60℃",
+      "存储湿度": "5%-95%"
+    }
+  }
+]

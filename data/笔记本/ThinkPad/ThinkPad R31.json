@@ -1,0 +1,66 @@
+[
+  {
+    "name": "IBM R31 2656XXL",
+    "manufacturer": "ThinkPad",
+    "series": "IBM R31 63H",
+    "opendb_id": "ibm_r31_63h_ati_radeon_16m",
+    "metadata": {
+      "CPU主频": "1.13GHz",
+      "内存容量": "256MB",
+      "硬盘容量": "30.000",
+      "显卡芯片": "ATI RADEON 16M",
+      "屏幕尺寸": "14.1英寸"
+    }
+  },
+  {
+    "name": "IBM R31 63H (Intel 830MG Integrated)",
+    "manufacturer": "ThinkPad",
+    "series": "IBM R31 63H",
+    "opendb_id": "ibm_r31_63h_intel_830mg_integrated",
+    "metadata": {
+      "CPU主频": "1.133GHz/1.13GHz",
+      "总线规格": "Mobile Intel Pentium III processor - M，前端总线133MHz，二级缓存512KB/Mobile Intel Pentium III processor - M 1133MHz/PIII-M 1.133GHz",
+      "内存容量": "128.000/256MB",
+      "最大内存容量": "最大1024MB，PC133 SDRAM/SDRAM，2 SODIMM (1 SODIMM)，最大1024MB",
+      "硬盘容量": "30.000/20GB",
+      "硬盘描述": "4200rpm，ATA-100/ATA-100 (Enhanced IDE)",
+      "显卡芯片": "Intel 830MG Integrated",
+      "显存类型": "32MB（内存动态分配）/32MB DVMT",
+      "有线网卡": "100M LAN/10/100 Ethernet",
+      "其它接口": "1(EPP),2(USB),1 (RS-264D),Headphone/Line out, Line in/ Microphone/1 (EPP)，2 (USB)，Speaker/headphone (stereo)，S-Video out，AC adapter jack，Microphone/line in，Display，RJ45，RJ11，Expansion connector，Infrared",
+      "指取设备": "TrackPoint with \"Press-to-Select\"/TrackPoint with",
+      "键盘描述": "全尺寸键盘/标准全尺寸键盘",
+      "电池类型": "锂电池/6 Cell Lithium-Ion",
+      "笔记本重量": "2.45Kg/2.6Kg",
+      "特色功能": "安全特性：开机密码，超级用户密码，硬盘密码，IBM安全插槽/保修：1年部件及人力（系统电池：1年）",
+      "音频系统": "Sound Blaster Pro 16 compatible sound system"
+    }
+  },
+  {
+    "name": "IBM ThinkPad R31 2656-K1C",
+    "manufacturer": "ThinkPad",
+    "series": "IBM R31 63H",
+    "opendb_id": "ibm_r31_63h_ati_mobility",
+    "metadata": {
+      "CPU主频": "1.2GHz",
+      "总线规格": "二级缓存(KB) 512",
+      "内存容量": "128.000",
+      "最大内存容量": "128MB SDRAM 扩展内存容量(MB) 1024",
+      "硬盘容量": "20GB",
+      "显卡芯片": "ATI Mobility",
+      "显存类型": "16MB",
+      "有线网卡": "10/100M",
+      "其它接口": "2个USB端口，外接显示器、红外、耳机、麦克风、并口、RJ11、RJ45、S-视频输出",
+      "电池类型": "锂电池",
+      "笔记本重量": "2.4Kg",
+      "特色功能": "工作高度：－60米--3000米；存储高度：－60米--10000米",
+      "屏幕尺寸": "13.3英寸",
+      "操作系统": "Windows XP",
+      "音频系统": "Sound Blaster Pro 16 compatible sound system",
+      "工作温度": "10℃--35℃",
+      "工作湿度": "8%--80%",
+      "存储温度": "-40℃--65℃",
+      "存储湿度": "5%--95%"
+    }
+  }
+]
