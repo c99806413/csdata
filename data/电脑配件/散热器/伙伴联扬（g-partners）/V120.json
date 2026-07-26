@@ -1,0 +1,36 @@
+[
+  {
+    "name": "g-partners V120 V120曲镜黑色(ARGB)",
+    "manufacturer": "g-partners",
+    "series": "V120",
+    "opendb_id": "g_partners_v120_v120_____argb_",
+    "metadata": {
+      "产品型号": "V120曲镜",
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "发光方式": "ARGB",
+      "产品重量": "250g",
+      "风扇尺寸": "120X120X25mm",
+      "最高转数": "1200RPM",
+      "噪音": "23.5dB",
+      "散热片尺寸": "120X120X25mm"
+    }
+  },
+  {
+    "name": "g-partners V120 V120曲镜白色(ARGB)",
+    "manufacturer": "g-partners",
+    "series": "V120",
+    "opendb_id": "g_partners_v120_v120_____argb_",
+    "metadata": {
+      "产品型号": "V120曲镜",
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "发光方式": "ARGB",
+      "产品重量": "250g",
+      "风扇尺寸": "120X120X25mm",
+      "最高转数": "1200RPM",
+      "噪音": "23.5dB",
+      "散热片尺寸": "120X120X25mm"
+    }
+  }
+]

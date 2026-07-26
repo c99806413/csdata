@@ -1,0 +1,58 @@
+[
+  {
+    "name": "finalcool（寒彻）Pro 墨铜M02 (0.3mm铜箔+石墨烯贴)",
+    "manufacturer": "寒彻",
+    "series": "Pro",
+    "opendb_id": "finalcool____pro___m02__0_3mm________",
+    "metadata": {
+      "产品型号": "冰铜Pro",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "发光方式": "无光",
+      "主体材质": "金属",
+      "产品重量": "70g",
+      "散热片尺寸": "0.2mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）Pro 冰铜M08Pro（0.8mm厚紫铜片）",
+    "manufacturer": "寒彻",
+    "series": "Pro",
+    "opendb_id": "finalcool____pro___m08pro_0_8mm_____",
+    "metadata": {
+      "产品型号": "冰铜Pro",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "发光方式": "无光",
+      "主体材质": "金属",
+      "产品重量": "70g",
+      "散热片尺寸": "74*22*08mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）Pro 冰铜M1Pro（1mm厚紫铜片）",
+    "manufacturer": "寒彻",
+    "series": "Pro",
+    "opendb_id": "finalcool____pro___m1pro_1mm_____",
+    "metadata": {
+      "产品型号": "冰铜Pro",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "产品重量": "70g",
+      "散热片尺寸": "77*22*1mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）Pro 冰铜M2Pro（2mm厚紫铜片）",
+    "manufacturer": "寒彻",
+    "series": "Pro",
+    "opendb_id": "finalcool____pro___m2pro_2mm_____",
+    "metadata": {
+      "产品型号": "冰铜Pro",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "产品重量": "70g",
+      "散热片尺寸": "77*22*2mm"
+    }
+  }
+]

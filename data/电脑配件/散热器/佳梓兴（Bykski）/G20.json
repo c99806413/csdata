@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Bykski G20 G20 方案套餐",
+    "manufacturer": "Bykski",
+    "series": "G20",
+    "opendb_id": "bykski_g20_g20_____",
+    "metadata": {
+      "产品型号": "G20",
+      "散热方式": "水冷",
+      "产品重量": "14.6kg",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  },
+  {
+    "name": "Bykski G20 G20",
+    "manufacturer": "Bykski",
+    "series": "G20",
+    "opendb_id": "bykski_g20_g20",
+    "metadata": {
+      "产品型号": "G20",
+      "散热方式": "水冷",
+      "产品重量": "14.6kg",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  }
+]

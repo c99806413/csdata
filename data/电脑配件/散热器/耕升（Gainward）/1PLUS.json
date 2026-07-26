@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Gainward（耕升）1PLUS 风力1号 (RGB同步幻彩/12CM风扇）",
+    "manufacturer": "耕升",
+    "series": "1PLUS",
+    "opendb_id": "gainward____1plus___1___rgb_____12cm___",
+    "metadata": {
+      "产品型号": "风力1号",
+      "散热器类型": "Intel 平台散热器",
+      "散热方式": "风冷",
+      "适用范围": "宽度大于180mm",
+      "发光方式": "RGB",
+      "主体材质": "金属",
+      "产品重量": "500g",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "600RPM",
+      "端子接口": "INTEL LGA1200，AMD AM4，INTEL LGA1700，AMD AM5",
+      "热管数量": "4热管",
+      "散热片尺寸": "120*75*150mm"
+    }
+  },
+  {
+    "name": "Gainward（耕升）1PLUS 暴风1号 (ARGB幻彩/12CM风扇）",
+    "manufacturer": "耕升",
+    "series": "1PLUS",
+    "opendb_id": "gainward____1plus___1___argb___12cm___",
+    "metadata": {
+      "产品型号": "暴风1号",
+      "散热器类型": "Intel 平台散热器",
+      "散热方式": "风冷",
+      "适用范围": "宽度大于180mm",
+      "发光方式": "ARGB",
+      "主体材质": "金属",
+      "产品重量": "500g",
+      "风扇尺寸": "12CMmm",
+      "最高转数": "1800RPM",
+      "端子接口": "INTEL LGA1200，AMD AM4，INTEL LGA1700，AMD AM5",
+      "热管数量": "4热管",
+      "散热片尺寸": "12CMmm"
+    }
+  },
+  {
+    "name": "Gainward（耕升）1PLUS 风力1号PLUS (RGB同步幻彩/12CM风扇）",
+    "manufacturer": "耕升",
+    "series": "1PLUS",
+    "opendb_id": "gainward____1plus___1_plus__rgb_____12cm___",
+    "metadata": {
+      "产品型号": "风力1号PLUS",
+      "散热器类型": "Intel 平台散热器",
+      "散热方式": "风冷",
+      "适用范围": "宽度大于180mm",
+      "发光方式": "RGB",
+      "主体材质": "金属",
+      "产品重量": "500g",
+      "风扇尺寸": "12mm",
+      "最高转数": "1800RPM",
+      "端子接口": "INTEL LGA1200，AMD AM4，INTEL LGA1700，AMD AM5",
+      "热管数量": "4热管",
+      "散热片尺寸": "12mm"
+    }
+  }
+]

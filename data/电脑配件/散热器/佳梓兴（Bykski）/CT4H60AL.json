@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bykski CT4H60AL CT-4H60-AL 80mm",
+    "manufacturer": "Bykski",
+    "series": "CT4H60AL",
+    "opendb_id": "bykski_ct4h60al_ct_4h60_al_80mm",
+    "metadata": {
+      "产品型号": "CT-4H60-AL",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "1680RPM"
+    }
+  },
+  {
+    "name": "Bykski CT4H60AL CT-4H60-AL 130mm",
+    "manufacturer": "Bykski",
+    "series": "CT4H60AL",
+    "opendb_id": "bykski_ct4h60al_ct_4h60_al_130mm",
+    "metadata": {
+      "产品型号": "CT-4H60-AL",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "1680RPM"
+    }
+  },
+  {
+    "name": "Bykski CT4H60AL CT-4H60-AL 180mm",
+    "manufacturer": "Bykski",
+    "series": "CT4H60AL",
+    "opendb_id": "bykski_ct4h60al_ct_4h60_al_180mm",
+    "metadata": {
+      "产品型号": "CT-4H60-AL",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "1680RPM"
+    }
+  },
+  {
+    "name": "Bykski CT4H60AL CT-4H60-AL 240mm",
+    "manufacturer": "Bykski",
+    "series": "CT4H60AL",
+    "opendb_id": "bykski_ct4h60al_ct_4h60_al_240mm",
+    "metadata": {
+      "产品型号": "CT-4H60-AL",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "1680RPM"
+    }
+  }
+]

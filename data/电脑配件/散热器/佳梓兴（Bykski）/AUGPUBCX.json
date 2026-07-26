@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Bykski AUGPUBCX 迷你款",
+    "manufacturer": "Bykski",
+    "series": "AUGPUBCX",
+    "opendb_id": "bykski_augpubcx____",
+    "metadata": {
+      "产品型号": "AU-GPU-BC-X",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  },
+  {
+    "name": "Bykski AUGPUBCX 中款",
+    "manufacturer": "Bykski",
+    "series": "AUGPUBCX",
+    "opendb_id": "bykski_augpubcx___",
+    "metadata": {
+      "产品型号": "AU-GPU-BC-X",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  },
+  {
+    "name": "Bykski AUGPUBCX 长款",
+    "manufacturer": "Bykski",
+    "series": "AUGPUBCX",
+    "opendb_id": "bykski_augpubcx___",
+    "metadata": {
+      "产品型号": "AU-GPU-BC-X",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  }
+]

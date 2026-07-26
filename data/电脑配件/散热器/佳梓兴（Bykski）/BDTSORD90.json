@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Bykski BDTSORD90 黑色",
+    "manufacturer": "Bykski",
+    "series": "BDTSORD90",
+    "opendb_id": "bykski_bdtsord90___",
+    "metadata": {
+      "产品型号": "B-DTSO-RD90",
+      "散热器类型": "分体式水冷配件",
+      "散热方式": "水冷",
+      "产品重量": "120g",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  },
+  {
+    "name": "Bykski BDTSORD90 银色",
+    "manufacturer": "Bykski",
+    "series": "BDTSORD90",
+    "opendb_id": "bykski_bdtsord90___",
+    "metadata": {
+      "产品型号": "B-DTSO-RD90",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  }
+]

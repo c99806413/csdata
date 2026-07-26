@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bykski GCLANO11D360 5V RBW+GFM Ⅲ",
+    "manufacturer": "Bykski",
+    "series": "GCLANO11D360",
+    "opendb_id": "bykski_gclano11d360_5v_rbw_gfm__",
+    "metadata": {
+      "产品型号": "GC-LAN-O11-D360",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  },
+  {
+    "name": "Bykski GCLANO11D360 5V RBW",
+    "manufacturer": "Bykski",
+    "series": "GCLANO11D360",
+    "opendb_id": "bykski_gclano11d360_5v_rbw",
+    "metadata": {
+      "产品型号": "GC-LAN-O11-D360",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  }
+]

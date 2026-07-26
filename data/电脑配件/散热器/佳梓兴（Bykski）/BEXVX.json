@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Bykski BEXVX 银色",
+    "manufacturer": "Bykski",
+    "series": "BEXVX",
+    "opendb_id": "bykski_bexvx___",
+    "metadata": {
+      "产品型号": "B-EXV-X",
+      "散热器类型": "分体式水冷配件",
+      "散热方式": "水冷",
+      "产品重量": "120g",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM",
+      "散热片尺寸": "3mm"
+    }
+  },
+  {
+    "name": "Bykski BEXVX 金色",
+    "manufacturer": "Bykski",
+    "series": "BEXVX",
+    "opendb_id": "bykski_bexvx___",
+    "metadata": {
+      "产品型号": "B-EXV-X",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM",
+      "散热片尺寸": "3mm"
+    }
+  },
+  {
+    "name": "Bykski BEXVX 白色",
+    "manufacturer": "Bykski",
+    "series": "BEXVX",
+    "opendb_id": "bykski_bexvx___",
+    "metadata": {
+      "产品型号": "B-EXV-X",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM",
+      "散热片尺寸": "3mm"
+    }
+  },
+  {
+    "name": "Bykski BEXVX 黑色",
+    "manufacturer": "Bykski",
+    "series": "BEXVX",
+    "opendb_id": "bykski_bexvx___",
+    "metadata": {
+      "产品型号": "B-EXV-X",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM",
+      "散热片尺寸": "3mm"
+    }
+  }
+]

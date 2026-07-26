@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Bykski BCPKIT SE系列：软管套装 【单独显卡】",
+    "manufacturer": "Bykski",
+    "series": "BCPKIT",
+    "opendb_id": "bykski_bcpkit_se______________",
+    "metadata": {
+      "产品型号": "B-CP-KIT",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "1680RPM"
+    }
+  },
+  {
+    "name": "Bykski BCPKIT SE系列：软管套装 【单独CPU】",
+    "manufacturer": "Bykski",
+    "series": "BCPKIT",
+    "opendb_id": "bykski_bcpkit_se___________cpu_",
+    "metadata": {
+      "产品型号": "B-CP-KIT",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "1680RPM"
+    }
+  },
+  {
+    "name": "Bykski BCPKIT SE系列：硬管套装 【单独CPU】",
+    "manufacturer": "Bykski",
+    "series": "BCPKIT",
+    "opendb_id": "bykski_bcpkit_se___________cpu_",
+    "metadata": {
+      "产品型号": "B-CP-KIT",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "1680RPM"
+    }
+  },
+  {
+    "name": "Bykski BCPKIT SE系列：硬管套装 【显卡+CPU】",
+    "manufacturer": "Bykski",
+    "series": "BCPKIT",
+    "opendb_id": "bykski_bcpkit_se____________cpu_",
+    "metadata": {
+      "产品型号": "B-CP-KIT",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "1680RPM"
+    }
+  },
+  {
+    "name": "Bykski BCPKIT SE系列：硬管套装【单独显卡】",
+    "manufacturer": "Bykski",
+    "series": "BCPKIT",
+    "opendb_id": "bykski_bcpkit_se_____________",
+    "metadata": {
+      "产品型号": "B-CP-KIT",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "1680RPM"
+    }
+  },
+  {
+    "name": "Bykski BCPKIT SE系列：软管套装【显卡+CPU】",
+    "manufacturer": "Bykski",
+    "series": "BCPKIT",
+    "opendb_id": "bykski_bcpkit_se___________cpu_",
+    "metadata": {
+      "产品型号": "B-CP-KIT",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "1680RPM"
+    }
+  }
+]

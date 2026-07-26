@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Bykski GZGPUM240N TC款双面水冷头+PMD3泵",
+    "manufacturer": "Bykski",
+    "series": "GZGPUM240N",
+    "opendb_id": "bykski_gzgpum240n_tc_______pmd3_",
+    "metadata": {
+      "产品型号": "GZGPU-M240N",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "3000RPM",
+      "散热片尺寸": "3mm"
+    }
+  },
+  {
+    "name": "Bykski GZGPUM240N CPU水冷头+PMD3泵",
+    "manufacturer": "Bykski",
+    "series": "GZGPUM240N",
+    "opendb_id": "bykski_gzgpum240n_cpu____pmd3_",
+    "metadata": {
+      "产品型号": "GZGPU-M240N",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "3000RPM",
+      "散热片尺寸": "3mm"
+    }
+  },
+  {
+    "name": "Bykski GZGPUM240N 常规款冷头+PMD3泵",
+    "manufacturer": "Bykski",
+    "series": "GZGPUM240N",
+    "opendb_id": "bykski_gzgpum240n_______pmd3_",
+    "metadata": {
+      "产品型号": "GZGPU-M240N",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "3000RPM",
+      "散热片尺寸": "3mm"
+    }
+  }
+]

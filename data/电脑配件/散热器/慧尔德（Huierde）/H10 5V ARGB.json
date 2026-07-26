@@ -1,0 +1,22 @@
+[
+  {
+    "name": "慧尔德H10 5V ARGB H10集线器+手动控制器",
+    "manufacturer": "慧尔德",
+    "series": "H10 5V ARGB",
+    "opendb_id": "___h10_5v_argb_h10_________",
+    "metadata": {
+      "产品型号": "H10 5V ARGB集线器",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "慧尔德H10 5V ARGB H10一分十集线器",
+    "manufacturer": "慧尔德",
+    "series": "H10 5V ARGB",
+    "opendb_id": "___h10_5v_argb_h10______",
+    "metadata": {
+      "产品型号": "H10 5V ARGB集线器",
+      "散热方式": "风冷"
+    }
+  }
+]

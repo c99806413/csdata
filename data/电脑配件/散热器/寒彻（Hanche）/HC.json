@@ -1,0 +1,431 @@
+[
+  {
+    "name": "finalcool（寒彻）HC 10W/m灰色 100mmX100mm厚0.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_10w_m___100mmx100mm_0_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 5W/m.K绿色100mmX100mm厚2.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_5w_m_k__100mmx100mm_2_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 5W/m.K 绿色 70mmX20mm厚0.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_5w_m_k____70mmx20mm_0_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 5W/m.K绿色 70mmX20mm厚1.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_5w_m_k___70mmx20mm_1_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 8W/m.K粉色 70mmX20mm厚0.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_8w_m_k___70mmx20mm_0_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 5W/m.K 绿色 70mmX20mm厚1.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_5w_m_k____70mmx20mm_1_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 8W/m.K粉色 70mmX20mm厚1.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_8w_m_k___70mmx20mm_1_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 10W/m.K灰色 70mmX20mm厚0.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_10w_m_k___70mmx20mm_0_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 10W/m.K灰色 70mmX20mm厚1.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_10w_m_k___70mmx20mm_1_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 8W/m.K粉色 70mmX20mm厚1.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_8w_m_k___70mmx20mm_1_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 5W/m.K绿色 80mmX40mm厚0.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_5w_m_k___80mmx40mm_0_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 10W/m.K灰色 70mmX20mm厚1.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_10w_m_k___70mmx20mm_1_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 5W/m.K绿色 80mmX40mm厚1.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_5w_m_k___80mmx40mm_1_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 5W/m.K绿色100mmX100mm厚0.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_5w_m_k__100mmx100mm_0_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 8W/m.K粉色 80mmX40mm厚0.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_8w_m_k___80mmx40mm_0_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 10W/m.K灰色 80mmX40mm厚0.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_10w_m_k___80mmx40mm_0_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 5W/m.K绿色 80mmX40mm厚1.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_5w_m_k___80mmx40mm_1_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 8W/m.粉色 100mmX100mm厚0.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_8w_m____100mmx100mm_0_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 10W/m.K灰色 80mmX40mm厚1.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_10w_m_k___80mmx40mm_1_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 8W/m.K粉色 80mmX40mm厚1.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_8w_m_k___80mmx40mm_1_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 5W/m.K绿色100mmX100mm厚1.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_5w_m_k__100mmx100mm_1_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 5W/m.K绿色 80mmX40mm厚2.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_5w_m_k___80mmx40mm_2_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 8W/m.K粉色100mmX100mm厚1.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_8w_m_k__100mmx100mm_1_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 10W/m.K灰色 80mmX40mm厚1.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_10w_m_k___80mmx40mm_1_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 5W/m.K绿色100mmX100mm厚1.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_5w_m_k__100mmx100mm_1_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 8W/m.K粉色 80mmX40mm厚1.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_8w_m_k___80mmx40mm_1_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 10W/m灰色 100mmX100mm厚1.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_10w_m___100mmx100mm_1_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 8W/m.粉色 100mmX100mm厚1.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_8w_m____100mmx100mm_1_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 10W/m.K灰色 80mmX40mm厚2.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_10w_m_k___80mmx40mm_2_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 8W/m.K粉色 80mmX40mm厚2.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_8w_m_k___80mmx40mm_2_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 10W/m.K灰100mmX100mm厚1.5mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_10w_m_k_100mmx100mm_1_5mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 8W/m.粉色 100mmX100mm厚2.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_8w_m____100mmx100mm_2_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）HC 10W/m灰色 100mmX100mm厚2.0mm",
+    "manufacturer": "寒彻",
+    "series": "HC",
+    "opendb_id": "finalcool____hc_10w_m___100mmx100mm_2_0mm",
+    "metadata": {
+      "产品型号": "芯导HC系列",
+      "散热器类型": "芯片、显卡散热器",
+      "散热方式": "空冷",
+      "风扇尺寸": "80x40mm",
+      "散热片尺寸": "100x100mm"
+    }
+  }
+]

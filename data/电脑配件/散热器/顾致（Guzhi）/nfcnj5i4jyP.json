@@ -1,0 +1,92 @@
+[
+  {
+    "name": "顾致nfcnj5i4jyP 小六针控制器+遥控器(支持主板5V同步)",
+    "manufacturer": "顾致",
+    "series": "nfcnj5i4jyP",
+    "opendb_id": "__nfcnj5i4jyp________________5v___",
+    "metadata": {
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "顾致nfcnj5i4jyP 律动III代白(正向)(小六针接口)",
+    "manufacturer": "顾致",
+    "series": "nfcnj5i4jyP",
+    "opendb_id": "__nfcnj5i4jyp___iii_____________",
+    "metadata": {
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "顾致nfcnj5i4jyP 律动III代白(反向)(小六针接口)",
+    "manufacturer": "顾致",
+    "series": "nfcnj5i4jyP",
+    "opendb_id": "__nfcnj5i4jyp___iii_____________",
+    "metadata": {
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "顾致nfcnj5i4jyP 律动III代黑(反向)(小六针接口)",
+    "manufacturer": "顾致",
+    "series": "nfcnj5i4jyP",
+    "opendb_id": "__nfcnj5i4jyp___iii_____________",
+    "metadata": {
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "顾致nfcnj5i4jyP 律动III代黑(正向)(小六针接口)",
+    "manufacturer": "顾致",
+    "series": "nfcnj5i4jyP",
+    "opendb_id": "__nfcnj5i4jyp___iii_____________",
+    "metadata": {
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "顾致nfcnj5i4jyP 5V三针温控10口集线器",
+    "manufacturer": "顾致",
+    "series": "nfcnj5i4jyP",
+    "opendb_id": "__nfcnj5i4jyp_5v____10____",
+    "metadata": {
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "顾致nfcnj5i4jyP 律动III代黑色(反向风扇)(5V三针接口)",
+    "manufacturer": "顾致",
+    "series": "nfcnj5i4jyP",
+    "opendb_id": "__nfcnj5i4jyp___iii__________5v_____",
+    "metadata": {
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "顾致nfcnj5i4jyP 律动III代黑色(正向风扇)(5V三针接口)",
+    "manufacturer": "顾致",
+    "series": "nfcnj5i4jyP",
+    "opendb_id": "__nfcnj5i4jyp___iii__________5v_____",
+    "metadata": {
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "顾致nfcnj5i4jyP 律动III代白色(反向风扇)(5V三针接口)",
+    "manufacturer": "顾致",
+    "series": "nfcnj5i4jyP",
+    "opendb_id": "__nfcnj5i4jyp___iii__________5v_____",
+    "metadata": {
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "顾致nfcnj5i4jyP 律动III代白色(正向风扇)(5V三针接口)",
+    "manufacturer": "顾致",
+    "series": "nfcnj5i4jyP",
+    "opendb_id": "__nfcnj5i4jyp___iii__________5v_____",
+    "metadata": {
+      "散热方式": "风冷"
+    }
+  }
+]

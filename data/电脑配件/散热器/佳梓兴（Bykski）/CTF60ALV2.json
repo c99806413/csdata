@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bykski CTF60ALV2 CT-F60-AL-V2 200MM",
+    "manufacturer": "Bykski",
+    "series": "CTF60ALV2",
+    "opendb_id": "bykski_ctf60alv2_ct_f60_al_v2_200mm",
+    "metadata": {
+      "产品型号": "CT-F60-AL-V2",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "1068RPM"
+    }
+  },
+  {
+    "name": "Bykski CTF60ALV2 CT-F60-AL-V2 60MM",
+    "manufacturer": "Bykski",
+    "series": "CTF60ALV2",
+    "opendb_id": "bykski_ctf60alv2_ct_f60_al_v2_60mm",
+    "metadata": {
+      "产品型号": "CT-F60-AL-V2",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "1068RPM"
+    }
+  },
+  {
+    "name": "Bykski CTF60ALV2 CT-F60-AL-V2 100MM",
+    "manufacturer": "Bykski",
+    "series": "CTF60ALV2",
+    "opendb_id": "bykski_ctf60alv2_ct_f60_al_v2_100mm",
+    "metadata": {
+      "产品型号": "CT-F60-AL-V2",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "1068RPM"
+    }
+  },
+  {
+    "name": "Bykski CTF60ALV2 CT-F60-AL-V2 150MM",
+    "manufacturer": "Bykski",
+    "series": "CTF60ALV2",
+    "opendb_id": "bykski_ctf60alv2_ct_f60_al_v2_150mm",
+    "metadata": {
+      "产品型号": "CT-F60-AL-V2",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "1068RPM"
+    }
+  }
+]

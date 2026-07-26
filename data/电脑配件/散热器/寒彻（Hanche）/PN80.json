@@ -1,0 +1,30 @@
+[
+  {
+    "name": "finalcool（寒彻）PN80 PN80-黑色",
+    "manufacturer": "寒彻",
+    "series": "PN80",
+    "opendb_id": "finalcool____pn80_pn80___",
+    "metadata": {
+      "产品型号": "PN80",
+      "散热器类型": "导热硅脂",
+      "散热方式": "空冷",
+      "主体材质": "金属",
+      "产品重量": "50g",
+      "散热片尺寸": "77*22*3mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）PN80 PN80-红色",
+    "manufacturer": "寒彻",
+    "series": "PN80",
+    "opendb_id": "finalcool____pn80_pn80___",
+    "metadata": {
+      "产品型号": "PN80",
+      "散热器类型": "导热硅脂",
+      "散热方式": "空冷",
+      "主体材质": "金属",
+      "产品重量": "50g",
+      "散热片尺寸": "77*22*3mm"
+    }
+  }
+]

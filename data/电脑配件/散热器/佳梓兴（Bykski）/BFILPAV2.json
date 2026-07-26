@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bykski BFILPAV2 黑色",
+    "manufacturer": "Bykski",
+    "series": "BFILPAV2",
+    "opendb_id": "bykski_bfilpav2___",
+    "metadata": {
+      "产品型号": "B-FIL-PA-V2",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  },
+  {
+    "name": "Bykski BFILPAV2 银色",
+    "manufacturer": "Bykski",
+    "series": "BFILPAV2",
+    "opendb_id": "bykski_bfilpav2___",
+    "metadata": {
+      "产品型号": "B-FIL-PA-V2",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  }
+]

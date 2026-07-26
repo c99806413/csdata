@@ -1,0 +1,41 @@
+[
+  {
+    "name": "finalcool（寒彻）M2Pro 冰川M2Pro-黑色",
+    "manufacturer": "寒彻",
+    "series": "M2Pro",
+    "opendb_id": "finalcool____m2pro___m2pro___",
+    "metadata": {
+      "产品型号": "冰川M2Pro",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "主体材质": "金属",
+      "产品重量": "200g",
+      "散热片尺寸": "73*23.6*10mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）M2Pro 冰川M2Pro-红色",
+    "manufacturer": "寒彻",
+    "series": "M2Pro",
+    "opendb_id": "finalcool____m2pro___m2pro___",
+    "metadata": {
+      "产品型号": "冰川M2Pro",
+      "散热方式": "风冷",
+      "散热片尺寸": "73*23.6*10mm"
+    }
+  },
+  {
+    "name": "finalcool（寒彻）M2Pro 冰川M2Pro-银色",
+    "manufacturer": "寒彻",
+    "series": "M2Pro",
+    "opendb_id": "finalcool____m2pro___m2pro___",
+    "metadata": {
+      "产品型号": "冰川M2Pro",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "主体材质": "金属",
+      "产品重量": "200g",
+      "散热片尺寸": "73*23.6*10mm"
+    }
+  }
+]

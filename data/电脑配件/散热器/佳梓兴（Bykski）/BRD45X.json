@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bykski BRD45X 金色",
+    "manufacturer": "Bykski",
+    "series": "BRD45X",
+    "opendb_id": "bykski_brd45x___",
+    "metadata": {
+      "产品型号": "B-RD45-X",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  },
+  {
+    "name": "Bykski BRD45X 银色",
+    "manufacturer": "Bykski",
+    "series": "BRD45X",
+    "opendb_id": "bykski_brd45x___",
+    "metadata": {
+      "产品型号": "B-RD45-X",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  },
+  {
+    "name": "Bykski BRD45X 黑色",
+    "manufacturer": "Bykski",
+    "series": "BRD45X",
+    "opendb_id": "bykski_brd45x___",
+    "metadata": {
+      "产品型号": "B-RD45-X",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  },
+  {
+    "name": "Bykski BRD45X 白色",
+    "manufacturer": "Bykski",
+    "series": "BRD45X",
+    "opendb_id": "bykski_brd45x___",
+    "metadata": {
+      "产品型号": "B-RD45-X",
+      "散热方式": "水冷",
+      "风扇尺寸": "120mm",
+      "最高转数": "2000RPM"
+    }
+  }
+]
