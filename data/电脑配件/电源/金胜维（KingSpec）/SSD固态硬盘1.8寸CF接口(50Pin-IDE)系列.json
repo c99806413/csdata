@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SSD固态硬盘1.8寸CF接口(50Pin-IDE)系列",
+    "manufacturer": "金胜维",
+    "series": "SSD固态硬盘1.8寸CF接口(50Pin-IDE)系列",
+    "opendb_id": "ssd_1_8_cf_50pin_ide",
+    "metadata": {
+      "存储容量": "32GB/128GB/64GB/16GB",
+      "接口类型": "CF(IDE50Pin)",
+      "硬盘尺寸": "1.8英寸",
+      "读取速度": "60/65",
+      "写入数据传输率": "42MB/s/47MB/s/32MB/S",
+      "外形尺寸": "5*54*74.6mm",
+      "产品重量": "23g",
+      "其它性能": "测试平台：AMD Athlon 64 3000+ 1.8GHz，DDR2 PC2-5300 512MB×2pcs double channel.RAM，NVIDIA nForce520 chipset，Microsoft Windows XP Professional SP3测试软件：HDBench3.4.0.3, IOMeter 2006.07.27/均衡抹除算法：动态与静态的平衡抹除算法测试平台：AMD Athlon 64 3000+ 1.8GHz，DDR2 PC2-5300 512MB×2pcs double channel.RAM，NVIDIA nForce520 chipset，Microsoft Windows XP Professional SP3测试软件：HDBench3.4.0.3, IOMeter 2006.07.27/环境：工作温度：0～70℃存放温度：-40～85℃冲击：2000G(@0.3ms half sine wave)振动：20G(40-2000HZ)环境湿度：5-95%",
+      "其它特点": "随机每秒输入输出次数：5031平均存取时间：0.2ms存储介质：NAND闪存，MLC-NAND Flash功耗：输入电压：3.3V+/_5%空闲：0.5W工作：1.0W可靠性与稳定性：写寿命：32GB每天写100GB资料可以用8年读寿命：无限均衡抹除算法：动态与静态的平衡抹除算法数据/随机每秒输入输出次数：5031平均存取时间：0.2ms存储介质:NAND闪存,MLC-NAND Flash功耗:输入电压:3.3V+/_5%空闲:0.5W工作:1.0W可靠性与稳定性：写寿命：32GB每天写100GB资料可以用8年读寿命：无限数据保存：在25度下可以存放10年平均故障间/随机每秒输入输出次数：5031平均存取时间：0.2ms存储介质：NAND闪存，MLC-NAND Flash功耗：输入电压：3.3V+/_5%空闲：0.5W工作：1.0W可靠性与稳定性：写寿命：32GB每天写100GB资料可以用8年读寿命：无限均衡抹除算法：动态与静态的平衡抹除算法数/随机每秒输入输出次数：5031平均存取时间：0.2ms存储介质：NAND闪存、MLC-NAND Flash功耗：输入电压：3.3V+/_5%空闲：0.5W工作：1.0W可靠性与稳定性：写寿命：32GB每天写100GB资料可以用8年读寿命：无限均衡抹除算法：动态与静态的平衡抹除�",
+      "产品特性1": "工作温度：0～70℃存放温度：-40～85℃冲击：2,000G(@0.3ms half sine wave)振动：20G(40-2000HZ)环境湿度：5-95%量产状况：已量产，NO EOL（无停产计划）/工作温度\t0～70℃存放温度\t-40～85℃冲击：2000G(@0.3ms half sine wave)振动：20G(40-2000HZ)环境湿度：5-95%量产状况:已量产\tNO EOL（无停产计划)/工作温度：0～70℃存放温度：-40～85℃冲击：2000G(@0.3ms half sine wave)振动：20G(40-2000HZ)环境湿度：5-95%量产状况：已量产：NO EOL（无停产计划/保修时间：2years量产状况：已量产，NO EOL（无停产计划）测试平台：AMD Athlon 64 3000+ 1.8GHz，DDR2 PC2-5300 512MB×2pcs double channel.RAM，NVIDIA nForce520 chipset，Microsoft Windows XP Professional SP3测试软件：HDBench3.4.0.3, IOMeter 2006.07.27"
+    }
+  }
+]

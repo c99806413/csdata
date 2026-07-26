@@ -1,0 +1,28 @@
+[
+  {
+    "name": "DOM电子硬盘系列",
+    "manufacturer": "金胜维",
+    "series": "DOM电子硬盘系列",
+    "opendb_id": "dom",
+    "metadata": {
+      "产品定位": "消费类/企业级",
+      "存储容量": "1GB/32GB/2GB/4GB/16GB/8GB",
+      "接口类型": "40PIN IDE接口/7PIN SATA接口/44PIN IDE接口/40PIN IDE Socket",
+      "读取速度": "43MB/s/24MB/s/22MB/s/12MB/s",
+      "写入速度": "21MB/s/6MB/s/11MB/s/3MB/s",
+      "IOPS读取": "4311IOPS/4850IOPS/4311 IOPS/4850 IOPS",
+      "IOPS写入": "647IOPS/1630IOPS/647 IOPS/1630 IOPS",
+      "电源功耗": "输入电压：3.3V±5%或者5V±5%空闲：0.0005W工作：0.45W/输入电压：5V±5%空闲：0.4W工作：0.75W/输入电压：3.3V±5%或5V±5%空闲：0.0005W工作：0.45W",
+      "平均寻道时间": "0.3ms/0.2ms",
+      "平均无故障时间": "100万小时",
+      "防震能力": "2000G",
+      "外形尺寸": "59.4×6.8×23.5mm/33.5×20.8×8mm/50.7×6.7×22.8mm",
+      "产品重量": "11±2g/10±2g/9±2g",
+      "工作温度": "0-70℃",
+      "存储温度": "-45-85℃",
+      "其它性能": "写寿命：32GB 容量SSD每天写100GB资料可以用8年读寿命：无限均衡抹除算法：动态与静态的平衡抹除算法数据保存：在25度下可以存放10年错误检查与纠错：每512Byte有8位或15位纠错码坏块管理：系统自动坏块管理/写寿命：32GB容量SSD每天写100GB资料可以用8年读寿命：无限均衡抹除算法：动态与静态的平衡抹除算法数据保存：在25度下可以存放10年错误检查与纠错：每512Byte有8位或15位纠错码坏块管理：系统自动坏块管理/写寿命：32GB 容量SSD每天写100GB资料可以用8年读寿命：无限均衡抹除算法：动态与静态的平衡抹除算法数据保存：在25度下可以存放10年平均故障间隔时间：1,000,000小时错误检查与纠错：每512Byte有8位或15位纠错码坏块管理：系统自动坏块管理",
+      "其它特点": "环境湿度：5-95%",
+      "产品特性1": "测试平台CPU：AMD Athlon 64×2 5200+2.7GHz，SDRAM：DDR2 800（PC6400） 2048 MB×1PCS, Mainboard：AMD RS780（ATI Radeon HD 3200 Graphics）System：Microsoft Windows XP Professional SP2测试软件：HDBench3.4.0.3，IOMeter 2006.07.27/测试平台：Intel Pentium E5200 2.5GHz，DDR2 800 2GB×1pcs，G41+IHR7 chipset，Microsoft Windows XP Professional SP2测试软件：HDBench3.4.0.3，IOMeter 2006.07.27/测试平台CPU：AMD Athlon 64×2 5200+2.7GHz，SDRAM：DDR2 800（PC6400）2048 MB×1PCS, Mainboard：AMD RS780（ATI Radeon HD 3200 Graphics）System：Microsoft Windows XP Professional SP2测试软件：HDBench3.4.0.3，IOMeter 2006.07.27"
+    }
+  }
+]

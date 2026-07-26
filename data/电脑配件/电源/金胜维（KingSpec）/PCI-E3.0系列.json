@@ -1,0 +1,27 @@
+[
+  {
+    "name": "PCI-E3.0系列",
+    "manufacturer": "金胜维",
+    "series": "PCI-E3.0系列",
+    "opendb_id": "pci_e3_0",
+    "metadata": {
+      "产品定位": "企业级",
+      "存储容量": "1TB/2TB/4TB",
+      "接口类型": "PCI-E 3.0接口/PCIE 3.0接口",
+      "闪存架构": "MLC多层单元",
+      "读取速度": "2500MB/s/3800MB/s/4000MB/s",
+      "写入速度": "2000MB/s/2500MB/s/2600MB/s",
+      "IOPS读取": "103K IOPS",
+      "IOPS写入": "108K IOPS",
+      "电源功耗": "输入电压：12V±5%空闲：5W工作：30W/输入电压：12V±5%空闲：5W工作：36W/输入电压：12V±5%空闲：5W工作：40W",
+      "平均寻道时间": "0.1ms",
+      "平均无故障时间": "200万小时",
+      "系统要求": "Windows series，Linux（SuSE, Red Hat），Solaris，Vmware，FreeBSD/Windows series，Linux（SuSE，Red Hat），Solaris，Vmware，FreeBSD",
+      "外形尺寸": "198×98×19mm",
+      "工作温度": "-20-75℃",
+      "存储温度": "-40-105℃",
+      "其它性能": "特性：Support RAID 0，RAID 1，RAID 10写寿命：60GB容量SSD每天写100GB资料可以用10年读寿命：无限数据保存：在25度下可以存放10年以上错误检查与纠错：66 bits ECC per 1024 ByteFLASH管理：系统自动坏块管理",
+      "其它特点": "环境湿度：5-95%认证：CE，ROHS，FCC"
+    }
+  }
+]

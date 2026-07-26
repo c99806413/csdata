@@ -1,0 +1,21 @@
+[
+  {
+    "name": "SSD固态硬盘 KSD-PA25.1系列",
+    "manufacturer": "金胜维",
+    "series": "SSD固态硬盘 KSD-PA25.1系列",
+    "opendb_id": "ssd_ksd_pa25_1",
+    "metadata": {
+      "存储容量": "32GB/64GB/8GB",
+      "接口类型": "IDE44接口/PATA",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC-NAND Flash",
+      "读取速度": "读出：83MB/s，写入：65MB/s/读出：82MB/s，写入：60MB/s/读出：46MB/s，写入：18MB/s/读出：80MB/s，写入：33MB/s",
+      "电源功耗": "输入电压：5V±5%空闲：0.5W工作：2.0W",
+      "系统要求": "测试平台：CPU：AMD Athlon 64×2 5200+ 2.7GHz，SDRAM：DDR2 800（PC6400）2048 MB×1PCS，Mainboard：AMD RS780（ATI Radeon HD 3200 Graphics）System：Microsoft Windows XP Professional SP2",
+      "外形尺寸": "100.2*69.8*9.5mm",
+      "产品重量": "100g",
+      "其它性能": "写寿命：每天写100GB资料可以用8年读寿命：无限均衡抹除算法：动态与静态的平衡抹除算法数据保存：在25度下可以存放10年MTBF（平均故障间隔时间）：100万小时ECC（错误检查与纠错）：每512Byte有8位或15位纠错码坏块管理：系统自动坏块管理",
+      "其它特点": "工作温度：0-70℃存放温度：-40-85℃环境湿度：5-95%保修时间：2年"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "eSATA SSD固态硬盘E-SATA接口系列",
+    "manufacturer": "金胜维",
+    "series": "eSATA SSD固态硬盘E-SATA接口系列",
+    "opendb_id": "esata_ssd_e_sata",
+    "metadata": {
+      "存储容量": "64GB/32GB/8GB/16GB",
+      "接口类型": "eSATA接口和USB2.0",
+      "读取速度": "eSATA 连续读：96USB2.0 连续读：35/eSATA：96MB/sUSB2.0：33MB/s/eSATA 连续读:75USB2.0 连续读：33/eSATA：90MB/sUSB2.0：33MB/s/eSATA：38MB/sUSB2.0：16MB/s",
+      "电源功耗": "输入电压：4.5-5.5V空闲：0.5W MAX工作：1.5W MAX/输入电压：4.5-5.5V空闲：0.5W工作：1.5W",
+      "写入数据传输率": "eSATA 连续写：53MB/SUSB2.0 连续写：25MB/S/eSATA 连续写：25MB/SUSB2.0 连续写：25MB/S",
+      "外形尺寸": "10.95*29.82*78.9mm/10.95×29.82×78.9mm",
+      "产品重量": "18g",
+      "其它性能": "NAND Flash：MLC-NAND Flash保修时间：2年/可靠性与稳定性写寿命：64GB容量SSD每天写10GB资料可以用80年读寿命：无限均衡抹除算法：动态与静态的平衡抹除算法数据保存：在25度下可以存放10年错误检查与纠错：每512Byte有8位或15位纠错码坏块管理：系统自动坏块管理/NANDFlash:MLC-NAND Flash保修时间：2年",
+      "其它特点": "环境工作温度：0～70℃存放温度：-40～85℃冲击：2,000G(@0.3ms half sine wave)振动：20G(40-2000HZ)环境湿度：5-95%测试平台：Intel Celeron 336 2.80GHz，DDR2 PC2-5300 512MB×2pcs single channel RAM， VIA VT8237A VIA P4M900 Chipset，Microsoft Windows XP Professional SP2测试软件：HDBench3.4.0.3, IOMeter 2006.07.27/环境湿度：5-95%测试平台：Intel Celeron 336 2.80GHz，DDR2 PC2-5300 512MB×2pcs single channel RAM， VIA VT8237A VIA P4M900 Chipset，Microsoft Windows XP Professional SP2测试软件：HDBench3.4.0.3, IOMeter 2006.07.27/环境工作温度：0～70℃存放温度：-40～85℃冲击：2,000G(@0.3ms half sine wave)振动：20G(40-2000HZ)环境湿度：5-95%测试平台：Intel Celeron 336 2.80GHz，DDR2 PC2-5300 512MB×2pcs single channel RAM，VIA VT8237A VIA P4M900 Chipset，Microsoft Windows XP Professional SP2测试软件：HDBench3.4.0.3, IOMeter 2006.07.27/环境湿度：5-95%",
+      "产品特性1": "可靠性与稳定性写寿命：64GB 容量SSD每天写10GB资料可以用80年读寿命：无限均衡抹除算法：动态与静态的平衡抹除算法数据保存：在25度下可以存放10年MTBF：1,000,000 小时错误检查与纠错：每512Byte有8位或15位纠错码坏块管理：系统自动坏块管理"
+    }
+  }
+]
