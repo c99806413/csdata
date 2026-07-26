@@ -1,0 +1,33 @@
+[
+  {
+    "name": "R9 FURY系列 (4GB)",
+    "manufacturer": "蓝宝石",
+    "series": "R9 FURY系列",
+    "opendb_id": "r9_fury_4gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon R9 FURY",
+      "显示芯片系列": "AMD R9 FURY系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Fiji Pro",
+      "核心频率": "1040MHz/1050MHz/1000MHz",
+      "流处理单元": "3584个",
+      "显存频率": "1000MHz",
+      "显存类型": "HBM",
+      "显存容量": "4GB",
+      "显存位宽": "4096bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "三风扇散热+七热管散热/三风扇散热+五热管散热",
+      "3D API": "DirectX 12，OpenGL 4.4，Shader Model 5.0，Mantle/DirectX 12，OpenGL 4.4，Shader Model 5.0，Mantle，Vulkan",
+      "支持HDCP": "是",
+      "产品尺寸": "306×114×49mm/310×120×45mm",
+      "建议电源": "750W以上",
+      "其它特点": "支持AMD Liquid VR技术，Freesync显示变频技术，Eyefinity宽域技术，CrossFire交火技术，TrueAudio环音技术，双BIOS技术，FRTC帧数锁定技术，黑钻电感，固态电容/支持AMD Liquid VR技术，Freesync显示变频技术，Eyefinity宽域技术，CrossFire交火技术，TrueAudio环音技术，双BIOS技术，FRTC帧数锁定技术",
+      "上市日期": "2015年07月"
+    }
+  }
+]

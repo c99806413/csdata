@@ -1,0 +1,29 @@
+[
+  {
+    "name": "5700 XT (8GB)",
+    "manufacturer": "蓝宝石",
+    "series": "5700 XT",
+    "opendb_id": "5700_xt_8gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 5700 XT",
+      "显示芯片系列": "AMD RX 5000系列",
+      "制作工艺": "7纳米",
+      "核心代号": "NAVI XT",
+      "核心频率": "基础频率：1770MHz游戏频率：1905MHzBoost频率：2010MHz/基础频率：1670MHz游戏频率：1815MHzBoost频率：1925MHz/加速频率：高达2035MHz游戏频率：1965MHz基础频率：1840MHz/1605MHz",
+      "流处理单元": "2560个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320/4096×2160",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "2×HDMI接口，2×DisplayPort接口/1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin/6pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热/双风扇散热+5热管/涡轮风扇",
+      "建议电源": "650W/600W/600W以上",
+      "其它特点": "支持最多4屏显示双滚珠轴承风扇日常满载GPU温度：75-77℃Tri-X散热技术智能风扇控制风扇精准控制气流导向设计风扇健康监测/支持最多4屏输出支持的渲染格式：4K H264解码，4K H264编码，H265/HEVC解码，H265/HEVC编码Radeon VR Ready Premium，Vulkan APIOptional Technologies：Radeon Media Engine，RDNA 架构VSR (4K)，Radeon 游戏智能显示 (FreeSync) 技术，TrueAudio Next"
+    }
+  }
+]

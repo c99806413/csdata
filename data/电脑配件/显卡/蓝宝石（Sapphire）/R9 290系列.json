@@ -1,0 +1,31 @@
+[
+  {
+    "name": "R9 290系列 (4GB)",
+    "manufacturer": "蓝宝石",
+    "series": "R9 290系列",
+    "opendb_id": "r9_290_4gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon R9 290",
+      "显示芯片系列": "AMD R9 200系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Hawaii Pro",
+      "核心频率": "947MHz/1000MHz/1030MHz",
+      "CUDA核心": "2560个",
+      "显存频率": "5000MHz/5200MHz/5600MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "512bit",
+      "最大分辨率": "4096×2160/2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin+8pin/8pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "涡轮风扇/散热风扇/三风扇散热",
+      "3D API": "DirectX 11.2/DirectX 11.2，OpenGL 4.3",
+      "支持HDCP": "是",
+      "产品尺寸": "277×104×35mm/305×114×47mm",
+      "其它特点": "支持CrossFire技术，AMD Eyefinity技术，AMD HD3D技术，AMD PowerTune技术/支持CrossFire技术，AMD Eyefinity宽域技术，AMD HD3D技术，AMD PowerTune技术"
+    }
+  }
+]

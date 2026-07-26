@@ -1,0 +1,31 @@
+[
+  {
+    "name": "590 GME (8GB)",
+    "manufacturer": "蓝宝石",
+    "series": "590 GME",
+    "opendb_id": "590_gme_8gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 590 GME",
+      "显示芯片系列": "AMD RX 500系列",
+      "制作工艺": "14纳米",
+      "核心代号": "Polaris",
+      "核心频率": "1380-1440MHz/1380MHz",
+      "流处理单元": "2304个",
+      "显存频率": "8000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "2×HDMI接口，1×DVI接口，2×DisplayPort接口/2×HDMI接口，2×DisplayPort接口",
+      "电源接口": "6pin+8pin/8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热",
+      "3D API": "DirectX 12.1，OpenGL 4.5",
+      "RGB": "6模RGB灯",
+      "产品尺寸": "262×131×44mm/232×121×41mm",
+      "建议电源": "600W/500W以上",
+      "其它特点": "支持AMD VSR、HDR、FreeSync、FRTC、Liquid VR、Eyefinity、CrossFire技术，兼容Vulcan、Mantle、DX12、OpenGL、OpenCL、Shader Model等API"
+    }
+  }
+]

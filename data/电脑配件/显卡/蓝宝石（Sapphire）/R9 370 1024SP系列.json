@@ -1,0 +1,60 @@
+[
+  {
+    "name": "R9 370 1024SP系列 (4GB)",
+    "manufacturer": "蓝宝石",
+    "series": "R9 370 1024SP系列",
+    "opendb_id": "r9_370_1024sp_4gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon R9 370 1024SP",
+      "显示芯片系列": "AMD R9 300系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Trinidad Pro",
+      "核心频率": "975MHz/985MHz",
+      "CUDA核心": "1024个",
+      "显存频率": "5600MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级/入门级",
+      "散热方式": "双风扇散热/散热风扇+热管散热",
+      "3D API": "DirectX 12，OpenGL 4.4，Shader Model 5.0，Mantle/DirectX 12，OpenGL 4.5，Shader Model 5.0，OpenCL 2.0",
+      "支持HDCP": "是",
+      "建议电源": "400W及以上/150W",
+      "其它特点": "支持CrossFireX技术，AMD加速并行处理技术，AMD Eyefinity宽域技术/支持最多4屏输出，AMD Eyefinity技术，AMD HD3D技术，支持CrossFire技术，VSR技术，Powertune技术，Frame Rate Target Control技术，ZeroCore技术"
+    }
+  },
+  {
+    "name": "R9 370 1024SP系列 (2GB)",
+    "manufacturer": "蓝宝石",
+    "series": "R9 370 1024SP系列",
+    "opendb_id": "r9_370_1024sp_2gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon R9 370 1024SP",
+      "显示芯片系列": "AMD R9 300系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Trinidad Pro",
+      "核心频率": "975MHz/985MHz/980MHz",
+      "显存频率": "5600MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热/散热风扇+热管散热",
+      "3D API": "DirectX 12，OpenGL 4.4，Shader Model 5.0，Mantle/DirectX 12，OpenGL 4.5，Shader Model 5.0，Mantle，OpenCL 2.0，Vulcan/DirectX 12，OpenGL 4.5，Shader Model 5.0",
+      "支持HDCP": "是",
+      "建议电源": "400W及以上/500W及以上",
+      "其它特点": "支持CrossFireX技术，AMD加速并行处理技术，AMD Eyefinity宽域技术/支持最多4屏输出，支持CrossFire技术，VSR技术，Powertune技术，Frame Rate Target Control技术，ZeroCore技术，AMD Eyefinity宽域技术/支持最多4屏输出，支持CrossFire技术，Powertune技术，ZeroCore技术，AMD Eyefinity宽域技术",
+      "CUDA核心": "1024个"
+    }
+  }
+]

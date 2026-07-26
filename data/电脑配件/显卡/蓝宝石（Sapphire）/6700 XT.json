@@ -1,0 +1,32 @@
+[
+  {
+    "name": "6700 XT (12GB)",
+    "manufacturer": "蓝宝石",
+    "series": "6700 XT",
+    "opendb_id": "6700_xt_12gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 6700 XT",
+      "显示芯片系列": "AMD RX 6000系列",
+      "制作工艺": "7纳米",
+      "核心代号": "Navi 22",
+      "核心频率": "2622MHz/加速频率：Up to 2581MHz游戏频率：2424MHz",
+      "流处理单元": "2560个",
+      "显存频率": "16000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "12GB",
+      "显存位宽": "192bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "6pin+8pin/8pin+6pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热/双风扇散热",
+      "3D API": "DirectX 12.1/DirectX 12",
+      "RGB": "ARGB炫彩灯效",
+      "产品尺寸": "310×131×51mm/260×120×49mm/267×110×40mm",
+      "建议电源": "650W以上",
+      "其它特点": "刀刃式轴流风扇非对称风扇模组风扇快拆技术风扇智能精准控制技术锯齿形鳍片设计/多项数字电源设计熔断保护Dual-X 散热技术风扇智能启停精准风扇控制双滚珠轴承风扇刀刃式轴流风扇TriXX 支持TriXX Boost/支持最多4屏输出AMD RDNA 2 架构硬件层光线追踪技术AMD FreeSync 技术支持高达8K的视频串流Radeon VR Ready PremiumAMD FidelityFX画质增强Radeon 图像锐化Radeon Anti-LagRadeon 软件游戏驱动器优化"
+    }
+  }
+]

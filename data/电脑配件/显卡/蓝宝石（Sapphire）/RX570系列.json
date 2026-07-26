@@ -1,0 +1,62 @@
+[
+  {
+    "name": "RX570系列 (4GB)",
+    "manufacturer": "蓝宝石",
+    "series": "RX570系列",
+    "opendb_id": "rx570_4gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 570",
+      "显示芯片系列": "AMD RX 500系列",
+      "制作工艺": "14纳米",
+      "核心代号": "Polaris 20 XL",
+      "核心频率": "1244/1325MHz/1244/1284MHz",
+      "流处理单元": "2048个",
+      "显存频率": "7000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "2×HDMI接口，1×DVI接口，2×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热",
+      "3D API": "DirectX 12",
+      "供电模式": "五相/四相",
+      "支持HDCP": "是",
+      "产品尺寸": "241×120×40mm/232×120×40mm",
+      "其它特点": "支持最多5屏输出",
+      "上市日期": "2017年04月"
+    }
+  },
+  {
+    "name": "RX570系列 (8GB)",
+    "manufacturer": "蓝宝石",
+    "series": "RX570系列",
+    "opendb_id": "rx570_8gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 570",
+      "显示芯片系列": "AMD RX 500系列",
+      "制作工艺": "14纳米",
+      "核心代号": "Polaris 20 XL",
+      "核心频率": "1244/1325MHz/1244/1284MHz",
+      "流处理单元": "2048个",
+      "显存频率": "7000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "2×HDMI接口，1×DVI接口，2×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热",
+      "3D API": "DirectX 12/DirectX 12.1，OpenGL 4.5",
+      "供电模式": "五相",
+      "支持HDCP": "是",
+      "产品尺寸": "241×120×40mm/232×120×43mm",
+      "其它特点": "支持最多5屏输出/支持最多5屏输出支持AMD VSR、HDR、FreeSync、FRTC、Liquid VR、Eyefinity、CrossFire技术，兼容Vulcan、Mantle、DX12、OpenGL、OpenCL、Shader Model等API",
+      "上市日期": "2017年04月/2017年10月"
+    }
+  }
+]
