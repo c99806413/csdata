@@ -1,0 +1,40 @@
+[
+  {
+    "name": "银欣鲨鱼 SharkForce ARGB 120",
+    "manufacturer": "银欣",
+    "series": "鲨鱼 SharkForce ARGB",
+    "opendb_id": "_____sharkforce_argb_120",
+    "metadata": {
+      "散热器类型": "CPU散热器",
+      "散热方式": "风冷",
+      "发光方式": "RGB",
+      "产品尺寸": "120×25×120mm",
+      "风扇数量": "1个",
+      "风扇尺寸": "120×120×25mm",
+      "最大风量": "100CFM",
+      "风压": "4.66mmaq",
+      "噪音": "41.2dB",
+      "端子接口": "4pin pwm",
+      "额定电压": "12V"
+    }
+  },
+  {
+    "name": "银欣鲨鱼 SharkForce ARGB 140",
+    "manufacturer": "银欣",
+    "series": "鲨鱼 SharkForce ARGB",
+    "opendb_id": "_____sharkforce_argb_140",
+    "metadata": {
+      "散热器类型": "CPU散热器",
+      "散热方式": "风冷",
+      "发光方式": "RGB",
+      "产品尺寸": "140×25×140mm",
+      "风扇数量": "1个",
+      "风扇尺寸": "140×140×25mm",
+      "最大风量": "120CFM",
+      "风压": "4mmaq",
+      "噪音": "41.2dB",
+      "端子接口": "4pin pwm",
+      "额定电压": "12V"
+    }
+  }
+]

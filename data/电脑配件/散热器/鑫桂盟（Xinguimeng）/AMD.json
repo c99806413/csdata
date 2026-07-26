@@ -1,0 +1,28 @@
+[
+  {
+    "name": "鑫桂盟AMD AMD AM3支架",
+    "manufacturer": "鑫桂盟",
+    "series": "AMD",
+    "opendb_id": "___amd_amd_am3__",
+    "metadata": {
+      "产品型号": "AMD支架",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "100g",
+      "端子接口": "AMD AM4，AMD FM2＋"
+    }
+  },
+  {
+    "name": "鑫桂盟AMD AMD AM4支架",
+    "manufacturer": "鑫桂盟",
+    "series": "AMD",
+    "opendb_id": "___amd_amd_am4__",
+    "metadata": {
+      "产品型号": "AMD支架",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "100g",
+      "端子接口": "AMD AM4，AMD FM2＋"
+    }
+  }
+]

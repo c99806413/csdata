@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Tt Blue Orb II(CL-P0257) 蓝色凤梨",
+    "manufacturer": "Tt",
+    "series": "凤梨系列",
+    "opendb_id": "tt_blue_orb_ii_cl_p0257______",
+    "metadata": {
+      "散热器类型": "CPU散热器",
+      "散热方式": "风冷",
+      "适用范围": "Intel Pentium D (Socket LGA775)Intel Pentium 4 (Socket LGA775)Intel Celeron D (Socket LGA775)AMD Athlon X2 (Socket 939)AMD Athlon 64 FX (Socket 939 / 940)AMD Athlon 64 (Socket 754 / 939)AMD Sempron (Socket 754)AMD Opteron (Socket 940)",
+      "电源参数": "额定电压12V,启动电压7V",
+      "输入功率": "3WW",
+      "使用寿命": "30,000 Hours小时",
+      "产品尺寸": "140mmx66mmmm",
+      "风扇尺寸": "120mmx24.3 mmmm",
+      "最高转数": "1700RPM",
+      "转数描述": "1700±10% RPMRPM",
+      "最大风量": "77.85CFMCFM",
+      "风压": "1.8mmH 2 Ommaq",
+      "噪音": "17dBAdB",
+      "散热片尺寸": "铜质散热片mm",
+      "水冷管长度": "0.25 A"
+    }
+  },
+  {
+    "name": "Tt 黑色凤梨",
+    "manufacturer": "Tt",
+    "series": "凤梨系列",
+    "opendb_id": "tt_____",
+    "metadata": {
+      "散热器类型": "CPU散热器",
+      "散热方式": "风冷",
+      "适用范围": "支持AM2平台",
+      "风扇尺寸": "炫光12cm大尺寸风扇mm",
+      "最高转数": "1700RPM",
+      "最大风量": "77.85CFMCFM",
+      "噪音": "17dBAdB",
+      "散热片尺寸": "140片鳍片mm"
+    }
+  },
+  {
+    "name": "Tt 红色凤梨Ruby OrbII(CL-P0391)",
+    "manufacturer": "Tt",
+    "series": "凤梨系列",
+    "opendb_id": "tt_____ruby_orbii_cl_p0391_",
+    "metadata": {
+      "散热器类型": "CPU散热器",
+      "散热方式": "风冷",
+      "适用范围": "Intel Core 2 Extreme(Socket LGA775)Intel Core 2 Duo (Socket LGA775)Intel Pentium Extreme Edition (Socket LGA 775)Intel Pentium D (Socket LGA 775)Intel Pentium 4 (Socket LGA775)Intel Celeron D (Socket LGA775)AMD Athlon 64 X2 (Socket 939, AM2)AMD Athlon 64 FX (Socket 939, AM2)AMD Athlon 64 (Socket 754, 939, AM2)AMD Sempron (Socket 754, AM2)",
+      "电源参数": "12V，25A",
+      "输入功率": "3W",
+      "使用寿命": "30,000小时",
+      "产品尺寸": "140×73.3mm",
+      "风扇尺寸": "120×24.3mm",
+      "最高转数": "1700RPM",
+      "转数描述": "1700±10%RPM",
+      "最大风量": "77.85CFM",
+      "风压": "1.8mm H2Ommaq",
+      "噪音": "17dB"
+    }
+  },
+  {
+    "name": "Tt Golden Orb II(CL-P0220) 金色凤梨",
+    "manufacturer": "Tt",
+    "series": "凤梨系列",
+    "opendb_id": "tt_golden_orb_ii_cl_p0220______",
+    "metadata": {
+      "散热器类型": "CPU散热器",
+      "散热方式": "风冷",
+      "适用范围": "适用于Intel Pentium 4 (Socket LGA775) ，AMD Athlon 64 (Socket 754 / 939)，AMD Athlon 64 FX (Socket 939/940)，AMD Sempron (Socket 754)，AMD Opteron (Socket 940)",
+      "风扇尺寸": "100×24mm",
+      "最高转数": "1600RPM",
+      "最大风量": "35.43CFM",
+      "噪音": "17dB"
+    }
+  },
+  {
+    "name": "Tt 绿色凤梨",
+    "manufacturer": "Tt",
+    "series": "凤梨系列",
+    "opendb_id": "tt_____",
+    "metadata": {
+      "散热器类型": "CPU散热器",
+      "散热方式": "风冷",
+      "适用范围": "AM2平台的支持",
+      "最高转数": "1700RPM",
+      "最大风量": "77.85CFM",
+      "噪音": "17dB"
+    }
+  }
+]

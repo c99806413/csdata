@@ -1,0 +1,44 @@
+[
+  {
+    "name": "威刚HURRICANE HURRICANE炫彩飓风 120ARGB",
+    "manufacturer": "威刚",
+    "series": "HURRICANE",
+    "opendb_id": "__hurricane_hurricane_____120argb",
+    "metadata": {
+      "产品型号": "HURRICANE炫彩飓风",
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "产品重量": "200g",
+      "风扇尺寸": "12mm",
+      "最高转数": "2000RPM",
+      "散热片尺寸": "12mm"
+    }
+  },
+  {
+    "name": "威刚HURRICANE HURRICANE炫彩飓风 140ARGB",
+    "manufacturer": "威刚",
+    "series": "HURRICANE",
+    "opendb_id": "__hurricane_hurricane_____140argb",
+    "metadata": {
+      "产品型号": "HURRICANE炫彩飓风",
+      "散热方式": "风冷",
+      "风扇尺寸": "14mm",
+      "最高转数": "2000RPM",
+      "散热片尺寸": "14mm"
+    }
+  },
+  {
+    "name": "威刚HURRICANE HURRICANE炫彩飓风 120ARGB-冰雪白",
+    "manufacturer": "威刚",
+    "series": "HURRICANE",
+    "opendb_id": "__hurricane_hurricane_____120argb____",
+    "metadata": {
+      "产品型号": "HURRICANE炫彩飓风",
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "产品重量": "200g",
+      "风扇尺寸": "12CMmm",
+      "最高转数": "2000RPM"
+    }
+  }
+]

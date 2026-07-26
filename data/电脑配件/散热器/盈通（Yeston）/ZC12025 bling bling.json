@@ -1,0 +1,68 @@
+[
+  {
+    "name": "YESTON（盈通）ZC12025 bling bling 月神之泪 ARGB 机箱风扇 白色",
+    "manufacturer": "盈通",
+    "series": "ZC12025 bling bling",
+    "opendb_id": "yeston____zc12025_bling_bling______argb________",
+    "metadata": {
+      "产品型号": "月神之泪",
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "发光方式": "ARGB",
+      "产品重量": "1.5kg",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "800RPM",
+      "噪音": "≤30AdB",
+      "端子接口": "AMD AM4，INTEL LGA1700",
+      "散热片尺寸": "120*120*25mm"
+    }
+  },
+  {
+    "name": "YESTON（盈通）ZC12025 bling bling 月神之泪 ARGB 机箱风扇 黑色",
+    "manufacturer": "盈通",
+    "series": "ZC12025 bling bling",
+    "opendb_id": "yeston____zc12025_bling_bling______argb________",
+    "metadata": {
+      "产品型号": "月神之泪",
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "800RPM",
+      "噪音": "≤30AdB",
+      "散热片尺寸": "120*120*25mm"
+    }
+  },
+  {
+    "name": "YESTON（盈通）ZC12025 bling bling 樱瞳花嫁 ARGB 机箱风扇",
+    "manufacturer": "盈通",
+    "series": "ZC12025 bling bling",
+    "opendb_id": "yeston____zc12025_bling_bling______argb_____",
+    "metadata": {
+      "产品型号": "樱瞳花嫁",
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "900RPM",
+      "噪音": "≤30AdB",
+      "散热片尺寸": "120*120*25mm"
+    }
+  },
+  {
+    "name": "YESTON（盈通）ZC12025 bling bling BlingBling ARGB 机箱风扇",
+    "manufacturer": "盈通",
+    "series": "ZC12025 bling bling",
+    "opendb_id": "yeston____zc12025_bling_bling_blingbling_argb_____",
+    "metadata": {
+      "产品型号": "ZC-12025 bling bling",
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "发光方式": "ARGB",
+      "产品重量": "1.5kg",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "900RPM",
+      "噪音": "≤30AdB",
+      "端子接口": "AMD AM4，INTEL LGA1700",
+      "散热片尺寸": "120*120*25mm"
+    }
+  }
+]
