@@ -1,0 +1,55 @@
+[
+  {
+    "name": "金士顿FURY Beast 16GB DDR5 5200（KF552C40BB/16）",
+    "manufacturer": "金士顿",
+    "series": "Beast DDR5 5200",
+    "opendb_id": "___fury_beast_16gb_ddr5_5200_kf552c40bb_16_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（16GB）",
+      "内存类型": "DDR5",
+      "内存主频": "5200MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "40",
+      "散热片": "自带散热片",
+      "工作电压": "1.1V",
+      "XMP": "支持，XMP3.0"
+    }
+  },
+  {
+    "name": "金士顿FURY Beast 32GB（2×16GB）DDR5 5200（KF552C40BBK2/32）",
+    "manufacturer": "金士顿",
+    "series": "Beast DDR5 5200",
+    "opendb_id": "___fury_beast_32gb_2_16gb_ddr5_5200_kf552c40bbk2_32_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR5",
+      "内存主频": "5200MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "40",
+      "散热片": "自带散热片",
+      "工作电压": "1.1V",
+      "XMP": "支持，XMP3.0"
+    }
+  },
+  {
+    "name": "金士顿FURY Beast 8GB DDR5 5200（ KF552C40BB/8）",
+    "manufacturer": "金士顿",
+    "series": "Beast DDR5 5200",
+    "opendb_id": "___fury_beast_8gb_ddr5_5200__kf552c40bb_8_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR5",
+      "内存主频": "5200MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "40",
+      "工作电压": "1.25V",
+      "XMP": "支持，XMP3.0"
+    }
+  }
+]

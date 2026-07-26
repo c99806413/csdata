@@ -1,0 +1,76 @@
+[
+  {
+    "name": "金士顿256MB DDR333(笔记本)",
+    "manufacturer": "金士顿",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "___256mb_ddr333_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "TSOP",
+      "内存校验": "TSOP"
+    }
+  },
+  {
+    "name": "金士顿512MB DDR 333(笔记本)",
+    "manufacturer": "金士顿",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "___512mb_ddr_333_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "TSOP",
+      "内存校验": "否"
+    }
+  },
+  {
+    "name": "金士顿1GB DDR 333(笔记本)",
+    "manufacturer": "金士顿",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "___1gb_ddr_333_____",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "BGA",
+      "内存校验": "否"
+    }
+  },
+  {
+    "name": "金士顿512MB DDR333(U6464C250)",
+    "manufacturer": "金士顿",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "___512mb_ddr333_u6464c250_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "TSOP"
+    }
+  },
+  {
+    "name": "金士顿256MB DDR333(U3264C250)",
+    "manufacturer": "金士顿",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "___256mb_ddr333_u3264c250_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz",
+      "颗粒封装": "TSOP"
+    }
+  },
+  {
+    "name": "金士顿1024MB DDR333",
+    "manufacturer": "金士顿",
+    "series": "DDR 333笔记本内存系列",
+    "opendb_id": "___1024mb_ddr333",
+    "metadata": {
+      "适用类型": "笔记本",
+      "内存类型": "DDR",
+      "内存主频": "333MHz"
+    }
+  }
+]

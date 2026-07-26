@@ -1,0 +1,118 @@
+[
+  {
+    "name": "金士顿HyperX Savage 8GB DDR4 2400（HX424C12SB/8）",
+    "manufacturer": "金士顿",
+    "series": "Savage DDR4",
+    "opendb_id": "___hyperx_savage_8gb_ddr4_2400_hx424c12sb_8_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "12",
+      "性能评分": "13258",
+      "散热片": "支持散热",
+      "XMP": "支持"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 16GB DDR4 2400（HX424C12SBK2/16）",
+    "manufacturer": "金士顿",
+    "series": "Savage DDR4",
+    "opendb_id": "___hyperx_savage_16gb_ddr4_2400_hx424c12sbk2_16_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "插槽类型": "SDRAM",
+      "CL延迟": "12",
+      "性能评分": "22387",
+      "散热片": "支持散热",
+      "XMP": "支持"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 8GB DDR4 2800（HX428C14SB/8）",
+    "manufacturer": "金士顿",
+    "series": "Savage DDR4",
+    "opendb_id": "___hyperx_savage_8gb_ddr4_2800_hx428c14sb_8_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2800MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "14",
+      "性能评分": "13108",
+      "散热片": "支持散热",
+      "XMP": "支持"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 16GB DDR4 2800（HX428C14SBK2/16）",
+    "manufacturer": "金士顿",
+    "series": "Savage DDR4",
+    "opendb_id": "___hyperx_savage_16gb_ddr4_2800_hx428c14sbk2_16_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2800MHz",
+      "插槽类型": "SDRAM",
+      "CL延迟": "12",
+      "散热片": "支持散热",
+      "XMP": "支持"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 8GB DDR4 3000（HX430C15SB/8）",
+    "manufacturer": "金士顿",
+    "series": "Savage DDR4",
+    "opendb_id": "___hyperx_savage_8gb_ddr4_3000_hx430c15sb_8_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3000MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "14",
+      "性能评分": "13899",
+      "散热片": "支持散热",
+      "XMP": "支持"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 16GB DDR4 3000（HX430C15SBK2/16）",
+    "manufacturer": "金士顿",
+    "series": "Savage DDR4",
+    "opendb_id": "___hyperx_savage_16gb_ddr4_3000_hx430c15sbk2_16_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3000MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "15",
+      "性能评分": "25251",
+      "散热片": "支持散热"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 128GB DDR4 2666",
+    "manufacturer": "金士顿",
+    "series": "Savage DDR4",
+    "opendb_id": "___hyperx_savage_128gb_ddr4_2666",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（8×16GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2666MHz"
+    }
+  }
+]

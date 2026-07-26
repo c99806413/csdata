@@ -1,0 +1,82 @@
+[
+  {
+    "name": "金士顿FURY Beast超级野兽 RGB DDR5 6000 32GB（2×16GB）黑",
+    "manufacturer": "金士顿",
+    "series": "Beast超级野兽 RGB DDR5 6000",
+    "opendb_id": "___fury_beast_____rgb_ddr5_6000_32gb_2_16gb__",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR5",
+      "内存主频": "6000MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "30",
+      "内存校验": "ECC",
+      "散热片": "铝合金散热片",
+      "灯效": "支持，RGB灯效",
+      "XMP": "支持，XMP3.0",
+      "其他性能": "颗粒：海力士A-die"
+    }
+  },
+  {
+    "name": "金士顿FURY Beast超级野兽 RGB DDR5 6000 64GB（2×32GB）白",
+    "manufacturer": "金士顿",
+    "series": "Beast超级野兽 RGB DDR5 6000",
+    "opendb_id": "___fury_beast_____rgb_ddr5_6000_64gb_2_32gb__",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×32GB）",
+      "内存类型": "DDR5",
+      "内存主频": "6000MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "30",
+      "内存校验": "ECC",
+      "散热片": "铝合金散热片",
+      "灯效": "支持，RGB灯效",
+      "XMP": "支持，XMP3.0",
+      "其他性能": "颗粒：海力士A-die"
+    }
+  },
+  {
+    "name": "金士顿FURY Beast超级野兽 RGB DDR5 6000 32GB（2×16GB）白",
+    "manufacturer": "金士顿",
+    "series": "Beast超级野兽 RGB DDR5 6000",
+    "opendb_id": "___fury_beast_____rgb_ddr5_6000_32gb_2_16gb__",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR5",
+      "内存主频": "6000MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "30",
+      "内存校验": "ECC",
+      "散热片": "铝合金散热片",
+      "灯效": "支持，RGB灯效",
+      "XMP": "支持，XMP3.0",
+      "其他性能": "颗粒：海力士A-die"
+    }
+  },
+  {
+    "name": "金士顿FURY Beast超级野兽 RGB DDR5 6000 64GB（2×32GB）黑",
+    "manufacturer": "金士顿",
+    "series": "Beast超级野兽 RGB DDR5 6000",
+    "opendb_id": "___fury_beast_____rgb_ddr5_6000_64gb_2_32gb__",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×32GB）",
+      "内存类型": "DDR5",
+      "内存主频": "6000MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "30",
+      "内存校验": "ECC",
+      "散热片": "铝合金散热片",
+      "灯效": "支持，RGB灯效",
+      "XMP": "支持，XMP3.0",
+      "其他性能": "颗粒：海力士A-die"
+    }
+  }
+]

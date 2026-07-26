@@ -1,0 +1,42 @@
+[
+  {
+    "name": "金士顿FURY Renegade 16GB DDR5 6400（KF564C32RSA-16）",
+    "manufacturer": "金士顿",
+    "series": "Renegade DDR5 6400",
+    "opendb_id": "___fury_renegade_16gb_ddr5_6400_kf564c32rsa_16_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（16GB）",
+      "内存类型": "DDR5",
+      "内存主频": "6400MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "32-39-39",
+      "内存校验": "ECC",
+      "散热片": "自带散热片",
+      "灯效": "支持，RGB灯效",
+      "工作电压": "1.4V",
+      "XMP": "支持，XMP3.0"
+    }
+  },
+  {
+    "name": "金士顿FURY Renegade 32GB（2×16GB）DDR5 6400（KF564C32RSAK2-32）",
+    "manufacturer": "金士顿",
+    "series": "Renegade DDR5 6400",
+    "opendb_id": "___fury_renegade_32gb_2_16gb_ddr5_6400_kf564c32rsak2_32_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×16GB）",
+      "内存类型": "DDR5",
+      "内存主频": "6400MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "32-39-39",
+      "内存校验": "ECC",
+      "散热片": "自带散热片",
+      "灯效": "支持，RGB灯效",
+      "工作电压": "1.4V",
+      "XMP": "支持，XMP3.0"
+    }
+  }
+]

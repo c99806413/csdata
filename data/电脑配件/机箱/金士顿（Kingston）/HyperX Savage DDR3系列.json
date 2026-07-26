@@ -1,0 +1,184 @@
+[
+  {
+    "name": "金士顿HyperX Savage 16GB DDR3 2400（HX324C11SRK2/16）",
+    "manufacturer": "金士顿",
+    "series": "HyperX Savage DDR3系列",
+    "opendb_id": "___hyperx_savage_16gb_ddr3_2400_hx324c11srk2_16_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2400MHz",
+      "针脚数": "240pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "11-13-14-32",
+      "散热片": "支持散热",
+      "工作电压": "1.65V"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 16GB DDR3 2400",
+    "manufacturer": "金士顿",
+    "series": "HyperX Savage DDR3系列",
+    "opendb_id": "___hyperx_savage_16gb_ddr3_2400",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2400MHz",
+      "CL延迟": "11",
+      "散热片": "支持散热"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 8GB DDR3 1600（HX316C9SR/8）",
+    "manufacturer": "金士顿",
+    "series": "HyperX Savage DDR3系列",
+    "opendb_id": "___hyperx_savage_8gb_ddr3_1600_hx316c9sr_8_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "240pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "9-9-9-27",
+      "散热片": "支持散热",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 16GB DDR3 1600（HX316C9SRK2/16）",
+    "manufacturer": "金士顿",
+    "series": "HyperX Savage DDR3系列",
+    "opendb_id": "___hyperx_savage_16gb_ddr3_1600_hx316c9srk2_16_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "240pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "9-9-9-27",
+      "散热片": "支持散热",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 8GB DDR3 2400（HX324C11SR/8）",
+    "manufacturer": "金士顿",
+    "series": "HyperX Savage DDR3系列",
+    "opendb_id": "___hyperx_savage_8gb_ddr3_2400_hx324c11sr_8_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2400MHz",
+      "针脚数": "240pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "11-13-14-32",
+      "散热片": "支持散热",
+      "工作电压": "1.65V"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 8GB DDR3 2400（HX324C11SRK2/8）",
+    "manufacturer": "金士顿",
+    "series": "HyperX Savage DDR3系列",
+    "opendb_id": "___hyperx_savage_8gb_ddr3_2400_hx324c11srk2_8_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2400MHz",
+      "针脚数": "288pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "14",
+      "散热片": "支持散热"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 8GB DDR3 1600（HX316C9SRK2/8）",
+    "manufacturer": "金士顿",
+    "series": "HyperX Savage DDR3系列",
+    "opendb_id": "___hyperx_savage_8gb_ddr3_1600_hx316c9srk2_8_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "240pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "9-9-9-27",
+      "散热片": "支持散热",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 4GB DDR3 1600（HX316C9SR/4）",
+    "manufacturer": "金士顿",
+    "series": "HyperX Savage DDR3系列",
+    "opendb_id": "___hyperx_savage_4gb_ddr3_1600_hx316c9sr_4_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "针脚数": "240pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "9-9-9-27",
+      "散热片": "支持散热"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 4GB DDR3 2133（HX321C11SR/4）",
+    "manufacturer": "金士顿",
+    "series": "HyperX Savage DDR3系列",
+    "opendb_id": "___hyperx_savage_4gb_ddr3_2133_hx321c11sr_4_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2133MHz",
+      "针脚数": "240pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "11",
+      "散热片": "支持散热",
+      "工作电压": "1.6V"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 8GB DDR3 2133（HX321C11SR/8）",
+    "manufacturer": "金士顿",
+    "series": "HyperX Savage DDR3系列",
+    "opendb_id": "___hyperx_savage_8gb_ddr3_2133_hx321c11sr_8_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2133MHz",
+      "针脚数": "240pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "11",
+      "散热片": "支持散热",
+      "工作电压": "1.6V"
+    }
+  },
+  {
+    "name": "金士顿HyperX Savage 4GB DDR3 2400（HX324C11SR/4）",
+    "manufacturer": "金士顿",
+    "series": "HyperX Savage DDR3系列",
+    "opendb_id": "___hyperx_savage_4gb_ddr3_2400_hx324c11sr_4_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2400MHz",
+      "针脚数": "240pin",
+      "插槽类型": "DIMM",
+      "CL延迟": "11-13-14-32",
+      "散热片": "支持散热",
+      "工作电压": "1.65V"
+    }
+  }
+]

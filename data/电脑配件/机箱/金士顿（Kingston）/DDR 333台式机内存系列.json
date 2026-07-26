@@ -1,0 +1,32 @@
+[
+  {
+    "name": "金士顿256MB DDR333",
+    "manufacturer": "金士顿",
+    "series": "DDR 333台式机内存系列",
+    "opendb_id": "___256mb_ddr333",
+    "metadata": {
+      "内存类型": "DDR",
+      "内存主频": "333MHz"
+    }
+  },
+  {
+    "name": "金士顿512MB DDR333",
+    "manufacturer": "金士顿",
+    "series": "DDR 333台式机内存系列",
+    "opendb_id": "___512mb_ddr333",
+    "metadata": {
+      "内存类型": "DDR",
+      "内存主频": "333MHz"
+    }
+  },
+  {
+    "name": "金士顿128MB DDR333",
+    "manufacturer": "金士顿",
+    "series": "DDR 333台式机内存系列",
+    "opendb_id": "___128mb_ddr333",
+    "metadata": {
+      "内存类型": "DDR",
+      "内存主频": "333MHz"
+    }
+  }
+]

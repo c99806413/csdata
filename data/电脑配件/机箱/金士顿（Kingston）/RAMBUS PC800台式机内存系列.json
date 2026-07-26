@@ -1,0 +1,38 @@
+[
+  {
+    "name": "金士顿128MB RAMBUS PC800",
+    "manufacturer": "金士顿",
+    "series": "RAMBUS PC800台式机内存系列",
+    "opendb_id": "___128mb_rambus_pc800",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（128MB）",
+      "内存类型": "RDRAM",
+      "内存主频": "800MHz",
+      "传输标准": "PC2-6400"
+    }
+  },
+  {
+    "name": "金士顿256MB RAMBUS PC800",
+    "manufacturer": "金士顿",
+    "series": "RAMBUS PC800台式机内存系列",
+    "opendb_id": "___256mb_rambus_pc800",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（256MB）",
+      "内存类型": "RDRAM",
+      "内存主频": "800MHz",
+      "传输标准": "PC2-6400"
+    }
+  },
+  {
+    "name": "金士顿64MB RAMBUS PC800",
+    "manufacturer": "金士顿",
+    "series": "RAMBUS PC800台式机内存系列",
+    "opendb_id": "___64mb_rambus_pc800",
+    "metadata": {
+      "内存类型": "RDRAM",
+      "内存主频": "800MHz"
+    }
+  }
+]
