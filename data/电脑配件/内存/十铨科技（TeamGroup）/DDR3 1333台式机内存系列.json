@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Team 2GB DDR3 1333（TED32G1333C9-SBK）",
+    "manufacturer": "十铨科技",
+    "series": "DDR3 1333台式机内存系列",
+    "opendb_id": "team_2gb_ddr3_1333_ted32g1333c9_sbk_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（2GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1333MHz",
+      "针脚数": "204pin",
+      "CL延迟": "9-9-9-24",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "Team 2GB DDR3 1333",
+    "manufacturer": "十铨科技",
+    "series": "DDR3 1333台式机内存系列",
+    "opendb_id": "team_2gb_ddr3_1333",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（2GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1333MHz",
+      "针脚数": "240pin",
+      "CL延迟": "9-9-9-24",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "Team 8GB DDR3 1333（TED38G1333C9-SBK）",
+    "manufacturer": "十铨科技",
+    "series": "DDR3 1333台式机内存系列",
+    "opendb_id": "team_8gb_ddr3_1333_ted38g1333c9_sbk_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1333MHz",
+      "针脚数": "204pin",
+      "CL延迟": "9-9-9-24",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "Team 4GB DDR3 1333（TED34G1333C9-SBK）",
+    "manufacturer": "十铨科技",
+    "series": "DDR3 1333台式机内存系列",
+    "opendb_id": "team_4gb_ddr3_1333_ted34g1333c9_sbk_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1333MHz",
+      "针脚数": "204pin",
+      "CL延迟": "9-9-9-24",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "Team Elite 4GB DDR3 1333（TED34096M1333HC9）",
+    "manufacturer": "十铨科技",
+    "series": "DDR3 1333台式机内存系列",
+    "opendb_id": "team_elite_4gb_ddr3_1333_ted34096m1333hc9_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1333MHz",
+      "针脚数": "240pin",
+      "CL延迟": "9-9-9-24",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "Team 8GB DDR3 1333（TED34096M1333HC9）",
+    "manufacturer": "十铨科技",
+    "series": "DDR3 1333台式机内存系列",
+    "opendb_id": "team_8gb_ddr3_1333_ted34096m1333hc9_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1333MHz",
+      "针脚数": "204pin",
+      "CL延迟": "9-9-9-24",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "Team 2GB DDR3 1333（TED32048M1333HC9）",
+    "manufacturer": "十铨科技",
+    "series": "DDR3 1333台式机内存系列",
+    "opendb_id": "team_2gb_ddr3_1333_ted32048m1333hc9_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（2GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1333MHz",
+      "针脚数": "240pin",
+      "CL延迟": "9-9-9-24",
+      "工作电压": "1.35-1.5V"
+    }
+  }
+]

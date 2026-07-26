@@ -1,0 +1,35 @@
+[
+  {
+    "name": "威刚XPG Dazzle 16GB DDR4 2400",
+    "manufacturer": "威刚",
+    "series": "XPG Dazzle系列",
+    "opendb_id": "__xpg_dazzle_16gb_ddr4_2400",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "288pin",
+      "插槽类型": "SDRAM",
+      "CL延迟": "16",
+      "散热片": "支持散热",
+      "工作电压": "1.2V",
+      "其他性能": "LED呼吸灯灯条"
+    }
+  },
+  {
+    "name": "威刚XPG Dazzle 16GB DDR4 2800",
+    "manufacturer": "威刚",
+    "series": "XPG Dazzle系列",
+    "opendb_id": "__xpg_dazzle_16gb_ddr4_2800",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2800MHz",
+      "CL延迟": "17-17-17-36",
+      "散热片": "支持散热",
+      "工作电压": "1.2V"
+    }
+  }
+]

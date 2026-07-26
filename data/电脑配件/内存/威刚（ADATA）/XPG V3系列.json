@@ -1,0 +1,110 @@
+[
+  {
+    "name": "威刚XPG V3 8GB DDR3 3100",
+    "manufacturer": "威刚",
+    "series": "XPG V3系列",
+    "opendb_id": "__xpg_v3_8gb_ddr3_3100",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "3100MHz",
+      "传输标准": "PC3-24800",
+      "插槽类型": "DIMM",
+      "CL延迟": "12",
+      "散热片": "支持散热",
+      "工作电压": "1.65V",
+      "其他特点": "XPG V3 DDR3 内存采用独特热传导散热技术(Thermal Conductive Technology)，可拆式散热鳍片。"
+    }
+  },
+  {
+    "name": "威刚XPG V3 8GB DDR3 2600",
+    "manufacturer": "威刚",
+    "series": "XPG V3系列",
+    "opendb_id": "__xpg_v3_8gb_ddr3_2600",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2600MHz",
+      "传输标准": "PC3-20800",
+      "插槽类型": "DIMM",
+      "CL延迟": "11",
+      "散热片": "支持散热",
+      "工作电压": "1.65V",
+      "其他特点": "XPG V3 DDR3 内存采用独特热传导散热技术(Thermal Conductive Technology)，可拆式散热鳍片。"
+    }
+  },
+  {
+    "name": "威刚XPG V3 16GB DDR3 2400",
+    "manufacturer": "威刚",
+    "series": "XPG V3系列",
+    "opendb_id": "__xpg_v3_16gb_ddr3_2400",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2400MHz",
+      "传输标准": "PC3-19200",
+      "插槽类型": "DIMM",
+      "CL延迟": "11",
+      "散热片": "支持散热",
+      "工作电压": "1.65V",
+      "其他特点": "XPG V3 DDR3 内存采用独特热传导散热技术(Thermal Conductive Technology)，可拆式散热鳍片。"
+    }
+  },
+  {
+    "name": "威刚XPG V3 16GB DDR3 3100",
+    "manufacturer": "威刚",
+    "series": "XPG V3系列",
+    "opendb_id": "__xpg_v3_16gb_ddr3_3100",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "3100MHz",
+      "传输标准": "PC3-24800",
+      "插槽类型": "DIMM",
+      "CL延迟": "12",
+      "散热片": "支持散热",
+      "工作电压": "1.65V",
+      "其他特点": "XPG V3 DDR3 内存采用独特热传导散热技术(Thermal Conductive Technology)，可拆式散热鳍片。"
+    }
+  },
+  {
+    "name": "威刚XPG V3 16GB DDR3 1600",
+    "manufacturer": "威刚",
+    "series": "XPG V3系列",
+    "opendb_id": "__xpg_v3_16gb_ddr3_1600",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "传输标准": "PC3-12800",
+      "插槽类型": "DIMM",
+      "CL延迟": "9",
+      "散热片": "支持散热",
+      "工作电压": "1.5V",
+      "其他特点": "XPG V3 DDR3 内存采用独特热传导散热技术(Thermal Conductive Technology)，可拆式散热鳍片。"
+    }
+  },
+  {
+    "name": "威刚XPG V3 16GB DDR3 2133",
+    "manufacturer": "威刚",
+    "series": "XPG V3系列",
+    "opendb_id": "__xpg_v3_16gb_ddr3_2133",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "2133MHz",
+      "传输标准": "PC3-17000",
+      "插槽类型": "DIMM",
+      "CL延迟": "10",
+      "散热片": "支持散热",
+      "工作电压": "1.65V",
+      "其他特点": "XPG V3 DDR3 内存采用独特热传导散热技术(Thermal Conductive Technology)，可拆式散热鳍片。"
+    }
+  }
+]

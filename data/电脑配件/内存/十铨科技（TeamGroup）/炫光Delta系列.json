@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Team 炫光 16GB DDR4 2400（TDTWD416G2400HC15ADC01）",
+    "manufacturer": "十铨科技",
+    "series": "炫光Delta系列",
+    "opendb_id": "team____16gb_ddr4_2400_tdtwd416g2400hc15adc01_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "288pin",
+      "CL延迟": "15-15-15-35",
+      "散热片": "支持散热",
+      "工作电压": "1.2V",
+      "其他性能": "白色LED呼吸灯，蓝色LED呼吸灯"
+    }
+  },
+  {
+    "name": "Team 炫光 16GB DDR4 3000（TDTRD416G3000HC16ADC01）",
+    "manufacturer": "十铨科技",
+    "series": "炫光Delta系列",
+    "opendb_id": "team____16gb_ddr4_3000_tdtrd416g3000hc16adc01_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3000MHz",
+      "针脚数": "288pin",
+      "CL延迟": "16",
+      "工作电压": "1.35V"
+    }
+  },
+  {
+    "name": "Team 炫光 16GB DDR4 2400（TDTRD416G2400HC15ADC01）",
+    "manufacturer": "十铨科技",
+    "series": "炫光Delta系列",
+    "opendb_id": "team____16gb_ddr4_2400_tdtrd416g2400hc15adc01_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "套装（2×8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "针脚数": "288pin",
+      "CL延迟": "15-15-15-35",
+      "散热片": "支持散热",
+      "工作电压": "1.2V",
+      "其他性能": "红色LED呼吸灯"
+    }
+  },
+  {
+    "name": "Team 炫光 8GB DDR4 3000（TDTRD48G3000HC16A01）",
+    "manufacturer": "十铨科技",
+    "series": "炫光Delta系列",
+    "opendb_id": "team____8gb_ddr4_3000_tdtrd48g3000hc16a01_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "3000MHz",
+      "针脚数": "288pin",
+      "CL延迟": "16",
+      "工作电压": "1.35V"
+    }
+  }
+]

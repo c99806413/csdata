@@ -1,0 +1,34 @@
+[
+  {
+    "name": "威刚SPECTRIX D40 RGB 8GB DDR4 2400",
+    "manufacturer": "威刚",
+    "series": "SPECTRIX D40 RGB系列",
+    "opendb_id": "__spectrix_d40_rgb_8gb_ddr4_2400",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2400MHz",
+      "传输标准": "PC4-19200",
+      "CL延迟": "16-16-16",
+      "工作电压": "1.2V",
+      "XMP": "支持，XMP2.0"
+    }
+  },
+  {
+    "name": "威刚SPECTRIX D40 RGB 8GB DDR4 2800",
+    "manufacturer": "威刚",
+    "series": "SPECTRIX D40 RGB系列",
+    "opendb_id": "__spectrix_d40_rgb_8gb_ddr4_2800",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2800MHz",
+      "传输标准": "PC4-22400",
+      "CL延迟": "16-16-16",
+      "工作电压": "1.2V",
+      "XMP": "支持，XMP2.0"
+    }
+  }
+]

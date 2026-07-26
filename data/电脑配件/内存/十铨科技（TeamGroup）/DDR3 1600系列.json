@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Team 4GB DDR3 1600（TED34G1600C11-SBK）",
+    "manufacturer": "十铨科技",
+    "series": "DDR3 1600系列",
+    "opendb_id": "team_4gb_ddr3_1600_ted34g1600c11_sbk_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "CL延迟": "11-11-11-28",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "Team 8GB DDR3 1600（TED38G1600C11-SBK）",
+    "manufacturer": "十铨科技",
+    "series": "DDR3 1600系列",
+    "opendb_id": "team_8gb_ddr3_1600_ted38g1600c11_sbk_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "CL延迟": "11-11-11-28",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "Team 2GB DDR3 1600（TED32G1600C11-SBK）",
+    "manufacturer": "十铨科技",
+    "series": "DDR3 1600系列",
+    "opendb_id": "team_2gb_ddr3_1600_ted32g1600c11_sbk_",
+    "metadata": {
+      "适用类型": "笔记本",
+      "容量描述": "单条（2GB）",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "CL延迟": "11-11-11-28",
+      "工作电压": "1.5V"
+    }
+  }
+]

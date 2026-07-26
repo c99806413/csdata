@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Team 16GB DDR4 2133（TED416G2133C15BK）",
+    "manufacturer": "十铨科技",
+    "series": "DDR4 2133系列",
+    "opendb_id": "team_16gb_ddr4_2133_ted416g2133c15bk_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（16GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2133MHz",
+      "CL延迟": "15-15-15-36",
+      "工作电压": "1.2V"
+    }
+  },
+  {
+    "name": "Team 4GB DDR4 2133（TED44G2133C15BK）",
+    "manufacturer": "十铨科技",
+    "series": "DDR4 2133系列",
+    "opendb_id": "team_4gb_ddr4_2133_ted44g2133c15bk_",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2133MHz",
+      "CL延迟": "15-15-15-36",
+      "工作电压": "1.2V"
+    }
+  }
+]
