@@ -1,0 +1,76 @@
+[
+  {
+    "name": "coolserver P46 P43/4U6热管/280W",
+    "manufacturer": "coolserver",
+    "series": "P46",
+    "opendb_id": "coolserver_p46_p43_4u6___280w",
+    "metadata": {
+      "散热器类型": "AMD平台CPU散热器",
+      "散热方式": "风冷",
+      "产品重量": "2kg",
+      "风扇尺寸": "9CMmm",
+      "最高转数": "1900RPM",
+      "额定电压": "12V",
+      "散热片尺寸": "113.9*118*125.4 mm"
+    }
+  },
+  {
+    "name": "coolserver P46 P22/2U4热管/225W",
+    "manufacturer": "coolserver",
+    "series": "P46",
+    "opendb_id": "coolserver_p46_p22_2u4___225w",
+    "metadata": {
+      "散热器类型": "AMD平台CPU散热器",
+      "散热方式": "风冷",
+      "产品重量": "2kg",
+      "风扇尺寸": "6025mm",
+      "最高转数": "3000RPM",
+      "额定电压": "12V",
+      "散热片尺寸": "119.3* 78.9 * 64.5 mm"
+    }
+  },
+  {
+    "name": "coolserver P46 P41/4U5热管/225W",
+    "manufacturer": "coolserver",
+    "series": "P46",
+    "opendb_id": "coolserver_p46_p41_4u5___225w",
+    "metadata": {
+      "散热器类型": "AMD平台CPU散热器",
+      "散热方式": "风冷",
+      "产品重量": "2kg",
+      "风扇尺寸": "9225mm",
+      "最高转数": "1200RPM",
+      "额定电压": "12v",
+      "散热片尺寸": "119.3* 78.9 * 125.5 mm"
+    }
+  },
+  {
+    "name": "coolserver P46 P42/4U6热管/255W",
+    "manufacturer": "coolserver",
+    "series": "P46",
+    "opendb_id": "coolserver_p46_p42_4u6___255w",
+    "metadata": {
+      "散热器类型": "AMD平台CPU散热器",
+      "散热方式": "风冷",
+      "产品重量": "2kg",
+      "风扇尺寸": "9225mm",
+      "最高转数": "1200RPM",
+      "额定电压": "12v",
+      "散热片尺寸": "120* 92.5 * 125.4 mm"
+    }
+  },
+  {
+    "name": "coolserver P46 P46/4U6热管/300W",
+    "manufacturer": "coolserver",
+    "series": "P46",
+    "opendb_id": "coolserver_p46_p46_4u6___300w",
+    "metadata": {
+      "散热器类型": "AMD平台CPU散热器",
+      "散热方式": "风冷",
+      "产品重量": "2kg",
+      "风扇尺寸": "9mm",
+      "最高转数": "1900RPM",
+      "散热片尺寸": "118* 78 * 125.1 mm"
+    }
+  }
+]

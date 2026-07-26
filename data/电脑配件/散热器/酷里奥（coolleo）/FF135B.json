@@ -1,0 +1,28 @@
+[
+  {
+    "name": "coolleo FF135B FF135-B纯黑版加配2011",
+    "manufacturer": "coolleo",
+    "series": "FF135B",
+    "opendb_id": "coolleo_ff135b_ff135_b_____2011",
+    "metadata": {
+      "产品型号": "倚天FF135-B纯黑版",
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "1850RPM",
+      "散热片尺寸": "120*94*135mm"
+    }
+  },
+  {
+    "name": "coolleo FF135B FF135-B纯黑版",
+    "manufacturer": "coolleo",
+    "series": "FF135B",
+    "opendb_id": "coolleo_ff135b_ff135_b___",
+    "metadata": {
+      "产品型号": "倚天FF135-B纯黑版",
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "1850RPM",
+      "散热片尺寸": "120*94*135mm"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "JIUSHARK（九鲨）M.2THREE 黑色-2280散热器単塔单风扇",
+    "manufacturer": "九鲨",
+    "series": "M.2THREE",
+    "opendb_id": "jiushark____m_2three____2280________",
+    "metadata": {
+      "产品型号": "M.2-THREE",
+      "散热方式": "风冷",
+      "风扇尺寸": "60*60*10MMmm",
+      "最高转数": "900RPM",
+      "噪音": "25.4dB",
+      "散热片尺寸": "82*35.5*24.5MMmm"
+    }
+  },
+  {
+    "name": "JIUSHARK（九鲨）M.2THREE 黑化-2280散热器単塔单风扇",
+    "manufacturer": "九鲨",
+    "series": "M.2THREE",
+    "opendb_id": "jiushark____m_2three____2280________",
+    "metadata": {
+      "产品型号": "M.2-THREE",
+      "散热方式": "风冷",
+      "风扇尺寸": "60*60*10MMmm",
+      "最高转数": "900RPM",
+      "噪音": "25.4dB",
+      "散热片尺寸": "82*24.5*35.5MMmm"
+    }
+  }
+]

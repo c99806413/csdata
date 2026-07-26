@@ -1,0 +1,54 @@
+[
+  {
+    "name": "金钱豹aSbGZKAz 2011正方形",
+    "manufacturer": "金钱豹",
+    "series": "aSbGZKAz",
+    "opendb_id": "___asbgzkaz_2011___",
+    "metadata": {
+      "产品型号": "aSbGZKAz",
+      "散热器类型": "一体式水冷散热器",
+      "适用范围": "宽度大于250mm",
+      "产品重量": "1kg",
+      "端子接口": "INTEL LGA2066"
+    }
+  },
+  {
+    "name": "金钱豹aSbGZKAz 全新金钱豹2011正方形",
+    "manufacturer": "金钱豹",
+    "series": "aSbGZKAz",
+    "opendb_id": "___asbgzkaz______2011___",
+    "metadata": {
+      "产品型号": "aSbGZKAz",
+      "散热器类型": "一体式水冷散热器",
+      "适用范围": "宽度大于250mm",
+      "产品重量": "1kg",
+      "端子接口": "INTEL LGA2066"
+    }
+  },
+  {
+    "name": "金钱豹aSbGZKAz 1366针无背板",
+    "manufacturer": "金钱豹",
+    "series": "aSbGZKAz",
+    "opendb_id": "___asbgzkaz_1366____",
+    "metadata": {
+      "产品型号": "aSbGZKAz",
+      "散热器类型": "一体式水冷散热器",
+      "适用范围": "宽度大于250mm",
+      "产品重量": "1kg",
+      "端子接口": "INTEL LGA2066"
+    }
+  },
+  {
+    "name": "金钱豹aSbGZKAz 1150/1155带背板",
+    "manufacturer": "金钱豹",
+    "series": "aSbGZKAz",
+    "opendb_id": "___asbgzkaz_1150_1155___",
+    "metadata": {
+      "产品型号": "aSbGZKAz",
+      "散热器类型": "一体式水冷散热器",
+      "适用范围": "宽度大于250mm",
+      "产品重量": "1kg",
+      "端子接口": "INTEL LGA2066"
+    }
+  }
+]

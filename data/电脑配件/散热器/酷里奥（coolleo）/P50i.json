@@ -1,0 +1,28 @@
+[
+  {
+    "name": "coolleo P50i 倚天P50i幻彩版配2011螺柱螺母",
+    "manufacturer": "coolleo",
+    "series": "P50i",
+    "opendb_id": "coolleo_p50i___p50i____2011____",
+    "metadata": {
+      "产品型号": "倚天P50i幻彩版",
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "1600RPM",
+      "散热片尺寸": "120*71*148mm"
+    }
+  },
+  {
+    "name": "coolleo P50i 倚天P50i幻彩版",
+    "manufacturer": "coolleo",
+    "series": "P50i",
+    "opendb_id": "coolleo_p50i___p50i___",
+    "metadata": {
+      "产品型号": "倚天P50i幻彩版",
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "1600RPM",
+      "散热片尺寸": "120*71*148mm"
+    }
+  }
+]

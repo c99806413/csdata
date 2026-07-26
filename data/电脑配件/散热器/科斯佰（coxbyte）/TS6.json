@@ -1,0 +1,86 @@
+[
+  {
+    "name": "coxbyte TS6 120*20*0.5mm",
+    "manufacturer": "coxbyte",
+    "series": "TS6",
+    "opendb_id": "coxbyte_ts6_120_20_0_5mm",
+    "metadata": {
+      "产品型号": "TS-6",
+      "散热器类型": "导热硅脂",
+      "散热方式": "风冷",
+      "产品重量": "300g",
+      "风扇尺寸": "NAmm",
+      "散热片尺寸": "NAmm"
+    }
+  },
+  {
+    "name": "coxbyte TS6 120*20*1.0mm",
+    "manufacturer": "coxbyte",
+    "series": "TS6",
+    "opendb_id": "coxbyte_ts6_120_20_1_0mm",
+    "metadata": {
+      "产品型号": "TS-6",
+      "散热器类型": "导热硅脂",
+      "散热方式": "风冷",
+      "产品重量": "300g",
+      "风扇尺寸": "NAmm",
+      "散热片尺寸": "NAmm"
+    }
+  },
+  {
+    "name": "coxbyte TS6 120*20*1.5mm",
+    "manufacturer": "coxbyte",
+    "series": "TS6",
+    "opendb_id": "coxbyte_ts6_120_20_1_5mm",
+    "metadata": {
+      "产品型号": "TS-6",
+      "散热器类型": "导热硅脂",
+      "散热方式": "风冷",
+      "产品重量": "300g",
+      "风扇尺寸": "NAmm",
+      "散热片尺寸": "NAmm"
+    }
+  },
+  {
+    "name": "coxbyte TS6 120*20*2.0mm",
+    "manufacturer": "coxbyte",
+    "series": "TS6",
+    "opendb_id": "coxbyte_ts6_120_20_2_0mm",
+    "metadata": {
+      "产品型号": "TS-6",
+      "散热器类型": "导热硅脂",
+      "散热方式": "风冷",
+      "产品重量": "300g",
+      "风扇尺寸": "NAmm",
+      "散热片尺寸": "NAmm"
+    }
+  },
+  {
+    "name": "coxbyte TS6 120*20*2.5mm",
+    "manufacturer": "coxbyte",
+    "series": "TS6",
+    "opendb_id": "coxbyte_ts6_120_20_2_5mm",
+    "metadata": {
+      "产品型号": "TS-6",
+      "散热器类型": "导热硅脂",
+      "散热方式": "风冷",
+      "产品重量": "300g",
+      "风扇尺寸": "NAmm",
+      "散热片尺寸": "NAmm"
+    }
+  },
+  {
+    "name": "coxbyte TS6 120*20*3.0mm",
+    "manufacturer": "coxbyte",
+    "series": "TS6",
+    "opendb_id": "coxbyte_ts6_120_20_3_0mm",
+    "metadata": {
+      "产品型号": "TS-6",
+      "散热器类型": "导热硅脂",
+      "散热方式": "风冷",
+      "产品重量": "300g",
+      "风扇尺寸": "NAmm",
+      "散热片尺寸": "NAmm"
+    }
+  }
+]

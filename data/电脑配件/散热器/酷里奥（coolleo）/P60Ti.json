@@ -1,0 +1,40 @@
+[
+  {
+    "name": "coolleo P60Ti 基础版配(+2011)",
+    "manufacturer": "coolleo",
+    "series": "P60Ti",
+    "opendb_id": "coolleo_p60ti_______2011_",
+    "metadata": {
+      "产品型号": "P60Ti",
+      "散热器类型": "CPU散热器",
+      "散热方式": "风冷",
+      "适用范围": "Intel：LGA 1700/2011 AMD：AM5",
+      "产品尺寸": "120×137×154mm",
+      "风扇尺寸": "120X120X25MMmm",
+      "最高转数": "1650RPM",
+      "最大风量": "71.5CFM",
+      "风压": "1.9mmaq",
+      "噪音": "25.4dB",
+      "热管数量": "6个"
+    }
+  },
+  {
+    "name": "coolleo P60Ti 基础版",
+    "manufacturer": "coolleo",
+    "series": "P60Ti",
+    "opendb_id": "coolleo_p60ti____",
+    "metadata": {
+      "产品型号": "P60Ti",
+      "散热器类型": "CPU散热器",
+      "散热方式": "风冷",
+      "适用范围": "Intel：LGA 1700 AMD：AM5",
+      "产品尺寸": "120×137×154mm",
+      "风扇尺寸": "120X120X25MMmm",
+      "最高转数": "1650RPM",
+      "最大风量": "71.5CFM",
+      "风压": "1.9mmaq",
+      "噪音": "25.4dB",
+      "热管数量": "6个"
+    }
+  }
+]

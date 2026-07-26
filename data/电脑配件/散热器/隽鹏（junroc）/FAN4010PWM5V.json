@@ -1,0 +1,30 @@
+[
+  {
+    "name": "junroc FAN4010PWM5V FAN-4010-5V",
+    "manufacturer": "junroc",
+    "series": "FAN4010PWM5V",
+    "opendb_id": "junroc_fan4010pwm5v_fan_4010_5v",
+    "metadata": {
+      "产品型号": "FAN-4010-PWM-5V",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "100g",
+      "风扇尺寸": "40*40*20MMmm",
+      "散热片尺寸": "40*40*20MMmm"
+    }
+  },
+  {
+    "name": "junroc FAN4010PWM5V FAN-4020-PWM-5V",
+    "manufacturer": "junroc",
+    "series": "FAN4010PWM5V",
+    "opendb_id": "junroc_fan4010pwm5v_fan_4020_pwm_5v",
+    "metadata": {
+      "产品型号": "FAN-4010-PWM-5V",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "100g",
+      "风扇尺寸": "40*40*20MMmm",
+      "散热片尺寸": "40*40*20MMmm"
+    }
+  }
+]

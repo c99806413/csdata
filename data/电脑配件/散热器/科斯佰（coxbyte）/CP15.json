@@ -1,0 +1,62 @@
+[
+  {
+    "name": "coxbyte CP15 20*30*0.25mm",
+    "manufacturer": "coxbyte",
+    "series": "CP15",
+    "opendb_id": "coxbyte_cp15_20_30_0_25mm",
+    "metadata": {
+      "产品型号": "CP-15",
+      "散热器类型": "导热硅脂",
+      "散热方式": "风冷",
+      "产品重量": "400g",
+      "风扇尺寸": "NAmm",
+      "噪音": "NAdB",
+      "散热片尺寸": "NAmm"
+    }
+  },
+  {
+    "name": "coxbyte CP15 25*25*0.25mm",
+    "manufacturer": "coxbyte",
+    "series": "CP15",
+    "opendb_id": "coxbyte_cp15_25_25_0_25mm",
+    "metadata": {
+      "产品型号": "CP-15",
+      "散热器类型": "导热硅脂",
+      "散热方式": "风冷",
+      "产品重量": "400g",
+      "风扇尺寸": "NAmm",
+      "噪音": "NAdB",
+      "散热片尺寸": "NAmm"
+    }
+  },
+  {
+    "name": "coxbyte CP15 31*50*0.25mm",
+    "manufacturer": "coxbyte",
+    "series": "CP15",
+    "opendb_id": "coxbyte_cp15_31_50_0_25mm",
+    "metadata": {
+      "产品型号": "CP-15",
+      "散热器类型": "导热硅脂",
+      "散热方式": "风冷",
+      "产品重量": "400g",
+      "风扇尺寸": "NAmm",
+      "噪音": "NAdB",
+      "散热片尺寸": "NAmm"
+    }
+  },
+  {
+    "name": "coxbyte CP15 38*38*0.25mm",
+    "manufacturer": "coxbyte",
+    "series": "CP15",
+    "opendb_id": "coxbyte_cp15_38_38_0_25mm",
+    "metadata": {
+      "产品型号": "CP-15",
+      "散热器类型": "导热硅脂",
+      "散热方式": "风冷",
+      "产品重量": "400g",
+      "风扇尺寸": "NAmm",
+      "噪音": "NAdB",
+      "散热片尺寸": "NAmm"
+    }
+  }
+]

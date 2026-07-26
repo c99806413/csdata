@@ -1,0 +1,27 @@
+[
+  {
+    "name": "京云玖月T590 单扇叶·无铜管",
+    "manufacturer": "京云玖月",
+    "series": "T590",
+    "opendb_id": "____t590________",
+    "metadata": {
+      "产品重量": "200g"
+    }
+  },
+  {
+    "name": "京云玖月T590 散热模组【独显】",
+    "manufacturer": "京云玖月",
+    "series": "T590",
+    "opendb_id": "____t590_________",
+    "metadata": {}
+  },
+  {
+    "name": "京云玖月T590 散热模组【集显】",
+    "manufacturer": "京云玖月",
+    "series": "T590",
+    "opendb_id": "____t590_________",
+    "metadata": {
+      "产品重量": "200g"
+    }
+  }
+]
