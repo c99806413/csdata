@@ -1,0 +1,20 @@
+[
+  {
+    "name": "S596 Turbo 2.5英寸 SATA II SSD系列",
+    "manufacturer": "威刚",
+    "series": "S596 Turbo 2.5英寸 SATA II SSD系列",
+    "opendb_id": "s596_turbo_2_5_sata_ii_ssd",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "32GB/64GB/256GB/128GB",
+      "接口类型": "SATA II/mini-USB双接口",
+      "硬盘尺寸": "2.5英寸",
+      "缓存": "128MB",
+      "读取速度": "260MB/s/240MB/s",
+      "写入速度": "60MB/s/120MB/s/210MB/s/170MB/s",
+      "系统要求": "支持Windows 7操作系统",
+      "其它性能": "采用高阶控制芯片，严选优质闪存芯片，搭载 128MB DDR2 SDRAM高速缓存，让ADATA S596 Turbo SSD固态硬盘拥有超高性能表现",
+      "其它特点": "开机只要20秒，并且支持TRIM Command，强化 SSD 的写入效能。全新支持的静态损耗平衡运算（Static wear-leveling），有效减缓效能下降与耗损机率，完美保持效能运作并强化SSD的耐用度，提高使用寿命。"
+    }
+  }
+]
