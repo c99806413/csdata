@@ -1,0 +1,54 @@
+[
+  {
+    "name": "ARCTIC P12 PRO ARGB 反向",
+    "manufacturer": "ARCTIC",
+    "series": "P12 PRO ARGB",
+    "opendb_id": "arctic_p12_pro_argb___",
+    "metadata": {
+      "产品型号": "P12 PRO Reverse A-RGB",
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "发光方式": "ARGB",
+      "智能温控": "支持智能温控",
+      "产品尺寸": "120×120×27mm",
+      "产品重量": "172g",
+      "其它特点": "反向",
+      "风扇数量": "1个",
+      "风扇尺寸": "120*120*27mm",
+      "扇叶数量": "5叶",
+      "轴承类型": "流体动态轴承（FDB）",
+      "最高转数": "3000RPM",
+      "转数描述": "500-3000±5%RPM",
+      "最大风量": "73CFM",
+      "风压": "4.5mmaq",
+      "端子接口": "4-Pin PWM-Connector+3-Pin A-RGB Plug +Socket",
+      "额定电压": "FAN：DC 12V，RGB：DC 5V"
+    }
+  },
+  {
+    "name": "ARCTIC P12 PRO ARGB 正向",
+    "manufacturer": "ARCTIC",
+    "series": "P12 PRO ARGB",
+    "opendb_id": "arctic_p12_pro_argb___",
+    "metadata": {
+      "产品型号": "P12 PRO A-RGB",
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "发光方式": "ARGB",
+      "智能温控": "支持智能温控",
+      "产品尺寸": "120×120×25mm",
+      "产品重量": "184g",
+      "其它特点": "正向",
+      "风扇数量": "1个",
+      "风扇尺寸": "120*120*25mm",
+      "扇叶数量": "7叶",
+      "轴承类型": "流体动态轴承（FDB）",
+      "最高转数": "3000RPM",
+      "转数描述": "400-3000±5%RPM",
+      "最大风量": "77CFM",
+      "风压": "6.9mmaq",
+      "端子接口": "4-Pin PWM-Connector+3-Pin A-RGB Plug +Socket",
+      "额定电压": "FAN：DC 12V，RGB：DC 5V"
+    }
+  }
+]

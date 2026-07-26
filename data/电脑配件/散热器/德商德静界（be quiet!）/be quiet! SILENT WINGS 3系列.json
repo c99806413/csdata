@@ -1,0 +1,97 @@
+[
+  {
+    "name": "be quiet! SILENT WINGS 3 120mm high-speed PWM",
+    "manufacturer": "德商德静界",
+    "series": "be quiet! SILENT WINGS 3系列",
+    "opendb_id": "be_quiet__silent_wings_3_120mm_high_speed_pwm",
+    "metadata": {
+      "散热器类型": "风扇",
+      "散热方式": "风冷",
+      "电源参数": "12V,0.37A",
+      "输入功率": "1.44W",
+      "使用寿命": "300000小时",
+      "产品尺寸": "120×120×25mm",
+      "风扇尺寸": "120×120×25mm",
+      "扇叶数量": "7叶",
+      "轴承类型": "流体动态轴承（FDB）",
+      "最高转数": "2200RPM",
+      "最大风量": "73.33CFM",
+      "风压": "3.37mmaq",
+      "噪音": "28.6dB"
+    }
+  },
+  {
+    "name": "be quiet! SILENT WINGS 3 140mm PWM",
+    "manufacturer": "德商德静界",
+    "series": "be quiet! SILENT WINGS 3系列",
+    "opendb_id": "be_quiet__silent_wings_3_140mm_pwm",
+    "metadata": {
+      "散热器类型": "风扇",
+      "散热方式": "风冷",
+      "输入功率": "0.72W",
+      "使用寿命": "300000小时",
+      "产品尺寸": "120x120x25mm",
+      "风扇尺寸": "140×140×25mm",
+      "轴承类型": "流体动态轴承（FDB）",
+      "最高转数": "1000RPM",
+      "最大风量": "59.5CFM",
+      "风压": "1.08mmaq",
+      "噪音": "15.5dB"
+    }
+  },
+  {
+    "name": "be quiet! SILENT WINGS 3   120mm PWM",
+    "manufacturer": "德商德静界",
+    "series": "be quiet! SILENT WINGS 3系列",
+    "opendb_id": "be_quiet__silent_wings_3___120mm_pwm",
+    "metadata": {
+      "散热器类型": "风扇",
+      "散热方式": "风冷",
+      "产品尺寸": "120x120x25mm",
+      "风扇尺寸": "120×120×25mm",
+      "轴承类型": "流体动态轴承（FDB）",
+      "最高转数": "1450RPM",
+      "最大风量": "50.5CFM",
+      "风压": "1.79mmaq",
+      "噪音": "16.4dB"
+    }
+  },
+  {
+    "name": "be quiet! SILENT WINGS 3 140mm high-speed PWM",
+    "manufacturer": "德商德静界",
+    "series": "be quiet! SILENT WINGS 3系列",
+    "opendb_id": "be_quiet__silent_wings_3_140mm_high_speed_pwm",
+    "metadata": {
+      "散热器类型": "风扇",
+      "散热方式": "风冷",
+      "电源参数": "12V,0.5A",
+      "输入功率": "1.68W",
+      "使用寿命": "300000小时",
+      "产品尺寸": "140×140×25mm",
+      "风扇尺寸": "140×140×25mm",
+      "扇叶数量": "7叶",
+      "轴承类型": "流体动态轴承（FDB）",
+      "最高转数": "1600RPM",
+      "最大风量": "77.57CFM",
+      "风压": "2.16mmaq",
+      "噪音": "28.1dB"
+    }
+  },
+  {
+    "name": "be quiet! SILENT WINGS 3  120mm",
+    "manufacturer": "德商德静界",
+    "series": "be quiet! SILENT WINGS 3系列",
+    "opendb_id": "be_quiet__silent_wings_3__120mm",
+    "metadata": {
+      "散热器类型": "风扇",
+      "散热方式": "风冷",
+      "产品尺寸": "120x120x25mm",
+      "风扇尺寸": "120×120×25mm",
+      "轴承类型": "流体动态轴承（FDB）",
+      "最高转数": "1450RPM",
+      "最大风量": "50.5CFM",
+      "风压": "1.79mmaq",
+      "噪音": "16.4dB"
+    }
+  }
+]

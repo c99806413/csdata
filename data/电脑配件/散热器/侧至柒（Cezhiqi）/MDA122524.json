@@ -1,0 +1,42 @@
+[
+  {
+    "name": "侧至柒MDA122524 MDA1225-24G",
+    "manufacturer": "侧至柒",
+    "series": "MDA122524",
+    "opendb_id": "___mda122524_mda1225_24g",
+    "metadata": {
+      "产品型号": "MDA1225-24",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "侧至柒MDA122524 MDA1225-24",
+    "manufacturer": "侧至柒",
+    "series": "MDA122524",
+    "opendb_id": "___mda122524_mda1225_24",
+    "metadata": {
+      "产品型号": "MDA1225-24",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "侧至柒MDA122524 MDA1225-24H",
+    "manufacturer": "侧至柒",
+    "series": "MDA122524",
+    "opendb_id": "___mda122524_mda1225_24h",
+    "metadata": {
+      "产品型号": "MDA1225-24",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "侧至柒MDA122524 MDA1225-12H",
+    "manufacturer": "侧至柒",
+    "series": "MDA122524",
+    "opendb_id": "___mda122524_mda1225_12h",
+    "metadata": {
+      "产品型号": "MDA1225-24",
+      "散热方式": "风冷"
+    }
+  }
+]

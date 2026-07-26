@@ -1,0 +1,38 @@
+[
+  {
+    "name": "be quiet! Light Wings White 120",
+    "manufacturer": "德商德静界",
+    "series": "Light Wings White",
+    "opendb_id": "be_quiet__light_wings_white_120",
+    "metadata": {
+      "散热器类型": "风扇",
+      "散热方式": "风冷",
+      "发光方式": "RGB",
+      "产品尺寸": "120×120×25mm",
+      "风扇数量": "1个",
+      "风扇尺寸": "120×120×25mm",
+      "最高转数": "1700RPM",
+      "最大风量": "41.51CFM",
+      "风压": "1.66mmaq",
+      "噪音": "20.6dB"
+    }
+  },
+  {
+    "name": "be quiet! Light Wings White 140",
+    "manufacturer": "德商德静界",
+    "series": "Light Wings White",
+    "opendb_id": "be_quiet__light_wings_white_140",
+    "metadata": {
+      "散热器类型": "风扇",
+      "散热方式": "风冷",
+      "发光方式": "RGB",
+      "产品尺寸": "140×140×25mm",
+      "风扇数量": "1个",
+      "风扇尺寸": "140x140x25mm",
+      "最高转数": "1700RPM",
+      "最大风量": "41.51CFM",
+      "风压": "1.66mmaq",
+      "噪音": "20.6dB"
+    }
+  }
+]

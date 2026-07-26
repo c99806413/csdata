@@ -1,0 +1,30 @@
+[
+  {
+    "name": "丛林豹棱镜4 Pro（正叶）",
+    "manufacturer": "丛林豹",
+    "series": "Pro",
+    "opendb_id": "_____4_pro____",
+    "metadata": {
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "发光方式": "ARGB，扇框两侧无限镜ARGB，中间无限镜ARGB",
+      "其它特点": "无限镜风扇，硅胶减震垫，主板同步",
+      "轴承类型": "液压轴承（Hydraulic Bearing）",
+      "端子接口": "4-PIN+5V3PIN"
+    }
+  },
+  {
+    "name": "丛林豹棱镜4 Pro（反叶）",
+    "manufacturer": "丛林豹",
+    "series": "Pro",
+    "opendb_id": "_____4_pro____",
+    "metadata": {
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "发光方式": "ARGB",
+      "其它特点": "无限镜风扇，硅胶减震垫，主板同步",
+      "轴承类型": "液压轴承（Hydraulic Bearing）",
+      "端子接口": "4-PIN+5V3PIN"
+    }
+  }
+]

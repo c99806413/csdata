@@ -1,0 +1,52 @@
+[
+  {
+    "name": "侧至柒F120C 一分4四针集线器-线长600mm",
+    "manufacturer": "侧至柒",
+    "series": "F120C",
+    "opendb_id": "___f120c___4________600mm",
+    "metadata": {
+      "产品型号": "F120C",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "侧至柒F120C 一分10四针集线器-线长600mm",
+    "manufacturer": "侧至柒",
+    "series": "F120C",
+    "opendb_id": "___f120c___10________600mm",
+    "metadata": {
+      "产品型号": "F120C",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "侧至柒F120C 无光四针温控+硅脂+安装螺丝",
+    "manufacturer": "侧至柒",
+    "series": "F120C",
+    "opendb_id": "___f120c_______________",
+    "metadata": {
+      "产品型号": "F120C",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "侧至柒F120C RGB幻彩四针温控+硅脂+安装螺丝",
+    "manufacturer": "侧至柒",
+    "series": "F120C",
+    "opendb_id": "___f120c_rgb______________",
+    "metadata": {
+      "产品型号": "F120C",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "侧至柒F120C 5V 3Pin-ARGB四针温控+硅脂+螺",
+    "manufacturer": "侧至柒",
+    "series": "F120C",
+    "opendb_id": "___f120c_5v_3pin_argb_________",
+    "metadata": {
+      "产品型号": "F120C",
+      "散热方式": "风冷"
+    }
+  }
+]

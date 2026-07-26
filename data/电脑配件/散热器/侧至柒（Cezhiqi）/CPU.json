@@ -1,0 +1,32 @@
+[
+  {
+    "name": "侧至柒CPU Intel原装支架(插销安装)",
+    "manufacturer": "侧至柒",
+    "series": "CPU",
+    "opendb_id": "___cpu_intel__________",
+    "metadata": {
+      "产品型号": "英特尔平台CPU散热器底座",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "侧至柒CPU Intel通用支架(螺丝安装)",
+    "manufacturer": "侧至柒",
+    "series": "CPU",
+    "opendb_id": "___cpu_intel__________",
+    "metadata": {
+      "产品型号": "英特尔平台CPU散热器底座",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "侧至柒CPU Intel通用支架(螺丝+背板",
+    "manufacturer": "侧至柒",
+    "series": "CPU",
+    "opendb_id": "___cpu_intel__________",
+    "metadata": {
+      "产品型号": "英特尔平台CPU散热器底座",
+      "散热方式": "风冷"
+    }
+  }
+]

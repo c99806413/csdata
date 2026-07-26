@@ -1,0 +1,28 @@
+[
+  {
+    "name": "DELL（戴尔）MfCAWfdd 全新",
+    "manufacturer": "戴尔",
+    "series": "MfCAWfdd",
+    "opendb_id": "dell____mfcawfdd___",
+    "metadata": {
+      "产品型号": "MfCAWfdd",
+      "散热器类型": "机箱风扇",
+      "适用范围": "ITX机箱",
+      "产品重量": "1kg",
+      "端子接口": "整合CPU主板"
+    }
+  },
+  {
+    "name": "DELL（戴尔）MfCAWfdd 拆机",
+    "manufacturer": "戴尔",
+    "series": "MfCAWfdd",
+    "opendb_id": "dell____mfcawfdd___",
+    "metadata": {
+      "产品型号": "MfCAWfdd",
+      "散热器类型": "机箱风扇",
+      "适用范围": "ITX机箱",
+      "产品重量": "1kg",
+      "端子接口": "整合CPU主板"
+    }
+  }
+]

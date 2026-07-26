@@ -1,0 +1,54 @@
+[
+  {
+    "name": "ZEAGINAL（炽果）TI 缀神TI 白色三联包积木风扇【FDB轴承】",
+    "manufacturer": "炽果",
+    "series": "TI",
+    "opendb_id": "zeaginal____ti___ti___________fdb___",
+    "metadata": {
+      "产品型号": "缀神TI白三联包",
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "900RPM",
+      "散热片尺寸": "120*120*25mm"
+    }
+  },
+  {
+    "name": "ZEAGINAL（炽果）TI 缀神TI 黑色单支积木风扇【FDB轴承】",
+    "manufacturer": "炽果",
+    "series": "TI",
+    "opendb_id": "zeaginal____ti___ti__________fdb___",
+    "metadata": {
+      "产品型号": "缀神TI白单支",
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "900RPM",
+      "散热片尺寸": "120*120*25mm"
+    }
+  },
+  {
+    "name": "ZEAGINAL（炽果）TI 缀神TI 白色单支积木风扇【FDB轴承】",
+    "manufacturer": "炽果",
+    "series": "TI",
+    "opendb_id": "zeaginal____ti___ti__________fdb___",
+    "metadata": {
+      "产品型号": "缀神TI黑单支",
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "900RPM",
+      "散热片尺寸": "120*120*25mm"
+    }
+  },
+  {
+    "name": "ZEAGINAL（炽果）TI 缀神TI 黑色三联包积木风扇【FDB轴承】",
+    "manufacturer": "炽果",
+    "series": "TI",
+    "opendb_id": "zeaginal____ti___ti___________fdb___",
+    "metadata": {
+      "产品型号": "缀神TI黑三联包",
+      "散热方式": "风冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "900RPM",
+      "散热片尺寸": "120*120*25mm"
+    }
+  }
+]

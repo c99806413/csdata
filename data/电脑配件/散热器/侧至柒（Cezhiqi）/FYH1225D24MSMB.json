@@ -1,0 +1,26 @@
+[
+  {
+    "name": "侧至柒FYH1225D24MSMB FYH1225D24MS",
+    "manufacturer": "侧至柒",
+    "series": "FYH1225D24MSMB",
+    "opendb_id": "___fyh1225d24msmb_fyh1225d24ms",
+    "metadata": {
+      "产品型号": "FYH1225D24MSMB",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "10g"
+    }
+  },
+  {
+    "name": "侧至柒FYH1225D24MSMB FYH1225D2MB",
+    "manufacturer": "侧至柒",
+    "series": "FYH1225D24MSMB",
+    "opendb_id": "___fyh1225d24msmb_fyh1225d2mb",
+    "metadata": {
+      "产品型号": "FYH1225D24MSMB",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "10g"
+    }
+  }
+]

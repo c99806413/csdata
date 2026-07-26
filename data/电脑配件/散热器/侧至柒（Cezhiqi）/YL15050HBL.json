@@ -1,0 +1,32 @@
+[
+  {
+    "name": "侧至柒YL15050HBL 15050 110V 正方形",
+    "manufacturer": "侧至柒",
+    "series": "YL15050HBL",
+    "opendb_id": "___yl15050hbl_15050_110v____",
+    "metadata": {
+      "产品型号": "YL15050HBL",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "侧至柒YL15050HBL 15050 380V 正方形",
+    "manufacturer": "侧至柒",
+    "series": "YL15050HBL",
+    "opendb_id": "___yl15050hbl_15050_380v____",
+    "metadata": {
+      "产品型号": "YL15050HBL",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "侧至柒YL15050HBL 15050 220V 正方形",
+    "manufacturer": "侧至柒",
+    "series": "YL15050HBL",
+    "opendb_id": "___yl15050hbl_15050_220v____",
+    "metadata": {
+      "产品型号": "YL15050HBL",
+      "散热方式": "风冷"
+    }
+  }
+]

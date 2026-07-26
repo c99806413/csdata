@@ -1,0 +1,26 @@
+[
+  {
+    "name": "侧至柒ZCN249225B0HM ZCN249225B0H 0.46A",
+    "manufacturer": "侧至柒",
+    "series": "ZCN249225B0HM",
+    "opendb_id": "___zcn249225b0hm_zcn249225b0h_0_46a",
+    "metadata": {
+      "产品型号": "ZCN249225B0HM",
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "产品重量": "10g"
+    }
+  },
+  {
+    "name": "侧至柒ZCN249225B0HM ZCN249225B0M 0.29A",
+    "manufacturer": "侧至柒",
+    "series": "ZCN249225B0HM",
+    "opendb_id": "___zcn249225b0hm_zcn249225b0m_0_29a",
+    "metadata": {
+      "产品型号": "ZCN249225B0HM",
+      "散热器类型": "机箱风扇",
+      "散热方式": "风冷",
+      "产品重量": "10g"
+    }
+  }
+]
