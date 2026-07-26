@@ -1,0 +1,33 @@
+[
+  {
+    "name": "HyperX Savage系列",
+    "manufacturer": "金士顿",
+    "series": "HyperX Savage系列",
+    "opendb_id": "hyperx_savage",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "480GB/240GB/120GB/960GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC多层单元",
+      "主控芯片": "Phison 3110",
+      "读取速度": "520MB/s/560MB/s",
+      "写入速度": "500MB/s/530MB/s/350MB/s/490MB/s",
+      "4K随机读": "92000 IOPS/93000 IOPS/97000 IOPS",
+      "4K随机写": "89000 IOPS/83000 IOPS",
+      "IOPS读取": "100000 IOPS/990000 IOPS",
+      "IOPS写入": "88000 IOPS/89000 IOPS/84000 IOPS",
+      "电源功耗": "平均：0.39W读取最高：1.4W写入最高：4.35W",
+      "平均无故障时间": "100万小时",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "防震能力": "工作时：2.17G未工作时：20G",
+      "外形尺寸": "100.0×69.9×7.0mm",
+      "产品重量": "96g",
+      "工作温度": "0-70℃",
+      "存储温度": "-40-85℃",
+      "其它性能": "PCMARK Vantage HDD Suite得分：84000PCMARK 8存储带宽：223MB/sPCMARK 8存储得分：4970Anvil总得分（不可压缩的工作负荷）：4700数据写入总量：416TB 0,81DWPD/PCMARK Vantage HDD Suite得分：84000PCMARK 8存储带宽：223MB/sPCMARK 8存储得分：4940Anvil总得分（不可压缩的工作负荷）：4700数据写入总量：306TB 1,19DWPD/PCMARK Vantage HDD Suite得分：84000PCMARK 8存储带宽：223MB/sPCMARK 8存储得分：4970Anvil总得分（不可压缩的工作负荷）：4700数据写入总量：113TB 0,89DWPD/PCMARK Vantage HDD Suite得分：84000PCMARK 8存储带宽：260MB/sPCMARK 8存储得分：4970Anvil总得分（不可压缩的工作负荷）：5000数据写入总量：681TB 0,66DWPD",
+      "其它特点": "可压缩数据传输(ATTO)：读取速度为560MB/s，写入速度为530MB/s/可压缩数据传输(ATTO)：读取速度为560MB/s，写入速度为360MB/s"
+    }
+  }
+]
