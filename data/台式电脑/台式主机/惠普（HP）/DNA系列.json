@@ -1,0 +1,26 @@
+[
+  {
+    "name": "惠普Firebird with VoodooDNA 803",
+    "manufacturer": "惠普",
+    "series": "惠普Firebird with VoodooDNA 803",
+    "opendb_id": "firebird_with_voodoodna_803",
+    "metadata": {
+      "主板芯片组": "nVIDIA nForce 760S",
+      "CPU系列": "酷睿2四核",
+      "CPU型号": "Intel 酷睿2四核 Q9400",
+      "CPU频率": "2660GHz",
+      "总线规格": "1333",
+      "核心代号": "Yorkfield",
+      "核心/线程数": "四核",
+      "制程工艺": "45纳米",
+      "内存容量": "4GB",
+      "内存类型": "DDRII 800MHz",
+      "硬盘容量": "640GB/500GB",
+      "硬盘描述": "320GB×2/250GB×2",
+      "光驱类型": "Blue-ray/DVD刻录机",
+      "显卡类型": "独立显卡",
+      "显卡芯片": "nVIDIA GeForce 9800S",
+      "有线网卡": "Gigabit以太网，802.11 b/g/n 无线/Gigabit以太网卡"
+    }
+  }
+]
