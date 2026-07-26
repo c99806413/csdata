@@ -1,0 +1,28 @@
+[
+  {
+    "name": "GTX 1660系列 (6GB)",
+    "manufacturer": "ASL翔升",
+    "series": "GTX 1660系列",
+    "opendb_id": "gtx_1660_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1660",
+      "显示芯片系列": "NVIDIA GTX 16系列",
+      "核心频率": "1530-1785MHz",
+      "流处理单元": "1408个",
+      "显存频率": "8000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "6GB",
+      "显存位宽": "192bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DisplayPort接口，1×DVI接口",
+      "电源接口": "6pin/8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热/涡轮风扇",
+      "3D API": "DirectX 12，OpenGL 4.6/DirectX 12，OpenGL 4.5/DirectX 12.1，Shader Model 5.0，OpenGL 4.5",
+      "支持HDCP": "是",
+      "最大功耗": "120W",
+      "建议电源": "450W以上/400W以上"
+    }
+  }
+]

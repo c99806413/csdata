@@ -1,0 +1,29 @@
+[
+  {
+    "name": "GTX 1650 (4GB)",
+    "manufacturer": "ASL翔升",
+    "series": "GTX 1650",
+    "opendb_id": "gtx_1650_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1650",
+      "显示芯片系列": "NVIDIA GTX 16系列",
+      "核心频率": "1410-1590MHz/1485MHz，核心动态加速频率：1665MHz",
+      "流处理单元": "896个",
+      "显存频率": "12000MHz/8000MHz",
+      "显存类型": "GDDR6/GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口/1×DisplayPort接口，1×HDMI接口，1×DVI接口",
+      "电源接口": "6pin/无外接电源接口",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇/双风扇散热",
+      "3D API": "DirectX 12，OpenGL 4.6/DirectX 12.1，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "151×111×38mm/165×128×40mm",
+      "最大功耗": "75W",
+      "建议电源": "300W以上/300W"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "GTX560Ti系列 (1GB)",
+    "manufacturer": "ASL翔升",
+    "series": "GTX560Ti系列",
+    "opendb_id": "gtx560ti_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 560 Ti",
+      "显示芯片系列": "NVIDIA GTX500系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF114",
+      "核心频率": "940MHz/880MHz",
+      "CUDA核心": "384个",
+      "显存频率": "4400MHz/4200MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "Mini HDMI接口/双DVI接口",
+      "电源接口": "8pin",
+      "散热方式": "散热风扇+热管散热+散热片",
+      "3D API": "DirectX 11",
+      "供电模式": "4+1相",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术电源需求：500W以上",
+      "上市日期": "2011年01月"
+    }
+  },
+  {
+    "name": "GTX560Ti系列 (2GB)",
+    "manufacturer": "ASL翔升",
+    "series": "GTX560Ti系列",
+    "opendb_id": "gtx560ti_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 560 Ti",
+      "显示芯片系列": "NVIDIA GTX 500系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF114",
+      "核心频率": "880MHz",
+      "CUDA核心": "384个",
+      "显存频率": "4200MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术显卡功耗：170W电源需求：500W以上"
+    }
+  }
+]

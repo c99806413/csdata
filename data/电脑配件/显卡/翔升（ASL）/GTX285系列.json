@@ -1,0 +1,26 @@
+[
+  {
+    "name": "GTX285系列 (1GB)",
+    "manufacturer": "ASL翔升",
+    "series": "GTX285系列",
+    "opendb_id": "gtx285_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTX 285",
+      "制作工艺": "55纳米",
+      "核心代号": "GT200",
+      "核心频率": "650MHz/680MHz/675MHz",
+      "CUDA核心": "240个",
+      "显存频率": "2484MHz/2600MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "1GB",
+      "显存位宽": "512bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)/HDMI/HDMI/SPDIF/开关",
+      "电源接口": "6PIN+6PIN/6pin+6pin",
+      "散热方式": "涡轮风扇/散热风扇",
+      "3D API": "DirectX 10"
+    }
+  }
+]

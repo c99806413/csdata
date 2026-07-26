@@ -1,0 +1,62 @@
+[
+  {
+    "name": "GTX960 (2GB)",
+    "manufacturer": "ASL翔升",
+    "series": "GTX960",
+    "opendb_id": "gtx960_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 960",
+      "显示芯片系列": "GeForce GTX 900系列/NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM206",
+      "核心频率": "1127MHz/1202MHz/1304/1367MHz",
+      "CUDA核心": "1024个",
+      "显存频率": "7012MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "4096×2160/2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "6pin/8pin",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热/双风扇散热+热管散热/双热管散热",
+      "3D API": "DirectX 12",
+      "供电模式": "3+1相/4+2相",
+      "支持HDCP": "是",
+      "最大功耗": "120W/140W",
+      "其它特点": "支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost技术，支持最多4屏输出"
+    }
+  },
+  {
+    "name": "GTX960 (4GB)",
+    "manufacturer": "ASL翔升",
+    "series": "GTX960",
+    "opendb_id": "gtx960_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 960",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM206",
+      "核心频率": "1202/2404MHz/1304/1367MHz",
+      "CUDA核心": "1024个",
+      "显存频率": "7012MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "4096×2160/2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "入门级",
+      "散热方式": "双热管散热/双风扇散热+四热管散热",
+      "3D API": "DirectX 12",
+      "供电模式": "4+1相/4+2相",
+      "支持HDCP": "是",
+      "最大功耗": "120W/140W",
+      "其它特点": "支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost技术，支持最多4屏输出"
+    }
+  }
+]

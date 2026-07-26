@@ -1,0 +1,20 @@
+[
+  {
+    "name": "MX440系列 (64GB)",
+    "manufacturer": "ASL翔升",
+    "series": "MX440系列",
+    "opendb_id": "mx440_64gb",
+    "metadata": {
+      "芯片厂商": "nVIDIA",
+      "显卡芯片": "GeForce4 MX440",
+      "核心频率": "275MHzMHz/270MHz",
+      "显存频率": "400MHzMHz/200MHzMHz",
+      "显存类型": "DDR",
+      "显存容量": "64GB",
+      "显存位宽": "64bitbit/128bitbit",
+      "接口类型": "AGP 8X/AGP 4X",
+      "散热方式": "散热风扇",
+      "其它特点": "第II代光速显存架构（nVIDIA Lightspeed Memory Architecutre II）, 有效增加显存带宽并 提供无可匹敌的性能 nVIDIA Accuview 抗锯齿技术（Accuview Antialiasing） 提供不依赖高性能CPU的情况下，实现高品质、全帧?/第II代光速显存架构（nVIDIA Lightspeed Memory Architecutre II）, 有效增加显存带宽并"
+    }
+  }
+]

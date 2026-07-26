@@ -1,0 +1,29 @@
+[
+  {
+    "name": "RTX 2060 (6GB)",
+    "manufacturer": "ASL翔升",
+    "series": "RTX 2060",
+    "opendb_id": "rtx_2060_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2060",
+      "显示芯片系列": "NVIDIA RTX 20系列",
+      "核心频率": "1365-1680MHz/1365MHz，Boost频率：1680MHz",
+      "流处理单元": "1920个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "6GB",
+      "显存位宽": "192bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口/1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "225×115×50mm/222×114×41mm/225×128×42mm",
+      "最大功耗": "160W/170W",
+      "建议电源": "500W以上"
+    }
+  }
+]
