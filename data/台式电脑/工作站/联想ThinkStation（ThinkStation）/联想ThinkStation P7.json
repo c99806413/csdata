@@ -1,0 +1,46 @@
+[
+  {
+    "name": "联想ThinkStation P7（W5-3423/16GB/1TB）",
+    "manufacturer": "联想ThinkStation",
+    "series": "联想ThinkStation P7",
+    "opendb_id": "thinkstation_p7",
+    "metadata": {
+      "产品型号": "ThinkStation P7",
+      "产品类型": "塔式工作站",
+      "CPU类型": "Intel Xeon W5 3400系列",
+      "CPU型号": "Intel 至强 W5 3423",
+      "最高睿频": "4.2GHz",
+      "最大CPU数量": "1颗",
+      "CPU核心": "十二核",
+      "CPU线程数": "二十四线程",
+      "内存类型": "DDR5",
+      "内存大小": "16GB",
+      "硬盘容量": "1TB",
+      "显卡芯片": "集成显卡",
+      "显存容量": "共享内存容量",
+      "电源描述": "1000W"
+    }
+  },
+  {
+    "name": "联想ThinkStation P7（W5-3423/32GB/512GB+1TB/GT610）",
+    "manufacturer": "联想ThinkStation",
+    "series": "联想ThinkStation P7",
+    "opendb_id": "thinkstation_p7_gt610",
+    "metadata": {
+      "产品型号": "ThinkStation P7",
+      "产品类型": "塔式工作站",
+      "CPU类型": "Intel Xeon W5 3400系列",
+      "CPU型号": "Intel 至强 W5 3423",
+      "最高睿频": "4.2GHz",
+      "最大CPU数量": "1颗",
+      "CPU核心": "十二核",
+      "CPU线程数": "二十四线程",
+      "内存类型": "DDR5",
+      "内存大小": "32GB",
+      "硬盘容量": "512GB+1TB",
+      "显卡芯片": "GT610",
+      "显存容量": "1GB",
+      "电源描述": "1000W"
+    }
+  }
+]

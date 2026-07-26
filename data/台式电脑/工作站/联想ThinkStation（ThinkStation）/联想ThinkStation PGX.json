@@ -1,0 +1,34 @@
+[
+  {
+    "name": "联想ThinkStation PGX",
+    "manufacturer": "联想ThinkStation",
+    "series": "联想ThinkStation PGX",
+    "opendb_id": "thinkstation_pgx",
+    "metadata": {
+      "产品类型": "台式工作站",
+      "CPU型号": "NVIDIA GB10 Grace Blackwell",
+      "标配CPU数量": "1颗",
+      "最大CPU数量": "1颗",
+      "CPU核心": "二十核",
+      "内存类型": "LPDDR5x",
+      "内存大小": "128GB",
+      "硬盘接口类型": "SSD",
+      "硬盘容量": "1TB/4TB",
+      "硬盘描述": "SSD固态硬盘（NVMe）",
+      "GPU": "NVIDIA Blackwell架构",
+      "网卡描述": "10000Mbps以太网卡",
+      "无线网卡": "Wi-Fi 7",
+      "蓝牙": "支持，蓝牙5.3模块",
+      "预装操作系统": "NVIDIA DGX操作系统",
+      "支持操作系统": "搭载NVIDIA基础操作系统的Ubuntu Linux Pro",
+      "机箱类型": "1.13L（迷你机身）",
+      "产品尺寸": "150×150×50.5mm",
+      "产品重量": "1.2kg",
+      "键盘": "无线键盘",
+      "鼠标": "无线鼠标",
+      "I/O接口": "4个USB4 Type-C (20Gb/s），1个HDMI2.1a（多声道音频），1个RJ-45 10千兆以太网，2个ConnectX-7（用于连接基他ThinkStationPGX节点）",
+      "电源描述": "240W",
+      "安全性能": "自加密NVMe（AESSED）TPM 2.0NVLink-C2C安全区域NVIDIA固件恢复AMI设置密码UEFI安全启动"
+    }
+  }
+]

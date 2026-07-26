@@ -1,0 +1,82 @@
+[
+  {
+    "name": "联想ThinkStation P3 14代酷睿 (I7 14700)",
+    "manufacturer": "联想ThinkStation",
+    "series": "联想ThinkStation P3 14代酷睿",
+    "opendb_id": "thinkstation_p3_14_i7_14700",
+    "metadata": {
+      "产品型号": "ThinkStation P3",
+      "产品类型": "塔式工作站",
+      "CPU类型": "Intel 酷睿 i7",
+      "CPU型号": "i7 14700",
+      "CPU主频": "2.5GHz",
+      "最高睿频": "5.4GHz",
+      "制程工艺": "Intel 7（10）nm",
+      "二级缓存": "28MB",
+      "三级缓存": "33MB",
+      "CPU核心": "二十核心",
+      "CPU线程数": "二十八线程",
+      "内存类型": "DDR5",
+      "内存大小": "64GB/32GB/8GB/128GB/16GB",
+      "硬盘接口类型": "SATA",
+      "硬盘容量": "1TB固态+4TB/1TB固态+2TB/1TB/2TB固态+8TB企业/512GB固态+2T",
+      "硬盘描述": "混合硬盘（SSD+HDD）/SSD固态硬盘",
+      "显卡芯片": "NVIDIA RTX 4070/NVIDIA RTX A4000/NVIDIA T1000/NVIDIA RTX 4060/NVIDIA RTX 3090/NVIDIA RTX 4090D/NVIDIA RTX T1000 4G/NVIDIA T400/NVIDIA RTX A2000/NVIDIA RTX 3060/NVIDIA RTX 4080 Super/NVIDIA RTX A5000/NVIDIA RTX 4080",
+      "产品尺寸": "180*415*370（宽*深*长）mm",
+      "电源描述": "500w"
+    }
+  },
+  {
+    "name": "联想ThinkStation P3 14代酷睿 (I7 14700K)",
+    "manufacturer": "联想ThinkStation",
+    "series": "联想ThinkStation P3 14代酷睿",
+    "opendb_id": "thinkstation_p3_14_i7_14700k",
+    "metadata": {
+      "产品型号": "ThinkStation P3",
+      "产品类型": "塔式工作站",
+      "CPU类型": "Intel 酷睿 i7",
+      "CPU型号": "i7 14700K",
+      "CPU主频": "2.5GHz",
+      "最高睿频": "5.6GHz",
+      "制程工艺": "Intel 7（10）nm",
+      "二级缓存": "28MB",
+      "三级缓存": "33MB",
+      "CPU核心": "二十核心",
+      "CPU线程数": "二十八线程",
+      "内存类型": "DDR5",
+      "内存大小": "8GB/32GB/16GB/64GB/128GB",
+      "硬盘接口类型": "SATA",
+      "硬盘容量": "1TB/1TB固态+2TB/512GB固态+2T/1TB固态+4TB/2TB固态+8TB企业",
+      "硬盘描述": "SSD固态硬盘/混合硬盘（SSD+HDD）",
+      "产品尺寸": "180*415*370（宽*深*长）mm",
+      "电源描述": "500w",
+      "显卡芯片": "NVIDIA RTX 4060/NVIDIA RTX T1000 4G/NVIDIA RTX A2000/NVIDIA RTX 3060/NVIDIA RTX A4000/NVIDIA RTX 4070/NVIDIA RTX 4080 Super/NVIDIA RTX A5000/NVIDIA RTX 4090/NVIDIA T400/NVIDIA RTX 3090/NVIDIA RTX 4090D/NVIDIA T1000/NVIDIA RTX 4080"
+    }
+  },
+  {
+    "name": "联想ThinkStation P3 14代酷睿 (I9 14900K)",
+    "manufacturer": "联想ThinkStation",
+    "series": "联想ThinkStation P3 14代酷睿",
+    "opendb_id": "thinkstation_p3_14_i9_14900k",
+    "metadata": {
+      "产品型号": "ThinkStation P3",
+      "产品类型": "塔式工作站",
+      "CPU类型": "Intel 酷睿 i9",
+      "CPU型号": "i9 14900K",
+      "最高睿频": "6GHz",
+      "制程工艺": "Intel 7（10）nm",
+      "二级缓存": "32MB",
+      "三级缓存": "36MB",
+      "CPU核心": "二十四核心",
+      "CPU线程数": "三十二线程",
+      "内存类型": "DDR5",
+      "内存大小": "128GB/8GB/32GB/64GB/16GB",
+      "硬盘接口类型": "SATA",
+      "硬盘容量": "1TB固态+4TB/2TB固态+8TB企业/1TB/1TB固态+2TB/512GB固态+2T",
+      "硬盘描述": "混合硬盘（SSD+HDD）/SSD固态硬盘",
+      "显卡芯片": "NVIDIA RTX 4090D/NVIDIA RTX 4090/NVIDIA RTX A2000/NVIDIA RTX 3090/NVIDIA RTX 3060/NVIDIA RTX A4000/NVIDIA RTX 4070/NVIDIA RTX A5000/NVIDIA RTX 4080/NVIDIA RTX T1000 4G/NVIDIA T400/NVIDIA RTX 4060/NVIDIA RTX T1000 8G",
+      "产品尺寸": "180*415*370（宽*深*长）mm",
+      "电源描述": "500w"
+    }
+  }
+]
