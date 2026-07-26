@@ -1,0 +1,61 @@
+[
+  {
+    "name": "GTX760系列 (2GB)",
+    "manufacturer": "华硕",
+    "series": "GTX760系列",
+    "opendb_id": "gtx760_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 760",
+      "显示芯片系列": "NVIDIA GT700系列/NVIDIA GTX 700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK104",
+      "核心频率": "1006/1072MHz/1033MHz/1072MHz/1176MHz",
+      "CUDA核心": "1152个",
+      "显存频率": "6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "256bitbit/256bit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口/HDMI接口/双DVI接口/DisplayPort接口/1×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇+热管散热",
+      "3D API": "DirectX 11.1",
+      "支持HDCP": "是",
+      "产品尺寸": "218.4×127.0×38.1mmmm",
+      "最大功耗": "225W/180W/170W/190W",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术/支持PhysX物理加速技术，3D Vision技术，GPU Boost技术，支持DirectCU II铜管直触风扇散热技术，GPU Tweak超频工具，超合金供电"
+    }
+  },
+  {
+    "name": "GTX760系列 (4GB)",
+    "manufacturer": "华硕",
+    "series": "GTX760系列",
+    "opendb_id": "gtx760_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "2×GeForce GTX 760/GeForce GTX 760",
+      "显示芯片系列": "NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK104",
+      "核心频率": "1072MHz/1085/1150MHz",
+      "CUDA核心": "2304个/1152个",
+      "显存频率": "6004MHz/6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "512bitbit/256bit/256bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "Mini DisplayPort接口/三DVI接口/1×HDMI接口，1×DVI接口，1×DisplayPort接口/HDMI接口/DVI接口/DisplayPort接口",
+      "电源接口": "8pin+8pin",
+      "显卡类型": "发烧级/入门级",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11.2/DirectX 11.1",
+      "支持HDCP": "是",
+      "最大功耗": "300W/180W/190W",
+      "其它特点": "支持DirectCU II铜管直触风扇散热技术，GPU Tweak超频工具，超合金供电/支持DirectCU II铜管直触风扇散热技术，GPU Tweak超频工具，ROG LED指示灯，超合金供电/支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost 2.0技术，支持DirectCU II铜管直触风扇散热技术，GPU Tweak超频工具，超合金供电"
+    }
+  }
+]

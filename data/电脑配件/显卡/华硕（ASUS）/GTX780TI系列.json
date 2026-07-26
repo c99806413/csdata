@@ -1,0 +1,33 @@
+[
+  {
+    "name": "GTX780TI系列 (3GB)",
+    "manufacturer": "华硕",
+    "series": "GTX780TI系列",
+    "opendb_id": "gtx780ti_3gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 780 Ti",
+      "显示芯片系列": "NVIDIA GT700系列/NVIDIA GTX 700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK110",
+      "核心频率": "954/1020MHz/928MHz/1006/1072MHzMHz",
+      "CUDA核心": "2880个",
+      "显存频率": "7000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "3GB",
+      "显存位宽": "384bit/384bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口/HDMI接口/双DVI接口/DisplayPort接口",
+      "电源接口": "8pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇+热管散热/涡轮风扇",
+      "3D API": "DirectX 11.2",
+      "支持HDCP": "是",
+      "产品尺寸": "11.3x5.8x1.6英寸mm",
+      "最大功耗": "300W/250W",
+      "建议电源": "600W以上",
+      "其它特点": "支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost 2.0技术，支持DirectCU II铜管直触风扇散热技术，CoolTech Fan技术，GPU Tweak超频工具，超合金供电/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术/支持PhysX物理加速技术，支持NVIDIA SLI技术，CoolTech Fan技术，DirectCU II热管直触风扇散热技术，超合金供电"
+    }
+  }
+]

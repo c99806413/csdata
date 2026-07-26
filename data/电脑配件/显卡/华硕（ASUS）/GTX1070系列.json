@@ -1,0 +1,32 @@
+[
+  {
+    "name": "GTX1070系列 (8GB)",
+    "manufacturer": "华硕",
+    "series": "GTX1070系列",
+    "opendb_id": "gtx1070_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1070",
+      "显示芯片系列": "NVIDIA GTX 10系列",
+      "制作工艺": "16纳米",
+      "核心代号": "GP104-200/GM104-200-A1",
+      "核心频率": "1569/1756MHz/1506/1683MHz/1632/1860MHz/1506/1721MHz/1657/1860MHz/1503/1683MHz/1531/1721（OC）Mhz1506/1683（Gaming）MHz/1670/1873MHz",
+      "CUDA核心": "1920个",
+      "显存频率": "8008MHz/8000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "8GB",
+      "显存位宽": "192bit/256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "2×HDMI接口，1×DVI接口，2×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热+热管散热/涡轮风扇/三风扇散热+热管散热/双风扇散热/三风扇散热+五根热管散热/三风扇散热",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "240×131×38mm/266.7×111.2×38.1mm/298×134×40mm/242×130×43mm/297×135×41mm",
+      "其它特点": "支持DirectCU II热管直触风扇散热技术，华硕GPU Tweak II智能超频软件（带XSplit Gamecaster功能），支持NVIDIA SLI技术，GameWorks技术，VRWorks技术，GPU Boost 2.0技术，Adaptive Vertical Sync游戏创新技术，G-SYNC技术，3D Vision技术/VR Ready级别显卡，G-SYNC技术，SLI技术，华硕GPU Tweak II智能超频软件（带XSplit Gamecaster功能）/支持DirectCU II热管直触风扇散热技术，全自动化制程技术，SAP II超合金供电，华硕GPU Tweak II智能超频软件（带XSplit Gamecaster功能），RGB信仰灯效，VR Ready级别显卡/DirectCU II热管直触风扇散热技术，CoolTech Fan技术，超合金供电，自动化焊接技术，GPU Tweak II智能超频软件（带XSplit Gamecaster功能），RGB信仰灯效，SAP II第二代超合金供电/支持NVIDIA SLI技术，PhysX物理加速技术，GPU Boost 2.0技术，GPU Tweak超频工具，超合金供电，支持nVIDIA SLI/DirectCU II热管直触风扇散热技术，SAP II超合金供电，自动化焊接技术，GPU Tweak II智能超频软件（带XSplit Gamecaster功能），RGB信仰灯效",
+      "上市日期": "2016年06月/2016年09月/2016年07月"
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "RX460系列 (4GB)",
+    "manufacturer": "华硕",
+    "series": "RX460系列",
+    "opendb_id": "rx460_4gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 460",
+      "显示芯片系列": "AMD RX 400系列",
+      "制作工艺": "14纳米",
+      "核心代号": "Baffin Pro",
+      "核心频率": "1236/1256MHz/1200/1220MHz",
+      "流处理单元": "896个",
+      "显存频率": "7000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "5120×2880",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热+热管散热",
+      "3D API": "DirectX 12，OpenGL 4.4",
+      "支持HDCP": "是",
+      "产品尺寸": "194×120×35mm",
+      "其它特点": "DirectCU II热管直触散热技术，ASUS FANCONNECT技术，AURARGB环绕灯效，GPU Tweak II智能超频软件，XSplit Gamecaster功能，AUTO-EXTREME全自动制程技术，SAP II超合金供电设计，",
+      "上市日期": "2016年08月",
+      "可选配件": "2×ROG 扎线带2×橙色贴纸"
+    }
+  },
+  {
+    "name": "RX460系列 (2GB)",
+    "manufacturer": "华硕",
+    "series": "RX460系列",
+    "opendb_id": "rx460_2gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 460",
+      "显示芯片系列": "AMD RX 400系列",
+      "制作工艺": "14纳米",
+      "核心代号": "Baffin Pro",
+      "核心频率": "1224/1244MHz",
+      "流处理单元": "896个",
+      "显存频率": "7000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "5120×2880",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热+热管散热",
+      "3D API": "DirectX 12，OpenGL 4.4",
+      "支持HDCP": "是",
+      "产品尺寸": "204×115×42mm",
+      "其它特点": "DirectCU II热管直触散热技术，ASUS FANCONNECT技术，AURARGB环绕灯效，GPU Tweak II智能超频软件，XSplit Gamecaster功能，AUTO-EXTREME全自动制程技术，SAP II超合金供电设计，",
+      "上市日期": "2016年08月"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "name": "RX580 (8GB)",
+    "manufacturer": "华硕",
+    "series": "RX580",
+    "opendb_id": "rx580_8gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 580/Radeon RXR 580",
+      "显示芯片系列": "AMD RX 500系列",
+      "制作工艺": "14纳米",
+      "核心代号": "Polaris 20 XTX/Polaris 20 XTR",
+      "核心频率": "超频模式：1294MHz游戏模式：1284MHz/1340/1360MHz/1168-1294MHz/1360/1380MHz/1411/1431MHz",
+      "流处理单元": "2048个/2304个",
+      "显存频率": "7000MHz/8000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "5120×2880/7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口/2×HDMI接口，1×DVI接口，2×DisplayPort接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热/三风扇散热+热管散热/双风扇散热+热管散热",
+      "3D API": "DirectX 12",
+      "支持HDCP": "是",
+      "产品尺寸": "240×130×38.9mm/298×134×52.5mm/242×128.9×38mm",
+      "其它特点": "VR Ready级别显卡/GPU Tweak II智能超频软件，MaxContact 镜面直触技术，第2代FanConnect智能系统风扇，RGB灯效/VR Ready级别显卡，搭载华硕AuraSync神光同步灯效技术",
+      "可选配件": "ROG Velcro挂钩 x2挂环 x1"
+    }
+  },
+  {
+    "name": "RX580 (4GB)",
+    "manufacturer": "华硕",
+    "series": "RX580",
+    "opendb_id": "rx580_4gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 580",
+      "显示芯片系列": "AMD RX 500系列",
+      "制作工艺": "14纳米",
+      "核心代号": "Polaris 20 XTX",
+      "核心频率": "1168-1294MHz/1340/1360MHz/超频模式：1168MHz游戏模式：1284MHz/1360/1380MHz",
+      "流处理单元": "2048个/2304个",
+      "显存频率": "7000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "5120×2880/7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口/2×HDMI接口，1×DVI接口，2×DisplayPort接口/1×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热+热管散热/双风扇散热",
+      "3D API": "DirectX 12",
+      "支持HDCP": "是",
+      "其它特点": "VR Ready级别显卡，搭载华硕AuraSync神光同步灯效技术/GPU Tweak II智能超频软件，全板自动化制程技术及SAP II 超合金供电设计/VR Ready级别显卡",
+      "产品尺寸": "242×128.9×38mm/240×130×38.9mm"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Radeon RX 5700 XT系列 (8GB)",
+    "manufacturer": "华硕",
+    "series": "Radeon RX 5700 XT系列",
+    "opendb_id": "radeon_rx_5700_xt_8gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 5700 XT",
+      "显示芯片系列": "AMD RX 5000系列",
+      "制作工艺": "7纳米",
+      "核心频率": "1795-1980MHz/1650-1870MHz/1770-1965MHz/基础频率：高达1605MHz，加速频率：高达1905MHz，Game Frequency：1755MHz",
+      "流处理单元": "2560个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "6pin+8pin/8pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热/涡轮风扇",
+      "3D API": "OpenGL 4.6/DirectX 12.1，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "282.6×128.5×53.8mm/269×125×54mm/305×130×54mm/284.8×126.47×42mm",
+      "建议电源": "600W",
+      "其它特点": "ASUS GPU Tweak II/支持的渲染格式：4K H264解码，4K H264编码，H265/HEVC解码，H265/HEVC编码Radeon VR Ready Premium，Vulkan APIOptional Technologies：Radeon Media Engine，RDNA 架构VSR (4K)，Radeon 游戏智能显示 (FreeSync) 技术，TrueAudio Next"
+    }
+  }
+]

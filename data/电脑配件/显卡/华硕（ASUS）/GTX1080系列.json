@@ -1,0 +1,35 @@
+[
+  {
+    "name": "GTX1080系列 (8GB)",
+    "manufacturer": "华硕",
+    "series": "GTX1080系列",
+    "opendb_id": "gtx1080_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1080",
+      "显示芯片系列": "NVIDIA GTX 10系列",
+      "制作工艺": "16纳米",
+      "核心代号": "GP104-400",
+      "核心频率": "1759/1936MHz/1607/1733MHz/1670/1835MHz/1695/1860MHz/1657/1822MHz/1645/1771（OC）Mhz1607/1733（Gaming）MHz",
+      "CUDA核心": "2560个",
+      "显存频率": "10000MHz/10010MHz/11010/11100MHz",
+      "显存类型": "GDDR5X",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320/5120×3200",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "2×HDMI接口，1×DVI接口，2×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "6pin+8pin/8pin",
+      "显卡类型": "主流级",
+      "散热方式": "三风扇散热+热管散热/涡轮风扇/三风扇散热",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "供电模式": "8+2相",
+      "支持HDCP": "是",
+      "产品尺寸": "298×134×40mm/266.7×111.2×38.1mm/298×134×52.5mm",
+      "最大功耗": "300W/225W",
+      "其它特点": "DirectCU III热管直触风扇技术，全自动化制程技术，SAP II超合金供电，GPU Tweak II智能超频软件（带XSplit Gamecaster功能），VR Ready级别显卡，G-SYNC技术，RGB灯效，支持NVIDIA ANSEL技术/支持NVIDIA SLI技术，VRWorks技术，GameWorks技术，G-SYNC技术；GPU Tweak II智能超频软件（带XSplit Gamecaster功能）/DirectCU III热管直触风扇技术，全自动化制程技术，SAP II超合金供电，GPU Tweak II智能超频软件（带XSplit Gamecaster功能），VR Ready级别显卡，G-SYNC技术，RGB灯效，一键调校超频/DirectCU III热管直触风扇技术，全自动化制程技术，SAP II超合金供电，GPU Tweak II智能超频软件（带XSplit Gamecaster功能），VR Ready级别显卡，G-SYNC技术，RGB 灯效/VR Ready级别显卡/GPU Tweak II智能超频软件，MaxContact 镜面直触技术及2.5-插槽宽度，专利扇叶风扇设计及IP5X防尘设计，第二代华硕FanConnect技术，全板自动化制程技术及SAP II 超合金供电设计，RGB LED灯效",
+      "上市日期": "2016年05月/2016年9月/2016年07月/2017年03月",
+      "性能评分": "139789"
+    }
+  }
+]

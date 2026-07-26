@@ -1,0 +1,30 @@
+[
+  {
+    "name": "R9 390X系列 (8GB)",
+    "manufacturer": "华硕",
+    "series": "R9 390X系列",
+    "opendb_id": "r9_390x_8gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon R9 390X",
+      "显示芯片系列": "AMD R9 300系列",
+      "制作工艺": "28纳米",
+      "核心代号": "Grenada XT",
+      "核心频率": "1050MHz/1070MHz",
+      "流处理单元": "2816个",
+      "显存频率": "6000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "8GB",
+      "显存位宽": "512bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin/6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热+热管散热/三风扇散热+热管散热",
+      "3D API": "DirectX 12/DirectX 12，OpenGL 4.4",
+      "支持HDCP": "是",
+      "其它特点": "支持CrossFire技术，AMD Eyefinity技术，AMD HD3D技术，支持DirectCU II热管直触风扇散热技术，GPU Tweak II智能显卡软件，超合金供电/支持CrossFire技术，DirectCU III热管直触风扇散热技术，全自动制程技术，GPU Tweak II智能显卡软件，Gaming Booster，超合金供电"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "GTX970系列 (4GB)",
+    "manufacturer": "华硕",
+    "series": "GTX970系列",
+    "opendb_id": "gtx970_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 970",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM204",
+      "核心频率": "1114/1253MHz/1051/1178MHz/1127/1266MHz/1088/1228MHz/1253/1355MHz",
+      "CUDA核心": "1664个",
+      "显存频率": "7010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin/6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热/双风扇散热+热管散热/散热风扇/涡轮风扇",
+      "支持HDCP": "是",
+      "产品尺寸": "140×280×40mm/280×140×40mm/170×122×41mm/287×147×41mm/262×120×37mm",
+      "最大功耗": "225W",
+      "其它特点": "支持DirectCU II铜管直触风扇散热技术，GPU Tweak超频工具，超合金供电/支持DirectCU II热管直触风扇散热技术，超合金供电/支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost 2.0技术，支持DirectCU II铜管直触风扇散热技术，GPU Tweak超频工具，超合金供电/支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Tweak超频工具，超合金供电/支持NVIDIA SLI技术，PhysX物理加速技术，GPU Boost 2.0技术，GPU Tweak超频工具，超合金供电"
+    }
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "name": "GTX960系列 (2GB)",
+    "manufacturer": "华硕",
+    "series": "GTX960系列",
+    "opendb_id": "gtx960_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 960",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM206",
+      "核心频率": "1317/1253MHz/1203/1266MHz/1126/1178MHz/1190/1253MHz/1228/1291MHz",
+      "CUDA核心": "1024个",
+      "显存频率": "7200MHz/7010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口/1×HDMI接口，1×DVI接口，2×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热+热管散热/双风扇散热+双热管散热/散热风扇/涡轮风扇/三风扇散热+热管散热",
+      "支持HDCP": "是",
+      "产品尺寸": "215×121×49mm/170×122×40.6mm/262×120×37mm",
+      "建议电源": "500W以上",
+      "其它特点": "支持DirectCU II热管直触风扇散热技术，GPU Tweak超频工具，超合金供电/支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost 2.0技术，支持DirectCU II铜管直触风扇散热技术，GPU Tweak超频工具，超合金供电/支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Tweak超频工具，超合金供电/支持NVIDIA SLI技术，PhysX物理加速技术，超合金供电/支持DirectCU III热管直触风扇散热技术，NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，超合金供电"
+    }
+  },
+  {
+    "name": "GTX960系列 (4GB)",
+    "manufacturer": "华硕",
+    "series": "GTX960系列",
+    "opendb_id": "gtx960_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 960",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM206",
+      "核心频率": "1253/1317MHz/1203/1266MHz/1228/1291MHz/1190/1253MHz",
+      "CUDA核心": "1024个",
+      "显存频率": "7010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3*1×DisplayPort接口/1×HDMI接口，1×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热+热管散热/双风扇散热+双热管散热/三风扇散热+热管散热/涡轮风扇",
+      "支持HDCP": "是",
+      "产品尺寸": "215.2×121.2×40.9mm/283×118×40mm/264×121×37mm",
+      "建议电源": "500W以上",
+      "其它特点": "支持DirectCU II铜管直触风扇散热技术，GPU Tweak超频工具，超合金供电/支持DirectCU II热管直触风扇散热技术，NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，超合金供电/支持DirectCU III热管直触风扇散热技术，全自动制程技术，GPU Tweak II智能显卡软件，Gaming Booster，超合金供电/支持NVIDIA SLI技术，PhysX物理加速技术，超合金供电"
+    }
+  }
+]
