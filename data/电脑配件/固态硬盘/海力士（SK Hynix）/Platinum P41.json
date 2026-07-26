@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Platinum P41",
+    "manufacturer": "海力士",
+    "series": "Platinum P41",
+    "opendb_id": "platinum_p41",
+    "metadata": {
+      "产品型号": "SHPP41-1000GM-2/SHPP41-500GM-2/SHPP41-2000GM-2",
+      "产品定位": "消费类",
+      "存储容量": "1TB/500GB/2TB",
+      "接口类型": "m.2接口(nvme协议)",
+      "闪存架构": "tlc",
+      "通道": "Gen4×4",
+      "读取速度": "7000MB/s",
+      "写入速度": "6500MB/s/4700MB/s",
+      "4K随机读": "140K IOPS/960K IOPS",
+      "4K随机写": "1300K IOPS/1000K IOPS",
+      "电源功耗": "工作电压：3.3V±5% 工作：7.5W",
+      "外形尺寸": "80×22×2.23mm",
+      "产品重量": "7g"
+    }
+  }
+]
