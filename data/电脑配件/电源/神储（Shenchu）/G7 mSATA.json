@@ -1,0 +1,16 @@
+[
+  {
+    "name": "G7 mSATA",
+    "manufacturer": "神储",
+    "series": "G7 mSATA",
+    "opendb_id": "g7_msata",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "120GB/480GB/240GB",
+      "接口类型": "mSATA接口",
+      "闪存架构": "TLC三层单元",
+      "平均无故障时间": "150万小时",
+      "工作温度": "0-70℃"
+    }
+  }
+]

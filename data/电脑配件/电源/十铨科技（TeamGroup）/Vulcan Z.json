@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Vulcan Z",
+    "manufacturer": "十铨科技",
+    "series": "Vulcan Z",
+    "opendb_id": "vulcan_z",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "1TB/2TB/240GB/480GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "TLC三层单元",
+      "读取速度": "550MB/s/520MB/s/540MB/s",
+      "写入速度": "500MB/s/450MB/s/470MB/s",
+      "平均无故障时间": "100万小时",
+      "系统要求": "Windows 10 / 8 / 7 / Vista, MAC OS 10.4 or later, Linux 2.6.33 or later",
+      "防震能力": "1500G",
+      "外形尺寸": "100×69.9×7mm",
+      "产品重量": "45g",
+      "工作温度": "0-70℃",
+      "其它特点": "200TBW"
+    }
+  }
+]

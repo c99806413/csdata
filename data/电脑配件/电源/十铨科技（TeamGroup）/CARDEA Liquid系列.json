@@ -1,0 +1,30 @@
+[
+  {
+    "name": "CARDEA Liquid系列",
+    "manufacturer": "十铨科技",
+    "series": "CARDEA Liquid系列",
+    "opendb_id": "cardea_liquid",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "512GB/1TB/256GB",
+      "接口类型": "M.2 PCIe接口",
+      "通道": "Gen3×4",
+      "读取速度": "3400MB/s/3000MB/s",
+      "写入速度": "2000MB/s/3000MB/s/1000MB/s",
+      "IOPS读取": "350K IOPS/450K IOPS/200K IOPS",
+      "IOPS写入": "300K IOPS/400K IOPS/200K IOPS",
+      "电源功耗": "DC 3.3V",
+      "平均无故障时间": "200万小时",
+      "系统要求": "Windows 10/8.1/8/7/VistaLinux 2.6.33或以上",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "防震能力": "1500G",
+      "外形尺寸": "83.9×24.3×14.1mm",
+      "产品重量": "42g",
+      "工作温度": "0-70℃",
+      "存储温度": "-40-85℃",
+      "其它性能": "TBW：800TB/TBW：1665TB/TBW：380TB",
+      "其它特点": "符合最新NVMe1.3协议外观结构设计，结合工艺与时尚"
+    }
+  }
+]
