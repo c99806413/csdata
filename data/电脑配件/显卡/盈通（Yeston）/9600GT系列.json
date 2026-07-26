@@ -1,0 +1,90 @@
+[
+  {
+    "name": "9600GT系列 (TC512GB)",
+    "manufacturer": "盈通",
+    "series": "9600GT系列",
+    "opendb_id": "9600gt_tc512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9600GT",
+      "核心代号": "G94",
+      "核心频率": "550MHz",
+      "CUDA核心": "64个",
+      "显存频率": "1800MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "TC512GB",
+      "显存位宽": "128bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10"
+    }
+  },
+  {
+    "name": "9600GT系列 (512GB)",
+    "manufacturer": "盈通",
+    "series": "9600GT系列",
+    "opendb_id": "9600gt_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA/nVIDIA",
+      "显卡芯片": "GeForce 9600GT",
+      "核心代号": "G94",
+      "核心频率": "650MHz/700MHz/550MHz/600MHz",
+      "CUDA核心": "64个",
+      "显存频率": "1300MHz/2200MHz/1400MHz/1800MHz",
+      "显存类型": "GDDR3/DDRIII/DDR3",
+      "显存容量": "512GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)/HDMI/HDMI/S-video接口(TV-Out)",
+      "散热方式": "散热风扇/散热片（静音）/散热风扇+热管散热",
+      "3D API": "DirectX 10OpenGL 2.1/DirectX 10"
+    }
+  },
+  {
+    "name": "9600GT系列 (256GB)",
+    "manufacturer": "盈通",
+    "series": "9600GT系列",
+    "opendb_id": "9600gt_256gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9600GT",
+      "核心代号": "G94",
+      "核心频率": "600MHz",
+      "CUDA核心": "64个",
+      "显存频率": "1800MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "256GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10OpenGL 2.1"
+    }
+  },
+  {
+    "name": "9600GT系列 (1GB)",
+    "manufacturer": "盈通",
+    "series": "9600GT系列",
+    "opendb_id": "9600gt_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9600GT",
+      "核心代号": "G94",
+      "核心频率": "600MHz/650MHz",
+      "CUDA核心": "64个",
+      "显存频率": "800MHz/1800MHz",
+      "显存类型": "GDDR2/GDDR3",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10",
+      "I/O接口": "HDMI"
+    }
+  }
+]

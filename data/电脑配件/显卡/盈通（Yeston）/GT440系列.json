@@ -1,0 +1,47 @@
+[
+  {
+    "name": "GT440系列 (1GB)",
+    "manufacturer": "盈通",
+    "series": "GT440系列",
+    "opendb_id": "gt440_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GT440",
+      "显示芯片系列": "NVIDIA GT400系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF108",
+      "核心频率": "850MHz/810MHz",
+      "显存频率": "3400MHz/3200MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bitbit",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11",
+      "其它特点": "支持PhysX物理加速技术，支持节能技术"
+    }
+  },
+  {
+    "name": "GT440系列 (512GB)",
+    "manufacturer": "盈通",
+    "series": "GT440系列",
+    "opendb_id": "gt440_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GT440",
+      "制作工艺": "40纳米",
+      "核心代号": "GF108",
+      "核心频率": "850MHz/810MHz",
+      "显存频率": "3400MHz/3200MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "512GB",
+      "显存位宽": "128bitbit",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11",
+      "其它特点": "支持PhysX物理加速技术，支持节能技术"
+    }
+  }
+]

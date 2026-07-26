@@ -1,0 +1,68 @@
+[
+  {
+    "name": "7300LE系列 (128GB)",
+    "manufacturer": "盈通",
+    "series": "7300LE系列",
+    "opendb_id": "7300le_128gb",
+    "metadata": {
+      "芯片厂商": "nVIDIA/NVIDIA",
+      "显卡芯片": "GeForce 7300LE",
+      "制作工艺": "0.09 微米",
+      "核心代号": "G72",
+      "核心频率": "500MHz/450MHz",
+      "显存频率": "1100MHz/700MHz",
+      "显存类型": "DDRIII/DDRII",
+      "显存容量": "128GB",
+      "显存位宽": "64bitbit/32bitbit",
+      "最大分辨率": "2048*1536",
+      "接口类型": "PCI-E 16X",
+      "I/O接口": "S-video接口(TV-Out)/S-video接口（TV-Out）",
+      "散热方式": "散热风扇/散热片",
+      "3D API": "Microsoft DirectX 9.0C/DirectX 9.0C/OpenGL 2.0"
+    }
+  },
+  {
+    "name": "7300LE系列 (64GB)",
+    "manufacturer": "盈通",
+    "series": "7300LE系列",
+    "opendb_id": "7300le_64gb",
+    "metadata": {
+      "芯片厂商": "nVIDIA",
+      "显卡芯片": "GeForce 7300LE",
+      "制作工艺": "0.09 微米",
+      "核心代号": "G72",
+      "核心频率": "450MHz",
+      "显存频率": "700MHz",
+      "显存类型": "DDR",
+      "显存容量": "64GB",
+      "显存位宽": "64bitbit",
+      "最大分辨率": "2048*1536",
+      "接口类型": "PCI-E 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "散热方式": "散热片",
+      "3D API": "Microsoft DirectX 9.0C"
+    }
+  },
+  {
+    "name": "7300LE系列 (256GB)",
+    "manufacturer": "盈通",
+    "series": "7300LE系列",
+    "opendb_id": "7300le_256gb",
+    "metadata": {
+      "芯片厂商": "nVIDIA",
+      "显卡芯片": "GeForce 7300LE",
+      "制作工艺": "0.09 微米",
+      "核心代号": "G72",
+      "核心频率": "450MHz",
+      "显存频率": "533MHz",
+      "显存类型": "DDRII",
+      "显存容量": "256GB",
+      "显存位宽": "64bitbit",
+      "最大分辨率": "2048*1536",
+      "接口类型": "PCI-E 16X",
+      "I/O接口": "S-video接口(TV-Out)/S-video接口（TV-Out）",
+      "散热方式": "散热风扇",
+      "3D API": "Microsoft DirectX 9.0C"
+    }
+  }
+]

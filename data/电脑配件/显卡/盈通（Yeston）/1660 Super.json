@@ -1,0 +1,33 @@
+[
+  {
+    "name": "1660 Super (6GB)",
+    "manufacturer": "盈通",
+    "series": "1660 Super",
+    "opendb_id": "1660_super_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1660 SUPER",
+      "显示芯片系列": "NVIDIA GTX 16 SUPER系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU116",
+      "核心频率": "1530/1785MHz",
+      "CUDA核心": "1408个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "6GB",
+      "显存位宽": "192bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热+热管散热/三风扇散热+热管散热",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是，HDCP 2.2",
+      "产品尺寸": "248×114×44mm/310×130×46mm",
+      "其它特点": "支持最多3屏输出，支持NVIDIA GeForce Experience，支持NVIDIA Ansel，支持NVIDIA Highlights，支持NVIDIA G-SYNC，Game Ready 驱动程序，支持NVIDIA GPU Boost，支持VR，NVIDIA Encoder (NVENC)，Ansel，GPU Boost",
+      "上市日期": "2020年",
+      "其他参数": "显卡类型：双槽显存带宽：336GB/s"
+    }
+  }
+]

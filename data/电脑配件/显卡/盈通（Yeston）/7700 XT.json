@@ -1,0 +1,33 @@
+[
+  {
+    "name": "7700 XT (12GB)",
+    "manufacturer": "盈通",
+    "series": "7700 XT",
+    "opendb_id": "7700_xt_12gb",
+    "metadata": {
+      "产品型号": "RX7700XT-12GD6 大地之神 PLUS/RX 7700 XT 12G D6 樱瞳花嫁",
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon RX 7700 XT",
+      "显示芯片系列": "AMD RX 7000系列",
+      "制作工艺": "5nm",
+      "核心代号": "Navi32",
+      "核心频率": "2171-2544MHz",
+      "流处理单元": "3456个",
+      "显存频率": "18000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "12GB",
+      "显存位宽": "192bit",
+      "接口类型": "PCI Express 4.0",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热+热管散热",
+      "散热设计": "智能启停，无灯光，可调速，可显示转速值",
+      "3D API": "DirectX 12.2",
+      "产品尺寸": "不含挡片：302×123×52mm；含挡片：305×123×52mm/430×225×110mm",
+      "建议电源": "700W以上",
+      "其它特点": "AMD Anti-Lag, FreeSync,FSR,RSR Privacy View, 图像锐化, Chill, AMD Link,SAM, Radeon Boost,Mantle,Vulkan 1.3,OpenGL 4.6,OpenCL 2.2,SM 6.7",
+      "其他参数": "OS 特性：Windows11-64、 Windows10-64、Ubuntu x86 64-Bit 、Linux x86 64-Bit"
+    }
+  }
+]
