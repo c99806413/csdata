@@ -1,0 +1,82 @@
+[
+  {
+    "name": "bellgo A500 青鸟3风扇",
+    "manufacturer": "bellgo",
+    "series": "A500",
+    "opendb_id": "bellgo_a500___3__",
+    "metadata": {
+      "产品型号": "A500",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "2kg"
+    }
+  },
+  {
+    "name": "bellgo A500 冰剑A06",
+    "manufacturer": "bellgo",
+    "series": "A500",
+    "opendb_id": "bellgo_a500___a06",
+    "metadata": {
+      "产品型号": "A500",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "2kg"
+    }
+  },
+  {
+    "name": "bellgo A500 寒冰A300",
+    "manufacturer": "bellgo",
+    "series": "A500",
+    "opendb_id": "bellgo_a500___a300",
+    "metadata": {
+      "产品型号": "A500",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "2kg"
+    }
+  },
+  {
+    "name": "bellgo A500 冰剑A04",
+    "manufacturer": "bellgo",
+    "series": "A500",
+    "opendb_id": "bellgo_a500___a04",
+    "metadata": {
+      "产品型号": "A500",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "2kg"
+    }
+  },
+  {
+    "name": "bellgo A500 寒冰A700",
+    "manufacturer": "bellgo",
+    "series": "A500",
+    "opendb_id": "bellgo_a500___a700",
+    "metadata": {
+      "产品型号": "A500",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "bellgo A500 寒冰A400",
+    "manufacturer": "bellgo",
+    "series": "A500",
+    "opendb_id": "bellgo_a500___a400",
+    "metadata": {
+      "产品型号": "A500",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "bellgo A500 寒冰A500",
+    "manufacturer": "bellgo",
+    "series": "A500",
+    "opendb_id": "bellgo_a500___a500",
+    "metadata": {
+      "产品型号": "A500",
+      "散热器类型": "风冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "2kg"
+    }
+  }
+]

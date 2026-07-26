@@ -1,0 +1,30 @@
+[
+  {
+    "name": "intel（英特尔）EA6223 FROSTFLOW X240",
+    "manufacturer": "英特尔",
+    "series": "EA6223",
+    "opendb_id": "intel_____ea6223_frostflow_x240",
+    "metadata": {
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "水冷",
+      "产品重量": "1kg",
+      "风扇尺寸": "双120×120×25mm",
+      "最高转数": "700RPM",
+      "散热片尺寸": "274×120×27mm"
+    }
+  },
+  {
+    "name": "intel（英特尔）EA6223 Thermalbro  蓝冰4",
+    "manufacturer": "英特尔",
+    "series": "EA6223",
+    "opendb_id": "intel_____ea6223_thermalbro____4",
+    "metadata": {
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "水冷",
+      "产品重量": "1kg",
+      "风扇尺寸": "120x120x25 mm",
+      "最高转数": "800RPM",
+      "散热片尺寸": "128x94x155 mm"
+    }
+  }
+]

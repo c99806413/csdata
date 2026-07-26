@@ -1,0 +1,124 @@
+[
+  {
+    "name": "lzqly LX400 LX-400 标准款--无光 3线",
+    "manufacturer": "lzqly",
+    "series": "LX400",
+    "opendb_id": "lzqly_lx400_lx_400_________3_",
+    "metadata": {
+      "产品型号": "LX-400",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "1kg"
+    }
+  },
+  {
+    "name": "lzqly LX400 LX-400 单散热片(无风扇",
+    "manufacturer": "lzqly",
+    "series": "LX400",
+    "opendb_id": "lzqly_lx400_lx_400_________",
+    "metadata": {
+      "产品型号": "LX-400",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "1kg"
+    }
+  },
+  {
+    "name": "lzqly LX400 LX-400 标准款-方形-无光 3线",
+    "manufacturer": "lzqly",
+    "series": "LX400",
+    "opendb_id": "lzqly_lx400_lx_400___________3_",
+    "metadata": {
+      "产品型号": "LX-400",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "1kg"
+    }
+  },
+  {
+    "name": "lzqly LX400 LX-400 温控调速-方形-无光 4线",
+    "manufacturer": "lzqly",
+    "series": "LX400",
+    "opendb_id": "lzqly_lx400_lx_400____________4_",
+    "metadata": {
+      "产品型号": "LX-400",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "1kg"
+    }
+  },
+  {
+    "name": "lzqly LX400 LX-400 标准款-方形-彩光 3线",
+    "manufacturer": "lzqly",
+    "series": "LX400",
+    "opendb_id": "lzqly_lx400_lx_400___________3_",
+    "metadata": {
+      "产品型号": "LX-400",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "lzqly LX400 LX-400 温控调速--无光 4线",
+    "manufacturer": "lzqly",
+    "series": "LX400",
+    "opendb_id": "lzqly_lx400_lx_400__________4_",
+    "metadata": {
+      "产品型号": "LX-400",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "lzqly LX400 LX-400 标准款--彩光 3线",
+    "manufacturer": "lzqly",
+    "series": "LX400",
+    "opendb_id": "lzqly_lx400_lx_400_________3_",
+    "metadata": {
+      "产品型号": "LX-400",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "1kg"
+    }
+  },
+  {
+    "name": "lzqly LX400 XR-V12 -标准款+彩光 3线",
+    "manufacturer": "lzqly",
+    "series": "LX400",
+    "opendb_id": "lzqly_lx400_xr_v12_________3_",
+    "metadata": {
+      "产品型号": "LX-400",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "lzqly LX400 LX-400 温控调速-方形-彩光 4线",
+    "manufacturer": "lzqly",
+    "series": "LX400",
+    "opendb_id": "lzqly_lx400_lx_400____________4_",
+    "metadata": {
+      "产品型号": "LX-400",
+      "散热方式": "风冷"
+    }
+  },
+  {
+    "name": "lzqly LX400 LX-400 温控调速--彩光 4线",
+    "manufacturer": "lzqly",
+    "series": "LX400",
+    "opendb_id": "lzqly_lx400_lx_400__________4_",
+    "metadata": {
+      "产品型号": "LX-400",
+      "散热器类型": "一体式水冷散热器",
+      "散热方式": "风冷",
+      "产品重量": "1kg"
+    }
+  },
+  {
+    "name": "lzqly LX400 XR-V12  温控调速+彩光 4线",
+    "manufacturer": "lzqly",
+    "series": "LX400",
+    "opendb_id": "lzqly_lx400_xr_v12__________4_",
+    "metadata": {
+      "产品型号": "LX-400",
+      "散热方式": "风冷"
+    }
+  }
+]
