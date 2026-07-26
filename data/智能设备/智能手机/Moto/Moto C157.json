@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moto C157",
+    "manufacturer": "Moto",
+    "series": "Moto C157",
+    "opendb_id": "moto_c157",
+    "metadata": {
+      "机身颜色": "天宝蓝、岩石灰",
+      "重量": "85g",
+      "网络类型": "3G",
+      "3G网络": "GSM",
+      "网络频段": "GSM900/1800",
+      "分辨率": "96×64px",
+      "屏幕材质": "TFT"
+    }
+  }
+]
