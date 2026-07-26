@@ -1,0 +1,20 @@
+[
+  {
+    "name": "联想YOGA Pad Pro 14.5",
+    "manufacturer": "联想",
+    "series": "联想YOGA Pad Pro 14.5",
+    "opendb_id": "yoga_pad_pro_14_5",
+    "metadata": {
+      "产品型号": "YOGA Pad Pro 14.5",
+      "上市时间": "2025-05",
+      "操作系统": "Android",
+      "屏幕尺寸": "14.5英寸",
+      "屏幕类型": "OLED",
+      "色域": "107%NTSC",
+      "亮度": "1600",
+      "屏幕分辨率": "3000*1876",
+      "屏幕描述": "动态对比度：2000000:1色准：DeltaE<1HDR：支持，HDR10",
+      "电池容量": "12300mAh"
+    }
+  }
+]
