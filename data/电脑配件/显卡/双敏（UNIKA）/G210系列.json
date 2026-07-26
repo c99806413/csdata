@@ -1,0 +1,97 @@
+[
+  {
+    "name": "G210系列 (256GB)",
+    "manufacturer": "双敏",
+    "series": "G210系列",
+    "opendb_id": "g210_256gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce G210",
+      "制作工艺": "40纳米",
+      "核心代号": "GT218",
+      "核心频率": "589MHz",
+      "CUDA核心": "16个",
+      "显存频率": "800MHz/667MHz/600MHz/700MHz",
+      "显存类型": "GDDR2",
+      "显存容量": "256GB",
+      "显存位宽": "64bitbit/32bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI/HDMI接口/DVI接口/VGA接口/HDMI接口/VGA接口",
+      "散热方式": "散热风扇/散热片（静音）",
+      "3D API": "DirectX 10.1Shader Model 4.1OpenGL3.1/DirectX 10.1/DirectX 10.1Shader Model 4.0OpenGL3.0",
+      "其它特点": "显存容量可扩展到512MB铝挤放射式滚珠散热器/支持PhysX物理加速技术，支持节能技术，显存容量可扩展到1024MB/支持PhysX物理加速技术，支持节能技术显存容量可扩展到1024MB",
+      "产品特性1": "nVIDIA nView 多显示技术Lumenex Engine(流明引擎)Coverage Sampling Anti-Aliasing(CSAA)Lumenex Texture Filtering Engine(流明纹理过滤引擎)支持128bit HDR,配合CSAA完美实现高倍HDR+AA10bit Display Pipeline,64倍于上代产品的输出颜色数Quantum Effects,GPU物理加速技术NVIDIA PureVideo HD 3.0"
+    }
+  },
+  {
+    "name": "G210系列 (512GB)",
+    "manufacturer": "双敏",
+    "series": "G210系列",
+    "opendb_id": "g210_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce G210",
+      "制作工艺": "40纳米",
+      "核心代号": "GT218",
+      "核心频率": "585MHz",
+      "显存频率": "800MHz",
+      "显存类型": "GDDR2",
+      "显存容量": "512GB",
+      "显存位宽": "64bitbit",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口",
+      "散热方式": "散热片（静音）",
+      "3D API": "DirectX 10.1",
+      "其它特点": "支持PhysX物理加速技术，支持节能技术，显存容量可扩展到1024MB"
+    }
+  },
+  {
+    "name": "G210系列 (128GB)",
+    "manufacturer": "双敏",
+    "series": "G210系列",
+    "opendb_id": "g210_128gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce G210",
+      "制作工艺": "40纳米/55纳米",
+      "核心代号": "GT218",
+      "核心频率": "585MHz/589MHz/575MHz/550MHz",
+      "CUDA核心": "16个/24个",
+      "显存频率": "1400MHz/600MHz",
+      "显存类型": "GDDR3/GDDR2",
+      "显存容量": "128GB",
+      "显存位宽": "64bitbit/32bitbit/128bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口",
+      "散热方式": "散热风扇/散热片（静音）",
+      "3D API": "DirectX 10.1/DirectX 10.1Shader Model 4.1OpenGL3.1/DirectX 10Shader Model 4.1OpenGL3.1",
+      "其它特点": "支持PhysX物理加速技术，支持节能技术，显存容量可扩展到512MB，F736D 铝挤放射式滚珠散热器/支持PhysX物理加速技术，支持节能技术，显存容量可扩展到512MB/显存容量可扩展到512MBF736D 铝挤放射式滚珠散热器/显存容量可扩展到512MB飞酷7S双滚珠散热器",
+      "产品特性1": "nVIDIA nView 多显示技术Lumenex Engine(流明引擎)Coverage Sampling Anti-Aliasing(CSAA)Lumenex Texture Filtering Engine(流明纹理过滤引擎)支持128bit HDR,配合CSAA完美实现高倍HDR+AA10bit Display Pipeline,64倍于上代产品的输出颜色数Quantum Effects,GPU物理加速技术NVIDIA PureVideo HD 3.0"
+    }
+  },
+  {
+    "name": "G210系列 (1GB)",
+    "manufacturer": "双敏",
+    "series": "G210系列",
+    "opendb_id": "g210_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce G210",
+      "制作工艺": "40纳米",
+      "核心代号": "GT218",
+      "核心频率": "589MHz",
+      "CUDA核心": "8个",
+      "显存频率": "1000MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "1GB",
+      "显存位宽": "64bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口",
+      "散热方式": "散热片（静音）",
+      "3D API": "DirectX 10.1",
+      "其它特点": "支持PhysX物理加速技术，支持节能技术，支持显卡双屏输出"
+    }
+  }
+]

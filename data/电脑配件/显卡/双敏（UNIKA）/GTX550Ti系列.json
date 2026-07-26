@@ -1,0 +1,27 @@
+[
+  {
+    "name": "GTX550Ti系列 (1GB)",
+    "manufacturer": "双敏",
+    "series": "GTX550Ti系列",
+    "opendb_id": "gtx550ti_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 550 Ti",
+      "显示芯片系列": "DIA GTX 500系列/NVIDIA GTX 500系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF116",
+      "核心频率": "900MHz/950MHz",
+      "CUDA核心": "192个",
+      "显存频率": "4100MHz/4356MHz/4000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "192bitbit",
+      "最大分辨率": "2560×1600",
+      "I/O接口": "Mini DisplayPort接口/双DVI接口/HDMI接口/DVI接口/VGA接口/Mini HDMI接口/双DVI接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  }
+]

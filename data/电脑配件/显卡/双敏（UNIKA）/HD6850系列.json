@@ -1,0 +1,31 @@
+[
+  {
+    "name": "HD6850系列 (1GB)",
+    "manufacturer": "双敏",
+    "series": "HD6850系列",
+    "opendb_id": "hd6850_1gb",
+    "metadata": {
+      "芯片厂商": "AMD",
+      "显卡芯片": "Radeon HD 6850",
+      "显示芯片系列": "AMD 6800系列",
+      "制作工艺": "40纳米",
+      "核心代号": "Barts Pro",
+      "核心频率": "775MHz",
+      "CUDA核心": "960个",
+      "显存频率": "4000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X/PCI Express 2.1 16X",
+      "I/O接口": "DisplayPort接口/HDMI接口/DVI接口/VGA接口/HDMI接口/双DVI接口/DisplayPort接口/HDMI接口/DVI接口/VGA接口/DisplayPort接口",
+      "电源接口": "6pin",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11",
+      "供电模式": "4+1相/3+1相",
+      "支持HDCP": "是",
+      "其它特点": "支持CrossFire技术，支持节能技术/支持CrossFire技术，支持节能技术显卡功耗：127W电源需求：400W以上",
+      "上市日期": "2010年10月"
+    }
+  }
+]
