@@ -1,0 +1,40 @@
+[
+  {
+    "name": "730 PRO (4GB)",
+    "manufacturer": "小影霸",
+    "series": "730 PRO",
+    "opendb_id": "730_pro_4gb",
+    "metadata": {
+      "产品型号": "GT 730 PRO 4G D3 刹影",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "NVIDIA GeForce GT 730",
+      "核心频率": "902MHz",
+      "CUDA核心": "384个",
+      "显存类型": "GDDR3",
+      "显存容量": "4GB",
+      "显存位宽": "64bit",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×VGA接口",
+      "散热方式": "风扇散热",
+      "产品尺寸": "160×125×39mm"
+    }
+  },
+  {
+    "name": "730 PRO (2GB)",
+    "manufacturer": "小影霸",
+    "series": "730 PRO",
+    "opendb_id": "730_pro_2gb",
+    "metadata": {
+      "产品型号": "GT 730 PRO 2G D5 厉影",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "NVIDIA GeForce GT 730",
+      "核心频率": "902MHz",
+      "CUDA核心": "384个",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "64bit",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×VGA接口",
+      "散热方式": "风扇散热",
+      "产品尺寸": "159x120x25mm"
+    }
+  }
+]
