@@ -1,0 +1,28 @@
+[
+  {
+    "name": "G210系列 (未知显存)",
+    "manufacturer": "梅捷",
+    "series": "G210系列",
+    "opendb_id": "g210",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce G210",
+      "显示芯片系列": "NVIDIA GT200系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GT218",
+      "核心频率": "450MHz/589MHz",
+      "CUDA核心": "16个",
+      "显存频率": "1200MHz/1000MHz/1333MHz/1070MHz",
+      "显存类型": "GDDR3",
+      "显存位宽": "64bitbit",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "DVI接口/VGA接口/HDMI接口/VGA接口",
+      "电源接口": "无外接电源接口",
+      "显卡类型": "入门级",
+      "散热方式": "散热片（静音）",
+      "3D API": "DirectX 10.1",
+      "支持HDCP": "是",
+      "其它特点": "支持PhysX物理加速技术，支持节能技术，2D智能降频，NVIDIA CUDA技术，PureVideo HD高清硬件解码/支持PhysX物理加速技术，支持节能技术，2D智能降频，风扇温控调速功能，NVIDIA CUDA技术，PureVideo HD高清硬件解码，GeFore 3D Vision/支持PhysX物理加速技术，支持节能技术，支持CUDA，支持PureVideo硬件加速，2D智能降频"
+    }
+  }
+]

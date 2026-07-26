@@ -1,0 +1,75 @@
+[
+  {
+    "name": "9500GT系列 (256GB)",
+    "manufacturer": "铭鑫",
+    "series": "9500GT系列",
+    "opendb_id": "9500gt_256gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9500GT",
+      "制作工艺": "55纳米",
+      "核心代号": "G96",
+      "核心频率": "700MHz/650MHz",
+      "CUDA核心": "32个",
+      "显存频率": "1800MHz/800MHz",
+      "显存类型": "GDDR3/GDDR2",
+      "显存容量": "256GB",
+      "显存位宽": "128bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "电源接口": "6pin",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10",
+      "其它特点": "可扩充到512M(独立256MB、共享256MB)/独立256MB、共享256MB"
+    }
+  },
+  {
+    "name": "9500GT系列 (128GB)",
+    "manufacturer": "铭鑫",
+    "series": "9500GT系列",
+    "opendb_id": "9500gt_128gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9500GT",
+      "核心代号": "G96",
+      "核心频率": "700MHz",
+      "CUDA核心": "32个",
+      "显存频率": "1800MHz/1500MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "128GB",
+      "显存位宽": "64bitbit/128bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI-E 16X/PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10",
+      "其它特点": "支持NVIDIA的TC技术，可将显存容量扩展至512MB/支持NVIDIA SLI技术支持HDR+AA技术支持Lumenex Engine引擎",
+      "制作工艺": "55纳米"
+    }
+  },
+  {
+    "name": "9500GT系列 (512GB)",
+    "manufacturer": "铭鑫",
+    "series": "9500GT系列",
+    "opendb_id": "9500gt_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9500GT",
+      "制作工艺": "55纳米",
+      "核心代号": "G96",
+      "核心频率": "650MHz",
+      "CUDA核心": "32个",
+      "显存频率": "800MHz",
+      "显存类型": "GDDR2",
+      "显存容量": "512GB",
+      "显存位宽": "128bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10",
+      "其它特点": "支持NVIDIA SLI技术支持HDR+AA技术支持Lumenex Engine引擎"
+    }
+  }
+]

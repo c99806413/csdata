@@ -1,0 +1,29 @@
+[
+  {
+    "name": "GT740系列 (1GB)",
+    "manufacturer": "梅捷",
+    "series": "GT740系列",
+    "opendb_id": "gt740_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 750",
+      "显示芯片系列": "NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM107",
+      "核心频率": "993MHz/1020MHz",
+      "CUDA核心": "384个/512个",
+      "显存频率": "5010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bit",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×DVI接口，1×VGA接口，1×Mini HDMI接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 11.1",
+      "支持HDCP": "是",
+      "其它特点": "2D智能降频，风扇温控调速功能，PhysX物理加速技术，NVIDIA CUDA技术，PureVideo HD高清硬件解码，GeFore 3D Vision"
+    }
+  }
+]

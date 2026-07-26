@@ -1,0 +1,51 @@
+[
+  {
+    "name": "9800GT系列 (512GB)",
+    "manufacturer": "铭鑫",
+    "series": "9800GT系列",
+    "opendb_id": "9800gt_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9800 GT",
+      "制作工艺": "55纳米/65纳米",
+      "核心代号": "G92",
+      "核心频率": "650MHz/600MHz/675MHz",
+      "CUDA核心": "112个",
+      "显存频率": "1800MHz/1900MHz/2000MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "512GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600/2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口/S-video接口(TV-Out)",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10",
+      "支持HDCP": "是",
+      "其它特点": "显存容量可扩展到1024MB/全固态电容设计nVIDIA nView 多显示技术Lumenex Engine（流明引擎）Coverage Sampling Anti-Aliasing (CSAA)Lumenex Texture Filtering Engine（流明纹理过滤引擎）支持硬件HD264视频解码技术10bit Display Pipeline,64倍于上代产品的输出颜色数Quantum Effects,GPU物理加速技术NVIDIA PureVideo HD"
+    }
+  },
+  {
+    "name": "9800GT系列 (1GB)",
+    "manufacturer": "铭鑫",
+    "series": "9800GT系列",
+    "opendb_id": "9800gt_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9800 GT",
+      "制作工艺": "65纳米",
+      "核心代号": "G92",
+      "核心频率": "650MHz",
+      "CUDA核心": "112个",
+      "显存频率": "1800MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)/HDMI接口/双DVI接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10",
+      "支持HDCP": "是"
+    }
+  }
+]

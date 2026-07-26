@@ -1,0 +1,34 @@
+[
+  {
+    "name": "RTX 2060 SUPER系列 (8GB)",
+    "manufacturer": "梅捷",
+    "series": "RTX 2060 SUPER系列",
+    "opendb_id": "rtx_2060_super_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2060 SUPER",
+      "显示芯片系列": "NVIDIA RTX SUPER系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU106-410",
+      "核心频率": "1470MHz，一键超频：1650MHz",
+      "CUDA核心": "2176个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口/1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "燚龙三风扇散热系统/焱龙双风扇散热系统",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "RGB": "顶部RGB呼吸信仰灯",
+      "最大功耗": "175W以上",
+      "建议电源": "600W以上",
+      "其它特点": "支持Simultaneous Multi-ProjectionVR图像矫正技术，VRWorks Audio虚拟现实音频技术，Ansel截图功能，PhysX物理加速技术，NVIDIA CUDA，PureVideo HD高清硬件解码，动态超级分辨率，MFAA，GeForce 3D Vision，GameWorks，G-Sync-Ready，GameStream-Ready，GeForce ShadowPlay，GPU Boost",
+      "其他参数": "新一代龙牙利刃风扇，全尺寸金属背板"
+    }
+  }
+]

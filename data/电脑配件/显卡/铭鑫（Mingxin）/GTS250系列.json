@@ -1,0 +1,51 @@
+[
+  {
+    "name": "GTS250系列 (1GB)",
+    "manufacturer": "铭鑫",
+    "series": "GTS250系列",
+    "opendb_id": "gts250_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTS 250",
+      "制作工艺": "55纳米",
+      "核心代号": "G92",
+      "核心频率": "700MHz/725MHz",
+      "CUDA核心": "128个/112个",
+      "显存频率": "2000MHz/2100MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600/2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)/HDMI接口/DVI接口/VGA接口",
+      "电源接口": "6pin+6pin/6PIN+6PIN",
+      "散热方式": "散热风扇/散热风扇+热管散热",
+      "3D API": "DirectX 10"
+    }
+  },
+  {
+    "name": "GTS250系列 (512GB)",
+    "manufacturer": "铭鑫",
+    "series": "GTS250系列",
+    "opendb_id": "gts250_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTS 250",
+      "制作工艺": "55纳米",
+      "核心代号": "G92",
+      "核心频率": "750MHz/725MHz/700MHz",
+      "CUDA核心": "128个/112个",
+      "显存频率": "2300MHz/2400MHz/2100MHz/2000MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "512GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560*1600/2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)/HDMI/HDMI接口/DVI接口/VGA接口",
+      "电源接口": "6pin+6pin/6PIN+6PIN",
+      "散热方式": "散热风扇+热管散热/散热风扇",
+      "3D API": "DirectX 10",
+      "产品特性1": "NVIDIA nView 多显示技术Lumenex Engine（流明引擎）Coverage Sampling Anti-Aliasing (CSAA)Lumenex Texture Filtering Engine（流明纹理过滤引擎）支持硬件HD264视频解码技术10bit Display Pipeline,64倍于上代产品的输出颜色数Quantum Effects,GPU物理加速技术NVIDIA PureVideo HD"
+    }
+  }
+]
