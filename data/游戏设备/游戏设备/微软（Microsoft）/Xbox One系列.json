@@ -1,0 +1,93 @@
+[
+  {
+    "name": "微软Xbox One(家庭娱乐版)含Kinect",
+    "manufacturer": "微软",
+    "series": "Xbox One系列",
+    "opendb_id": "__xbox_one________kinect",
+    "metadata": {
+      "类别": "Xbox One，体感游戏机",
+      "CPU": "8核X86架构AMD处理器",
+      "GPU": "DX11.1度身定造的GPU,AMD GCN架构，12组计算单元，768个流处理器",
+      "显示芯片": "定制AMD显卡",
+      "内存性能": "8G DDR3内存（5GB游戏）",
+      "硬盘性能": "500GB HDD 机械硬盘",
+      "游戏载体": "吸入式蓝光光驱（速度未知）",
+      "推荐游戏": "EA Sports 《NBA Live 14》、《Madden NFL 25》、《UFC》、《FIFA 14》、《极限竞速5（Forza Motorsport 5）》、EMEDY 《Quantum Break》、《使命召唤：幽灵（Call of Duty：Ghost）》",
+      "网络功能": "10/100/1000Mbps Ethernet，3x 802.11n radios w/Wi-Fi 支持手柄直接连接",
+      "音频特性": "支援1080p、4K；7.1环回立体声",
+      "体感控制": "Kinect 2.0：内置新麦克风，嘈杂的房间也能经过噪声隔离出用户的声音支持 30FPS 的 1080P 影片录制手势控制也比之前更精确、更灵敏、更直观Kinect：主机内置，包括一个250万像素的红外线深度感应器和720p摄像头",
+      "手柄": "新方向键新摇杆新的振动模块Xbox 键的位置挪到了手柄的上方START 和 SELECT 按键标符做了改变精度和控制灵敏度大大增加后期支持编程，玩家支持自定义输入",
+      "接口": "HDMI输入接口，HDMI输出接口，3×USB3.0接口，IR额外端口",
+      "屏幕": "HDMI输入输出支持4K视频",
+      "产品尺寸": "色主体，雾面和亮面的设计结合，形状宽高比为 16:9，主体尺寸：34.3cm"
+    }
+  },
+  {
+    "name": "微软Xbox One(首发限量版)",
+    "manufacturer": "微软",
+    "series": "Xbox One系列",
+    "opendb_id": "__xbox_one_______",
+    "metadata": {
+      "类别": "Xbox One，体感游戏机",
+      "CPU": "8核X86架构AMD处理器",
+      "GPU": "DX11.1度身定造的GPU,AMD GCN架构，12组计算单元，768个流处理器",
+      "显示芯片": "定制AMD显卡",
+      "内存性能": "8G DDR3内存（5GB游戏）",
+      "硬盘性能": "500GB HDD 机械硬盘",
+      "游戏载体": "吸入式蓝光光驱（速度未知）",
+      "推荐游戏": "EA Sports 《NBA Live 14》、《Madden NFL 25》、《UFC》、《FIFA 14》、《极限竞速5（Forza Motorsport 5）》、EMEDY 《Quantum Break》、《使命召唤：幽灵（Call of Duty：Ghost）》",
+      "网络功能": "10/100/1000Mbps Ethernet，3x 802.11n radios w/Wi-Fi 支持手柄直接连接",
+      "音频特性": "支援1080p、4K；7.1环回立体声",
+      "体感控制": "Kinect 2.0：内置新麦克风，嘈杂的房间也能经过噪声隔离出用户的声音支持 30FPS 的 1080P 影片录制手势控制也比之前更精确、更灵敏、更直观Kinect：主机内置，包括一个250万像素的红外线深度感应器和720p摄像头",
+      "手柄": "新方向键新摇杆新的振动模块Xbox 键的位置挪到了手柄的上方START 和 SELECT 按键标符做了改变精度和控制灵敏度大大增加后期支持编程，玩家支持自定义输入",
+      "接口": "HDMI输入接口，HDMI输出接口，3×USB3.0接口，IR额外端口",
+      "屏幕": "HDMI输入输出支持4K视频",
+      "产品尺寸": "色主体，雾面和亮面的设计结合，形状宽高比为 16:9"
+    }
+  },
+  {
+    "name": "微软Xbox One(家庭娱乐版)不含Kinect",
+    "manufacturer": "微软",
+    "series": "Xbox One系列",
+    "opendb_id": "__xbox_one_________kinect",
+    "metadata": {
+      "类别": "Xbox One",
+      "CPU": "8核X86架构AMD处理器",
+      "GPU": "DX11.1度身定造的GPU,AMD GCN架构，12组计算单元，768个流处理器",
+      "显示芯片": "定制AMD显卡",
+      "内存性能": "8G DDR3内存（5GB游戏）",
+      "硬盘性能": "500GB HDD 机械硬盘",
+      "游戏载体": "吸入式蓝光光驱（速度未知）",
+      "推荐游戏": "EA Sports 《NBA Live 14》、《Madden NFL 25》、《UFC》、《FIFA 14》、《极限竞速5（Forza Motorsport 5）》、EMEDY 《Quantum Break》、《使命召唤：幽灵（Call of Duty：Ghost）》",
+      "网络功能": "10/100/1000Mbps Ethernet，3x 802.11n radios w/Wi-Fi 支持手柄直接连接",
+      "音频特性": "支援1080p、4K；7.1环回立体声",
+      "手柄": "新方向键新摇杆新的振动模块Xbox 键的位置挪到了手柄的上方START 和 SELECT 按键标符做了改变精度和控制灵敏度大大增加后期支持编程，玩家支持自定义输入",
+      "接口": "HDMI输入接口，HDMI输出接口，3×USB3.0接口，IR额外端口",
+      "屏幕": "HDMI输入输出支持4K视频",
+      "产品尺寸": "雾面和亮面的设计结合，形状宽高比为 16:9"
+    }
+  },
+  {
+    "name": "微软Xbox One 1TB版",
+    "manufacturer": "微软",
+    "series": "Xbox One系列",
+    "opendb_id": "__xbox_one_1tb_",
+    "metadata": {
+      "类别": "Xbox One，体感游戏机",
+      "CPU": "8核X86架构AMD处理器",
+      "GPU": "DX11.1度身定造的GPU,AMD GCN架构，12组计算单元，768个流处理器",
+      "显示芯片": "定制AMD显卡",
+      "内存性能": "8G DDR3内存（5GB游戏）",
+      "硬盘性能": "1TB HDD 机械硬盘",
+      "游戏载体": "吸入式蓝光光驱（速度未知）",
+      "推荐游戏": "EA Sports 《NBA Live 14》、《Madden NFL 25》、《UFC》、《FIFA 14》、《极限竞速5（Forza Motorsport 5）》、EMEDY 《Quantum Break》、《使命召唤：幽灵（Call of Duty：Ghost）》",
+      "网络功能": "10/100/1000Mbps Ethernet，3x 802.11n radios w/Wi-Fi 支持手柄直接连接",
+      "音频特性": "支援1080p、4K；7.1环回立体声",
+      "体感控制": "Kinect 2.0：内置新麦克风，嘈杂的房间也能经过噪声隔离出用户的声音支持 30FPS 的 1080P 影片录制手势控制也比之前更精确、更灵敏、更直观Kinect：主机内置，包括一个250万像素的红外线深度感应器和720p摄像头",
+      "手柄": "附带3.5mm耳机插孔新方向键新摇杆新的振动模块Xbox 键的位置挪到了手柄的上方START 和 SELECT 按键标符做了改变精度和控制灵敏度大大增加后期支持编程，玩家支持自定义输入",
+      "接口": "HDMI输入接口，HDMI输出接口，3×USB3.0接口，IR额外端口",
+      "屏幕": "HDMI输入输出支持4K视频",
+      "产品尺寸": "色主体，雾面和亮面的设计结合，形状宽高比为 16:9"
+    }
+  }
+]

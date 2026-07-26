@@ -1,0 +1,51 @@
+[
+  {
+    "name": "索尼PS4 Pro(CUH-7009B/1TB)",
+    "manufacturer": "索尼",
+    "series": "PS4 Pro系列",
+    "opendb_id": "__ps4_pro_cuh_7009b_1tb_",
+    "metadata": {
+      "类别": "PS4体感游戏机",
+      "CPU": "8核X86架构64AMD Jaguar处理器",
+      "GPU": "4.2 TFLOPS",
+      "显示芯片": "AMD Radeon显卡",
+      "内存性能": "8GB GDDR5",
+      "硬盘性能": "1TB",
+      "浮点运算能力": "4.2 TFLOPS",
+      "游戏载体": "6倍蓝光，8倍DVD",
+      "适用机型": "PC，平板，电视",
+      "网络功能": "以太网（10BASE-T，100BASE-TX，1000BASE-T）IEEE 802.11 a/b/g/n/ac蓝牙 4.0",
+      "音频特性": "HDMI输出端口，DIGITAL OUT(OPTICAL)端口",
+      "手柄": "DUALSHOCK4 无线控制器",
+      "接口": "3×USB3.1接口；1×AUX端口",
+      "电源": "AC 220V，50Hz",
+      "功率": "约310W",
+      "产品尺寸": "295×55×327mm",
+      "产品重量": "约3.3kg"
+    }
+  },
+  {
+    "name": "索尼PS4 Pro命运2套装(1TB)",
+    "manufacturer": "索尼",
+    "series": "PS4 Pro系列",
+    "opendb_id": "__ps4_pro__2___1tb_",
+    "metadata": {
+      "类别": "PS4体感游戏机",
+      "CPU": "8核X86架构64AMD Jaguar处理器",
+      "GPU": "4.2 TFLOPS",
+      "显示芯片": "AMD Radeon显卡",
+      "内存性能": "8GB GDDR5",
+      "硬盘性能": "1TB",
+      "浮点运算能力": "4.2 TFLOPS",
+      "游戏载体": "6倍蓝光，8倍DVD",
+      "网络功能": "以太网（10BASE-T，100BASE-TX，1000BASE-T）IEEE 802.11 a/b/g/n/ac蓝牙 v4.0",
+      "音频特性": "HDMI输出端口，DIGITAL OUT\u000b(OPTICAL)端口",
+      "手柄": "DUALSHOCK4 无线控制器",
+      "接口": "3×USB3.1接口；1×AUX端口",
+      "电源": "AC 220V，50Hz",
+      "功率": "约310W",
+      "产品尺寸": "295×55×327mm",
+      "产品重量": "约3.3kg"
+    }
+  }
+]

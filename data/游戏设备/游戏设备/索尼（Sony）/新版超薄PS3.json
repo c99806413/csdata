@@ -1,0 +1,61 @@
+[
+  {
+    "name": "索尼新版超薄PS3(12GB)",
+    "manufacturer": "索尼",
+    "series": "新版超薄PS3",
+    "opendb_id": "______ps3_12gb_",
+    "metadata": {
+      "类别": "PS3体感游戏机",
+      "CPU": "IBM Cell BE",
+      "GPU": "RSX",
+      "内存性能": "12GB",
+      "网络功能": "有线，无线，蓝牙",
+      "音频特性": "LPCM 7.1ch，Dolby Digital，Dolby Digital Plus，Dolby TrueHD，DTS，DTS-HD，AAC",
+      "接口": "USB2.0 x2Enternet（10BASE-T，100BASE-TX，1000BASE-T） x1IEEE802.11b/g x1Bluetooth 2.0(EDR)HDMI 输出端子AV 多重输出端子光纤数码输出端子",
+      "无线": "Ethernet（10BASE-T，100BASE-TX，1000BASE-T），蓝牙",
+      "电源": "AC 110/220-240V，50/60Hz",
+      "功率": "约250W",
+      "产品尺寸": "约290×60×230mm",
+      "产品重量": "约2.1kg"
+    }
+  },
+  {
+    "name": "索尼新版超薄PS3(500GB)黑色",
+    "manufacturer": "索尼",
+    "series": "新版超薄PS3",
+    "opendb_id": "______ps3_500gb___",
+    "metadata": {
+      "类别": "PS3",
+      "CPU": "IBM Cell BE",
+      "GPU": "RSX",
+      "内存性能": "256MB XDR Main RAM，256MB GDDR3 VRAM",
+      "网络功能": "有线，无线，蓝牙",
+      "音频特性": "LPCM 7.1ch，Dolby Digital，Dolby Digital Plus，Dolby TrueHD，DTS，DTS-HD，AAC",
+      "接口": "USB2.0 x2Enternet（10BASE-T，100BASE-TX，1000BASE-T） x1IEEE802.11b/g x1Bluetooth 2.0(EDR)HDMI 输出端子AV 多重输出端子光纤数码输出端子",
+      "电源": "AC 110/220-240V，50/60Hz",
+      "功率": "约250W",
+      "产品尺寸": "约290×60×230mm",
+      "产品重量": "约2.1kg"
+    }
+  },
+  {
+    "name": "索尼新版超薄PS3(250GB)白色/黑色",
+    "manufacturer": "索尼",
+    "series": "新版超薄PS3",
+    "opendb_id": "______ps3_250gb______",
+    "metadata": {
+      "类别": "PS3体感游戏机",
+      "CPU": "IBM Cell BE",
+      "GPU": "RSX",
+      "内存性能": "256MB XDR Main RAM，256MB GDDR3 VRAM",
+      "网络功能": "有线，无线，蓝牙",
+      "音频特性": "LPCM 7.1ch，Dolby Digital，Dolby Digital Plus，Dolby TrueHD，DTS，DTS-HD，AAC",
+      "接口": "USB2.0 x2Enternet（10BASE-T，100BASE-TX，1000BASE-T） x1IEEE802.11b/g x1Bluetooth 2.0(EDR)HDMI 输出端子AV 多重输出端子光纤数码输出端子",
+      "无线": "Ethernet（10BASE-T，100BASE-TX，1000BASE-T），蓝牙",
+      "电源": "AC 110/220-240V，50/60Hz",
+      "功率": "约250W",
+      "产品尺寸": "约290×60×230mm",
+      "产品重量": "约2.1kg"
+    }
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "name": "索尼PS2-90006",
+    "manufacturer": "索尼",
+    "series": "PS2系列",
+    "opendb_id": "__ps2_90006",
+    "metadata": {
+      "类别": "PS2",
+      "CPU": "32位MIPS，128位SIMD。运作时脉：294.912MHz16KB暂存内存RAM（SPRAM）8KB资料快取16KB指令快取浮点运算效能：6.2GFLOPS整数运算单元：64bit多媒体扩充指令：128bit * 107个通用暂存器：128-bit * 32个TLB（Translation-Lookaside Buffer）：48 double entries直接内存存取（DMA）：10 channels辅助处理器1：FPU（浮点运算器）辅助处理器2：VU0（矢量运算器）向量处理器：VU1制程：0.18微米核心电压：1.8伏特耗电量：15W晶体管数：10.5M芯片尺寸：240mm^2封装：540 sockets，PBGA",
+      "GPU": "Graphics Synthesizer图形合成器GPU时钟频率147.456MHz板载显存VRAM混合搭载4MB DRAMDRAM总线带宽48GB/秒DRAM显存带宽256 bit像素结构64位（24位RGB，8位alpha通道，32位z缓冲）像素填充率2.4G 像素/秒 着色性能75M多边形/秒（小多边形）50M多边形/秒（48点四边形，24位色，alpha着色，Z缓冲）30M多边形/秒（50点三角形，Z 缓冲，alpha着色）25M多边形/秒（48点四边形，Z缓冲，alpha着色，三线性过滤）绘点速率150M/秒角色绘制速率18.75M/秒（8×8像素）",
+      "内存性能": "32MB",
+      "浮点运算能力": "6.2 GFLOPs MPEG2 性能",
+      "多边形性能": "每秒钟可处理多达7500万个多边形",
+      "像素填充率": "2.4G像素/秒",
+      "游戏载体": "CD、DVD-5、DVD-9",
+      "音频特性": "音效处理晶片SPU2+CPU（PCM）音效处理存储SPU2用RAM 2MB48通道ADPCMCD音频3D声效（杜比Dolby Digital、AC-3、DTS）44.1KHz/48KHz 数字接口IEEE 1394（数字AV），USBPC卡（PCMCIA），MODEM，记忆卡四个控制端口",
+      "屏幕": "纹理贴图：远景修正画面调整/增强双线性/三线性过滤MIP 映射4个多重贴图8位129级透明度（PC上8位为256级）色深：索引色：4位、8位、16位、32位16位：RGB5_A1、R5_G6_B5、RGBA432位：RGBA8注1：除索引色外，仅支持16/32位色贴图。注2：索引色调色板必须为16/32位，同直接色彩的16/32位色一样，可以含Alpha",
+      "产品尺寸": "182×301×78mm",
+      "产品重量": "2.5kg"
+    }
+  },
+  {
+    "name": "索尼PS2-90006套装",
+    "manufacturer": "索尼",
+    "series": "PS2系列",
+    "opendb_id": "__ps2_90006__",
+    "metadata": {
+      "类别": "PS2",
+      "CPU": "32位MIPS，128位SIMD。运作时脉：294.912MHz16KB暂存内存RAM（SPRAM）8KB资料快取16KB指令快取浮点运算效能：6.2GFLOPS整数运算单元：64bit多媒体扩充指令：128bit * 107个通用暂存器：128-bit * 32个TLB（Translation-Lookaside Buffer）：48 double entries直接内存存取（DMA）：10 channels辅助处理器1：FPU（浮点运算器）辅助处理器2：VU0（矢量运算器）向量处理器：VU1制程：0.18微米核心电压：1.8伏特耗电量：15W晶体管数：10.5M芯片尺寸：240mm^2封装：540 sockets，PBGA",
+      "GPU": "Graphics Synthesizer图形合成器GPU时钟频率147.456MHz板载显存VRAM混合搭载4MB DRAMDRAM总线带宽48GB/秒DRAM显存带宽256 bit像素结构64位（24位RGB，8位alpha通道，32位z缓冲）像素填充率2.4G 像素/秒 着色性能75M多边形/秒（小多边形）50M多边形/秒（48点四边形，24位色，alpha着色，Z缓冲）30M多边形/秒（50点三角形，Z 缓冲，alpha着色）25M多边形/秒（48点四边形，Z缓冲，alpha着色，三线性过滤）绘点速率150M/秒角色绘制速率18.75M/秒（8×8像素）",
+      "内存性能": "32MB",
+      "浮点运算能力": "6.2 GFLOPs MPEG2 性能",
+      "多边形性能": "每秒钟可处理多达7500万个多边形",
+      "像素填充率": "2.4G像素/秒",
+      "游戏载体": "CD、DVD-5、DVD-9",
+      "音频特性": "音效处理晶片SPU2+CPU（PCM）音效处理存储SPU2用RAM 2MB48通道ADPCMCD音频3D声效（杜比Dolby Digital、AC-3、DTS）44.1KHz/48KHz 数字接口IEEE 1394（数字AV），USBPC卡（PCMCIA），MODEM，记忆卡四个控制端口",
+      "屏幕": "纹理贴图：远景修正画面调整/增强双线性/三线性过滤MIP 映射4个多重贴图8位129级透明度（PC上8位为256级）色深：索引色：4位、8位、16位、32位16位：RGB5_A1、R5_G6_B5、RGBA432位：RGBA8注1：除索引色外，仅支持16/32位色贴图。注2：索引色调色板必须为16/32位，同直接色彩的16/32位色一样，可以含Alpha",
+      "产品尺寸": "182×301×78mm",
+      "产品重量": "2.5kg"
+    }
+  },
+  {
+    "name": "索尼PS2 77006",
+    "manufacturer": "索尼",
+    "series": "PS2系列",
+    "opendb_id": "__ps2_77006",
+    "metadata": {
+      "类别": "PS2",
+      "CPU": "PS2的中央处理器「Emotion Engine」, 与Platinum III一样使用了现时最先端的半导体技术0.18技术, 时钟速度为300Mhz, 较Dreamcast的200Mhz快三分一",
+      "GPU": "Graphics Synthesizer 4M；GPU时钟频率：150MHz",
+      "内存性能": "板载内存32MB",
+      "多边形性能": "每秒钟可处理多达7500万个多边形",
+      "像素填充率": "2.4G像素/秒",
+      "游戏载体": "DVD ROM的单面最大容量为9.4GB (9400Mb), 容量比PS第一代所使用的CD-ROM (最大容量650Mb)以及Dreamcast所使用的GD-ROM (最大容量1G) 大出多倍DVD影碟/音乐CD/DVD-R/-RW/DVD-RW、DVD+R/+RW",
+      "音频特性": "PCM音源24路，信号采样频率44.1KHz，和CD音乐相同",
+      "产品尺寸": "182x301x78",
+      "产品重量": "2kg"
+    }
+  },
+  {
+    "name": "索尼PS2 SCPH-90000 深红色",
+    "manufacturer": "索尼",
+    "series": "PS2系列",
+    "opendb_id": "__ps2_scph_90000____",
+    "metadata": {
+      "类别": "PS2",
+      "CPU": "32位MIPS，128位SIMD。运作时脉：294.912MHz16KB暂存内存RAM（SPRAM）8KB资料快取16KB指令快取浮点运算效能：6.2GFLOPS整数运算单元：64bit多媒体扩充指令：128bit * 107个通用暂存器：128-bit * 32个TLB（Translation-Lookaside Buffer）：48 double entries直接内存存取（DMA）：10 channels辅助处理器1：FPU（浮点运算器）辅助处理器2：VU0（矢量运算器）向量处理器：VU1制程：0.18微米核心电压：1.8伏特耗电量：15W晶体管数：10.5M芯片尺寸：240mm^2封装：540 sockets，PBGA",
+      "GPU": "Graphics Synthesizer图形合成器GPU时钟频率147.456MHz板载显存VRAM混合搭载4MB DRAMDRAM总线带宽48GB/秒DRAM显存带宽256 bit像素结构64位（24位RGB，8位alpha通道，32位z缓冲）像素填充率2.4G 像素/秒 着色性能75M多边形/秒（小多边形）50M多边形/秒（48点四边形，24位色，alpha着色，Z缓冲）30M多边形/秒（50点三角形，Z 缓冲，alpha着色）25M多边形/秒（48点四边形，Z缓冲，alpha着色，三线性过滤）绘点速率150M/秒角色绘制速率18.75M/秒（8×8像素）",
+      "内存性能": "32MB",
+      "浮点运算能力": "6.2 GFLOPs MPEG2 性能",
+      "多边形性能": "每秒钟可处理多达7500万个多边形",
+      "像素填充率": "2.4G像素/秒",
+      "游戏载体": "CD、DVD-5、DVD-9",
+      "音频特性": "音效处理晶片SPU2+CPU（PCM）音效处理存储SPU2用RAM 2MB48通道ADPCMCD音频3D声效（杜比Dolby Digital、AC-3、DTS）44.1KHz/48KHz 数字接口IEEE 1394（数字AV），USBPC卡（PCMCIA），MODEM，记忆卡四个控制端口",
+      "屏幕": "纹理贴图：远景修正画面调整/增强双线性/三线性过滤MIP 映射4个多重贴图8位129级透明度（PC上8位为256级）色深：索引色：4位、8位、16位、32位16位：RGB5_A1、R5_G6_B5、RGBA432位：RGBA8注1：除索引色外，仅支持16/32位色贴图。注2：索引色调色板必须为16/32位，同直接色彩的16/32位色一样，可以含Alpha",
+      "产品尺寸": "182×301×78mm",
+      "产品重量": "2.5kg"
+    }
+  },
+  {
+    "name": "索尼PS2-77000银色主机",
+    "manufacturer": "索尼",
+    "series": "PS2系列",
+    "opendb_id": "__ps2_77000____",
+    "metadata": {
+      "类别": "PS2游戏机",
+      "CPU": "PS2的中央处理器「Emotion Engine」, 与Platinum III一样使用了现时最先端的半导体技术0.18技术, 时钟速度为300Mhz, 较Dreamcast的200Mhz快三分一",
+      "GPU": "Graphics Synthesizer 4M；GPU时钟频率：150MHz",
+      "内存性能": "板载内存32MB",
+      "多边形性能": "每秒钟可处理多达7500万个多边形",
+      "像素填充率": "2.4G像素/秒",
+      "游戏载体": "DVD ROM的单面最大容量为9.4GB (9400Mb), 容量比PS第一代所使用的CD-ROM (最大容量650Mb)以及Dreamcast所使用的GD-ROM (最大容量1G) 大出多倍DVD影碟/音乐CD/DVD-R/-RW/DVD-RW、DVD+R/+RW",
+      "音频特性": "PCM音源24路，信号采样频率44.1KHz，和CD音乐相同",
+      "产品尺寸": "182x301x78",
+      "产品重量": "2kg"
+    }
+  },
+  {
+    "name": "索尼PS2《乐高蝙蝠侠》同捆版",
+    "manufacturer": "索尼",
+    "series": "PS2系列",
+    "opendb_id": "__ps2__________",
+    "metadata": {
+      "类别": "SONY PS2 游戏主机",
+      "CPU": "PS2的中央处理器Emotion Engine, 与Platinum III一样使用了现时最先端的半导体技术0.18技术, 时钟速度为300Mhz, 较Dreamcast的200Mhz快三分一",
+      "内存性能": "32MB",
+      "浮点运算能力": "6.2 GFLOPs MPEG2 性能",
+      "多边形性能": "每秒钟可处理多达7500万个多边形",
+      "像素填充率": "2.4G像素/秒",
+      "游戏载体": "DVD",
+      "产品尺寸": "182×301×78"
+    }
+  },
+  {
+    "name": "索尼PS2-77000白色主机",
+    "manufacturer": "索尼",
+    "series": "PS2系列",
+    "opendb_id": "__ps2_77000____",
+    "metadata": {
+      "类别": "PS2游戏机",
+      "CPU": "PS2的中央处理器「Emotion Engine」, 与Platinum III一样使用了现时最先端的半导体技术0.18技术, 时钟速度为300Mhz, 较Dreamcast的200Mhz快三分一",
+      "GPU": "Graphics Synthesizer 4M；GPU时钟频率：150MHz",
+      "内存性能": "板载内存32MB",
+      "多边形性能": "每秒钟可处理多达7500万个多边形",
+      "像素填充率": "2.4G像素/秒",
+      "游戏载体": "DVD ROM的单面最大容量为9.4GB (9400Mb), 容量比PS第一代所使用的CD-ROM (最大容量650Mb)以及Dreamcast所使用的GD-ROM (最大容量1G) 大出多倍DVD影碟/音乐CD/DVD-R/-RW/DVD-RW、DVD+R/+RW",
+      "音频特性": "PCM音源24路，信号采样频率44.1KHz，和CD音乐相同",
+      "产品尺寸": "182x301x78",
+      "产品重量": "2kg"
+    }
+  }
+]
