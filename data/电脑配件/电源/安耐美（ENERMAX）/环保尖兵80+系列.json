@@ -1,0 +1,82 @@
+[
+  {
+    "name": "安耐美环保尖兵80+ 高效500W",
+    "manufacturer": "安耐美",
+    "series": "环保尖兵80+系列",
+    "opendb_id": "_______80____500w",
+    "metadata": {
+      "电源类型": "台式机类",
+      "适用范围": "支持Intel Core 2Duo/Quad/Extreme以及AMD Athlon 64x2/4 Phenom X3/X4 CPU",
+      "电源版本": "ATX 12V 2.3",
+      "PFC类型": "主动式",
+      "额定功率": "500W",
+      "风扇描述": "12cm",
+      "3.3V输出电流": "24A",
+      "5V输出电流": "24A",
+      "12V1输出电流": "24A",
+      "12V2输出电流": "24A",
+      "保护功能": "过电流 过电压 低电压 过负载 过温度 短路保护",
+      "安规认证": "UL/cUL TUV CCC BSMI GOST CB CE FCC MIC"
+    }
+  },
+  {
+    "name": "安耐美环保尖兵80+ 高效400W",
+    "manufacturer": "安耐美",
+    "series": "环保尖兵80+系列",
+    "opendb_id": "_______80____400w",
+    "metadata": {
+      "电源类型": "台式机类",
+      "适用范围": "支持Intel Core 2Duo/Quad/Extreme以及AMD Athlon 64x2/4 Phenom X3/X4 CPU",
+      "电源版本": "ATX 12V 2.3",
+      "PFC类型": "主动式",
+      "额定功率": "400W",
+      "风扇描述": "12cm",
+      "3.3V输出电流": "20A",
+      "5V输出电流": "20A",
+      "12V1输出电流": "22A",
+      "12V2输出电流": "22A",
+      "保护功能": "过电流 过电压 低电压 过负载 过温度 短路保护",
+      "安规认证": "UL/cUL TUV CCC BSMI GOST CB CE FCC MIC"
+    }
+  },
+  {
+    "name": "安耐美环保尖兵80+ 高效620W",
+    "manufacturer": "安耐美",
+    "series": "环保尖兵80+系列",
+    "opendb_id": "_______80____620w",
+    "metadata": {
+      "电源类型": "台式机类",
+      "适用范围": "支持Intel Core 2Duo/Quad/Extreme以及AMD Athlon 64x2/4 Phenom X3/X4 CPU",
+      "电源版本": "ATX 12V 2.3",
+      "PFC类型": "主动式",
+      "额定功率": "620W",
+      "风扇描述": "12cm",
+      "3.3V输出电流": "24A",
+      "5V输出电流": "24A",
+      "12V1输出电流": "30A",
+      "12V2输出电流": "30A",
+      "保护功能": "过电流 过电压 低电压 过负载 过温度 短路保护",
+      "安规认证": "UL/cUL TUV CCC BSMI GOST CB CE FCC MIC"
+    }
+  },
+  {
+    "name": "安耐美环保尖兵80+ 高效350W",
+    "manufacturer": "安耐美",
+    "series": "环保尖兵80+系列",
+    "opendb_id": "_______80____350w",
+    "metadata": {
+      "电源类型": "台式机类",
+      "适用范围": "支持Intel Core 2Duo/Quad/Extreme以及AMD Athlon 64x2/4 Phenom X3/X4 CPU",
+      "电源版本": "ATX 12V 2.3",
+      "PFC类型": "主动式",
+      "额定功率": "350W",
+      "风扇描述": "12cm",
+      "3.3V输出电流": "20A",
+      "5V输出电流": "20A",
+      "12V1输出电流": "17A",
+      "12V2输出电流": "17A",
+      "保护功能": "过电流 过电压 低电压 过负载 过温度 短路保护",
+      "安规认证": "UL/cUL TUV CCC BSMI GOST CB CE FCC MIC"
+    }
+  }
+]
