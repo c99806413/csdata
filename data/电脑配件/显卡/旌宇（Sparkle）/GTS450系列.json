@@ -1,0 +1,78 @@
+[
+  {
+    "name": "GTS450系列 (1GB)",
+    "manufacturer": "旌宇",
+    "series": "GTS450系列",
+    "opendb_id": "gts450_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTS 450",
+      "显示芯片系列": "NVIDIA GTS400系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF106",
+      "核心频率": "700MHz/789MHz/850MHz/783MHz",
+      "CUDA核心": "192个",
+      "显存频率": "3608MHz/3760MHz/3800MHz/1200MHz",
+      "显存类型": "GDDR5/GDDR3",
+      "显存容量": "1GB",
+      "显存位宽": "128bitbit",
+      "最大分辨率": "2560×1600",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口/Mini HDMI接口/双DVI接口/双DVI接口/Mini HDMI接口/HDMI接口/DVI接口",
+      "散热方式": "散热风扇/散热风扇+散热片",
+      "3D API": "DirectX 11",
+      "供电模式": "3+1相",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  },
+  {
+    "name": "GTS450系列 (2GB)",
+    "manufacturer": "旌宇",
+    "series": "GTS450系列",
+    "opendb_id": "gts450_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTS 450",
+      "显示芯片系列": "NVIDIA GTS400系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF106",
+      "核心频率": "700MHz/783MHz",
+      "CUDA核心": "192个",
+      "显存频率": "1400MHz/1000MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "2GB",
+      "显存位宽": "128bitbit",
+      "最大分辨率": "2560×1600",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口/双DVI接口/Mini HDMI接口",
+      "散热方式": "散热风扇/散热风扇+散热片",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  },
+  {
+    "name": "GTS450系列 (512GB)",
+    "manufacturer": "旌宇",
+    "series": "GTS450系列",
+    "opendb_id": "gts450_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTS 450",
+      "显示芯片系列": "NVIDIA GTS400系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF106",
+      "核心频率": "700MHz",
+      "CUDA核心": "192个",
+      "显存频率": "3608MHz/3600MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "512GB",
+      "显存位宽": "128bitbit",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口/双DVI接口/Mini HDMI接口",
+      "散热方式": "散热风扇",
+      "供电模式": "3+1相",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术",
+      "3D API": "DirectX 11"
+    }
+  }
+]

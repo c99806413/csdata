@@ -1,0 +1,48 @@
+[
+  {
+    "name": "GTS250系列 (512GB)",
+    "manufacturer": "旌宇",
+    "series": "GTS250系列",
+    "opendb_id": "gts250_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTS 250",
+      "制作工艺": "55纳米",
+      "核心代号": "G92",
+      "核心频率": "761MHz/738MHz",
+      "CUDA核心": "128个/112个",
+      "显存频率": "2322MHz/2200MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "512GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560*1600/2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI/HDMI接口/DVI接口/VGA接口",
+      "散热方式": "散热风扇+热管散热/散热风扇",
+      "3D API": "DirectX 10"
+    }
+  },
+  {
+    "name": "GTS250系列 (1GB)",
+    "manufacturer": "旌宇",
+    "series": "GTS250系列",
+    "opendb_id": "gts250_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTS 250",
+      "制作工艺": "55纳米",
+      "核心代号": "G92",
+      "核心频率": "738MHz/300MHz/738MHz/761MHz",
+      "CUDA核心": "128个/112个",
+      "显存频率": "2200MHz/800MHz/2200MHz/2322MHzMHz",
+      "显存类型": "GDDR3",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口",
+      "散热方式": "散热风扇/散热风扇+热管散热",
+      "3D API": "DirectX 10"
+    }
+  }
+]
