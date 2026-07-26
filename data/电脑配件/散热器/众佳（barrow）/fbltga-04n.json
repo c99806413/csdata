@@ -1,0 +1,16 @@
+[
+  {
+    "name": "barrowch FBLTGA-04N",
+    "manufacturer": "barrowch",
+    "series": "fbltga-04n",
+    "opendb_id": "barrowch_fbltga_04n",
+    "metadata": {
+      "产品型号": "fbltga-04n",
+      "散热方式": "水冷",
+      "产品重量": "1.2kg",
+      "额定电压": "5v",
+      "热管数量": "无热管",
+      "散热片尺寸": "106*68*23mm"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "name": "barrow Dabel20b 360MM",
+    "manufacturer": "barrow",
+    "series": "Dabel20b",
+    "opendb_id": "barrow_dabel20b_360mm",
+    "metadata": {
+      "产品型号": "Dabel-20b",
+      "散热方式": "水冷",
+      "产品重量": "1kg",
+      "散热片尺寸": "395*120*20mm"
+    }
+  },
+  {
+    "name": "barrow Dabel20b 240MM",
+    "manufacturer": "barrow",
+    "series": "Dabel20b",
+    "opendb_id": "barrow_dabel20b_240mm",
+    "metadata": {
+      "产品型号": "Dabel-20b",
+      "散热方式": "水冷",
+      "散热片尺寸": "395*120*20mm"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "振华NEON360 NEON 360",
+    "manufacturer": "振华",
+    "series": "NEON360",
+    "opendb_id": "__neon360_neon_360",
+    "metadata": {
+      "产品型号": "NEON360",
+      "散热器类型": "Intel 平台散热器",
+      "散热方式": "水冷",
+      "产品重量": "2.3kg",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "800RPM",
+      "端子接口": "AMD AM4，INTEL LGA1700",
+      "散热片尺寸": "398x120x27mm"
+    }
+  },
+  {
+    "name": "振华NEON360 NEON 240",
+    "manufacturer": "振华",
+    "series": "NEON360",
+    "opendb_id": "__neon360_neon_240",
+    "metadata": {
+      "产品型号": "NEON360",
+      "散热器类型": "Intel 平台散热器",
+      "散热方式": "水冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "800RPM",
+      "散热片尺寸": "398x120x27mm"
+    }
+  }
+]

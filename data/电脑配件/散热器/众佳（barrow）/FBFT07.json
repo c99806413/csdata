@@ -1,0 +1,25 @@
+[
+  {
+    "name": "barrowch FBFT07 黑色POM",
+    "manufacturer": "barrowch",
+    "series": "FBFT07",
+    "opendb_id": "barrowch_fbft07___pom",
+    "metadata": {
+      "产品型号": "FBFT07",
+      "散热方式": "水冷",
+      "产品重量": "200g",
+      "散热片尺寸": "64*36*32mm"
+    }
+  },
+  {
+    "name": "barrowch FBFT07 白色POM",
+    "manufacturer": "barrowch",
+    "series": "FBFT07",
+    "opendb_id": "barrowch_fbft07___pom",
+    "metadata": {
+      "产品型号": "FBFT07",
+      "散热方式": "水冷",
+      "散热片尺寸": "64*36*32mm"
+    }
+  }
+]

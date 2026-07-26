@@ -1,0 +1,56 @@
+[
+  {
+    "name": "barrow DARIDP30 240 黑色马甲 240MM规格冷排",
+    "manufacturer": "barrow",
+    "series": "DARIDP30 240",
+    "opendb_id": "barrow_daridp30_240______240mm____",
+    "metadata": {
+      "产品型号": "DARIDP-30 240",
+      "散热方式": "水冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "2200RPM",
+      "散热片尺寸": "430*124*65mm"
+    }
+  },
+  {
+    "name": "barrow DARIDP30 240 银色马甲 360MM规格冷排",
+    "manufacturer": "barrow",
+    "series": "DARIDP30 240",
+    "opendb_id": "barrow_daridp30_240______360mm____",
+    "metadata": {
+      "产品型号": "DARIDP-30 240",
+      "散热方式": "水冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "2200RPM",
+      "散热片尺寸": "430*124*65mm",
+      "水冷排类型": "360冷排"
+    }
+  },
+  {
+    "name": "barrow DARIDP30 240 银色马甲 240MM规格冷排",
+    "manufacturer": "barrow",
+    "series": "DARIDP30 240",
+    "opendb_id": "barrow_daridp30_240______240mm____",
+    "metadata": {
+      "产品型号": "DARIDP-30 240",
+      "散热方式": "水冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "2200RPM",
+      "散热片尺寸": "430*124*65mm"
+    }
+  },
+  {
+    "name": "barrow DARIDP30 240 黑色马甲 360MM规格冷排",
+    "manufacturer": "barrow",
+    "series": "DARIDP30 240",
+    "opendb_id": "barrow_daridp30_240______360mm____",
+    "metadata": {
+      "产品型号": "DARIDP-30 240",
+      "散热方式": "水冷",
+      "风扇尺寸": "120*120*25mm",
+      "最高转数": "2200RPM",
+      "散热片尺寸": "430*124*65mm",
+      "水冷排类型": "360冷排"
+    }
+  }
+]

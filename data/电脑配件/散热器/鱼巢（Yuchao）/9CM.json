@@ -1,0 +1,54 @@
+[
+  {
+    "name": "MetalFish（鱼巢）9CM 碟影9CM 黑框ARGB 反叶",
+    "manufacturer": "鱼巢",
+    "series": "9CM",
+    "opendb_id": "metalfish____9cm___9cm___argb___",
+    "metadata": {
+      "产品型号": "碟影9CM",
+      "散热方式": "风冷",
+      "风扇尺寸": "9CMmm",
+      "最高转数": "700RPM",
+      "散热片尺寸": "9CMmm"
+    }
+  },
+  {
+    "name": "MetalFish（鱼巢）9CM 碟影9CM 黑框ARGB 正叶",
+    "manufacturer": "鱼巢",
+    "series": "9CM",
+    "opendb_id": "metalfish____9cm___9cm___argb___",
+    "metadata": {
+      "产品型号": "碟影9CM",
+      "散热方式": "风冷",
+      "风扇尺寸": "9CMmm",
+      "最高转数": "700RPM",
+      "散热片尺寸": "9CMmm"
+    }
+  },
+  {
+    "name": "MetalFish（鱼巢）9CM 碟影9CM 白框ARGB 正叶",
+    "manufacturer": "鱼巢",
+    "series": "9CM",
+    "opendb_id": "metalfish____9cm___9cm___argb___",
+    "metadata": {
+      "产品型号": "碟影9CM",
+      "散热方式": "风冷",
+      "风扇尺寸": "9CMmm",
+      "最高转数": "700RPM",
+      "散热片尺寸": "9CMmm"
+    }
+  },
+  {
+    "name": "MetalFish（鱼巢）9CM 碟影9CM 白框ARGB 反叶",
+    "manufacturer": "鱼巢",
+    "series": "9CM",
+    "opendb_id": "metalfish____9cm___9cm___argb___",
+    "metadata": {
+      "产品型号": "碟影9CM",
+      "散热方式": "风冷",
+      "风扇尺寸": "9CMmm",
+      "最高转数": "700RPM",
+      "散热片尺寸": "9CMmm"
+    }
+  }
+]
