@@ -1,0 +1,36 @@
+[
+  {
+    "name": "GTX 1650 (4GB)",
+    "manufacturer": "七彩虹",
+    "series": "GTX 1650",
+    "opendb_id": "gtx_1650_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1650",
+      "显示芯片系列": "NVIDIA GTX 16系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU117/TU106",
+      "核心频率": "基础频率：Base:1485MHz；Boost:1665MHz一键OC核心频率：Base:1485MHz；Boost:1860MHz/1410-1590MHz/1410-1740MHz/1410-1725MHz/1485-1665MHz/1410-1710MHz/1485MHz/基础频率：Base:1485MHz；Boost:1785MHz/基础频率：Base:1485MHz；Boost:1860MHz/基础频率：Base:1485MHz；Boost:1680MHz",
+      "CUDA核心": "896个/1280个",
+      "显存频率": "8000MHz/12000MHz",
+      "显存类型": "GDDR5/GDDR6",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口/1×DisplayPort接口，1×HDMI接口，1×DVI接口",
+      "电源接口": "6pin/8pin/6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热+热管散热/双风扇散热/三风扇散热/散热风扇",
+      "3D API": "DirectX 12.1，OpenGL 4.5",
+      "供电模式": "3+1相/2+1相",
+      "支持HDCP": "是",
+      "产品尺寸": "240×132×40.3mm/232×127×42mm/310×126×42mm/224×133×42mm/232×127×39mm/228×127×39mm/183×127×42mm/183×127×39mm/232×127×40mm",
+      "最大功耗": "75W/80W/90W/85W",
+      "建议电源": "400W",
+      "其它特点": "支持NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNCGame Ready 驱动程序支持NVIDIA GPU BoostNVIDIA Encoder (NVENC)/NVIDIA Ansel，NVIDIA GPU Boost",
+      "上市日期": "2019年04月",
+      "其他参数": "显存带宽：128GB/S显卡类型：双槽玩家力量图腾外甲、铜管直触散热鳍片/显存带宽：192GB/s/显存带宽：128GB/s/显存带宽：128GB/S显卡类型：双槽铜管直触散热鳍片"
+    }
+  }
+]

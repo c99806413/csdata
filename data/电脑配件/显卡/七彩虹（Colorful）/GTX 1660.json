@@ -1,0 +1,37 @@
+[
+  {
+    "name": "GTX 1660 (6GB)",
+    "manufacturer": "七彩虹",
+    "series": "GTX 1660",
+    "opendb_id": "gtx_1660_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1660",
+      "显示芯片系列": "NVIDIA GTX 16系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU116",
+      "核心频率": "基础频率：Base:1530MHz；Boost:1785MHz一键OC核心频率：Base:1530MHz；Boost:1860MHz/1530-1785MHz/Base:1530MHz；Boost:1785MHz/1860MHz/基础频率：Base:1530MHz；Boost:1785MHz一键OC核心频率：Base:1530MHz；Boost:1875MHz",
+      "CUDA核心": "1408个",
+      "显存频率": "8000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "6GB",
+      "显存位宽": "192bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "电源接口": "8pin/6pin",
+      "显卡类型": "主流级",
+      "散热方式": "三风扇散热+热管散热/双风扇散热+热管散热/三风扇散热",
+      "3D API": "DirectX 12.1，OpenGL 4.5",
+      "供电模式": "4+2相/3+1相/6+2相",
+      "支持HDCP": "是",
+      "RGB": "RGB灯效/RGB灯组",
+      "产品尺寸": "310×126×42mm/222×126×42mm/315×131×45mm",
+      "最大功耗": "120W",
+      "建议电源": "450W/400W及以上",
+      "其它特点": "VR Ready级别显卡，NVIDIA G-SYNC技术，Ansel，GPU Boost/NVIDIA Ansel，NVIDIA GPU Boost/VR Ready级别显卡，NVIDIA G-SYNC技术",
+      "上市日期": "2019年03月",
+      "其他参数": "显存带宽：192GB/S显卡类型：双槽全覆盖式散热鳍片、电竞雄心外甲/显存带宽：192GB/S/显存带宽：192GB/S显卡类型：双槽铜管直触散热鳍片、装甲背板/显卡类型：双槽显存带宽：192GB/S"
+    }
+  }
+]

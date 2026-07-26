@@ -1,0 +1,36 @@
+[
+  {
+    "name": "4080 SUPER (16GB)",
+    "manufacturer": "七彩虹",
+    "series": "4080 SUPER",
+    "opendb_id": "4080_super_16gb",
+    "metadata": {
+      "产品型号": "iGame GeForce RTX 4080 SUPER Neptune OC 16GB/iGame GeForce RTX 4080 SUPER Ultra W OC 16GB/iGame GeForce RTX 4080 SUPER Advanced OC 16GB/iGame GeForce RTX 4080 SUPER Vulcan OC 16GB/iGame GeForce RTX 4080 SUPER Vulcan W OC 16GB/iGame GeForce RTX 4080 SUPER Vulcan 16GB/iGame GeForce RTX 4080 SUPER Advanced OC 16GB x 黑神话:悟空/iGame GeForce RTX 4080 SUPER Neptune 16GB/iGame GeForce RTX 4080 SUPER 龙年限定 16GB/iGame GeForce RTX 4080 SUPER Advanced 16GB/iGame GeForce RTX 4080 SUPER 龙年限定 OC 16GB/iGame GeForce RTX 4080 SUPER Ultra W 16GB/iGame GeForce RTX 4080 SUPER Vulcan W 16GB",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 4080 SUPER",
+      "显示芯片系列": "NVIDIA RTX 40系列",
+      "制作工艺": "4纳米",
+      "核心代号": "AD103-400/AD103",
+      "核心频率": "核心频率：2295-2550MHz一键超频：2295-2640MHz/核心频率：2295-2550MHz一键超频：2295-2595MHz/核心频率：2295-2550MHz一键超频：2295-2625MHz/核心频率：2295-2550MHz一键超频：2295-2550MHz",
+      "CUDA核心": "10240个",
+      "显存频率": "23000MHz",
+      "显存类型": "GDDR6X",
+      "显存容量": "16GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "16pin",
+      "显卡类型": "发烧级/发烧级，主流级",
+      "显卡设计": "非公版",
+      "散热方式": "三风扇散热+热管散热/水冷散热",
+      "散热设计": "水排：394*119.2*54.4水管：420mm",
+      "3D API": "DirectX 12，OpenGL 4.6",
+      "支持HDCP": "是，2.3",
+      "产品尺寸": "含挡板：253.5*170.8*41.5mm不含挡板：240*155.6*40.5mm/含挡板：337*150*60.9mm不含挡板：322.5*134.5*61mm/含挡板：343.8*147.6*70.5mm不含挡板：330.4*132.4*70.5mm/含挡板：348.5*159.5*70.4mm不含挡板：336.9*140.9*70.4mm/含挡板：348.5*159.5*70.4mm不含挡板：3369*140.9*70.4mm/不含挡片：336.9×144.5×70.4mm/不含挡片：240×155.6×40.5mm水排：394×119.2×54.4mm水管：420mm/含挡板：337*150*60.9mm不含挡板：322.5×134.5×61mm",
+      "建议电源": "850W及以上/850W/850W以上",
+      "多屏设计": "4",
+      "其它特点": "支持 NVIDIA DLSS：DLSS 3.5超分辨率DLAA光线重建帧生成，支持 NVIDIA Reflex，支持 NVIDIA Broadcast，支持 Resizable BAR，支持 NVIDIA GeForce Experience，支持 NVIDIA Ansel，支持 NVIDIA FreeStyle，支持 NVIDIA ShadowPlay，支持 NVIDIA Highlights，支持 NVIDIA G-SYNC，支持 NVIDIA Studio 驱动，支持 NVIDIA Omniverse，支持 Microsoft DirectX 12 Ultimate，支持 NVIDIA GPU Boost，支持 NVIDIA NVLink (SLI-Ready)，支持 VR Ready/支持NVIDIA DLSS技术，NVIDIA G-SYNC技术，3rd Gen Ray Tracing Cores/支持NVIDIA DLSS 3技术，NVIDIA G-SYNC技术，3rd Gen Ray Tracing Cores"
+    }
+  }
+]

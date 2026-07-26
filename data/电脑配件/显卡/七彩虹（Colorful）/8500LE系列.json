@@ -1,0 +1,19 @@
+[
+  {
+    "name": "8500LE系列 (64GB)",
+    "manufacturer": "七彩虹",
+    "series": "8500LE系列",
+    "opendb_id": "8500le_64gb",
+    "metadata": {
+      "芯片厂商": "ATI",
+      "显卡芯片": "Radeon 8500LE (R200)/Radeon 8500LE",
+      "核心频率": "250MHzMHz",
+      "显存频率": "500MHzMHz",
+      "显存类型": "DDR",
+      "显存容量": "64GB",
+      "接口类型": "AGP 4X",
+      "散热方式": "风扇/散热风扇",
+      "3D API": "Microsoft DirectX 8.1"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "GeForce GTX 1650 SUPER系列 (4GB)",
+    "manufacturer": "七彩虹",
+    "series": "GeForce GTX 1650 SUPER系列",
+    "opendb_id": "geforce_gtx_1650_super_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1650 SUPER",
+      "显示芯片系列": "NVIDIA GTX 16 SUPER系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU116",
+      "核心频率": "Base:1530MHz；Boost:1725MHz/基础频率：Base:1530MHz；Boost:1725MHz一键OC核心频率：Base:1530MHz；Boost:1755MHz/Base:1530MHz；Boost:1755MHz/基础频率：Base:1530MHz；Boost:1725MHz/1530-1725MHz/基础频率：Base:1530MHz；Boost:1725MHz一键OC核心频率：Base:1530MHz；Boost:1725MHz",
+      "CUDA核心": "1280个",
+      "显存频率": "12000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×DisplayPort接口，1×HDMI接口，1×DVI接口/1×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin",
+      "显卡类型": "主流级",
+      "散热方式": "双风扇散热+热管散热/风扇散热+热管散热",
+      "3D API": "DirectX 12.1，OpenGL 4.5",
+      "供电模式": "3+1相",
+      "支持HDCP": "是，HDCP 2.2",
+      "产品尺寸": "234×130×42mm/240×130×42mm/230×132×42mm/227×130×42mm/180×130×42mm",
+      "最大功耗": "100W",
+      "建议电源": "400W/450W",
+      "其它特点": "支持 NVIDIA GeForce Experience支持NVIDIA Ansel支持NVIDIA Highlights支持NVIDIA G-SYNC支持Game Ready 驱动程序支持NVIDIA GPU Boost支持VRNVIDIA Encoder/NVIDIA Ansel，NVIDIA GPU Boost",
+      "上市日期": "2019年11月",
+      "其他参数": "显卡类型：双槽/显存带宽：192GB/s"
+    }
+  }
+]

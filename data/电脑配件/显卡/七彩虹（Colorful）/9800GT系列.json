@@ -1,0 +1,54 @@
+[
+  {
+    "name": "9800GT系列 (512GB)",
+    "manufacturer": "七彩虹",
+    "series": "9800GT系列",
+    "opendb_id": "9800gt_512gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9800 GT",
+      "制作工艺": "65纳米/55纳米",
+      "核心代号": "G92",
+      "核心频率": "700MHz/600MHz/650MHz",
+      "CUDA核心": "112个",
+      "显存频率": "2000MHz/1800MHz/800MHz",
+      "显存类型": "GDDR3/GDDR2",
+      "显存容量": "512GB",
+      "显存位宽": "256bitbit/128bitbit",
+      "最大分辨率": "2560×1600/2560*1600",
+      "接口类型": "PCI Express 2.0 16X/PCI Express 2.0",
+      "I/O接口": "HDMI/HDMI接口/DVI接口/VGA接口/S-video接口(TV-Out)",
+      "电源接口": "6pin",
+      "散热方式": "散热风扇/散热风扇+散热片（静音）/散热片（静音）",
+      "3D API": "DirectX 10/DirectX 10.1",
+      "其它特点": "A.S.S超耐久供电双BIOS变频加速GVC核心增压变频器VVC显存增压变频器I.T.A温度智能报警L.A.D灯光侦错XFS极冷却散热",
+      "产品特性1": "支持NVIDIA PhysX技术",
+      "产品特性2": "支持NVIDIA HybridPower(混合动力)技术",
+      "产品特性3": "支持NVIDIA PureVideo HD技术"
+    }
+  },
+  {
+    "name": "9800GT系列 (1GB)",
+    "manufacturer": "七彩虹",
+    "series": "9800GT系列",
+    "opendb_id": "9800gt_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce 9800 GT",
+      "制作工艺": "65纳米/55纳米",
+      "核心代号": "G92",
+      "核心频率": "600MHz/650MHz",
+      "CUDA核心": "112个",
+      "显存频率": "1800MHz/2000MHz",
+      "显存类型": "GDDR3/GDDR2",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit/128bitbit",
+      "最大分辨率": "2560×1600/2560*1600",
+      "接口类型": "PCI Express 2.0 16X/PCI Express 2.0",
+      "I/O接口": "HDMI/S-video接口(TV-Out)",
+      "电源接口": "6pin",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10"
+    }
+  }
+]

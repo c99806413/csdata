@@ -1,0 +1,42 @@
+[
+  {
+    "name": "GT710 (2GB)",
+    "manufacturer": "七彩虹",
+    "series": "GT710",
+    "opendb_id": "gt710_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GT 710",
+      "显示芯片系列": "NVIDIA GTX 700系列",
+      "制作工艺": "28纳米",
+      "核心频率": "954MHz",
+      "CUDA核心": "192个",
+      "显存频率": "1000MHz/1600MHz/5000MHz",
+      "显存类型": "GDDR3/GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "64bit",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×VGA接口",
+      "最大功耗": "19W"
+    }
+  },
+  {
+    "name": "GT710 (1GB)",
+    "manufacturer": "七彩虹",
+    "series": "GT710",
+    "opendb_id": "gt710_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GT 710",
+      "显示芯片系列": "NVIDIA GTX 700系列",
+      "制作工艺": "28纳米",
+      "CUDA核心": "192个",
+      "显存频率": "1600MHz/1333MHz/1000MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "1GB",
+      "显存位宽": "64bit",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×VGA接口",
+      "最大功耗": "19W",
+      "核心频率": "954MHz/810MHz"
+    }
+  }
+]

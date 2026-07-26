@@ -1,0 +1,37 @@
+[
+  {
+    "name": "2060 SUPER (8GB)",
+    "manufacturer": "七彩虹",
+    "series": "2060 SUPER",
+    "opendb_id": "2060_super_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2060 SUPER",
+      "显示芯片系列": "NVIDIA RTX SUPER系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU106-410/TU106",
+      "核心频率": "基础频率：Base:1470MHz；Boost:1650MHz一键OC核心频率：Base:1470MHz；Boost:1875MHz/基础频率：Base:1470MHz；Boost:1650MHz/基础频率：Base:1470MHz；Boost:1650MHz一键OC核心频率：Base:1470MHz；Boost:1815MHz/Base:1470MHz；Boost:1650MHz/基础频率：Base:1470MHz；Boost:1815MHz/基础频率：Base:1470MHz；Boost:1650MHz一键OC核心频率：Base:1470MHz；Boost:1650MHz",
+      "CUDA核心": "2176个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口，1×USB Type-C接口/1×HDMI接口，1×DisplayPort接口，1×DVI接口/1×HDMI接口，3×DisplayPort接口/1×HDMI接口，2×DisplayPort接口，1×DVI接口",
+      "电源接口": "8pin+8pin/8pin/6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "三风扇散热+热管散热9（施剑者散热器）/双风扇散热+热管散热/三风扇散热+热管散热/双风扇散热/三风扇散热+热管散热（回流一体焊散热组件）/水冷散热/三风扇散热+热管散热（施剑者散热器2.0）",
+      "3D API": "DirectX 12.1，OpenGL 4.5",
+      "供电模式": "10+2相/6+2相/8+2相",
+      "支持HDCP": "是",
+      "RGB": "极幻霓虹灯光控制/RGB灯效/RGB灯组",
+      "产品尺寸": "318×147×59mm/222×126×42mm/310×126×53mm/315×147×52mm/267×111×42mm/315×136×45mm/280×129×42mm",
+      "最大功耗": "175W",
+      "建议电源": "550W",
+      "其它特点": "支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术，Real-Time Ray Tracing，Ansel，GPU Boost/支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术/支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术，一键超频，Real-Time Ray Tracing，Ansel，GPU Boost",
+      "上市日期": "2019年07月/2019年12月",
+      "其他参数": "显存带宽：448GB/S显卡类型：超双槽LCD侧显屏2.0“维”/显存带宽：448GB/S显卡类型：超双槽黑红外甲撞色设计、镰刀型扇叶、坚固背板/显存带宽：448GB/S显卡类型：超双槽全覆盖式散热鳍片、电竞雄心外甲/显存带宽：448GB/S显卡类型：超双槽电竞雄心外甲、超量镀银PCB、Drmos技术/显存带宽：448GB/S显卡类型：超双槽刚硬外甲/显存带宽：448GB/S显卡类型：双槽密集水道技术/显存带宽：448GB/S显卡类型：超双槽LCD侧显屏2.0“维”，嗅温精灵+智能启停、极幻霓虹灯光控制"
+    }
+  }
+]

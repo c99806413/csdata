@@ -1,0 +1,33 @@
+[
+  {
+    "name": "5070 (12GB)",
+    "manufacturer": "七彩虹",
+    "series": "5070",
+    "opendb_id": "5070_12gb",
+    "metadata": {
+      "产品型号": "iGame GeForce RTX 5070 Vulcan X OC 12GB/战斧 GeForce RTX 5070 豪华版 12GB V2/iGame GeForce RTX 5070 Ultra W OC 12GB/iGame GeForce RTX 5070 Vulcan W OC 12GB/战斧 GeForce RTX 5070 豪华版 12GB/iGame GeForce RTX 5070 Vulcan OC 12GB/iGame GeForce RTX 5070 Advanced OC Senna 12GB/iGame GeForce RTX 5070 Mini OC 12GB/iGame GeForce RTX 5070 Ultra W 12GB/iGame GeForce RTX 5070 Ultra W Classic OC 12GB/iGame GeForce iGame GeForce RTX 5070 Advanced OC 12GB5070 Vulcan X OC 12GB/iGame GeForce RTX 5070 Vulcan 12GB/iGame GeForce RTX 5070 Mini W OC 12GB/iGame GeForce RTX 5070 Advanced 12GB/iGame GeForce RTX 5070 Ultra OC 12GB/iGame GeForce RTX 5070 Ultra Z OC 12GB",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 5070",
+      "显示芯片系列": "NVIDIA RTX 50系列",
+      "核心频率": "基础频率：Base：2325MHz；Boost：2512MHz/基础频率：Base：2325MHz；Boost：2512MHz一键OC核心频率：Base：2325MHz；Boost：2557MHz/基础频率：Base：2325MHz；Boost：2512MHz一键OC核心频率：Base：2325MHz；Boost：2587MHz/基础频率：Base：2325MHz；Boost：2557MHz/基础频率：Base：2325MHz；Boost：2512MHz一键OC核心频率：2325MHz；Boost：2512MHz/基础频率：Base：2325MHz；Boost：2512MHz一键OC核心频率：Base：2325MHz；Boost：2572MHz/基础频率：Base：2325MHz；Boost：2512MHz一键OC核心频率：Base：2325MHz；Boost：2512MHz",
+      "CUDA核心": "6144个",
+      "显存频率": "28000MHz",
+      "显存类型": "GDDR7",
+      "显存容量": "12GB",
+      "显存位宽": "192bit",
+      "最大分辨率": "7680×4320",
+      "内存带宽": "672GB/s",
+      "接口类型": "PCI Express 5.0 16X",
+      "I/O接口": "1×HDMI 2.1接口，3×DisplayPort 2.1接口",
+      "电源接口": "16pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热+热管散热",
+      "3D API": "DirectX 12 Ultimate，OpenGL 4.6",
+      "产品尺寸": "312.6×118.8×53.3mm/301.4×120×50mm/300.5×120×50mm/336×145×62.9mm/330×140×60.5mm/180×123×39.8mm/313.5×118.8×50.5mm",
+      "重量": "1.16kg/1kg/2.1kg/2.18kg/1.7kg/0.85kg/1.22kg",
+      "最大功耗": "270W",
+      "建议电源": "650W",
+      "其他参数": "AI算力：988 TOPS"
+    }
+  }
+]

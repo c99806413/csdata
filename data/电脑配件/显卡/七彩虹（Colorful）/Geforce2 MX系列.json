@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Geforce2 MX系列 (未知显存)",
+    "manufacturer": "七彩虹",
+    "series": "Geforce2 MX系列",
+    "opendb_id": "geforce2_mx",
+    "metadata": {
+      "显卡芯片": "Geforce2 MX",
+      "显存频率": "166MHzMHz",
+      "最大分辨率": "2048×1536"
+    }
+  },
+  {
+    "name": "Geforce2 MX系列 (64MB)",
+    "manufacturer": "七彩虹",
+    "series": "Geforce2 MX系列",
+    "opendb_id": "geforce2_mx_64mb",
+    "metadata": {
+      "显卡芯片": "Geforce2 MX",
+      "接口类型": "AGP 4X"
+    }
+  }
+]
