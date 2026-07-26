@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Crucial RealSSD C300系列",
+    "manufacturer": "美光",
+    "series": "Crucial RealSSD C300系列",
+    "opendb_id": "crucial_realssd_c300",
+    "metadata": {
+      "存储容量": "128GB/64GB/256GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "读取速度": "355/355MB/s",
+      "写入数据传输率": "215MB/s/75MB/s",
+      "其它特点": "34nm工艺ONFI 2.1标准NAND闪存"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "ST600 SATA3系列",
+    "manufacturer": "联想",
+    "series": "ST600 SATA3系列",
+    "opendb_id": "st600_sata3",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "240GB/120GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC多层单元",
+      "读取速度": "515MB/s/510MB/s",
+      "写入速度": "250MB/s/150MB/s",
+      "IOPS读取": "75K IOPS/65K IOPS",
+      "IOPS写入": "70K IOPS/35K IOPS",
+      "电源功耗": "工作电压：5V 工作：<3W 待机：＜0.5W",
+      "产品重量": "60g"
+    }
+  }
+]
