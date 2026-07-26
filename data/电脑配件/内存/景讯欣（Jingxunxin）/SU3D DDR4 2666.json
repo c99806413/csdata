@@ -1,0 +1,26 @@
+[
+  {
+    "name": "景讯欣SU3D 4GB DDR4 2666",
+    "manufacturer": "景讯欣",
+    "series": "SU3D DDR4 2666",
+    "opendb_id": "___su3d_4gb_ddr4_2666",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（4GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2666MHz"
+    }
+  },
+  {
+    "name": "景讯欣SU3D 8GB DDR4 2666",
+    "manufacturer": "景讯欣",
+    "series": "SU3D DDR4 2666",
+    "opendb_id": "___su3d_8gb_ddr4_2666",
+    "metadata": {
+      "适用类型": "台式机",
+      "容量描述": "单条（8GB）",
+      "内存类型": "DDR4",
+      "内存主频": "2666MHz"
+    }
+  }
+]

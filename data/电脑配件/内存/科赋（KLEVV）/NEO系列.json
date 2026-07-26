@@ -1,0 +1,41 @@
+[
+  {
+    "name": "科赋NEO 4GB DDR3 1600",
+    "manufacturer": "科赋",
+    "series": "NEO系列",
+    "opendb_id": "__neo_4gb_ddr3_1600",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "CL延迟": "9-9-9-24",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "科赋NEO 8GB DDR3 1600（2×4GB）",
+    "manufacturer": "科赋",
+    "series": "NEO系列",
+    "opendb_id": "__neo_8gb_ddr3_1600_2_4gb_",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "CL延迟": "9-9-9-24",
+      "工作电压": "1.5V"
+    }
+  },
+  {
+    "name": "科赋NEO 8GB DDR3 1600",
+    "manufacturer": "科赋",
+    "series": "NEO系列",
+    "opendb_id": "__neo_8gb_ddr3_1600",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR3",
+      "内存主频": "1600MHz",
+      "CL延迟": "9-9-9-24",
+      "工作电压": "1.5V"
+    }
+  }
+]

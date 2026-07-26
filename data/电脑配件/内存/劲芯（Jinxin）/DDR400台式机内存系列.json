@@ -1,0 +1,43 @@
+[
+  {
+    "name": "劲芯512MB DDR400（GMD51264UDX814-50）",
+    "manufacturer": "劲芯",
+    "series": "DDR400台式机内存系列",
+    "opendb_id": "__512mb_ddr400_gmd51264udx814_50_",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "TSOP",
+      "CL延迟": "3",
+      "制作工艺": "芯片分布：单面八颗"
+    }
+  },
+  {
+    "name": "劲芯1GB DDR400（GMD10064UDX824-50）",
+    "manufacturer": "劲芯",
+    "series": "DDR400台式机内存系列",
+    "opendb_id": "__1gb_ddr400_gmd10064udx824_50_",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "TSOP",
+      "CL延迟": "3",
+      "工作电压": "2.5V"
+    }
+  },
+  {
+    "name": "劲芯256MB DDR400",
+    "manufacturer": "劲芯",
+    "series": "DDR400台式机内存系列",
+    "opendb_id": "__256mb_ddr400",
+    "metadata": {
+      "适用类型": "台式机",
+      "内存类型": "DDR",
+      "内存主频": "400MHz",
+      "颗粒封装": "TSOP-II",
+      "CL延迟": "3"
+    }
+  }
+]
