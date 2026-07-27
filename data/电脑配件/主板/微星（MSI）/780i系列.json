@@ -1,0 +1,50 @@
+[
+  {
+    "name": "微星P7N2 Diamond",
+    "manufacturer": "msi微星",
+    "series": "780i系列",
+    "opendb_id": "__p7n2_diamond",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "NVIDIA nForce 790i Ultra SLI",
+      "音频芯片": "集成Creative SB X-Fi Xtreme H/W音效芯片，提供7.1声道输出",
+      "网卡芯片": "板载Realtek RTL8211BL双千兆网卡",
+      "CPU类型": "Core 2 Extreme/Core 2 Quad/Core 2 Duo/Pentium 4/Pentium D/Pentium XE/P4EE/Celeron D",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持英特尔45nm 酷睿2处理器",
+      "内存类型": "4×DDR3 DIMM",
+      "最大内存容量": "8GB",
+      "内存描述": "支持双通道DDR3 2000+/1600/1333/1066/800MHz内存",
+      "PCI-E标准": "4条PCI-E 16X",
+      "PCI插槽": "1条PCI插槽，2条PCI-E 1X",
+      "存储接口": "6个SATA II接口，支持0、1、0+1、5和JBOD",
+      "USB接口": "8个USB2.0接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "2个eSATA接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型"
+    }
+  },
+  {
+    "name": "微星P7N Diamond",
+    "manufacturer": "msi微星",
+    "series": "780i系列",
+    "opendb_id": "__p7n_diamond",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "NVIDIA nForce 780i SLI",
+      "音频芯片": "板载Creative SB X-Fi声卡",
+      "网卡芯片": "板载双Realtek RTL8211BL 千兆网卡",
+      "CPU类型": "Core 2 Quad/Core2 Extreme/Core 2 Duo/奔腾4/赛扬D/PentiumD",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel Core 2 Extreme, Core 2 Quad, Core 2 Duo, P4, P4EE, Pentium D, Pentium XE 及Celeron D处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 533/667/800/1066内存，最高支持8GB",
+      "PCI-E标准": "4条PCI-E 16X",
+      "PCI插槽": "1条PCI 插槽，2条PCI-E 1X",
+      "存储接口": "6个SATA II接口，支持RAID 0,1, 0+1, 5,JBOD",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "2个eSATA接口，IEEE1394接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型"
+    }
+  }
+]
