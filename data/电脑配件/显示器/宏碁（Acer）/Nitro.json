@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Acer Nitro XV282K KV",
+    "manufacturer": "Acer宏碁",
+    "series": "Nitro",
+    "opendb_id": "acer_nitro_xv282k_kv",
+    "metadata": {
+      "产品类型": "4K显示器",
+      "产品定位": "商务办公，影音娱乐",
+      "屏幕尺寸": "28英寸",
+      "最佳分辨率": "3840x2160",
+      "屏幕比例": "21:9",
+      "高清标准": "4K",
+      "面板类型": "IPS",
+      "动态对比度": "1亿:1",
+      "响应时间": "1ms",
+      "色域": "DCI-P3：90％",
+      "刷新率": "144Hz",
+      "视频接口": "D-Sub（VGA）,DVI,HDMI",
+      "机身颜色": "黑色",
+      "游戏功能": "AMD FreeSyncPremium技术",
+      "HDR": "支持，HDR400",
+      "其它特点": "Acer VisionCare 3.0LightSenseColorSenseProxiSenseBluelightShield Pro"
+    }
+  },
+  {
+    "name": "Acer Nitro XV252Q F",
+    "manufacturer": "Acer宏碁",
+    "series": "Nitro",
+    "opendb_id": "acer_nitro_xv252q_f",
+    "metadata": {
+      "产品类型": "护眼显示器，护眼显示器",
+      "产品定位": "影音娱乐，商务办公",
+      "屏幕尺寸": "24.5英寸",
+      "最佳分辨率": "1920x1080",
+      "屏幕比例": "16:9（宽屏）",
+      "高清标准": "1080p（全高清）",
+      "面板类型": "IPS",
+      "响应时间": "1ms",
+      "色域": "sRGB：99％",
+      "刷新率": "360Hz（原生），390Hz（超频）",
+      "视频接口": "HDMI2.0×2，Displayport1.4×1",
+      "机身颜色": "黑色",
+      "游戏功能": "AMD FreeSync Premium技术",
+      "其它特点": "支持VRR"
+    }
+  },
+  {
+    "name": "Acer Nitro XV272U KF",
+    "manufacturer": "Acer宏碁",
+    "series": "Nitro",
+    "opendb_id": "acer_nitro_xv272u_kf",
+    "metadata": {
+      "产品类型": "广视角显示器，护眼显示器",
+      "产品定位": "商务办公，影音娱乐",
+      "屏幕尺寸": "27英寸",
+      "最佳分辨率": "2560×1440",
+      "屏幕比例": "16:9",
+      "高清标准": "2K",
+      "面板类型": "Agile-Splendor IPS",
+      "响应时间": "0.5ms",
+      "色域": "DCI-P3：90％",
+      "刷新率": "300Hz",
+      "游戏功能": "AMD FreeSync Premium技术",
+      "HDR": "支持，HDR600",
+      "其它特点": "Acer Black Boost技术Acer Vision Care 3.0"
+    }
+  }
+]

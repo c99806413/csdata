@@ -1,0 +1,48 @@
+[
+  {
+    "name": "华硕VW195U",
+    "manufacturer": "华硕",
+    "series": "19寸液晶VW195系列",
+    "opendb_id": "__vw195u",
+    "metadata": {
+      "屏幕尺寸": "19英寸",
+      "最佳分辨率": "1440x900",
+      "屏幕比例": "16:10",
+      "动态对比度": "2000:1（ASCR，智能动态对比度）",
+      "响应时间": "2ms",
+      "点距": "0.285mm",
+      "亮度": "300cd/㎡",
+      "可视角度": "160/160°",
+      "显示颜色": "16.7M",
+      "视频接口": "D-Sub,DVI (HDCP)",
+      "机身颜色": "黑色",
+      "产品尺寸": "机体尺寸：444 x 376 x 210mm包装尺寸：493 x 430 x 161",
+      "产品重量": "净重（预估）：3.9kg毛重（预估）：5.7",
+      "电源功率": "<40",
+      "音箱": "左右声道喇叭1W x 2 stereo RMS3.5mm Mini-jack",
+      "安规认证": "Energy Star，TCO03，UL/cUL，CB，CE，FCC，CCC，BSMI，Gost-R，C-Tick，VCCI，PSB，GreenASUS（RoHS），WHQL（Vista Premium compatible）",
+      "其它特点": "VESA标准：100x100 mmKensington安全锁孔"
+    }
+  },
+  {
+    "name": "华硕VW195D",
+    "manufacturer": "华硕",
+    "series": "19寸液晶VW195系列",
+    "opendb_id": "__vw195d",
+    "metadata": {
+      "屏幕尺寸": "19英寸",
+      "最佳分辨率": "1440x900",
+      "屏幕比例": "16:10",
+      "动态对比度": "2000:1",
+      "点距": "0.285mm",
+      "亮度": "300cd/㎡",
+      "可视角度": "160/160°",
+      "显示颜色": "16.7M",
+      "视频接口": "15针 D-Sub",
+      "机身颜色": "黑色",
+      "产品尺寸": "(WxHxD)444x376x210",
+      "产品重量": "3.9",
+      "安规认证": "Energy Star, TCO03, UL/cUL, CB, CE, FCC, CCC, BSMI, Gost-R, C-Tick, VCCI, PSB, GreenASUS(RoHS), WHQL(Vista Basic compatible)"
+    }
+  }
+]

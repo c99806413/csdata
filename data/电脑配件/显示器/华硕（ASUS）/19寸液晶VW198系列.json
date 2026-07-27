@@ -1,0 +1,47 @@
+[
+  {
+    "name": "华硕VW198TE",
+    "manufacturer": "华硕",
+    "series": "19寸液晶VW198系列",
+    "opendb_id": "__vw198te",
+    "metadata": {
+      "屏幕尺寸": "19英寸",
+      "最佳分辨率": "1680x1050",
+      "屏幕比例": "16:10",
+      "动态对比度": "3000:1",
+      "点距": "0.243mm",
+      "亮度": "300cd/㎡",
+      "可视角度": "170/160°",
+      "显示颜色": "16.7M",
+      "视频接口": "D-Sub,DVI-D,3.5mm Mini-jack",
+      "机身颜色": "黑色",
+      "产品尺寸": "444×364×210mm",
+      "产品重量": "4.3",
+      "电源功率": "40",
+      "音箱": "配备多媒体音箱",
+      "安规认证": "Energy Star®，ISO13406-II，UL/cUL，CB，CE，FCC，CCC，BSMI，Gost-R，C-Tick，VCCI，PSB，RoHS，WHQL（Vista Premium compatible（VW198T）"
+    }
+  },
+  {
+    "name": "华硕VW198DE",
+    "manufacturer": "华硕",
+    "series": "19寸液晶VW198系列",
+    "opendb_id": "__vw198de",
+    "metadata": {
+      "屏幕尺寸": "19英寸",
+      "最佳分辨率": "1680x1050",
+      "屏幕比例": "16:10",
+      "动态对比度": "3000:1",
+      "点距": "0.243mm",
+      "亮度": "300cd/㎡",
+      "可视角度": "170/160°",
+      "显示颜色": "16.7M",
+      "视频接口": "D-Sub",
+      "机身颜色": "黑色",
+      "产品尺寸": "444×364×210mm",
+      "产品重量": "4.3",
+      "电源功率": "40",
+      "安规认证": "Energy Star®，ISO13406-II，UL/cUL，CB，CE，FCC，CCC，BSMI，Gost-R，C-Tick，VCCI，PSB，RoHS，WHQL（Vista Premium compatible（VW198T）"
+    }
+  }
+]
