@@ -1,0 +1,83 @@
+[
+  {
+    "name": "微星K9NGM4-F",
+    "manufacturer": "msi微星",
+    "series": "MCP68系列",
+    "opendb_id": "__k9ngm4_f",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "nVIDIA nForce630A",
+      "芯片组描述": "采用nVIDIA MCP68S芯片组",
+      "显示芯片": "集成GF7025显卡",
+      "音频芯片": "集成Realtek ALC888声卡芯片",
+      "网卡芯片": "板载Realtek RTL8211BL/ RTL8201CL千兆网卡",
+      "CPU类型": "Athlon64/Athlon 64 X2/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持AMD Athlon 64 X2/Athlon 64/Sempron处理器",
+      "内存类型": "2×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 533/667/800内存，最高支持4GB",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽，1条PCI-E 1X",
+      "存储接口": "4个SATA II接口，支持RAID 0/1/0+1/5，JBOD",
+      "视频接口": "音频接口/VGA接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "IEEE1394接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "三相"
+    }
+  },
+  {
+    "name": "微星K9NGM3",
+    "manufacturer": "msi微星",
+    "series": "MCP68系列",
+    "opendb_id": "__k9ngm3",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "nVIDIA nForce630A",
+      "芯片组描述": "采用nVIDIA MCP68PV芯片组",
+      "显示芯片": "整合GeForce 7050显示核心",
+      "音频芯片": "集成Realtek ALC888 声卡芯片",
+      "网卡芯片": "板载Realtek RTL8211BL千兆网卡",
+      "CPU类型": "Athlon64/Athlon 64 X2/Athlon64 FX/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持Athlon 64 X2/Athlon 64/Sempron处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 533/667/800内存，最高支持8GB",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽，1条PCI-E 1X",
+      "存储接口": "4个SATA II接口，支持RAID 0/1/0+1/5/JBOD",
+      "视频接口": "VGA接口/DVI接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "IEEE 1394接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "三相"
+    }
+  },
+  {
+    "name": "微星K9NGM4-F V2",
+    "manufacturer": "msi微星",
+    "series": "MCP68系列",
+    "opendb_id": "__k9ngm4_f_v2",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "nVIDIA nForce630A",
+      "芯片组描述": "采用nVIDIA MCP68S芯片组",
+      "显示芯片": "整合GF7025显卡",
+      "音频芯片": "集成Realtek ALC888声卡芯片",
+      "网卡芯片": "板载Realtek RTL8211BL千兆网卡",
+      "CPU类型": "Athlon64/Athlon 64 X2/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持AMD Athlon 64 X2/Athlon 64/Sempron处理器",
+      "内存类型": "2×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 533/667/800内存，最高支持4GB",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽，1条PCI-E 1X",
+      "存储接口": "支持RAID 0/1/0+1/5，JBOD",
+      "视频接口": "音频接口/VGA接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "IEEE1394接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "三相"
+    }
+  }
+]

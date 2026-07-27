@@ -1,0 +1,43 @@
+[
+  {
+    "name": "微星6167",
+    "manufacturer": "msi微星",
+    "series": "NF750a系列",
+    "opendb_id": "__6167",
+    "metadata": {
+      "主芯片组": "AMD 750",
+      "CPU插槽": "Slot A",
+      "内存描述": "3个DIMM",
+      "PCI-E标准": "2X",
+      "主板板型": "ATX板型"
+    }
+  },
+  {
+    "name": "微星K7 Pro",
+    "manufacturer": "msi微星",
+    "series": "NF750a系列",
+    "opendb_id": "__k7_pro",
+    "metadata": {
+      "主芯片组": "AMD 750",
+      "CPU插槽": "Slot A",
+      "内存描述": "3个DIMM，最高可支持768MB SDRAM",
+      "主板板型": "ATX板型"
+    }
+  },
+  {
+    "name": "微星P7N SLI Platinum",
+    "manufacturer": "msi微星",
+    "series": "NF750a系列",
+    "opendb_id": "__p7n_sli_platinum",
+    "metadata": {
+      "主芯片组": "NVIDIA nForce 750i SLI",
+      "CPU插槽": "LGA 775",
+      "内存描述": "支持双通道DDR2 533/667/800内存，最高支持8GB",
+      "PCI-E标准": "3条PCI-E 16X",
+      "主板板型": "ATX板型",
+      "视频接口": "音频接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "2个eSATA接口，IEEE1394接口，PS/2鼠标，PS/2键盘接口"
+    }
+  }
+]
