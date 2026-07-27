@@ -1,0 +1,28 @@
+[
+  {
+    "name": "EIZO ColorEdge CE240W",
+    "manufacturer": "艺卓",
+    "series": "24寸绘图系列",
+    "opendb_id": "eizo_coloredge_ce240w",
+    "metadata": {
+      "产品定位": "设计制图（顶级）",
+      "屏幕尺寸": "24.1英寸",
+      "最佳分辨率": "1920x1200",
+      "屏幕比例": "16:10（宽屏）",
+      "背光类型": "CCFL背光",
+      "动态对比度": "1000:1",
+      "点距": "0.27mm",
+      "亮度": "450cd/㎡",
+      "可视面积": "518.4×324.0mm",
+      "可视角度": "178/178°",
+      "显示颜色": "16.7M",
+      "视频接口": "DVI-I",
+      "其它接口": "USB2.0",
+      "机身颜色": "黑色，白色",
+      "产品重量": "7.8kg（包含底座）",
+      "电源性能": "100-240V、200-240V，50-60Hz",
+      "电源功率": "最大:110W待机:2W",
+      "安规认证": "TCO'03 (white), TCO'99 (black) T/Ergonomics (including ISO 13406-2), T/GS, c-Tick, CE, CB, UL (cTus), CSA (cTus), FCC-B, Canadian ICES-003-B, T/S, VCCI-B, EPA ENERGY STAR, EIZO Eco Products 2004"
+    }
+  }
+]

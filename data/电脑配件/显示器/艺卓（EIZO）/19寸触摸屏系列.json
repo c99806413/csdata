@@ -1,0 +1,185 @@
+[
+  {
+    "name": "EIZO FlexScan L788",
+    "manufacturer": "艺卓",
+    "series": "19寸触摸屏系列",
+    "opendb_id": "eizo_flexscan_l788",
+    "metadata": {
+      "屏幕尺寸": "19英寸",
+      "最佳分辨率": "1280x1024",
+      "屏幕比例": "5:4",
+      "动态对比度": "1000:1",
+      "点距": "0.294mm",
+      "亮度": "250cd/㎡",
+      "可视角度": "178°",
+      "显示颜色": "16.77M",
+      "视频接口": "DVI-I*2",
+      "机身颜色": "黑色、灰色",
+      "产品尺寸": "404×506×205",
+      "产品重量": "6.8",
+      "电源功率": "50W",
+      "安规认证": "TCO 03 (gray),TüV/Ergonomics (including ISO 13406-2), TüV/GS, c-Tick, CE, CB, UL (cTüVus), CSA (cTüVus), FCC-B, Canadian ICES-003-B, TüV/S, VCCI-B, EPA ENERGY STAR, EIZO Eco Products 2004"
+    }
+  },
+  {
+    "name": "EIZO FlexScan L797",
+    "manufacturer": "艺卓",
+    "series": "19寸触摸屏系列",
+    "opendb_id": "eizo_flexscan_l797",
+    "metadata": {
+      "屏幕尺寸": "19英寸",
+      "最佳分辨率": "1280x1024",
+      "屏幕比例": "5:4（普屏）",
+      "动态对比度": "450:1",
+      "点距": "0.294mm",
+      "亮度": "280cd/㎡",
+      "可视角度": "170/170°",
+      "显示颜色": "16.7M",
+      "视频接口": "DVI-D",
+      "机身颜色": "黑色，灰色",
+      "电源功率": "最大:60W待机:1W"
+    }
+  },
+  {
+    "name": "EIZO FlexScan L760T-C",
+    "manufacturer": "艺卓",
+    "series": "19寸触摸屏系列",
+    "opendb_id": "eizo_flexscan_l760t_c",
+    "metadata": {
+      "屏幕尺寸": "19英寸",
+      "最佳分辨率": "1280x1024",
+      "屏幕比例": "5:4（普屏）",
+      "动态对比度": "1000:1",
+      "点距": "0.294mm",
+      "亮度": "180cd/㎡",
+      "可视角度": "178/178°",
+      "显示颜色": "16.7M",
+      "视频接口": "D-Sub（VGA），DVI-D",
+      "机身颜色": "灰色",
+      "产品尺寸": "414×340×64mm（不含底座）",
+      "产品重量": "6kg（不含底座）",
+      "电源功率": "40W",
+      "安规认证": "T/GM (EN60601-1), CE Medical Device Directive, CB (IEC60601-1, IEC60950), cTus (UL2601-1, CSA C22.2 No. 601-1), FCC-B, Canadian ICES-003-B, VCCI-B, EIZO Eco Products 2002"
+    }
+  },
+  {
+    "name": "EIZO FlexScan L768-AS",
+    "manufacturer": "艺卓",
+    "series": "19寸触摸屏系列",
+    "opendb_id": "eizo_flexscan_l768_as",
+    "metadata": {
+      "屏幕尺寸": "19英寸",
+      "最佳分辨率": "1280x1024",
+      "屏幕比例": "5:4",
+      "动态对比度": "1000:1",
+      "点距": "0.294mm",
+      "亮度": "250cd/㎡",
+      "可视角度": "178/178°",
+      "显示颜色": "16.77M",
+      "视频接口": "D-Sub mini 15 pin, DVI-D 24 pin (switchable)",
+      "机身颜色": "灰色",
+      "产品尺寸": "404 × 288–423 × 200（含底座）",
+      "产品重量": "6.6 （含底座）",
+      "电源功率": "40W",
+      "安规认证": "TCO 03 (gray),TüV/Ergonomics (including ISO 13406-2), TüV/GS, c-Tick, CE, CB, UL (cTüVus), CSA (cTüVus), FCC-B, Canadian ICES-003-B, TüV/S, VCCI-B, EPA ENERGY STAR, EIZO Eco Products 2004"
+    }
+  },
+  {
+    "name": "EIZO FlexScan L768-K",
+    "manufacturer": "艺卓",
+    "series": "19寸触摸屏系列",
+    "opendb_id": "eizo_flexscan_l768_k",
+    "metadata": {
+      "屏幕尺寸": "19英寸",
+      "最佳分辨率": "1280x1024",
+      "屏幕比例": "5:4",
+      "动态对比度": "1000:1",
+      "点距": "0.294mm",
+      "亮度": "250cd/㎡",
+      "可视角度": "178/178°",
+      "显示颜色": "16.77M",
+      "视频接口": "D-Sub mini 15 pin, DVI-D 24 pin (switchable)",
+      "机身颜色": "黑色",
+      "产品尺寸": "406×506×205 （含底座）",
+      "产品重量": "6.8 （含底座）",
+      "电源功率": "40W",
+      "安规认证": "TCO 03 (gray),TüV/Ergonomics (including ISO 13406-2), TüV/GS, c-Tick, CE, CB, UL (cTüVus), CSA (cTüVus), FCC-B, Canadian ICES-003-B, TüV/S, VCCI-B, EPA ENERGY STAR, EIZO Eco Products 2004"
+    }
+  },
+  {
+    "name": "EIZO FlexScan L760T-CK",
+    "manufacturer": "艺卓",
+    "series": "19寸触摸屏系列",
+    "opendb_id": "eizo_flexscan_l760t_ck",
+    "metadata": {
+      "屏幕尺寸": "19英寸",
+      "最佳分辨率": "1280x1024",
+      "屏幕比例": "5:4",
+      "动态对比度": "1000:1（典型值）",
+      "点距": "0.294mm",
+      "亮度": "180（典型值）cd/㎡",
+      "可视角度": "178/178°",
+      "显示颜色": "16.7M彩色",
+      "视频接口": "15针 D-Sub,DVI-D",
+      "机身颜色": "黑色",
+      "产品尺寸": "414×340×64（无底座）",
+      "产品重量": "6（无底座）",
+      "电源功率": "40 W",
+      "安规认证": "T躒/GM (EN60601-1), CE Medical Device Directive, CB (IEC60601-1, IEC60950), cT躒us (UL2601-1, CSA C22.2 No. 601-1), FCC-B, Canadian ICES-003-B, VCCI-B, EIZO Eco Products 2002"
+    }
+  },
+  {
+    "name": "EIZO FlexScan L797-U",
+    "manufacturer": "艺卓",
+    "series": "19寸触摸屏系列",
+    "opendb_id": "eizo_flexscan_l797_u",
+    "metadata": {
+      "屏幕尺寸": "19英寸",
+      "最佳分辨率": "1280x1024",
+      "屏幕比例": "5:4（普屏）",
+      "动态对比度": "450:1",
+      "点距": "0.294mm",
+      "亮度": "280cd/㎡",
+      "可视角度": "170/170°",
+      "显示颜色": "16.7M",
+      "视频接口": "DVI-D",
+      "机身颜色": "黑色，黑色",
+      "电源功率": "最大:60W待机:1W"
+    }
+  },
+  {
+    "name": "EIZO FlexScan L768-ASK",
+    "manufacturer": "艺卓",
+    "series": "19寸触摸屏系列",
+    "opendb_id": "eizo_flexscan_l768_ask",
+    "metadata": {
+      "屏幕尺寸": "19英寸",
+      "最佳分辨率": "1280x1024",
+      "屏幕比例": "5:4",
+      "动态对比度": "1000:1",
+      "点距": "0.294mm",
+      "亮度": "250cd/㎡",
+      "可视角度": "178°",
+      "显示颜色": "16.77M",
+      "视频接口": "D-Sub mini 15 pin, DVI-D 24 pin (switchable)",
+      "机身颜色": "黑色",
+      "产品尺寸": "404 × 288–423 × 200（含底座）",
+      "产品重量": "6.6 （含底座）",
+      "电源功率": "40W",
+      "安规认证": "TCO 03 (gray),TüV/Ergonomics (including ISO 13406-2), TüV/GS, c-Tick, CE, CB, UL (cTüVus), CSA (cTüVus), FCC-B, Canadian ICES-003-B, TüV/S, VCCI-B, EPA ENERGY STAR, EIZO Eco Products 2004"
+    }
+  },
+  {
+    "name": "EIZO FlexScan L795",
+    "manufacturer": "艺卓",
+    "series": "19寸触摸屏系列",
+    "opendb_id": "eizo_flexscan_l795",
+    "metadata": {
+      "屏幕尺寸": "19英寸",
+      "动态对比度": "500:1",
+      "点距": "0.294mm",
+      "亮度": "250cd/㎡",
+      "可视角度": "170°°"
+    }
+  }
+]

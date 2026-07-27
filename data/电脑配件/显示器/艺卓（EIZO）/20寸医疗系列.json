@@ -1,0 +1,73 @@
+[
+  {
+    "name": "EIZO RadiForce G22",
+    "manufacturer": "艺卓",
+    "series": "20寸医疗系列",
+    "opendb_id": "eizo_radiforce_g22",
+    "metadata": {
+      "产品定位": "行业应用（医用）",
+      "屏幕尺寸": "19.6英寸",
+      "最佳分辨率": "1600x1200",
+      "屏幕比例": "4:3（普屏）",
+      "背光类型": "CCFL背光",
+      "动态对比度": "850:1",
+      "点距": "0.242mm",
+      "亮度": "800，500（推荐）cd/㎡",
+      "可视面积": "299×398mm",
+      "显示颜色": "Grayscale Tones：1,021 from a palette of 3,061",
+      "视频接口": "DVI-D",
+      "其它接口": "2×USB2.0",
+      "机身颜色": "黑色",
+      "产品尺寸": "337×441×78.5（不含底座）",
+      "产品重量": "5.3kg（不含底座）",
+      "电源性能": "100-240V、200-240V，50-60Hz",
+      "安规认证": "CE (Medical Device Directive), T躒/GM (EN60601-1), cT躒us (UL2601-1, CSA C22.2 No. 601-1), CB (IEC60601-1), VCCI-A, FCC-A, Canadian ICES-003-A, FDA 510(k), CCC , EIZO Eco Products 2002",
+      "语言菜单": "英文，日语",
+      "其它特点": "高度调节：82 mm；提供的桌面辅助程序：AC power cord, user's manual, signal cable (DVI-D ~ DVI-D), USB cable, warranty registration card"
+    }
+  },
+  {
+    "name": "EIZO RadiForce G20",
+    "manufacturer": "艺卓",
+    "series": "20寸医疗系列",
+    "opendb_id": "eizo_radiforce_g20",
+    "metadata": {
+      "产品定位": "行业应用（医用）",
+      "屏幕尺寸": "20.1英寸",
+      "最佳分辨率": "1600x1200",
+      "屏幕比例": "4:3（普屏）",
+      "背光类型": "CCFL背光",
+      "动态对比度": "1000:1",
+      "点距": "0.255mm",
+      "亮度": "700， 400 cd/m2 （推荐）cd/㎡",
+      "可视面积": "306×408mm",
+      "显示颜色": "256 from a palette of 1,531",
+      "视频接口": "DVI-D",
+      "其它接口": "3×USB",
+      "机身颜色": "黑色",
+      "产品尺寸": "347×449×86.5mm（不含底座）",
+      "产品重量": "7.3kg（不含底座）",
+      "电源性能": "100-240V、200-240V，50-60Hz",
+      "安规认证": "CE (Medical Device Directive), T躒/GM (EN60601-1), cT躒us (UL2601-1, CSA C22.2 No. 601-1), CB (IEC60601-1), VCCI-A, FCC-A, Canadian ICES-003-A, FDA 510(k), CCC",
+      "其它特点": "提供的桌面辅助程序：AC power cord, user's manual, signal cable (DVI-D ~ DVI-D), USB cable, warranty registration card"
+    }
+  },
+  {
+    "name": "EIZO RadiForce G21",
+    "manufacturer": "艺卓",
+    "series": "20寸医疗系列",
+    "opendb_id": "eizo_radiforce_g21",
+    "metadata": {
+      "产品定位": "设计制图",
+      "屏幕尺寸": "20.1英寸",
+      "最佳分辨率": "1600x1200",
+      "屏幕比例": "4:3（普屏）",
+      "动态对比度": "1000:1",
+      "点距": "0.255mm",
+      "亮度": "700cd/㎡",
+      "显示颜色": "256 种色彩",
+      "产品尺寸": "449×347×86.5mm",
+      "产品重量": "7.3kg"
+    }
+  }
+]

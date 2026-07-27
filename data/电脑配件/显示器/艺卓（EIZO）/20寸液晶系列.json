@@ -1,0 +1,56 @@
+[
+  {
+    "name": "EIZO FlexScan S2001W",
+    "manufacturer": "艺卓",
+    "series": "20寸液晶系列",
+    "opendb_id": "eizo_flexscan_s2001w",
+    "metadata": {
+      "产品定位": "设计制图",
+      "屏幕尺寸": "20.1英寸",
+      "最佳分辨率": "1680x1050",
+      "屏幕比例": "16:10（宽屏）",
+      "背光类型": "CCFL背光",
+      "动态对比度": "1000:1",
+      "点距": "0.258mm",
+      "亮度": "300cd/㎡",
+      "可视面积": "433.4×270.9 mm",
+      "可视角度": "170/170°",
+      "显示颜色": "16.7M",
+      "视频接口": "D-Sub（VGA），DVI-D",
+      "其它接口": "USB，音频输入，音频输出",
+      "机身颜色": "黑色，灰色",
+      "产品尺寸": "469×427–509×208.5mm（高度可调底座）469×339.5–504.5×279.9–291.9mm（EzUp底座）469×309×69.5mm（无底座）",
+      "产品重量": "8.7kg（高度可调底座）10.5kg（EzUp底座）5.7kg（无底座）",
+      "电源性能": "100-240V，50-60Hz",
+      "电源功率": "最大:60W典型:24W待机:＜1W",
+      "音箱": "内置音箱（2×1W）",
+      "HDCP": "支持HDCP",
+      "安规认证": "TCO'03，TÜV/Ergonomics (包括 ISO 13406-2)，TÜV/GS，c-Tick，CE，CB，UL (cTÜVus)，CSA (cTÜVus)，FCC-B, Canadian ICES-003-B，TÜV/S，VCCI-B，EPA ENERGY STAR，RoHS，WEEE，EIZO Eco Products 2006"
+    }
+  },
+  {
+    "name": "EIZO FlexScan S2000",
+    "manufacturer": "艺卓",
+    "series": "20寸液晶系列",
+    "opendb_id": "eizo_flexscan_s2000",
+    "metadata": {
+      "屏幕尺寸": "20.1英寸",
+      "最佳分辨率": "1600x1200",
+      "屏幕比例": "4:3",
+      "背光类型": "CCFL背光",
+      "动态对比度": "1000:1",
+      "点距": "0.255mm",
+      "亮度": "300cd/㎡",
+      "可视面积": "408×306 mm",
+      "可视角度": "178/178°",
+      "显示颜色": "16.77M",
+      "视频接口": "D-Sub 迷你 15 针, DVI-I 29 针 (可切换)",
+      "机身颜色": "灰色、黑色",
+      "产品尺寸": "含底座: 443 × 446 – 528 × 208.5 mm不含底座: 443 × 347 × 69(宽×高×深)",
+      "产品重量": "含底座: 9.0 kg不含底座: 6.0 kg",
+      "电源性能": "AC 100 – 120 V, 200 – 240 V: 50 / 60 Hz",
+      "电源功率": "64(最高)",
+      "安规认证": "TCO'03, TÜV/Ergonomics (including ISO 13406-2), TÜV/GS, C-Tick, CE, CB, UL (cTÜVus), CSA (cTÜVus), FCC-B, Canadian ICES-003-B, TÜV/S, VCCI-B, EPA ENERGY STAR, RoHS, WEEE, EIZO Eco Products 2006"
+    }
+  }
+]

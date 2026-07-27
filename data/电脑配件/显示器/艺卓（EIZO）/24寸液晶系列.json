@@ -1,0 +1,174 @@
+[
+  {
+    "name": "EIZO FlexScan HD2452W",
+    "manufacturer": "艺卓",
+    "series": "24寸液晶系列",
+    "opendb_id": "eizo_flexscan_hd2452w",
+    "metadata": {
+      "产品定位": "设计制图",
+      "屏幕尺寸": "24英寸",
+      "最佳分辨率": "1920x1200",
+      "屏幕比例": "16:10（宽屏）",
+      "背光类型": "CCFL背光",
+      "动态对比度": "1000:1",
+      "点距": "0.27mm",
+      "亮度": "450cd/㎡",
+      "视频接口": "D-Sub（VGA），DVI-D，HDMI，分量，色差，S端子",
+      "其它接口": "USB",
+      "机身颜色": "黑色"
+    }
+  },
+  {
+    "name": "EIZO FlexScan HD2442W",
+    "manufacturer": "艺卓",
+    "series": "24寸液晶系列",
+    "opendb_id": "eizo_flexscan_hd2442w",
+    "metadata": {
+      "产品定位": "设计制图",
+      "屏幕尺寸": "24英寸",
+      "最佳分辨率": "1920x1200",
+      "屏幕比例": "16:10（宽屏）",
+      "背光类型": "CCFL背光",
+      "动态对比度": "3000:1",
+      "点距": "0.27mm",
+      "亮度": "450cd/㎡",
+      "视频接口": "D-Sub（VGA），DVI-D，2×HDMI",
+      "其它接口": "2×USB",
+      "机身颜色": "黑色，钛银色，钢琴黑色",
+      "电源性能": "100-240V、200-240V，50-60Hz",
+      "电源功率": "最大:110W典型:48W待机:＜2W",
+      "音箱": "内置音箱（2×5W）",
+      "安规认证": "TCO'03 (黑色), TÜV/Ergonomics (包括 ISO 13406-2), TÜV/GS, c-Tick, CE, CB, UL (cTÜVus), CSA (cTÜVus), FCC-B, Canadian ICES-003-B, TÜV/S, VCCI-B, EPA ENERGY STAR, RoHS, WEEE, EIZO Eco Products 2006"
+    }
+  },
+  {
+    "name": "EIZO FlexScan MX240W",
+    "manufacturer": "艺卓",
+    "series": "24寸液晶系列",
+    "opendb_id": "eizo_flexscan_mx240w",
+    "metadata": {
+      "产品定位": "设计制图（高端）",
+      "屏幕尺寸": "24英寸",
+      "最佳分辨率": "1920x1200",
+      "屏幕比例": "16:10（宽屏）",
+      "背光类型": "CCFL背光",
+      "动态对比度": "850:1",
+      "点距": "0.27mm",
+      "亮度": "320cd/㎡",
+      "视频接口": "DVI-I",
+      "其它接口": "USB2.0",
+      "机身颜色": "黑色",
+      "电源性能": "100-240V、200-240V，50-60Hz",
+      "电源功率": "最大:110W待机:2W",
+      "安规认证": "TCO'03, TÜV/Ergonomics (including ISO 13406-2), TÜV/GS, c-Tick, CE, CB, UL (cTÜVus), CSA (cTÜVus), FCC-B, Canadian ICES-003-B, TÜV/S, VCCI-B, EPA ENERGY STAR®, EIZO Eco Products 2006, RoHS"
+    }
+  },
+  {
+    "name": "EIZO FlexScan S2401W",
+    "manufacturer": "艺卓",
+    "series": "24寸液晶系列",
+    "opendb_id": "eizo_flexscan_s2401w",
+    "metadata": {
+      "产品定位": "设计制图",
+      "屏幕尺寸": "24.1英寸",
+      "最佳分辨率": "1920x1200",
+      "屏幕比例": "16:10（宽屏）",
+      "背光类型": "CCFL背光",
+      "动态对比度": "1000:1",
+      "点距": "0.27mm",
+      "亮度": "360cd/㎡",
+      "视频接口": "D-Sub（VGA），DVI-D",
+      "其它接口": "USB，音频输入，音频输出",
+      "机身颜色": "黑色，灰色",
+      "电源性能": "100-240V、200-240V，50-60Hz",
+      "电源功率": "最大:110W典待机:2W",
+      "音箱": "内置音箱（2×0.5W）",
+      "安规认证": "TCO'03, TÜV/Ergonomics (包括 ISO 13406-2), TÜV/GS, c-Tick, CE, CB, UL (cTÜVus), CSA (cTÜVus), FCC-B, Canadian ICES-003-B, TÜV/S, VCCI-B, EPA ENERGY STAR, RoHS, WEEE, EIZO Eco Products 2006"
+    }
+  },
+  {
+    "name": "EIZO FlexScan SX2461W",
+    "manufacturer": "艺卓",
+    "series": "24寸液晶系列",
+    "opendb_id": "eizo_flexscan_sx2461w",
+    "metadata": {
+      "产品定位": "设计制图（高端）",
+      "屏幕尺寸": "24.1英寸",
+      "最佳分辨率": "1920x1200",
+      "屏幕比例": "16:10（宽屏）",
+      "背光类型": "CCFL背光",
+      "动态对比度": "850:1",
+      "点距": "0.27mm",
+      "亮度": "300cd/㎡",
+      "视频接口": "DVI-I",
+      "其它接口": "USB",
+      "机身颜色": "黑色，灰色",
+      "电源性能": "100-240V、200-240V，50-60Hz",
+      "电源功率": "110W",
+      "安规认证": "TCO 03"
+    }
+  },
+  {
+    "name": "EIZO FlexScan S2411W",
+    "manufacturer": "艺卓",
+    "series": "24寸液晶系列",
+    "opendb_id": "eizo_flexscan_s2411w",
+    "metadata": {
+      "产品定位": "设计制图",
+      "屏幕尺寸": "24英寸",
+      "最佳分辨率": "1920x1200",
+      "屏幕比例": "16:10（宽屏）",
+      "动态对比度": "3000:1",
+      "点距": "0.27mm",
+      "亮度": "450cd/㎡",
+      "视频接口": "DVI-I",
+      "机身颜色": "黑色，白色",
+      "电源功率": "110W",
+      "安规认证": "TCO'03 (白色), TCO'99 (黑色)"
+    }
+  },
+  {
+    "name": "EIZO FlexScan S2431W",
+    "manufacturer": "艺卓",
+    "series": "24寸液晶系列",
+    "opendb_id": "eizo_flexscan_s2431w",
+    "metadata": {
+      "产品定位": "设计制图",
+      "屏幕尺寸": "24.1英寸",
+      "最佳分辨率": "1920x1200",
+      "屏幕比例": "16:10（宽屏）",
+      "背光类型": "CCFL背光",
+      "动态对比度": "10000:1",
+      "点距": "0.27mm",
+      "亮度": "450cd/㎡",
+      "视频接口": "D-Sub（VGA），DVI-D",
+      "其它接口": "USB",
+      "机身颜色": "黑色，灰色",
+      "电源性能": "100-240V、200-240V，50-60Hz",
+      "电源功率": "最大:110W待机:2W",
+      "安规认证": "TCO'03, TÜV/Ergonomics (包括 ISO 13406-2), TÜV/GS, c-Tick, CE, CB, UL (cTÜVus), CSA (cTÜVus), FCC-B, Canadian ICES-003-B, TÜV/S, VCCI-B, EPA ENERGY STAR, RoHS, WEEE, EIZO Eco Products 2006"
+    }
+  },
+  {
+    "name": "EIZO FlexScan HD2441W",
+    "manufacturer": "艺卓",
+    "series": "24寸液晶系列",
+    "opendb_id": "eizo_flexscan_hd2441w",
+    "metadata": {
+      "产品定位": "设计制图",
+      "屏幕尺寸": "24.1英寸",
+      "最佳分辨率": "1920x1200",
+      "屏幕比例": "16:10（宽屏）",
+      "背光类型": "CCFL背光",
+      "动态对比度": "3000:1",
+      "点距": "0.27mm",
+      "亮度": "450cd/㎡",
+      "视频接口": "D-Sub（VGA），DVI-D",
+      "其它接口": "2×USB2.0，音频输入，音频输出",
+      "机身颜色": "黑色，银色，钛银色，白色",
+      "电源性能": "100-240V、200-240V，50-60Hz",
+      "电源功率": "最大:110W典型:48W待机:2W",
+      "安规认证": "TCO'03 (只限白/银色或黑色),"
+    }
+  }
+]
