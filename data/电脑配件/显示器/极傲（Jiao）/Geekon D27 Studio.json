@@ -1,0 +1,23 @@
+[
+  {
+    "name": "极傲Geekon D27 Studio D32 Lite",
+    "manufacturer": "极傲",
+    "series": "Geekon D27 Studio",
+    "opendb_id": "__geekon_d27_studio_d32_lite",
+    "metadata": {
+      "产品型号": "D32 Lite",
+      "产品类型": "直面屏",
+      "产品定位": "设计制图",
+      "屏幕尺寸": "32英寸",
+      "最佳分辨率": "3840x2160",
+      "屏幕比例": "16:9",
+      "亮度": "350cd/㎡",
+      "可视角度": "178/178°",
+      "色深": "10bit",
+      "色准": "△E＜2",
+      "显示颜色": "10.7亿",
+      "色域": "sRGB：100％，AdobeRGB：90％，DCI-P3：98％",
+      "视频接口": "DP*1HDMI*1TYPE-C*1USB*2"
+    }
+  }
+]
