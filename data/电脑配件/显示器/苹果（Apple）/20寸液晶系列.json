@@ -1,0 +1,62 @@
+[
+  {
+    "name": "苹果Cinema M9177CH/A",
+    "manufacturer": "苹果",
+    "series": "20寸液晶系列",
+    "opendb_id": "__cinema_m9177ch_a",
+    "metadata": {
+      "屏幕尺寸": "20英寸",
+      "最佳分辨率": "1680x1050",
+      "屏幕比例": "16:10",
+      "动态对比度": "700:1",
+      "点距": "0.258mm",
+      "亮度": "300cd/㎡",
+      "可视角度": "178/178°",
+      "显示颜色": "1,670 万色",
+      "视频接口": "两个接口并自我供电的 USB 2.0 集线器,两个 FireWire 400 接口和 Kensington 安全接口",
+      "机身颜色": "白色",
+      "产品尺寸": "410×471×174",
+      "产品重量": "6.6",
+      "电源性能": "100-240 VAC 50-60Hz",
+      "电源功率": "操作时最大电力： 65W（Apple Cinema Display",
+      "安规认证": "FCC Part 15 Class BEN55022 Class BEN55024VCCI Class BAS/NZS 3548 Class BCNS 13438 Class BICES-003 Class BISO 13406 part 2MPR IIIEC 60950UL 60950CSA 60950EN60950ENERGY STARTCO 03"
+    }
+  },
+  {
+    "name": "苹果Cinema Display M9177CE",
+    "manufacturer": "苹果",
+    "series": "20寸液晶系列",
+    "opendb_id": "__cinema_display_m9177ce",
+    "metadata": {
+      "屏幕尺寸": "20英寸",
+      "屏幕比例": "16:10",
+      "动态对比度": "400:1",
+      "点距": "0.258mm",
+      "亮度": "250cd/㎡",
+      "可视角度": "170°",
+      "显示颜色": "16.7M",
+      "产品尺寸": "410×471×174",
+      "产品重量": "6.6"
+    }
+  },
+  {
+    "name": "苹果M8893",
+    "manufacturer": "苹果",
+    "series": "20寸液晶系列",
+    "opendb_id": "__m8893",
+    "metadata": {
+      "屏幕尺寸": "20英寸",
+      "屏幕比例": "16:10",
+      "动态对比度": "350:1",
+      "点距": "0.258mm",
+      "亮度": "230cd/㎡",
+      "可视角度": "170°",
+      "显示颜色": "16.7M",
+      "视频接口": "ADC",
+      "产品尺寸": "542×439×176",
+      "产品重量": "8.6",
+      "电源功率": "60W",
+      "安规认证": "FCC Part 15 Class B ，EN55022 Class B，EN55024，VCCI Class B，AS/NZS 3548 Class B，CNS 13438 Class B，ICES-003 Class B，MPR II，IEC 60950，UL 60950，CSA 60950，EN60950，ENERGY STAR，TCO 95"
+    }
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "name": "漫乐视220P 21英寸单VGA+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_21___vga___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 24英寸曲面微边白VGA+HDMI",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_24_______vga_hdmi",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 17英寸正方形工业屏VGA+宽边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_17________vga___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 19英寸单VGA+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_19___vga___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 19英寸VGA+HDMI+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_19__vga_hdmi___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 19英寸音频+VGA+HDMI+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_19_____vga_hdmi___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 20英寸音频+VGA+HDM+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_20_____vga_hdm___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 21英寸音频+VGA+HDMI+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_21_____vga_hdmi___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 22英寸VGA+HDMI+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_22__vga_hdmi___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm；宽350mm；高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱",
+      "刷新率": "其他"
+    }
+  },
+  {
+    "name": "漫乐视220P 24英寸直面微边黑VGA+HDMI",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_24_______vga_hdmi",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 20英寸单VGA+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_20___vga___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 20英寸VGA+HDMI+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_20__vga_hdmi___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 21英寸VGA+HDMI+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_21__vga_hdmi___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 22英寸单VGA+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_22___vga___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 22英寸16：10 VGA+HDMI+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_22__16_10_vga_hdmi___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 22英寸音频+VGA+HDMI+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_22_____vga_hdmi___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 24英寸VGA+HDMI+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_24__vga_hdmi___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 24英寸音频+VGA+HDMI+窄边",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_24_____vga_hdmi___",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 22英寸直面微边黑VGA+HDMI",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_22_______vga_hdmi",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 27英寸直面微边黑VGA+HDMI",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_27_______vga_hdmi",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 24英寸165Hz直黑DP+HDMI+耳机口",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_24__165hz__dp_hdmi____",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 24英寸165Hz曲白DP+HDMI+耳机口",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_24__165hz__dp_hdmi____",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 27英寸曲面微边白VGA+HDMI",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_27_______vga_hdmi",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  },
+  {
+    "name": "漫乐视220P 27英寸165hz曲白DP+HDMI+耳机口",
+    "manufacturer": "漫乐视",
+    "series": "220P",
+    "opendb_id": "___220p_27__165hz__dp_hdmi____",
+    "metadata": {
+      "产品型号": "220P",
+      "视频接口": "支持HDMI接口不支持Type-C接口不支持DVI接口支持VGA接口支持DP接口",
+      "产品尺寸": "长440mm宽350mm高300mm",
+      "底座功能": "普通",
+      "音箱": "内置音箱"
+    }
+  }
+]
