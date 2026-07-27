@@ -1,0 +1,54 @@
+[
+  {
+    "name": "华擎K10N750SLI-WiFi",
+    "manufacturer": "华擎",
+    "series": "NF750a系列",
+    "opendb_id": "__k10n750sli_wifi",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "NVIDIA nForce750a SLI",
+      "显示芯片": "无",
+      "音频芯片": "集成7.1声道音效芯片",
+      "网卡芯片": "板载千兆网卡",
+      "CPU插槽": "Socket AM2+",
+      "CPU描述": "支持AM2+/AM2接口处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 1066内存",
+      "PCI-E标准": "2条PCI-E 2.0 16X",
+      "PCI插槽": "3条PCI插槽，1条PCI-E 1X",
+      "存储接口": "6个SATA II接口",
+      "视频接口": "音频接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "供电模式": "五相",
+      "操作系统": "全固态电容",
+      "其它特点": "支持NVIDIA SLI以及Hybrid SLI技术提供无线网络接入"
+    }
+  },
+  {
+    "name": "华擎K10N750SLI-110dB",
+    "manufacturer": "华擎",
+    "series": "NF750a系列",
+    "opendb_id": "__k10n750sli_110db",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "NVIDIA nForce750a SLI",
+      "显示芯片": "无",
+      "音频芯片": "集成ALC890(110dB)音效芯片",
+      "网卡芯片": "板载RTL8211B千兆网卡",
+      "CPU插槽": "Socket AM2/AM2+",
+      "CPU描述": "支持AMD Phenom FX/Phenom/Athlon 64 FX/Athlon 64 X2 Dual-Core/Athlon X2 Dual-Core/Athlon 64/Sempron处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 1066/800/667/533内存，最大支持8GB",
+      "PCI-E标准": "2条PCI-E 2.0 16X(1条16X,1条8X)",
+      "PCI插槽": "3条PCI插槽，1条PCI-E 1X",
+      "存储接口": "6个SATA II接口，支持RAID 0，1，0+1，5，JBOD",
+      "视频接口": "HDMI接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "1个eSATA接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "供电模式": "五相"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "华擎A620I Lightning WiFi",
+    "manufacturer": "华擎",
+    "series": "A620",
+    "opendb_id": "__a620i_lightning_wifi",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "AMD A620",
+      "芯片组描述": "采用AMD A620芯片组",
+      "音频芯片": "集成Realtek ALC897 7.1声道音效芯片",
+      "网卡芯片": "板载Dragon RTL8125BG 2.5GbE网卡",
+      "CPU类型": "AMD Ryzen 8000/7000系列",
+      "CPU插槽": "Socket AM5",
+      "内存类型": "2×DDR5 DIMM",
+      "最大内存容量": "96GB",
+      "PCI-E标准": "PCI-E 4.0",
+      "PCI-E X16插槽": "1个",
+      "存储接口": "1×M.2接口，2×SATA III接口",
+      "USB（背板）": "2×USB2.01×USB3.2 Gen12×USB3.2 Gen21×USB3.2 Gen2 Type-C",
+      "视频接口": "1×HDMI接口",
+      "其它接口": "1×RJ45网络接口，3×音频接口",
+      "主板板型": "Mini-ITX板型",
+      "外形尺寸": "17.0×17.0cm",
+      "无线功能": "WiFi6E",
+      "蓝牙": "支持蓝牙5.2"
+    }
+  },
+  {
+    "name": "华擎A620M-HDV/M.2",
+    "manufacturer": "华擎",
+    "series": "A620",
+    "opendb_id": "__a620m_hdv_m_2",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "AMD A620",
+      "芯片组描述": "采用AMD A620芯片组",
+      "音频芯片": "集成Realtek ALC897 7.1声道音效芯片",
+      "网卡芯片": "板载Realtek RTL8111H 1GbE网卡",
+      "CPU类型": "AMD Ryzen 8000/7000系列",
+      "CPU插槽": "Socket AM5",
+      "内存类型": "2×DDR5 DIMM",
+      "最大内存容量": "96GB",
+      "PCI-E标准": "PCI-E 4.0",
+      "PCI-E X16插槽": "1个",
+      "存储接口": "1×M.2接口，2×SATA III接口",
+      "USB（背板）": "2×USB2.02×USB3.2 Gen11×USB3.2 Gen1 Type-C",
+      "视频接口": "1×HDMI接口，1×DisplayPort接口",
+      "其它接口": "1×RJ45网络接口，3×音频接口",
+      "主板板型": "Micro ATX板型",
+      "外形尺寸": "24.4×22.6cm"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "name": "华擎4Core1600P35-WiFi+",
+    "manufacturer": "华擎",
+    "series": "P35系列",
+    "opendb_id": "__4core1600p35_wifi_",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel P35",
+      "芯片组描述": "采用Intel P35＋ICH9R芯片组",
+      "显示芯片": "无",
+      "音频芯片": "集成ALC 888音效芯片",
+      "网卡芯片": "板载Realtek RTL8111C千兆网卡",
+      "CPU类型": "Core 2 Quad/Core2 Extreme/Core 2 Duo/奔腾4/赛扬D/PentiumD",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel Core 2 Extreme/Core 2 Quad/Core 2 Duo/Pentium Dual Core/Celeron, 支持Penryn四核Yorkfield和双核Wolfdale处理器支持 EM64T CPU",
+      "内存类型": "4×DDR2/DDR3 DIMM",
+      "内存描述": "支持双通道DDR2 1066/800/667内存，DDR3 1333/1066/800内存",
+      "PCI-E标准": "2条PCI-E 16X",
+      "PCI插槽": "3条PCI 插槽",
+      "存储接口": "6个SATA II接口, 支持RAID (RAID 0, RAID 1, RAID 10, RAID 5和Intel Matrix Storage技术) , NCQ, AHCI和\"热插拔\"功能",
+      "视频接口": "音频接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "1个eSerial ATAII接口，1个IEEE 1394接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "外形尺寸": "30.5×24.4cm",
+      "供电模式": "四相",
+      "硬件监控": "CPU 温度检测机箱温度检测CPU 风扇转速计机箱风扇转速计CPU静音风扇电压实时监控: +12V, +5V, +3.3V, 核心电压",
+      "其它特点": "华擎WiFi-802.11g模块54Mbps IEEE 802.11g / 11Mbps IEEE 802.11b支持软件接入点模式 (AP模式) 和站点模式 (基础架构模式和点对点模式)支持ATI CrossFire"
+    }
+  },
+  {
+    "name": "华擎4Core1600Twins-P35",
+    "manufacturer": "华擎",
+    "series": "P35系列",
+    "opendb_id": "__4core1600twins_p35",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel P35",
+      "芯片组描述": "采用Intel P35＋ICH9芯片组",
+      "显示芯片": "无",
+      "音频芯片": "集成ALC888音效芯片",
+      "网卡芯片": "板载Realtek RTL8111C千兆网卡",
+      "CPU类型": "Core 2 Quad/Core2 Extreme/Core 2 Duo/奔腾4/赛扬D/PentiumD",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel Core 2 Extreme/Core 2 Quad/Core 2 Duo/Pentium Dual Core/Celeron, 支持Penryn四核Yorkfield和双核Wolfdale处理器支持 EM64T CPU",
+      "内存类型": "4×DDR2/DDR3 DIMM",
+      "内存描述": "支持双通道DDR2 1066/800/667内存，DDR3 1333/1066/800内存",
+      "PCI-E标准": "1条PCI-E 16X，1条PCI-E 4X",
+      "PCI插槽": "3条PCI 插槽",
+      "存储接口": "4个SATA II接口, 支持NCQ, AHCI和\"热插拔\"功能",
+      "视频接口": "音频接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "1个eSerial ATAII接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "外形尺寸": "30.5×24.4cm",
+      "供电模式": "四相",
+      "硬件监控": "CPU 温度检测机箱温度检测CPU 风扇转速计机箱风扇转速计CPU静音风扇电压实时监控: +12V, +5V, +3.3V, 核心电压"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "name": "华擎N61P-S",
+    "manufacturer": "华擎",
+    "series": "C61系列",
+    "opendb_id": "__n61p_s",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "NVIDIA NF6150-430",
+      "芯片组描述": "采用NVIDIA GeForce 6150SE/nForce 430芯片组",
+      "显示芯片": "集成GeForce 6150SE显示核心",
+      "音频芯片": "集成ALC662 6声道音效芯片",
+      "网卡芯片": "板载Realtek PHY RTL8201EL-GR/RTL8201CL百兆网卡",
+      "CPU类型": "Phenom FX/Phenom/Athlon64 FX/Athlon 64 X2/Athlon64/Sempron",
+      "CPU插槽": "Socket AM2/AM2+",
+      "CPU描述": "支持Socket AM2/AM2+处理器可支持AM3处理器",
+      "内存类型": "2×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 1066(OC)/800/667/533内存，最大支持8GB",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI插槽，1条PCI-E 1X",
+      "存储接口": "4个SATA II接口，支持RAID 0，1，0+1，5，JBOD",
+      "USB接口": "8个USB2.0接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "1个RJ45网络接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "外形尺寸": "24.4×17.8cm",
+      "硬件监控": "CPU温度检测机箱温度检测CPU风扇转速计机箱风扇转速计CPU静音风扇电压实时监控：+12V, +5V, +3.3V, 核心电压",
+      "操作系统": "最大共享256MB显示内存",
+      "其它特点": "华擎超频调节器(OC Tuner)智能型能源节约器华擎Instant BootHybrid Booster(安心超频技术):CPU频率无段调节ASRock U-COP (华擎通用CPU过热保护技术)Boot Failure Guard (B.F.G., 启动失败恢复技术)"
+    }
+  },
+  {
+    "name": "华擎ALiveNF6G-VSTA",
+    "manufacturer": "华擎",
+    "series": "C61系列",
+    "opendb_id": "__alivenf6g_vsta",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "NVIDIA NF6100-430",
+      "芯片组描述": "采用nVIDIA MCP61P芯片组",
+      "显示芯片": "集成NVIDIA GeForce6等级显卡,最大共享显示内存256MB",
+      "音频芯片": "集成ALC888芯片,提供7.1声道声卡",
+      "网卡芯片": "板载Realtek PHY RTL8201CL 百兆网卡",
+      "CPU类型": "Athlon64/Athlon64 FX/Athlon 64 X2/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持AMD Athlon 64FX/64X2/64/Sempron处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDRII 800/667/533内存,最大容量8GB",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽,1条PCI-E 1X",
+      "存储接口": "4个SATA II接口,支持RAID 0, 1, RAID 0+1, RAID 5, JBOD",
+      "电源接口": "一个四针，一个20针电源接口",
+      "其它接口": "1条HDMR 插槽，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "外形尺寸": "24.4×24.4cm",
+      "硬件监控": "CPU内部温度检测CPU周边温度检测机箱温度检测CPU风扇转速计机箱风扇转速计CPU静音风扇电压实时监控：+12V, +5V, +3.3V, 核心电压"
+    }
+  }
+]

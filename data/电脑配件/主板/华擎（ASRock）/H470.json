@@ -1,0 +1,93 @@
+[
+  {
+    "name": "华擎H470 Steel Legend",
+    "manufacturer": "华擎",
+    "series": "H470",
+    "opendb_id": "__h470_steel_legend",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel H470",
+      "芯片组描述": "采用Intel H470芯片组",
+      "显示芯片": "CPU内置显示芯片(需要CPU支持)",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "第十代Core/Pentium/Celeron",
+      "PCI-E标准": "PCI-E 3.0",
+      "其它特点": "RGB背光"
+    }
+  },
+  {
+    "name": "华擎H470M-ITX/ac",
+    "manufacturer": "华擎",
+    "series": "H470",
+    "opendb_id": "__h470m_itx_ac",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel H470",
+      "芯片组描述": "采用Intel H470芯片组",
+      "显示芯片": "CPU内置显示芯片(需要CPU支持)",
+      "网卡芯片": "板载Dragon RTL8125BG千兆网卡",
+      "CPU类型": "第十代Core/Pentium/Celeron",
+      "PCI-E标准": "PCI-E 3.0",
+      "内存类型": "2×DDR4 DIMM",
+      "最大内存容量": "64GB",
+      "USB接口": "4×USB3.2 Gen2接口（支持ESD静电防护），2×USB3.2 Gen1接口（1×Type-A，1×Type-C，支持ESD静电防护），2×USB2.0接口（支持ESD静电防护）",
+      "视频接口": "1×HDMI接口，1×DisplayPort接口",
+      "电源接口": "一个8针，一个24针电源接口",
+      "主板板型": "Mini-ITX板型",
+      "外形尺寸": "17.0×17.0cm"
+    }
+  },
+  {
+    "name": "华擎H470M-HDV/M.2",
+    "manufacturer": "华擎",
+    "series": "H470",
+    "opendb_id": "__h470m_hdv_m_2",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel H470",
+      "芯片组描述": "采用Intel H470芯片组",
+      "显示芯片": "CPU内置显示芯片(需要CPU支持)",
+      "网卡芯片": "板载Intel I219V 1GbE网卡",
+      "CPU类型": "第十代Core/Pentium/Celeron",
+      "PCI-E标准": "PCI-E 3.0",
+      "内存类型": "2×DDR4 DIMM",
+      "最大内存容量": "64GB",
+      "USB接口": "2×USB3.2 Gen1接针（内置）2×USB2.0针状接头（内置）4×USB3.2 Gen1接口（背板）2×USB2.0接口（背板）",
+      "视频接口": "1×HDMI接口，1×VGA接口，1×DVI接口",
+      "电源接口": "一个8针，一个24针电源接口",
+      "主板板型": "Micro ATX板型",
+      "外形尺寸": "22.6×18.8cm"
+    }
+  },
+  {
+    "name": "华擎H470 Phantom Gaming 4",
+    "manufacturer": "华擎",
+    "series": "H470",
+    "opendb_id": "__h470_phantom_gaming_4",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel H470",
+      "芯片组描述": "采用Intel H470芯片组",
+      "显示芯片": "CPU内置显示芯片(需要CPU支持)",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "第十代Core/Pentium/Celeron",
+      "PCI-E标准": "PCI-E 3.0"
+    }
+  },
+  {
+    "name": "华擎H470M Pro4",
+    "manufacturer": "华擎",
+    "series": "H470",
+    "opendb_id": "__h470m_pro4",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel H470",
+      "芯片组描述": "采用Intel H470芯片组",
+      "显示芯片": "CPU内置显示芯片(需要CPU支持)",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "第十代Core/Pentium/Celeron",
+      "PCI-E标准": "PCI-E 3.0",
+      "主板板型": "Micro ATX板型"
+    }
+  }
+]
