@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Anmite（安美特）an-j19 黑色vga/接口",
+    "manufacturer": "安美特",
+    "series": "an-j19",
+    "opendb_id": "anmite_____an_j19___vga___",
+    "metadata": {
+      "产品型号": "an-j19",
+      "点距": "0.264mm",
+      "显示颜色": "其他",
+      "其它接口": "hdmi，vga，音频/耳机输出",
+      "产品重量": "5.0公斤5.0kg",
+      "底座功能": "支持壁挂",
+      "壁挂": "75x75mm",
+      "电源性能": "外接电源适配器"
+    }
+  },
+  {
+    "name": "Anmite（安美特）an-j19 黑色hdmi/vga/av/usb/bnc监控款",
+    "manufacturer": "安美特",
+    "series": "an-j19",
+    "opendb_id": "anmite_____an_j19___hdmi_vga_av_usb_bnc___",
+    "metadata": {
+      "产品型号": "an-j19",
+      "点距": "0.264mm",
+      "显示颜色": "其他",
+      "其它接口": "hdmi，vga，usb扩展/充电，音频/耳机输出，其他",
+      "产品重量": "5kg5.0kg",
+      "底座功能": "支持壁挂",
+      "壁挂": "75x75mm",
+      "电源性能": "外接电源适配器"
+    }
+  },
+  {
+    "name": "Anmite（安美特）an-j19 黑色vga/bnc*3接口【监控款】",
+    "manufacturer": "安美特",
+    "series": "an-j19",
+    "opendb_id": "anmite_____an_j19___vga_bnc_3_______",
+    "metadata": {
+      "产品型号": "an-j19",
+      "点距": "0.264mm",
+      "显示颜色": "其他",
+      "其它接口": "hdmi，vga，音频/耳机输出，其他",
+      "产品重量": "5.0公斤5.0kg",
+      "底座功能": "支持壁挂",
+      "壁挂": "75x75mm",
+      "电源性能": "外接电源适配器"
+    }
+  }
+]

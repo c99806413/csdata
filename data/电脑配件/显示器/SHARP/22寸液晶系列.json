@@ -1,0 +1,66 @@
+[
+  {
+    "name": "SHARP/NEC 22寸液晶 225WXM",
+    "manufacturer": "SHARP/NEC",
+    "series": "22寸液晶系列",
+    "opendb_id": "sharp_nec_22____225wxm",
+    "metadata": {
+      "屏幕尺寸": "22英寸",
+      "最佳分辨率": "1680x1050",
+      "屏幕比例": "16:10",
+      "动态对比度": "1000:1",
+      "显示颜色": "16.7M",
+      "产品尺寸": "506×385×260",
+      "产品重量": "7.8",
+      "电源功率": "42",
+      "节能标准": "Energy Star",
+      "音箱": "2W×2",
+      "安规认证": "TCO'03、FCC Class B、RoHS、MPRⅡ、MPRⅢ、CE"
+    }
+  },
+  {
+    "name": "SHARP/NEC 22寸液晶 LCD220WX+",
+    "manufacturer": "SHARP/NEC",
+    "series": "22寸液晶系列",
+    "opendb_id": "sharp_nec_22____lcd220wx_",
+    "metadata": {
+      "屏幕尺寸": "22英寸",
+      "最佳分辨率": "1680x1050",
+      "屏幕比例": "16:10（宽屏）",
+      "动态对比度": "1000:1",
+      "电源功率": "42W",
+      "视频接口": "D-Sub（VGA），DVI-D"
+    }
+  },
+  {
+    "name": "SHARP/NEC 22寸液晶 LCD225WXM",
+    "manufacturer": "SHARP/NEC",
+    "series": "22寸液晶系列",
+    "opendb_id": "sharp_nec_22____lcd225wxm",
+    "metadata": {
+      "屏幕尺寸": "22英寸",
+      "最佳分辨率": "1680x1050",
+      "屏幕比例": "16:10（宽屏）",
+      "动态对比度": "1000:1",
+      "产品尺寸": "570×500×324mm",
+      "产品重量": "7.8kg",
+      "电源功率": "48W",
+      "安规认证": "TCO 03，Energy Star，ISO 13406-2（class II），RoHS，CCC",
+      "视频接口": "D-Sub（VGA），DVI-D"
+    }
+  },
+  {
+    "name": "SHARP/NEC 22寸液晶 LCD22WV",
+    "manufacturer": "SHARP/NEC",
+    "series": "22寸液晶系列",
+    "opendb_id": "sharp_nec_22____lcd22wv",
+    "metadata": {
+      "屏幕尺寸": "21.6英寸",
+      "最佳分辨率": "1680x1050",
+      "屏幕比例": "16:9（宽屏）",
+      "动态对比度": "1000:1",
+      "显示颜色": "16.7M",
+      "视频接口": "D-Sub（VGA）"
+    }
+  }
+]
