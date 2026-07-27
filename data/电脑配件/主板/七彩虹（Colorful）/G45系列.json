@@ -1,0 +1,29 @@
+[
+  {
+    "name": "七彩虹C.G45 X5",
+    "manufacturer": "七彩虹",
+    "series": "G45系列",
+    "opendb_id": "___c_g45_x5",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "Intel G45",
+      "芯片组描述": "采用Intel G45+ICH10芯片组",
+      "显示芯片": "集成Intel GMA X4500显示核心",
+      "音频芯片": "集成High Definition Audio 8声道音效芯片",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "Core 2 Quad/Core2 Extreme/Core 2 Duo",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel 45nm多核心处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 1066/800/667内存",
+      "PCI-E标准": "PCI-E 2.0 16X",
+      "PCI插槽": "2条PCI插槽，1条PCI-E 1X",
+      "存储接口": "6个SATA接口",
+      "视频接口": "VGA接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "1个eSATA接口1个SPDIF同轴输入1个光纤输出",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "四相"
+    }
+  }
+]
