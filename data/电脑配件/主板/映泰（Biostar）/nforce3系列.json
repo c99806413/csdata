@@ -1,0 +1,121 @@
+[
+  {
+    "name": "映泰NF325-A7",
+    "manufacturer": "映泰",
+    "series": "nforce3系列",
+    "opendb_id": "__nf325_a7",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "nVIDIA nForce3 250",
+      "显示芯片": "无",
+      "音频芯片": "Realtek ALC655 六声道声卡",
+      "网卡芯片": "Realtek RTL8201BL 10-100M网卡",
+      "CPU类型": "Athlon64",
+      "CPU插槽": "Socket 754",
+      "CPU描述": "Athlon64/Sempron",
+      "内存类型": "DDR",
+      "内存描述": "2 DDR DIMM,支持DDR400,DDR333",
+      "PCI-E标准": "AGP 8X",
+      "PCI插槽": "5条PCI 插槽",
+      "USB接口": "8个",
+      "视频接口": "音频接口",
+      "电源接口": "一个四针，一个20针电源接口",
+      "其它接口": "ATA 100,ATA 133，S-ATA150，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "其它特点": "三相电路"
+    }
+  },
+  {
+    "name": "映泰NF325-A9",
+    "manufacturer": "映泰",
+    "series": "nforce3系列",
+    "opendb_id": "__nf325_a9",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "nVIDIA nForce3 250",
+      "显示芯片": "无",
+      "音频芯片": "集成6声道声卡",
+      "网卡芯片": "百兆网卡",
+      "CPU类型": "Athlon64/Athlon64 FX",
+      "CPU插槽": "Socket 939",
+      "内存类型": "DDR",
+      "内存描述": "双通道 4 DDR DIMM，支持DDR400,DDR333,DDR266，最大支持4G内存容量",
+      "PCI-E标准": "一个AGP插槽，支持8X/4X",
+      "PCI插槽": "5条PCI 插槽",
+      "USB接口": "8个USB 接口",
+      "视频接口": "音频接口",
+      "电源接口": "一个四针，一个20针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "其它特点": "3相电路"
+    }
+  },
+  {
+    "name": "映泰NF3 250 AM2",
+    "manufacturer": "映泰",
+    "series": "nforce3系列",
+    "opendb_id": "__nf3_250_am2",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "NVIDIA NF3 250",
+      "音频芯片": "集成Realtek ALC655 6声道音效芯片",
+      "网卡芯片": "板载Realtek RTL8201CL百兆网卡",
+      "CPU类型": "Athlon 64 X2/Athlon64Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持AMD Sempron 处理器",
+      "内存类型": "2×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 533/667内存，最大支持2GB",
+      "PCI-E标准": "AGP 8X",
+      "PCI插槽": "5条PCI插槽",
+      "USB接口": "6个USB2.0接口",
+      "电源接口": "一个四针，一个20针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型"
+    }
+  },
+  {
+    "name": "映泰K8NHAG",
+    "manufacturer": "映泰",
+    "series": "nforce3系列",
+    "opendb_id": "__k8nhag",
+    "metadata": {
+      "主芯片组": "nVIDIA nForce3 250GB",
+      "音频芯片": "8声道声卡",
+      "网卡芯片": "千兆网",
+      "CPU类型": "Athlon64",
+      "CPU插槽": "Socket 754",
+      "内存类型": "DDR",
+      "PCI-E标准": "一个AGP插槽，支持",
+      "USB接口": "4",
+      "电源接口": "一个四针，一个20针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "其它特点": "三相供电回路"
+    }
+  },
+  {
+    "name": "映泰K8NHA Grand",
+    "manufacturer": "映泰",
+    "series": "nforce3系列",
+    "opendb_id": "__k8nha_grand",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "nVIDIA nForce3 250GB",
+      "显示芯片": "无",
+      "音频芯片": "Realtek ALC655 6-Channel AC'97 CODEC",
+      "网卡芯片": "集成千兆快速网卡",
+      "CPU类型": "Athlon64",
+      "CPU插槽": "Socket 754",
+      "CPU描述": "AMD Athlon64 系列",
+      "内存类型": "DDR",
+      "内存描述": "2 个184-pin DDR DIMMS ，最大支持2GB内存 ，PC2700(DDR333)/PC3200(DDR400)",
+      "PCI-E标准": "一个AGP插槽",
+      "PCI插槽": "5 个PCI 插槽",
+      "USB接口": "4 个前置USB2.0接口 4个后置USB2.0接口",
+      "视频接口": "1个音效输入/输出接口/麦克风接口",
+      "电源接口": "一个四针，一个20针电源接口",
+      "其它接口": "2个1394接口(1个前置,1个后置)，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型"
+    }
+  }
+]

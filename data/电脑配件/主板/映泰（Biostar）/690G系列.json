@@ -1,0 +1,60 @@
+[
+  {
+    "name": "映泰TA690G AM2",
+    "manufacturer": "映泰",
+    "series": "690G系列",
+    "opendb_id": "__ta690g_am2",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "AMD 690G",
+      "芯片组描述": "采用AMD 690G＋SB600芯片组",
+      "显示芯片": "集成ATI Radeon X1250显卡，最大共享512MB内存",
+      "音频芯片": "集成ALC888音频芯片，提供8＋2声道声卡",
+      "网卡芯片": "板载RTL8111B千兆网卡",
+      "CPU类型": "Athlon64/Athlon 64 X2/Athlon64 FX/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持AMD Athlon 64 FX/Athlon 64 X2/Athlon 64/Sempron处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 667/800内存，最大支持4GB内存",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽,1条PCI-E 1X",
+      "存储接口": "4个SATA II接口",
+      "USB接口": "10个USB 2.0接口",
+      "视频接口": "DVI接口/VGA接口/HDMI接口/TV-OUT",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "外形尺寸": "24.4×24.4cm",
+      "供电模式": "三相"
+    }
+  },
+  {
+    "name": "映泰A690G-M2",
+    "manufacturer": "映泰",
+    "series": "690G系列",
+    "opendb_id": "__a690g_m2",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "AMD 690G",
+      "芯片组描述": "采用AMD 690G＋SB600芯片组",
+      "显示芯片": "集成ATI Radeon X1250显示核心",
+      "音频芯片": "集成Realtek ALC662声卡芯片,提供6声道声卡",
+      "网卡芯片": "板载Marrvell 88E8056千兆网卡",
+      "CPU类型": "Athlon64/Athlon 64 X2/Athlon64 FX/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持AMD Athlon 64 X2/64/FX/Sempron处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 533/667/800内存,最高支持8GB",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽,1条PCI-E 1X",
+      "存储接口": "4个SATA II接口,支持RAID: 0,1,10",
+      "USB接口": "10个USB 2.0接口",
+      "视频接口": "VGA接口/DVI接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "外形尺寸": "21.52×24.38cm",
+      "供电模式": "三相"
+    }
+  }
+]

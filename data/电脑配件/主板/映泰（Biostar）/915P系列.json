@@ -1,0 +1,48 @@
+[
+  {
+    "name": "映泰I915P-A7",
+    "manufacturer": "映泰",
+    "series": "915P系列",
+    "opendb_id": "__i915p_a7",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel 915P",
+      "芯片组描述": "Intel 915P+ICH6",
+      "显示芯片": "无",
+      "音频芯片": "6-CH声卡",
+      "网卡芯片": "10/100M网卡",
+      "CPU类型": "赛扬/奔腾",
+      "CPU插槽": "LGA 775",
+      "内存类型": "DDR",
+      "内存描述": "双通道DDR400, 4S-ATA，4DDR,支持 DDR2",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "3",
+      "USB接口": "USB2.0×8",
+      "主板板型": "ATX板型"
+    }
+  },
+  {
+    "name": "映泰I915P-A7 Combo",
+    "manufacturer": "映泰",
+    "series": "915P系列",
+    "opendb_id": "__i915p_a7_combo",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel 915P",
+      "芯片组描述": "采用Intel 915P+ICH6芯片组",
+      "显示芯片": "无",
+      "音频芯片": "集成Realtek ALC655芯片,提供6声道声卡",
+      "网卡芯片": "板载Realtek RTL8100C 百兆网卡",
+      "CPU类型": "奔腾4/赛扬D",
+      "CPU插槽": "LGA 775",
+      "内存类型": "DDR/DDR2",
+      "内存描述": "支持DDR 400/533MHz内存,DDRII内存(DDR与DDRII内存不可混合使用)",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "3条PCI 插槽,1条PCI-E 1X",
+      "USB接口": "8个USB 接口",
+      "主板板型": "ATX板型",
+      "供电模式": "三相供电设计",
+      "硬件监控": "CPU/系统风扇转速CPU温度系统电压CPU核心电压 +3.3V,+5V,+12V, -5V, -12V,5VSB(Stand By), V Battery"
+    }
+  }
+]
