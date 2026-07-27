@@ -1,0 +1,28 @@
+[
+  {
+    "name": "GTX750系列 (1GB)",
+    "manufacturer": "映泰",
+    "series": "GTX750系列",
+    "opendb_id": "gtx750_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 750",
+      "显示芯片系列": "NVIDIA GT700系列/NVIDIA GTX 700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM107",
+      "核心频率": "1020/1098MHz/1020/1085MHz",
+      "CUDA核心": "512个",
+      "显存频率": "5100MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bit/128bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×Mini HDMI接口，2×DVI接口/Mini HDMI接口/双DVI/1×HDMI接口，1×DVI接口，1×VGA接口",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇/散热滾珠风扇/速清滤网散热滚珠风扇",
+      "3D API": "DirectX 11.1",
+      "支持HDCP": "是"
+    }
+  }
+]
