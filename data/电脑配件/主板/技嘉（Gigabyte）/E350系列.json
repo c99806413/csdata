@@ -1,0 +1,52 @@
+[
+  {
+    "name": "技嘉GA-E350N-USB3(rev.1.0)",
+    "manufacturer": "技嘉",
+    "series": "E350系列",
+    "opendb_id": "__ga_e350n_usb3_rev_1_0_",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "AMD Hudson M1",
+      "芯片组描述": "采用AMD Hudson M1芯片组",
+      "显示芯片": "集成ATI Radeon HD6310显示核心",
+      "音频芯片": "集成Realtek ALC892 8声道音效芯片",
+      "网卡芯片": "板载Realtek RTL8111E千兆网卡",
+      "CPU类型": "Zacate E-350 APU",
+      "CPU描述": "采用AMD E-350 1.6GHz双核心处理器",
+      "内存类型": "2×DDR3 DIMM",
+      "最大内存容量": "8GB",
+      "内存描述": "支持双通道DDR3 1333(OC)/1066MHz内存",
+      "PCI-E插槽": "1×PCI-E X16显卡插槽",
+      "存储接口": "4×SATA III接口",
+      "USB接口": "8×USB2.0接口（4内置+4背板）；2×USB3.0接口",
+      "视频接口": "1×Display Port接口，1×VGA接口，1×DVI接口，1×HDMI接口",
+      "电源接口": "一个4针，一个24针电源接口",
+      "其它接口": "1×VGA接口，1×DVI接口，音频接口，PS/2键鼠通用接口",
+      "主板板型": "Mini-ITX板型",
+      "外形尺寸": "17.0×17.0cm",
+      "供电模式": "三相"
+    }
+  },
+  {
+    "name": "技嘉GA-E350V-USB3",
+    "manufacturer": "技嘉",
+    "series": "E350系列",
+    "opendb_id": "__ga_e350v_usb3",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "AMD Hudson",
+      "芯片组描述": "采用AMD Hudson芯片组",
+      "显示芯片": "集成ATI Radeon HD6310显示核心",
+      "CPU类型": "Zacate E-350 APU",
+      "CPU描述": "采用AMD E-350 1.6GHz双核心处理器",
+      "内存类型": "2×DDR3 DIMM",
+      "PCI-E插槽": "1×PCI-E X16显卡插槽",
+      "存储接口": "4×SATA III接口",
+      "视频接口": "1×VGA接口1×DVI接口",
+      "电源接口": "一个4针，一个24针电源接口",
+      "主板板型": "Mini-ITX板型",
+      "外形尺寸": "17.0×17.0cm",
+      "供电模式": "三相"
+    }
+  }
+]

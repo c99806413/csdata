@@ -1,0 +1,59 @@
+[
+  {
+    "name": "技嘉GA-EG45M-UD2H(rev. 1.0)",
+    "manufacturer": "技嘉",
+    "series": "G45系列",
+    "opendb_id": "__ga_eg45m_ud2h_rev__1_0_",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "Intel G45",
+      "芯片组描述": "采用Intel G45+ICH10R芯片组",
+      "显示芯片": "集成Intel GMA X4500显示核心",
+      "音频芯片": "集成Realtek ALC889A 8声道音效芯片",
+      "网卡芯片": "板载Realtek RTL8111DL千兆网卡",
+      "CPU类型": "Core2 Extreme/Core 2 Quad/Core 2 Duo/Pentium Dual Core/Celeron",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel Socket 775接口处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 1066(OC)/800/667内存，最大支持16GB",
+      "PCI-E标准": "PCI-E 2.0 16X",
+      "PCI插槽": "2条PCI插槽，1条PCI-E 16X",
+      "存储接口": "5个SATA II接口，支持RAID 0，1，5，10",
+      "USB接口": "12个USB2.0接口",
+      "视频接口": "VGA接口/DVI接口/HDMI接口/音频接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "1个RJ45网络接口/1个eSATA接口/1个1394接口/1个光纤接口",
+      "主板板型": "Micro ATX板型",
+      "外形尺寸": "24.4×24.4cm",
+      "供电模式": "四相"
+    }
+  },
+  {
+    "name": "技嘉GA-EG45M-DS2H(rev. 1.0)",
+    "manufacturer": "技嘉",
+    "series": "G45系列",
+    "opendb_id": "__ga_eg45m_ds2h_rev__1_0_",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "Intel G45",
+      "芯片组描述": "采用Intel G45+ICH10R芯片组",
+      "显示芯片": "集成Intel GMA X4500显示核心",
+      "音频芯片": "集成Realtek ALC889A 7.1声道音效芯片",
+      "网卡芯片": "板载Realtek RTL8111C千兆网卡",
+      "CPU类型": "Core2 Extreme/Core 2 Quad/Core 2 Duo/Pentium D/Celeron D",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel 45nm处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 1200(O.C.)/1066/800/667内存，最大支持8GB",
+      "PCI-E标准": "PCI-E 2.0 16X(4X)",
+      "PCI插槽": "2条PCI插槽，1条PCI-E 1X",
+      "存储接口": "4个SATA II接口",
+      "USB接口": "12个USB 2.0接口",
+      "视频接口": "VGA接口/DVI接口/HDMI接口/音频接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "主板板型": "ATX板型",
+      "外形尺寸": "30.5×24.4cm",
+      "供电模式": "四相"
+    }
+  }
+]
