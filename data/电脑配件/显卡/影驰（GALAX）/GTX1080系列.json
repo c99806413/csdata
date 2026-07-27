@@ -1,0 +1,36 @@
+[
+  {
+    "name": "GTX1080系列 (8GB)",
+    "manufacturer": "影驰",
+    "series": "GTX1080系列",
+    "opendb_id": "gtx1080_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1080",
+      "显示芯片系列": "NVIDIA GTX 10系列",
+      "制作工艺": "16纳米",
+      "核心代号": "GP104-400",
+      "核心频率": "1733/1873MHz/1683/1822MHz/1607/1733MHz/1809/1961MHz/1709MHz",
+      "CUDA核心": "2560个",
+      "显存频率": "10000MHz",
+      "显存类型": "GDDR5X",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320/4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin/6pin+8pin/8pin",
+      "显卡类型": "主流级",
+      "散热方式": "三风扇散热+热管散热/三风扇散热+十热管散热/涡轮风扇/三风扇散热+热管散热+散热片（静音）",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "供电模式": "12+3相/4+1相",
+      "支持HDCP": "是",
+      "产品尺寸": "287×136.5mm/266.7×127mm/266.7×111.5×38.1mm/267×111mm/287×152×50mm",
+      "最大功耗": "180W",
+      "建议电源": "500W以上",
+      "其它特点": "支持NVIDIA SLI技术，VRWorks技术，GameWorks技术，12层PCB设计/支持影驰“真彩”技术，1600万色RGB灯光调节，支持NVIDIA SLI技术，VRWorks技术，GameWorks技术，G-SYNC技术/支持NVIDIA SLI技术，VRWorks技术，GameWorks技术，G-SYNC技术/支持NVIDIA SLI技术，12层PureOC PCB，HOF Armor全覆盖压铸PCB前面板，HyperBoost一键超频，FlexHold特制显卡支撑杆，支持VR SLI，VRWorks技术，GameWorks技术，G-SYNC技术",
+      "上市日期": "2016年06月/2016年05月",
+      "性能评分": "139789"
+    }
+  }
+]

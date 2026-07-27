@@ -1,0 +1,55 @@
+[
+  {
+    "name": "GTX660系列 (3GB)",
+    "manufacturer": "影驰",
+    "series": "GTX660系列",
+    "opendb_id": "gtx660_3gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 660",
+      "显示芯片系列": "NVIDIA GTX 600系列",
+      "核心频率": "1033MHz",
+      "流处理单元": "960个",
+      "显存频率": "6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "3GB",
+      "显存位宽": "192bitbit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "电源接口": "6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇",
+      "3D API": "OpenGL 4.3",
+      "最大功耗": "150W",
+      "建议电源": "450W",
+      "其它特点": "NVIDIA 3D Vision技术，支持最多4屏输出"
+    }
+  },
+  {
+    "name": "GTX660系列 (2GB)",
+    "manufacturer": "影驰",
+    "series": "GTX660系列",
+    "opendb_id": "gtx660_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 660",
+      "显示芯片系列": "NVIDIA GTX 600系列",
+      "核心频率": "1006/1072MHz/980MHz/1058/1124MHz/993/1058MHz",
+      "显存频率": "6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "192bitbit",
+      "最大分辨率": "2560×1600/4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口/HDMI接口/DVI接口/VGA接口/1×HDMI接口，1×DVI接口，1×VGA接口",
+      "电源接口": "6pin/6pin+6pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇+散热片/散热风扇+热管散热/散热风扇",
+      "3D API": "DirectX 11/DirectX 11.1",
+      "最大功耗": "140W",
+      "建议电源": "450W以上",
+      "其它特点": "支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，支持最多4屏输出/支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost技术，支持最多3屏输出/支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost技术，支持最多4屏输出"
+    }
+  }
+]

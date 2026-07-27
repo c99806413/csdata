@@ -1,0 +1,56 @@
+[
+  {
+    "name": "GTX680系列 (2GB)",
+    "manufacturer": "影驰",
+    "series": "GTX680系列",
+    "opendb_id": "gtx680_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 680",
+      "显示芯片系列": "NVIDIA GTX 600系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK104",
+      "核心频率": "1200/1280MHz/1006MHz/1100MHz",
+      "CUDA核心": "1536个",
+      "显存频率": "6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "I/O接口": "DisplayPort接口/三Mini HDMI接口/HDMI接口/双DVI接口/DisplayPort接口/HDMI接口/DVI接口/DisplayPort接口",
+      "电源接口": "8pin+8pin/6pin+6pin",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇+热管散热/涡轮风扇+散热片/散热风扇",
+      "3D API": "DirectX 11.1/DirectX 11",
+      "供电模式": "八相",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术，支持显卡四屏输出/支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  },
+  {
+    "name": "GTX680系列 (4GB)",
+    "manufacturer": "影驰",
+    "series": "GTX680系列",
+    "opendb_id": "gtx680_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 680",
+      "显示芯片系列": "NVIDIA GTX 600系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GK104",
+      "核心频率": "1100MHz",
+      "CUDA核心": "1536个",
+      "显存频率": "6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "I/O接口": "HDMI接口/双DVI接口/DisplayPort接口",
+      "电源接口": "6pin+8pin",
+      "显卡类型": "入门级",
+      "散热方式": "散热风扇+热管散热",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "GTX260系列 (896GB)",
+    "manufacturer": "影驰",
+    "series": "GTX260系列",
+    "opendb_id": "gtx260_896gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 260/Geforce GTX 260",
+      "制作工艺": "55纳米/65纳米",
+      "核心代号": "GT200",
+      "核心频率": "625MHz/576MHz/650MHz",
+      "CUDA核心": "216个/192个",
+      "显存频率": "2100MHz/1998MHz/1050MHz/2000MHz/2400MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "896GB",
+      "显存位宽": "448bitbit",
+      "最大分辨率": "2560*1600/2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)/HDMI/S-video接口(TV-Out)/HDMI接口/DVI接口/VGA接口",
+      "电源接口": "6pin+6pin/6PIN+6PIN/6pin+8pin",
+      "散热方式": "散热风扇/涡轮风扇+热管散热/散热风扇+热管散热",
+      "3D API": "DirectX 10"
+    }
+  },
+  {
+    "name": "GTX260系列 (1792GB)",
+    "manufacturer": "影驰",
+    "series": "GTX260系列",
+    "opendb_id": "gtx260_1792gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 260",
+      "制作工艺": "55纳米",
+      "核心代号": "GT200",
+      "核心频率": "650MHz",
+      "CUDA核心": "216个",
+      "显存频率": "2000MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "1792GB",
+      "显存位宽": "448bitbit",
+      "最大分辨率": "2560*1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "电源接口": "6pin+6pin",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10"
+    }
+  },
+  {
+    "name": "GTX260系列 (1GB)",
+    "manufacturer": "影驰",
+    "series": "GTX260系列",
+    "opendb_id": "gtx260_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "Geforce GTX 260",
+      "核心代号": "GT200",
+      "核心频率": "625MHz",
+      "CUDA核心": "216个",
+      "显存频率": "1000MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "1GB",
+      "显存位宽": "256bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "HDMI接口/DVI接口/VGA接口",
+      "散热方式": "散热风扇",
+      "3D API": "DirectX 10"
+    }
+  }
+]

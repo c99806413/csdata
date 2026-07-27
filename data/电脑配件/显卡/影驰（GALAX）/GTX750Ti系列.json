@@ -1,0 +1,81 @@
+[
+  {
+    "name": "GTX750Ti系列 (2GB)",
+    "manufacturer": "影驰",
+    "series": "GTX750Ti系列",
+    "opendb_id": "gtx750ti_2gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 750Ti",
+      "显示芯片系列": "NVIDIA GT700系列/NVIDIA GTX 700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM107",
+      "核心频率": "1019MHz/1110/1189MHz/1215/1294MHz/1072/1150MHz/1150/1228MHz",
+      "CUDA核心": "640个",
+      "显存频率": "5400MHz/6008MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "2GB",
+      "显存位宽": "128bit/128bitbit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×VGA接口/1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇/双散热风扇（射手座 LE）",
+      "3D API": "DirectX 11.2，OpenGL 4.4/DirectX 11，OpenGL 4.3",
+      "支持HDCP": "是",
+      "最大功耗": "65W/60W",
+      "建议电源": "400W以上/300W以上",
+      "其它特点": "支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost 2.0技术，G-SYNC技术，支持最多4屏输出/支持NVIDIA PhysX物理加速技术，3D Vision技术，GPU Boost 2.0技术，G-SYNC技术，支持最多4屏输出/支持NVIDIA SLI技术，PhysX物理加速技术，3D Vision技术，GPU Boost技术，支持最多4屏输出/支持NVIDIA PhysX物理加速技术，3D Vision技术，G-SYNC技术",
+      "性能评分": "24986"
+    }
+  },
+  {
+    "name": "GTX750Ti系列 (1GB)",
+    "manufacturer": "影驰",
+    "series": "GTX750Ti系列",
+    "opendb_id": "gtx750ti_1gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 750Ti",
+      "显示芯片系列": "NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM107",
+      "核心频率": "1110/1189MHz",
+      "CUDA核心": "640个",
+      "显存频率": "5400MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，2×DVI接口，1×DisplayPort接口",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA PhysX物理加速技术，3D Vision技术，GPU Boost 2.0技术，G-SYNC技术，支持最多4屏输出"
+    }
+  },
+  {
+    "name": "GTX750Ti系列 (未知显存)",
+    "manufacturer": "影驰",
+    "series": "GTX750Ti系列",
+    "opendb_id": "gtx750ti",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 750Ti",
+      "显示芯片系列": "NVIDIA GT700系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM107",
+      "CUDA核心": "640个",
+      "显存类型": "GDDR5",
+      "显存位宽": "128bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "2×HDMI接口，2×DVI接口",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇",
+      "支持HDCP": "是",
+      "其它特点": "支持NVIDIA PhysX物理加速技术，3D Vision技术，G-SYNC技术"
+    }
+  }
+]

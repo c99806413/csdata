@@ -1,0 +1,33 @@
+[
+  {
+    "name": "RTX 2070 SUPER系列 (8GB)",
+    "manufacturer": "影驰",
+    "series": "RTX 2070 SUPER系列",
+    "opendb_id": "rtx_2070_super_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2070 SUPER",
+      "显示芯片系列": "NVIDIA RTX SUPER系列/NVIDIA RTX 20SUPER系列/NVIDIA RTX 20 SUPER系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU104-410",
+      "核心频率": "基础频率：1605MHz，加速频率：1830MHz/Boost：1815MHzMHz/1770MHz/1815MHz/加速频率：1905MHz/1800MHz/1830MHz/1905MHz",
+      "流处理单元": "2560个",
+      "显存频率": "14000MHz/15500MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口/1×HDMI接口，3×DisplayPort接口，1×USB Type-C接口/1×HDMI接口，3×DisplayPort接口，",
+      "电源接口": "6pin+8pin/8pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热（白羊座散热器）/三风扇散热（Nebula星云散热器）/双风扇散热/三风扇散热/三风扇散热（Nebula星云F散热器）",
+      "3D API": "DirectX 12，OpenGL 4.5/DirectX 12",
+      "支持HDCP": "是",
+      "产品尺寸": "305×153×54mm/299.2×139.6×54mm/296×138×53mm/319×155×60mm/310×139.6×54mm/307×1239×60mm",
+      "最大功耗": "215W/250W",
+      "建议电源": "650W/650W以上",
+      "其它特点": "支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术/支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术，支持NVIDIA NVLink技术"
+    }
+  }
+]

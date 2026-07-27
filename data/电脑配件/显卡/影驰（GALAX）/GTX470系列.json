@@ -1,0 +1,46 @@
+[
+  {
+    "name": "GTX470系列 (1280GB)",
+    "manufacturer": "影驰",
+    "series": "GTX470系列",
+    "opendb_id": "gtx470_1280gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 470",
+      "制作工艺": "40纳米",
+      "核心代号": "GF100",
+      "核心频率": "607MHz",
+      "CUDA核心": "448个",
+      "显存频率": "3348MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1280GB",
+      "显存位宽": "320bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "双DVI接口/Mini HDMI/Mini HDMI接口/双DVI接口",
+      "电源接口": "6pin+6pin",
+      "散热方式": "涡轮风扇",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是"
+    }
+  },
+  {
+    "name": "GTX470系列 (未知显存)",
+    "manufacturer": "影驰",
+    "series": "GTX470系列",
+    "opendb_id": "gtx470",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 470",
+      "制作工艺": "40纳米",
+      "核心代号": "GF100",
+      "CUDA核心": "448个",
+      "显存类型": "GDDR5",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "Mini HDMI接口/双DVI接口",
+      "电源接口": "6pin+8pin",
+      "3D API": "DirectX 11",
+      "支持HDCP": "是"
+    }
+  }
+]

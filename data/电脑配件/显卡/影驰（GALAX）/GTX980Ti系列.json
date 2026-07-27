@@ -1,0 +1,33 @@
+[
+  {
+    "name": "GTX980Ti系列 (6GB)",
+    "manufacturer": "影驰",
+    "series": "GTX980Ti系列",
+    "opendb_id": "gtx980ti_6gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 980Ti",
+      "显示芯片系列": "NVIDIA GTX 900系列",
+      "制作工艺": "28纳米",
+      "核心代号": "GM200",
+      "核心频率": "1190/1291MHz/1203/1304MHz",
+      "CUDA核心": "2816个",
+      "显存频率": "7010MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "6GB",
+      "显存位宽": "384bit",
+      "最大分辨率": "4096×2160",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin/8pin+8pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "三风扇散热+七热管散热/双风扇散热+五热管散热",
+      "3D API": "DirectX 12，OpenGL 4.4",
+      "供电模式": "8+3相/14相",
+      "支持HDCP": "是",
+      "最大功耗": "250W",
+      "建议电源": "600W以上",
+      "其它特点": "支持NVIDIA SLI技术，GPU Boost 2.0技术，G-SYNC技术，支持最多4屏输出/支持最多4屏输出，支持NVIDIA SLI技术，支持PhysX物理加速技术，NVIDIA 3D Vision技术，NVIDIA GPU Boost 2.0技术"
+    }
+  }
+]
