@@ -1,0 +1,21 @@
+[
+  {
+    "name": "7200转 IDE台式机硬盘系列",
+    "manufacturer": "HGST",
+    "series": "7200转 IDE台式机硬盘系列",
+    "opendb_id": "7200_ide",
+    "metadata": {
+      "适用类型": "台式机",
+      "硬盘容量": "160GB/320GB/500GB/80GB/400GB/250GB",
+      "缓存": "2MB/8MB/16MB",
+      "转速": "7200rpm",
+      "接口类型": "ATAPI-IDE/Ultra ATA-133（PATA）/SATA2.5/Ultra ATA-100（PATA）",
+      "接口速率": "Ultar DMA/100/133MB/s/100MB/s",
+      "外部传输速率": "998Mbits/s(最大)/133/100MB/sec",
+      "内部传输速率": "998Mbits/s(最大)/1138/757Mb/s",
+      "平均寻道时间": "8.5ms/8.8ms",
+      "NCQ技术": "不支持",
+      "其他性能": "不支持NCQ技术"
+    }
+  }
+]

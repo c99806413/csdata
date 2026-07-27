@@ -1,0 +1,21 @@
+[
+  {
+    "name": "5400转 IDE笔记本硬盘系列",
+    "manufacturer": "HGST",
+    "series": "5400转 IDE笔记本硬盘系列",
+    "opendb_id": "5400_ide",
+    "metadata": {
+      "适用类型": "笔记本",
+      "硬盘容量": "40GB/60GB/160GB/80GB/100GB/120GB/30GB/20GB",
+      "单碟容量": "100GB/40GB/80GB/60GB",
+      "缓存": "8MB/2MB",
+      "转速": "5400rpm",
+      "接口类型": "ATAPI-IDE/Ultra ATA-100（PATA）",
+      "接口速率": "Ultar DMA/100/100MB/s",
+      "外部传输速率": "100MB/sec/100MB/S",
+      "内部传输速率": "350Mbit/s/540Mbit/s/450Mbt/s/493Mbit/s",
+      "平均寻道时间": "12.0ms/11ms",
+      "其他性能": "不支持NCQ技术"
+    }
+  }
+]

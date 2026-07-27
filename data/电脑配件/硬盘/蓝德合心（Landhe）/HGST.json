@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HGST",
+    "manufacturer": "蓝德合心",
+    "series": "HGST",
+    "opendb_id": "hgst",
+    "metadata": {
+      "产品型号": "HGST",
+      "适用类型": "服务器硬盘",
+      "硬盘尺寸": "2.5英寸",
+      "转速": "10000rpmrpm",
+      "接口类型": "SAS接口",
+      "产品重量": "0.7kg"
+    }
+  }
+]

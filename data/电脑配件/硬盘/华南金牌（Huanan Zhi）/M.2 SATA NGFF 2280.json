@@ -1,0 +1,18 @@
+[
+  {
+    "name": "M.2 SATA NGFF 2280",
+    "manufacturer": "huananzhi",
+    "series": "M.2 SATA NGFF 2280",
+    "opendb_id": "m_2_sata_ngff_2280",
+    "metadata": {
+      "产品型号": "M.2 SATA NGFF 2280",
+      "适用类型": "台式机硬盘",
+      "硬盘尺寸": "2.5英寸",
+      "硬盘容量": "1GB",
+      "缓存": "64MB",
+      "转速": "5700rpmrpm",
+      "接口类型": "SATA接口",
+      "产品重量": "1.0kg"
+    }
+  }
+]

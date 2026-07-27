@@ -1,0 +1,22 @@
+[
+  {
+    "name": "7200转 IDE台式机硬盘系列",
+    "manufacturer": "希捷",
+    "series": "7200转 IDE台式机硬盘系列",
+    "opendb_id": "7200_ide",
+    "metadata": {
+      "适用类型": "台式机",
+      "硬盘尺寸": "3.5英寸",
+      "硬盘容量": "160GB/320GB/250GB/80GB/500GB/400GB/200GB/300GB/120GB",
+      "盘片数量": "1片/2片/4片/3片",
+      "单碟容量": "160GB/80GB/125GB/100GB/120GB/60GB",
+      "缓存": "8MB/16MB/16000MB/2MB",
+      "转速": "7200rpm",
+      "接口类型": "Ultra ATA-100（PATA）/ATAPI-IDE/Ultra ATA-133（PATA）",
+      "接口速率": "100MB/s/Ultar DMA/100/Ultra ATA-100（PATA）/Serial ATA 2.0（3Gbps）/133MB/s",
+      "外部传输速率": "100MB/sec/100MB/s/100",
+      "内部传输速率": "1030Mbits/sec(持续72MB/sec)/65MB/S/683Mbits/s/815.2/65",
+      "平均寻道时间": "11ms/8.5ms/11/11ms(读)/12ms(写)/8.5"
+    }
+  }
+]
