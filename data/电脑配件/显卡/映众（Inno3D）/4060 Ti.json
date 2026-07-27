@@ -1,0 +1,42 @@
+[
+  {
+    "name": "4060 Ti (16GB)",
+    "manufacturer": "映众",
+    "series": "4060 Ti",
+    "opendb_id": "4060_ti_16gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 4060 Ti",
+      "显示芯片系列": "NVIDIA RTX 40系列",
+      "显存频率": "18000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "16GB",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "8pin",
+      "散热方式": "三风扇散热/双风扇散热",
+      "建议电源": "600W"
+    }
+  },
+  {
+    "name": "4060 Ti (8GB)",
+    "manufacturer": "映众",
+    "series": "4060 Ti",
+    "opendb_id": "4060_ti_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 4060 Ti",
+      "显示芯片系列": "NVIDIA RTX 40系列",
+      "显存频率": "18000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "8pin",
+      "散热方式": "双风扇散热/三风扇散热",
+      "建议电源": "600W"
+    }
+  }
+]

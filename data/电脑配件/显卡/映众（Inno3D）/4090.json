@@ -1,0 +1,31 @@
+[
+  {
+    "name": "4090 (24GB)",
+    "manufacturer": "映众",
+    "series": "4090",
+    "opendb_id": "4090_24gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 4090",
+      "显示芯片系列": "NVIDIA RTX 40系列",
+      "核心频率": "2580MHz/2550MHz",
+      "CUDA核心": "16384个",
+      "显存频率": "21000MHz",
+      "显存类型": "GDDR6X",
+      "显存容量": "24GB",
+      "显存位宽": "384bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin/16pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热",
+      "3D API": "DirectX 12，OpenGL 4.6",
+      "支持HDCP": "是",
+      "产品尺寸": "336×145×60mm/200×159×40mm",
+      "最大功耗": "850W",
+      "其它特点": "支持NVIDIA NVLink技术，VR Ready级别显卡，NVIDIA G-SYNC技术",
+      "其他参数": "显存带宽：1008GB/s"
+    }
+  }
+]
