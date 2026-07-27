@@ -1,0 +1,56 @@
+[
+  {
+    "name": "铭瑄 MS-M3A880D",
+    "manufacturer": "铭瑄",
+    "series": "880G系列",
+    "opendb_id": "___ms_m3a880d",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "AMD 880G",
+      "芯片组描述": "AMD 880G北桥+SB710南桥芯片组",
+      "显示芯片": "集成ATI Radeon HD4250显示核心",
+      "音频芯片": "集成Realtek ALC661 6声道音效芯片",
+      "网卡芯片": "板载Realtek RTL8111DL千兆网卡",
+      "CPU类型": "AMD Phenom II X6 /Phenom/Athlon 64 X2/Athlon64/Athlon64 FX/Sempron",
+      "CPU插槽": "Socket AM3",
+      "内存类型": "2×DDR3 DIMM",
+      "内存描述": "支持双通道内存",
+      "PCI-E插槽": "1×PCI-E X16显卡插槽",
+      "PCI插槽": "1×PCI插槽",
+      "存储接口": "4×SATA II接口",
+      "USB接口": "4×USB2.0接口（背板）",
+      "视频接口": "1×VGA接口，1×DVI接口，1×HDMI接口",
+      "电源接口": "一个4针，一个24针电源接口",
+      "其它接口": "1×RJ45网络接口，USB接口，音频接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "多显卡技术": "支持组建ATI Hybrid CrossFireX多显卡模式",
+      "供电模式": "4相",
+      "上市日期": "2011年03月"
+    }
+  },
+  {
+    "name": "铭瑄 MS-M3A880G",
+    "manufacturer": "铭瑄",
+    "series": "880G系列",
+    "opendb_id": "___ms_m3a880g",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "AMD 880G",
+      "芯片组描述": "AMD 880G北桥+SB710南桥芯片组",
+      "显示芯片": "集成ATI Radeon HD4250显示核心，板载128MB DDR3显存",
+      "音频芯片": "集成Realtek ALC662 6声道音效芯片",
+      "网卡芯片": "板载Realtek RTL8111D千兆网卡",
+      "CPU类型": "Phenom/Athlon 64 X2/Athlon64/Athlon64 FX/Sempron",
+      "CPU插槽": "Socket AM2/AM2+/AM3",
+      "内存类型": "2×DDR2 DIMM，2×DDR3 DIMM",
+      "PCI-E插槽": "1×PCI-E X16显卡插槽1×PCI-E X1插槽",
+      "PCI插槽": "2×PCI插槽",
+      "存储接口": "6×SATA II接口",
+      "视频接口": "1×VGA接口，1×DVI接口，1×HDMI接口",
+      "电源接口": "一个8针，一个24针电源接口",
+      "其它接口": "1×RJ45网络接口，USB接口，音频接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "四相"
+    }
+  }
+]

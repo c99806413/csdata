@@ -1,0 +1,57 @@
+[
+  {
+    "name": "铭瑄 MS-N73V",
+    "manufacturer": "铭瑄",
+    "series": "MCP73系列",
+    "opendb_id": "___ms_n73v",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "GeForce 7系列板载GPU",
+      "芯片组描述": "采用nVIDIA MCP73芯片组",
+      "显示芯片": "集成GeForce7050显示核心",
+      "音频芯片": "集成Realtek ALC662 6声道音效芯片",
+      "网卡芯片": "板载RTL8100C百兆网卡",
+      "CPU类型": "Core 2 Duo/奔腾4/赛扬D/PentiumD",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Core 2 Duo/Conroe-L/Pentium D/Pentium4/Celeron D处理器",
+      "内存类型": "2×DDR2 DIMM",
+      "内存描述": "支持DDR2 667内存",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽，1条PCI-E 1X",
+      "存储接口": "4个SATA II接口",
+      "USB接口": "8个USB 接口",
+      "视频接口": "音频接口/VGA接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "三相"
+    }
+  },
+  {
+    "name": "铭瑄 MS-N70G",
+    "manufacturer": "铭瑄",
+    "series": "MCP73系列",
+    "opendb_id": "___ms_n70g",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "GeForce 7系列板载GPU",
+      "芯片组描述": "采用GeForce7050PV＋nForce630A芯片组",
+      "显示芯片": "集成Geforce 7050图形核心",
+      "音频芯片": "集成声卡",
+      "网卡芯片": "板载RTL 8111B网卡",
+      "CPU类型": "Athlon64/Athlon 64 X2/Athlon64 FX/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持Athlon 64/Athlon 64 x2/Athlon 64 FX/Sempron处理器",
+      "内存类型": "DDR2",
+      "内存描述": "支持DDR2 533/667/800内存",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽",
+      "存储接口": "4个SATA II接口，支持RAID 0/1/0+1/5和JBOD",
+      "视频接口": "VGA接口/DVI接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "供电模式": "三相"
+    }
+  }
+]

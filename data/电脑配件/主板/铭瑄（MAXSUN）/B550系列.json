@@ -1,0 +1,78 @@
+[
+  {
+    "name": "铭瑄 MS-终结者 B550M",
+    "manufacturer": "铭瑄",
+    "series": "B550系列",
+    "opendb_id": "___ms_____b550m",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "AMD B550",
+      "芯片组描述": "采用AMD B550芯片组",
+      "显示芯片": "CPU内置显示芯片（需要CPU支持）",
+      "音频芯片": "集成Realtek ALC662 6声道音效芯片",
+      "网卡芯片": "板载Realtek RTL8111千兆网卡",
+      "CPU类型": "AMD Ryzen 3000/5000系列处理器（R5 3400G/R3 3200G除外）",
+      "CPU插槽": "Socket AM4",
+      "内存描述": "支持双通道DDR4内存",
+      "PCI-E标准": "PCI-E 4.0",
+      "PCI-E X16插槽": "2个",
+      "PCI-E X1插槽": "1个",
+      "存储接口": "1×M.2接口，4×SATA III接口",
+      "USB接口": "8×USB2.0接口2×USB3.0接口2×USB3.1接口",
+      "视频接口": "1×VGA接口，1×HDMI接口",
+      "电源接口": "一个8针，一个24针电源接口",
+      "其它接口": "1×PS/2键鼠通用接口，1×RJ45网络接口，3×音频接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "六相"
+    }
+  },
+  {
+    "name": "铭瑄 MS-iCraft B550M WIFI",
+    "manufacturer": "铭瑄",
+    "series": "B550系列",
+    "opendb_id": "___ms_icraft_b550m_wifi",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "AMD B550",
+      "芯片组描述": "采用AMD B550芯片组",
+      "显示芯片": "CPU内置显示芯片(需要CPU支持)",
+      "网卡芯片": "板载Realtek 8125B 2.5GbE千兆网卡",
+      "CPU类型": "AMD Ryzen 3000/5000系列处理器（R5 3400G/R3 3200G除外）",
+      "CPU插槽": "Socket AM4",
+      "内存描述": "支持双通道DDR4 4866（OC）MHz内存",
+      "PCI-E标准": "PCI-E 4.0",
+      "PCI-E X16插槽": "2个",
+      "存储接口": "2×M.2接口，4×SATA III接口",
+      "USB接口": "3×USB3.2 Gen2 Type-A接口2×USB3.2 Gen2 Type-C接口2×USB2.0接口",
+      "视频接口": "1×HDMI接口，1×DisplayPort接口",
+      "电源接口": "两个8针，一个24针电源接口",
+      "其它接口": "1×PS/2键鼠通用接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "十六相"
+    }
+  },
+  {
+    "name": "铭瑄 MS-iCraft B550M",
+    "manufacturer": "铭瑄",
+    "series": "B550系列",
+    "opendb_id": "___ms_icraft_b550m",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "AMD B550",
+      "芯片组描述": "采用AMD B550芯片组",
+      "网卡芯片": "板载Realtek 8125B 2.5GbE千兆网卡",
+      "CPU类型": "AMD Ryzen 3000/5000系列处理器（R5 3400G/R3 3200G除外）",
+      "CPU插槽": "Socket AM4",
+      "内存描述": "支持双通道DDR4 4866（OC）MHz内存",
+      "PCI-E标准": "PCI-E 4.0",
+      "PCI-E X16插槽": "2个",
+      "存储接口": "2×M.2接口，4×SATA III接口",
+      "USB接口": "3×USB3.2 Gen2 Type-A接口2×USB3.2 Gen2 Type-C接口2×USB2.0接口",
+      "视频接口": "1×HDMI接口，1×DisplayPort接口",
+      "电源接口": "两个8针，一个24针电源接口",
+      "其它接口": "1×PS/2键鼠通用接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "16相"
+    }
+  }
+]
