@@ -1,0 +1,54 @@
+[
+  {
+    "name": "升技NF-M2S",
+    "manufacturer": "升技",
+    "series": "C61S系列",
+    "opendb_id": "__nf_m2s",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "NVIDIA NF6100-405",
+      "芯片组描述": "采用MCP61S芯片组",
+      "显示芯片": "集成GeForce6100图形芯片",
+      "音频芯片": "板载7.1声道声卡",
+      "网卡芯片": "板载百兆网卡",
+      "CPU类型": "Athlon64 FX/Athlon64/Athlon 64 X2/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持 Socket AM2 Athlon 64X2/64FX/64/Sempron 处理器",
+      "内存类型": "2×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 800/667内存，最大支持2GB",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽,1条PCI-E 1X",
+      "存储接口": "2个SATA接口，支持 SATA RAID 0/1/JBOD",
+      "视频接口": "音频接口/VGA接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型"
+    }
+  },
+  {
+    "name": "升技NF-M2SV",
+    "manufacturer": "升技",
+    "series": "C61S系列",
+    "opendb_id": "__nf_m2sv",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "NVIDIA NF6100-405",
+      "芯片组描述": "采用NVIDIA GeForce6100+405单芯片",
+      "显示芯片": "集成GeForce6100 图形芯片",
+      "音频芯片": "板载5.1 CH HD Audio 声卡",
+      "网卡芯片": "板载百兆以太网卡",
+      "CPU类型": "Athlon64/Athlon 64 X2/Athlon64 FX/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持Socket AM2 Athlon 64X2/64FX/64/Sempron 处理器支持AMD Cool 'n' Quiet 技术",
+      "内存类型": "2×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 800/667内存,最高2GB",
+      "PCI-E标准": "PCI-E 8X",
+      "PCI插槽": "2条PCI 插槽,1条PCI-E 1X",
+      "存储接口": "2个SATA II接口,支持SATA RAID 0/1/JBOD",
+      "视频接口": "音频接口/VGA接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型"
+    }
+  }
+]

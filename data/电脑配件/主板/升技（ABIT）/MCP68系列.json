@@ -1,0 +1,83 @@
+[
+  {
+    "name": "升技A-N68SV",
+    "manufacturer": "升技",
+    "series": "MCP68系列",
+    "opendb_id": "__a_n68sv",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "nVIDIA nForce630A",
+      "芯片组描述": "采用NVIDIA GeFoce 7025/nForce 630a芯片组",
+      "显示芯片": "内置Geforce 7系列高性能图形芯片",
+      "音频芯片": "集成ALC662音效芯片，提供5.1声道音频输出",
+      "网卡芯片": "板载Realtek RTL8101E百兆网卡",
+      "CPU类型": "Phenom/Athlon64/Athlon 64 X2/Athlon64 FX/Sempron",
+      "CPU插槽": "Socket AM2/AM2+",
+      "CPU描述": "支持Socket AM2/AM2+处理器支持AMD Cool 'n' Quiet 技术",
+      "内存类型": "2×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 800/667/533 non-ECC un-buffered 内存，最大支持4GB",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽，1条PCI-E 1X",
+      "存储接口": "4个SATA II接口，支持RAID 0/1/5/10 JBOD支持SATA AHCI,NCQ 及热插拔",
+      "视频接口": "VGA接口/DVI接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "外形尺寸": "24.4×24.4cm",
+      "供电模式": "三相"
+    }
+  },
+  {
+    "name": "升技AN-M2",
+    "manufacturer": "升技",
+    "series": "MCP68系列",
+    "opendb_id": "__an_m2",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "nVIDIA nForce630A",
+      "芯片组描述": "采用nVIDIA MCP68芯片组",
+      "显示芯片": "集成显卡",
+      "音频芯片": "集成7.1声道声卡",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "Athlon64/Athlon 64 X2/Athlon64 FX/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持Socket AM2接口处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 800内存",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽,1条PCI-E 1X",
+      "存储接口": "4个SATA II接口，支持0,1,5, 0+1",
+      "视频接口": "VGA接口/DVI接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型"
+    }
+  },
+  {
+    "name": "升技AN-M2HD",
+    "manufacturer": "升技",
+    "series": "MCP68系列",
+    "opendb_id": "__an_m2hd",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "nVIDIA nForce630A",
+      "芯片组描述": "采用nVIDIA MCP68芯片组",
+      "显示芯片": "集成显卡",
+      "音频芯片": "板载7.1声道音效芯片",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "Athlon64/Athlon 64 X2/Athlon64 FX/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持Socket AM2 Athlon 64X2/64FX/64/Sempron 处理器",
+      "内存类型": "DDR2",
+      "内存描述": "支持双通道DDR2 800/667内存,最高支持8GB",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽,1条PCI-E 1X",
+      "存储接口": "4个SATA II接口，支持RAID 0/1/5/10",
+      "视频接口": "VGA接口/HDMI接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "1394接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "外形尺寸": "24.4×24.4cm"
+    }
+  }
+]

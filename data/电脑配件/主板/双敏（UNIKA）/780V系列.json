@@ -1,0 +1,57 @@
+[
+  {
+    "name": "双敏UR780GS",
+    "manufacturer": "双敏",
+    "series": "780V系列",
+    "opendb_id": "__ur780gs",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "AMD 780V",
+      "芯片组描述": "采用AMD 780V+SB700芯片组",
+      "显示芯片": "集成ATI Radeon HD3100显示核心",
+      "音频芯片": "集成6声道音效芯片",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "Athlon64/Sempron/Athlon64 FX/Athlon64 X2/Phenom/Sempron",
+      "CPU插槽": "Socket AM2/AM2+",
+      "CPU描述": "支持Athlon64/Sempron/Athlon64 FX/Athlon64 X2/Phenom/Sempron系列处理器",
+      "PCI-E标准": "PCI-E 2.0 16X",
+      "PCI插槽": "2条PCI插槽",
+      "存储接口": "6个SATA II接口",
+      "视频接口": "VGA接口/DVI接口/HDMI接口/音频接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "1个RJ45网络接口，1个同轴输出接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "供电模式": "四相",
+      "其它特点": "支持混合交火技术",
+      "产品特性1": "板载128MB独立显存"
+    }
+  },
+  {
+    "name": "双敏UR78VMX",
+    "manufacturer": "双敏",
+    "series": "780V系列",
+    "opendb_id": "__ur78vmx",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "AMD 780V",
+      "芯片组描述": "采用 AMD 780V+SB700芯片组",
+      "显示芯片": "集成ATI Radeon HD3100显示核心",
+      "音频芯片": "集成Realtek ALC662 HD 6CH音效芯片",
+      "网卡芯片": "板载Marvell 88E8056千兆网卡",
+      "CPU类型": "Phenom/Athlon X2/Athlon X2 BE/Athlon 64FX/Athlon 64/Athlon64 LE/Sempron",
+      "CPU插槽": "Socket AM2+",
+      "CPU描述": "支持 AMD Socket AM2+ Phenom/Athlon X2/Athlon X2 BE/Athlon 64FX/Athlon 64/Athlon64 LE/Sempron/Sempron LE 全系列处理器",
+      "PCI-E标准": "PCI-E 2.0 16X",
+      "PCI插槽": "2条PCI插槽",
+      "存储接口": "4个SATA II接口，支持RAID 0,1,0+1,JBOD",
+      "视频接口": "VGA接口/DVI接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "三相",
+      "其它特点": "CPU外频逐MHz调节内存频率调节内存电压调节硬件监控、CPU温度、电压监控高级电源管理内建HD Audio 8声道声卡支持USB设备引导和网络无盘启动",
+      "内存类型": "2×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 1066/800内存，最大支持4GB"
+    }
+  }
+]

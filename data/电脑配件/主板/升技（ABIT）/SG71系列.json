@@ -1,0 +1,199 @@
+[
+  {
+    "name": "升技SG-72",
+    "manufacturer": "升技",
+    "series": "SG71系列",
+    "opendb_id": "__sg_72",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "SIS 661FX",
+      "芯片组描述": "964L南桥；MuTIOL 1G 技术",
+      "显示芯片": "SIS Real256E GPU",
+      "音频芯片": "AC'97 6Ch Audio CODEC",
+      "网卡芯片": "10/100M PCI Fast Ethernet Controller",
+      "CPU类型": "奔腾4",
+      "CPU插槽": "Socket 478",
+      "CPU描述": "支持Intel Hyper-Threading",
+      "内存类型": "DDR",
+      "内存描述": "支持DDR400；2 184-pin DIMM sockets",
+      "PCI-E标准": "1 x AGP",
+      "PCI插槽": "3 x PCI",
+      "USB接口": "2 x USB 2.0需扩展；4 x USB 2.0后置",
+      "视频接口": "1 x VGA；10/100M LAN；Audio connectors (Line-out, Line-in, Mic-in)",
+      "主板板型": "Micro ATX板型"
+    }
+  },
+  {
+    "name": "升技SG71",
+    "manufacturer": "升技",
+    "series": "SG71系列",
+    "opendb_id": "__sg71",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "SIS 651",
+      "芯片组描述": "南桥962L",
+      "显示芯片": "板载SiS315 3D显卡，支持256-bit 3D绘图引擎以及2D加速器",
+      "音频芯片": "內建2-Channel AC 97 CODEC",
+      "网卡芯片": "板载10M/100M自适应网卡",
+      "CPU类型": "奔腾4",
+      "CPU插槽": "Socket 478",
+      "内存类型": "DDR",
+      "内存描述": "两组DDR插槽，支持 2GB PC2700 DDR (Max. 2GB)",
+      "PCI-E标准": "1个AGP插槽；AGP 4X(1.5V only)",
+      "PCI插槽": "3个PCI插槽",
+      "USB接口": "2 x USB，支持USB 2.0",
+      "视频接口": "1 x VGA；音效連接埠 (Line-out, Line-in, Mic-in和Game Port)",
+      "主板板型": "Micro ATX板型"
+    }
+  },
+  {
+    "name": "升技SA7",
+    "manufacturer": "升技",
+    "series": "SG71系列",
+    "opendb_id": "__sa7",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "SIS 645DX",
+      "显示芯片": "无",
+      "音频芯片": "内建C-Media CMI-8738-MX声卡芯片，支持3D硬件音效，支持SPDIF输入/输出",
+      "网卡芯片": "内建硬件监测芯片,I/O芯片,板载 Realtek RTL8100B 网卡控制芯片",
+      "CPU类型": "奔腾4",
+      "CPU插槽": "Socket 478",
+      "CPU描述": "Socket 478 for Intel Pentium 4 (Willamate/ Northwood) 1.4 GHz~2.0 GHz或更高",
+      "内存类型": "DDR",
+      "内存描述": "3 DIMMs of 184-pin DDR 插槽，支持PC1600/DDR200 or PC2100/DDR266 PC2700/DDR333 DDR 内存，最高支持 3GB DDR 内存",
+      "PCI-E标准": "1 x AGP 插槽,支持 AGP 2X/4X",
+      "PCI插槽": "5 x PCI 插槽支持33MHz 和 PCI 2.2兼容",
+      "USB接口": "板载 2 个 USB 端口，2 个线连的 USB 端口（连线可选)",
+      "视频接口": "1个扬声器输出接口，1个线性输入插孔，1个麦克风输入插孔和1个MIDI/游戏接口,1 个红外线通讯接头,1 个 RJ-45 接口",
+      "主板板型": "ATX板型",
+      "超频功能": "内建硬件监测芯片，自动监测系统电压,自动检测CPU电压"
+    }
+  },
+  {
+    "name": "升技SG-80",
+    "manufacturer": "升技",
+    "series": "SG71系列",
+    "opendb_id": "__sg_80",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "SiS 661FX",
+      "芯片组描述": "SiS 661FX＋SIS 964",
+      "显示芯片": "集成 SIS Real256E GPU 高效能 256-bit 3D 引擎及 2D加速器",
+      "音频芯片": "板载6声道 AC 97 音效芯片",
+      "网卡芯片": "内置10-100M网卡",
+      "CPU类型": "赛扬D",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Prescott,Celeron D系列处理器",
+      "内存类型": "DDR",
+      "内存描述": "双通道 2 DDR DIMM，支持DDR400,DDR333,最大支持2G内存容量",
+      "PCI-E标准": "一个AGP插槽，支持8X",
+      "PCI插槽": "3 PCI",
+      "USB接口": "8",
+      "主板板型": "Micro ATX板型"
+    }
+  },
+  {
+    "name": "升技SG-95",
+    "manufacturer": "升技",
+    "series": "SG71系列",
+    "opendb_id": "__sg_95",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "SiS 662",
+      "芯片组描述": "采用SiS 662/966L芯片组",
+      "显示芯片": "集成SiS Mirage1显卡",
+      "音频芯片": "板载7.1声道HD Audio音效芯片",
+      "网卡芯片": "板载10/100M自适应网卡",
+      "CPU类型": "Core 2 Duo/奔腾4/赛扬D/PentiumD/赛扬",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Pentium D/Pentium 4/Celeron/Celeron D/Intel Conore(酷睿)处理器",
+      "内存类型": "2×DDR2 DIMM",
+      "内存描述": "支持DDR2 667/533内存",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽,1条PCI-E 1X",
+      "视频接口": "音频接口/VGA接口",
+      "主板板型": "Micro ATX板型"
+    }
+  },
+  {
+    "name": "升技SD7-533",
+    "manufacturer": "升技",
+    "series": "SG71系列",
+    "opendb_id": "__sd7_533",
+    "metadata": {
+      "主芯片组": "SIS 645",
+      "CPU插槽": "Socket 478"
+    }
+  },
+  {
+    "name": "升技I-S71",
+    "manufacturer": "升技",
+    "series": "SG71系列",
+    "opendb_id": "__i_s71",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "SiS 671",
+      "芯片组描述": "采用SiS 671/968芯片组",
+      "显示芯片": "集成SIS Mirage 3 图形核心",
+      "音频芯片": "板载7.1 声道 HD Audio 音效芯片",
+      "网卡芯片": "板载10/100M 自适应网卡",
+      "CPU类型": "Core 2 Duo/Core 2 Quad/奔腾4/赛扬D/PentiumD",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Pentium D/Pentium 4/Celeron/Celeron D/Core 2 Duo处理器",
+      "内存类型": "2×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 667/533内存,最高支持4GB",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽,1条PCI-E 1X",
+      "视频接口": "音频接口/VGA接口",
+      "主板板型": "Micro ATX板型"
+    }
+  },
+  {
+    "name": "升技P5-99B",
+    "manufacturer": "升技",
+    "series": "SG71系列",
+    "opendb_id": "__p5_99b",
+    "metadata": {
+      "集成芯片": "全整合",
+      "主芯片组": "SIS 530",
+      "显示芯片": "内建显示芯片",
+      "音频芯片": "内建符合AC'97规范音效芯片",
+      "网卡芯片": "内建硬件监测芯片",
+      "CPU插槽": "Socket 7",
+      "CPU描述": "AMD K6 III/K6 II，IBM/Cyrix MII，Intel P55C-MMX/P54C/P54CS",
+      "内存类型": "SDRAM",
+      "内存描述": "三个168-pin DIMM PC100 SDRAM",
+      "PCI-E标准": "无",
+      "PCI插槽": "四个32-bit PCI插槽",
+      "USB接口": "二个USB接口",
+      "视频接口": "一个红外线接口，三个Audio接口，一个游戏杆接口",
+      "主板板型": "ATX板型",
+      "超频功能": "电压监测及警告，支持对CPU电压的调节"
+    }
+  },
+  {
+    "name": "升技SR7-8X",
+    "manufacturer": "升技",
+    "series": "SG71系列",
+    "opendb_id": "__sr7_8x",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "SIS 648",
+      "显示芯片": "无",
+      "音频芯片": "内建了2-Channel AC 97 CODEC音效芯片",
+      "网卡芯片": "内建的RTL8100B PCI 高速网络控制芯片,板载10M/100M自适应网卡",
+      "CPU类型": "奔腾4",
+      "CPU插槽": "Socket 478",
+      "CPU描述": "支持Intel Pentium® 4 之Socket 478 处理器,FSB 533MHZ",
+      "内存类型": "DDR",
+      "内存描述": "支援3个 184-pin DIMM插槽 (unbuffered Non-ECC DIMM),支持3个DIMM DDR 200/266 (最大支持 3GB),支持 2 DIMM DDR 333 (最大支持 2GB)",
+      "PCI-E标准": "AGP 4X(1.5V)/8X(0.8V)and 模块 (Sideband) 装置",
+      "PCI插槽": "五个PCI插槽",
+      "USB接口": "内建2CH Audio 芯片,支持USB 2.0",
+      "视频接口": "三个音频接口,一个游戏杆接口,一个红外线接口",
+      "主板板型": "ATX板型",
+      "超频功能": "内建硬件监测芯片,可自动监测系统电压"
+    }
+  }
+]

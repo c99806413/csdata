@@ -1,0 +1,56 @@
+[
+  {
+    "name": "升技IX38 QuadGT",
+    "manufacturer": "升技",
+    "series": "X38系列",
+    "opendb_id": "__ix38_quadgt",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel X38",
+      "芯片组描述": "采用Intel X38/ICH9R芯片组",
+      "显示芯片": "无",
+      "音频芯片": "板载7.1 声道 HD Audio 音效芯片",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "Core 2 Quad/Core2 Extreme/Core 2 Duo/奔腾4/赛扬D/PentiumD",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel最新45nm FSB 1600 处理器支持Core 2 Duo Pentium/Pentium D 处理器支持Intel Quad Core/Core 2 Duo/Extreme Edition/Pentium D/Pentium4处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 1066/800/667/533内存,最大支持8GB",
+      "PCI-E标准": "3条PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽，1条PCI-E 1X",
+      "存储接口": "6个SATA II接口，支持RAID0/1/5/10",
+      "USB接口": "8个USB 接口",
+      "视频接口": "音频接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "2个eSATA接口，2个IEEE 1394a接口，1个光纤输入、输出接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "外形尺寸": "30.5×24.5cm"
+    }
+  },
+  {
+    "name": "升技IX38-MAX",
+    "manufacturer": "升技",
+    "series": "X38系列",
+    "opendb_id": "__ix38_max",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel X38",
+      "芯片组描述": "采用Intel X38+ICH9R芯片组",
+      "显示芯片": "无",
+      "音频芯片": "集成Realtek ALC888音效芯片",
+      "网卡芯片": "板载Realtek RTL8110SC千兆网卡",
+      "CPU类型": "Core 2 Quad/Core2 Extreme/Core 2 Duo/奔腾4/赛扬D/PentiumD",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持LGA775接口全系列处理器",
+      "内存类型": "4×DDR3 DIMM",
+      "内存描述": "支持双通道DDR3 1333内存",
+      "PCI-E标准": "3条PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽,1条PCI-E 1X",
+      "存储接口": "6个SATA II接口",
+      "视频接口": "音频接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "2个eSATA接口，1394接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型"
+    }
+  }
+]
