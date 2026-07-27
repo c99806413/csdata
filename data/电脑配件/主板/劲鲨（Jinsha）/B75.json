@@ -1,0 +1,114 @@
+[
+  {
+    "name": "劲鲨B75 B75A主板",
+    "manufacturer": "劲鲨",
+    "series": "B75",
+    "opendb_id": "__b75_b75a__",
+    "metadata": {
+      "产品型号": "B75A",
+      "集成芯片": "声卡/网卡",
+      "音频芯片": "Realtek ALC662 HD 5.1",
+      "CPU插槽": "LGA 1155",
+      "内存类型": "2×DDR3 DIMM",
+      "最大内存容量": "16GB",
+      "PCI-E标准": "PCI-E 3.0",
+      "PCI-E插槽": "1×PCI-E X16显卡插槽",
+      "PCI-E X16插槽": "1个",
+      "存储接口": "1xSATA 3.0+3xSATA2.0M.2 NVMMe，M.2 WIFI + BT",
+      "USB接口": "4xUSB3.0 + 6xUSB2.0（前置2xUSB3.0+2*USB2.0 ，其中一个接口仅支持USB3.0设备）",
+      "视频接口": "HD , VGA",
+      "电源接口": "24Pin ATX+4Pin ATX 12V",
+      "其它接口": "F PANEL、F AUDIO、F SPK、3*PIN CPU FAN、 3PIN SYS FAN",
+      "主板板型": "Mini-ITX板型",
+      "外形尺寸": "17*17cm",
+      "其它特点": "M.2 Nvme(PC1-E 2.0 X4)2280M.2 WIFI"
+    }
+  },
+  {
+    "name": "劲鲨B75 B75-HM主板",
+    "manufacturer": "劲鲨",
+    "series": "B75",
+    "opendb_id": "__b75_b75_hm__",
+    "metadata": {
+      "产品型号": "B75-HM",
+      "集成芯片": "声卡/网卡",
+      "CPU插槽": "LGA1155",
+      "内存类型": "4×DDR3 DIMM",
+      "最大内存容量": "64GB",
+      "PCI-E插槽": "1×PCI-E X16显卡插槽",
+      "PCI-E X16插槽": "1个",
+      "存储接口": "支持SATA3.0接口",
+      "USB接口": "4xUSB3.0+6xUSB2.0",
+      "电源接口": "24PIN+ATX 4PIN",
+      "主板板型": "Mini-ITX板型",
+      "外形尺寸": "170*170mm",
+      "其它特点": "M.2 Nvme"
+    }
+  },
+  {
+    "name": "劲鲨B75-G主板",
+    "manufacturer": "劲鲨",
+    "series": "B75",
+    "opendb_id": "__b75_g__",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "音频芯片": "集成5.1声道音效芯片",
+      "CPU插槽": "LGA 1155",
+      "内存类型": "2×DDR3 DIMM",
+      "最大内存容量": "16GB",
+      "PCI-E标准": "PCI-E 3.0",
+      "PCI-E X16插槽": "1个",
+      "存储接口": "1×SATA III接口，3×SATA II接口",
+      "USB接口": "4×USB3.0接口（2内置+2背板）6×USB2.0接口（2内置+4背板）",
+      "视频接口": "1×VGA接口，1×HDMI接口，1×DVI接口",
+      "电源接口": "一个4针，一个24针电源接口",
+      "其它接口": "1×PS/2鼠标接口，1×PS/2键盘接口，1×RJ45网络接口，3×音频接口，1×COM接口",
+      "主板板型": "Micro ATX板型",
+      "外形尺寸": "19.0×17.0cm"
+    }
+  },
+  {
+    "name": "劲鲨B75M主板",
+    "manufacturer": "劲鲨",
+    "series": "B75",
+    "opendb_id": "__b75m__",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "音频芯片": "集成5.1声道音效芯片",
+      "CPU插槽": "LGA 1155",
+      "内存类型": "2×DDR3 DIMM",
+      "最大内存容量": "16GB",
+      "PCI-E标准": "PCI-E 3.0",
+      "PCI-E X16插槽": "1个（1个支持X8运行规格）",
+      "存储接口": "1×SATA III接口，3×SATA II接口",
+      "USB接口": "4×USB3.0接口（2内置+2背板）6×USB2.0接口（2内置+4背板）",
+      "视频接口": "1×VGA接口，1×HDMI接口",
+      "电源接口": "一个4针，一个24针电源接口",
+      "其它接口": "1×PS/2鼠标接口，1×PS/2键盘接口，1×RJ45网络接口，3×音频接口，1×COM接口",
+      "主板板型": "Micro ATX板型",
+      "外形尺寸": "19.0×17.0cm"
+    }
+  },
+  {
+    "name": "劲鲨B75 B75M-K主板",
+    "manufacturer": "劲鲨",
+    "series": "B75",
+    "opendb_id": "__b75_b75m_k__",
+    "metadata": {
+      "产品型号": "B75M-K",
+      "集成芯片": "声卡/网卡",
+      "音频芯片": "ALC897 7.1 Channel Audio Chip",
+      "CPU插槽": "LGA 1155",
+      "内存类型": "2×DDR3 DIMM",
+      "最大内存容量": "32GB",
+      "PCI-E标准": "PCI-E 3.0",
+      "PCI-E插槽": "1×PCI-E X16显卡插槽",
+      "USB接口": "4xUSB2.0 Ports，4xUSB3.0 Ports",
+      "视频接口": "1*HD, 1*VGA(Support 1920x1080/60 Hz)",
+      "电源接口": "一个8针，一个24针电源接口",
+      "其它接口": "1*4pin CPU Smart FAN header, 1*SYS FAN header, 1*Front Audio header, 1*USB3.0 header(for two USB3.0 ports),1*USB2.0 header(for two USB2.0 ports),1*RS232 COM header, 1*Front control panel header,1*Speaker header,1*24pin ATX connector, 1*8pin 12V connector",
+      "主板板型": "Micro ATX板型",
+      "外形尺寸": "22.3*17cm"
+    }
+  }
+]

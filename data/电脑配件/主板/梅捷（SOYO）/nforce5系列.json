@@ -1,0 +1,56 @@
+[
+  {
+    "name": "梅捷AMN500-RL",
+    "manufacturer": "梅捷",
+    "series": "nforce5系列",
+    "opendb_id": "__amn500_rl",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "nVIDIA nForce 500",
+      "芯片组描述": "采用nVIDIA nForce 500芯片组",
+      "显示芯片": "无",
+      "音频芯片": "集成ALC655芯片，提供六声道声卡",
+      "网卡芯片": "板载百兆网卡",
+      "CPU类型": "Athlon64/Athlon 64 X2/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持AM2全系列处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDRII 800内存",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽,2条PCI-E 1X",
+      "存储接口": "4个SATA II接口",
+      "视频接口": "音频接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "三相"
+    }
+  },
+  {
+    "name": "梅捷AMN500S-GR",
+    "manufacturer": "梅捷",
+    "series": "nforce5系列",
+    "opendb_id": "__amn500s_gr",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "nVIDIA nForce 500",
+      "芯片组描述": "采用nForce 500芯片组",
+      "显示芯片": "无",
+      "音频芯片": "集成5.1声道声卡",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "Athlon64/Athlon 64 X2/Athlon64 FX/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持AM2接口的AMD全系列处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 800内存",
+      "PCI-E标准": "3条PCI-E 16X，2条PCI-E 1X",
+      "PCI插槽": "2条PCI 插槽",
+      "存储接口": "4个SATA II接口",
+      "视频接口": "音频接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "三相"
+    }
+  }
+]

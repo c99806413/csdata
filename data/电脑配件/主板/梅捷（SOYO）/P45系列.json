@@ -1,0 +1,55 @@
+[
+  {
+    "name": "梅捷SY-P45+",
+    "manufacturer": "梅捷",
+    "series": "P45系列",
+    "opendb_id": "__sy_p45_",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel P45",
+      "芯片组描述": "采用Intel P45+ICH10芯片组",
+      "音频芯片": "集成6声道音效芯片",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "Core 2 Extreme/Core 2 Quad/Core 2 Duo/Celeron",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel Socket 775接口处理器",
+      "内存类型": "2×DDR2 DIMM，2×DDR3 DIMM",
+      "内存描述": "支持双通道DDR2 667/800；DDR3 1066内存",
+      "PCI-E标准": "PCI-E 2.0 16X",
+      "PCI插槽": "3条PCI插槽，2条PCI-E 1X",
+      "存储接口": "6个SATA II接口",
+      "视频接口": "音频接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "1个RJ45网络接口，1个同轴输出接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "供电模式": "四相",
+      "操作系统": "网易通二代全固态电容"
+    }
+  },
+  {
+    "name": "梅捷SY-OC03P45-GR",
+    "manufacturer": "梅捷",
+    "series": "P45系列",
+    "opendb_id": "__sy_oc03p45_gr",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel P45",
+      "芯片组描述": "采用Intel P45+ICH10芯片组",
+      "音频芯片": "集成ALC883 8声道音效芯片",
+      "网卡芯片": "板载Realtek RTL8111C千兆网卡",
+      "CPU类型": "Core2 Extreme/Core 2 Quad/Core 2 Duo/Pentium 4/Celeron D",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel Socket 775接口处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 667/800内存",
+      "PCI-E标准": "2条PCI-E 2.0 16X",
+      "PCI插槽": "2条PCI 插槽，2条PCI-E 1X",
+      "存储接口": "8个SATA II接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "1个ESATA接口，S/P DIF数字音乐端口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "供电模式": "10相",
+      "操作系统": "网易通二代、DIY按键、热管散热系统、Debug侦错灯"
+    }
+  }
+]
