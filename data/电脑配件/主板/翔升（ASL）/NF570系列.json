@@ -1,0 +1,54 @@
+[
+  {
+    "name": "翔升混血G96TMX",
+    "manufacturer": "ASL翔升",
+    "series": "NF570系列",
+    "opendb_id": "____g96tmx",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "NVIDIA nForce 570 LT SLI",
+      "显示芯片": "集成GForce 9500GT显示核心",
+      "音频芯片": "集成6声道音效芯片",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "Athlon64/Athlon 64 X2/Athlon64 FX/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持AM2接口全系列Athlon 64 FX/Athlon 64 X2/Athlon 64处理器",
+      "内存类型": "2×DDR2 DIMM",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "1条PCI插槽",
+      "存储接口": "4个SATA II接口",
+      "视频接口": "VGA接口/DVI接口/HDMI接口/音频接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "1个RJ45网络接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "四相",
+      "产品特性1": "板载2颗三星128MB GDDR3显存"
+    }
+  },
+  {
+    "name": "翔升混血G96MX",
+    "manufacturer": "ASL翔升",
+    "series": "NF570系列",
+    "opendb_id": "____g96mx",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "NVIDIA nForce 570 LT SLI",
+      "显示芯片": "集成GForce 9500GT显示核心",
+      "音频芯片": "集成6声道音效芯片",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "Athlon64/Athlon 64 X2/Athlon64 FX/Sempron",
+      "CPU插槽": "Socket AM2",
+      "CPU描述": "支持AM2接口全系列Athlon 64 FX/Athlon 64 X2/Athlon 64处理器",
+      "内存类型": "2×DDR2 DIMM",
+      "PCI-E标准": "PCI-E 16X",
+      "PCI插槽": "1条PCI插槽",
+      "存储接口": "4个SATA II接口",
+      "视频接口": "VGA接口/DVI接口/HDMI接口/音频接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "1个RJ45网络接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "四相",
+      "产品特性1": "板载128M DDR3显存"
+    }
+  }
+]

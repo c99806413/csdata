@@ -1,0 +1,81 @@
+[
+  {
+    "name": "翔升G31V2",
+    "manufacturer": "ASL翔升",
+    "series": "G31系列",
+    "opendb_id": "__g31v2",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "Intel G31",
+      "芯片组描述": "Intel G31北桥+ICH7南桥芯片组",
+      "显示芯片": "集成Intel GMA 3100显示核心",
+      "音频芯片": "集成6声道音效芯片",
+      "网卡芯片": "板载百兆网卡",
+      "CPU类型": "Core 2 Duo/Pentium 4/Celeron D/Pentium D",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel Socket 775接口处理器",
+      "内存类型": "2×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 667/800MHz内存",
+      "PCI-E插槽": "1×PCI-E X16显卡插槽1×PCI-E X1插槽",
+      "PCI插槽": "2×PCI插槽",
+      "存储接口": "4×SATA II接口",
+      "USB接口": "8×USB2.0接口",
+      "视频接口": "1×VGA接口",
+      "电源接口": "一个4针，一个24针电源接口",
+      "其它接口": "1×RJ45网络接口，音频接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "三相"
+    }
+  },
+  {
+    "name": "翔升G48T",
+    "manufacturer": "ASL翔升",
+    "series": "G31系列",
+    "opendb_id": "__g48t",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "Intel G31",
+      "显示芯片": "集成ATi Radeon HD3450显示核心",
+      "音频芯片": "集成Realtek ALC662 6声道音效芯片",
+      "网卡芯片": "板载Realtek RTL8111B千兆网卡",
+      "CPU类型": "Core 2 Quad/Core 2 Extreme/Core 2 Duo/Pentium 4/Pentium D",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel Socket 775接口处理器",
+      "内存类型": "2×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 667/800内存",
+      "PCI插槽": "2条PCI插槽,1条PCI-E 1X",
+      "存储接口": "4个SATA II接口",
+      "视频接口": "VGA接口/DVI接口/HDMI接口/Display Port接口/音频接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "三相"
+    }
+  },
+  {
+    "name": "翔升G48T-Pro",
+    "manufacturer": "ASL翔升",
+    "series": "G31系列",
+    "opendb_id": "__g48t_pro",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "Intel G31",
+      "显示芯片": "集成NVIDIA GeForce 8400显示核心",
+      "音频芯片": "集成6声道音效芯片",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "Core 2 Extreme/Core 2 Quad/Core 2 Duo/Pentium 4/Pentium D",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel Socket 775接口处理器",
+      "内存类型": "2×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 667/800内存",
+      "PCI插槽": "2条PCI插槽",
+      "存储接口": "4个SATA II接口",
+      "视频接口": "VGA接口/DVI接口/HDMI接口/Display Port接口/音频接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型",
+      "供电模式": "三相",
+      "产品特性1": "板载128M显存"
+    }
+  }
+]

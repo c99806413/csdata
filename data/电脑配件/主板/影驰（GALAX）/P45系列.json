@@ -1,0 +1,56 @@
+[
+  {
+    "name": "影驰iP45A",
+    "manufacturer": "影驰",
+    "series": "P45系列",
+    "opendb_id": "__ip45a",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel P45",
+      "芯片组描述": "采用Intel P45+ICH10芯片组",
+      "音频芯片": "集成Realtek ALC888 8声道音效芯片",
+      "网卡芯片": "板载Realtek RTL8111C千兆网卡",
+      "CPU类型": "Core 2 Quad/Core2 Extreme/Core 2 Duo/Conroe",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel 45nm处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 800/667内存，最大支持16GB",
+      "PCI-E标准": "2条PCI-E 2.0 16X",
+      "PCI插槽": "2条PCI插槽，2条I-E 1X",
+      "存储接口": "6个SATA II接口",
+      "视频接口": "音频接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "1个eSATA接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "供电模式": "四相",
+      "其它特点": "支持ATI Crossfire技术"
+    }
+  },
+  {
+    "name": "影驰iP45海啸版",
+    "manufacturer": "影驰",
+    "series": "P45系列",
+    "opendb_id": "__ip45___",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel P45",
+      "芯片组描述": "采用Intel P45+ICH10芯片组",
+      "音频芯片": "集成Realtek ALC888 8声道音效芯片",
+      "网卡芯片": "板载Realtek RTL8111C千兆网卡",
+      "CPU类型": "Core 2 Quad/Core2 Extreme/Core 2 Duo/Conroe",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel 45nm双核/四核处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 800/667内存，最大支持16GB",
+      "PCI-E标准": "2条PCI-E 2.0 16X",
+      "PCI插槽": "2条PCI插槽，2条I-E 1X",
+      "存储接口": "4个SATA II接口",
+      "视频接口": "音频接口",
+      "电源接口": "一个四针，一个24针电源接口",
+      "其它接口": "1个eSATA接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "供电模式": "四相",
+      "其它特点": "支持ATI Crossfire技术"
+    }
+  }
+]

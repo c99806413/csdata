@@ -1,0 +1,57 @@
+[
+  {
+    "name": "影驰680i LT",
+    "manufacturer": "影驰",
+    "series": "680i系列",
+    "opendb_id": "__680i_lt",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "nVIDIA nForce680i LT",
+      "芯片组描述": "采用NVIDIA nForce 680I LT SLI芯片组",
+      "显示芯片": "无",
+      "音频芯片": "集成8声道高保真声效卡",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "Core 2 Quad/Core2 Extreme/Core 2 Duo/奔腾4/赛扬D/PentiumD",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持英特尔酷睿四核/双核/Pentium D/Pentium 4/Celeron D 处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 800/667/533内存",
+      "PCI-E标准": "2条PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽，2条PCI-E 1X",
+      "存储接口": "6个SATA II接口",
+      "USB接口": "10个USB2.0",
+      "视频接口": "音频接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "IEEE1394接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "供电模式": "六相"
+    }
+  },
+  {
+    "name": "影驰680i",
+    "manufacturer": "影驰",
+    "series": "680i系列",
+    "opendb_id": "__680i",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "nVIDIA nForce680i SLI",
+      "芯片组描述": "采用nForce 680i SLI芯片组",
+      "显示芯片": "无",
+      "音频芯片": "集成8声道HD声卡",
+      "网卡芯片": "板载双千兆网卡",
+      "CPU类型": "Core 2 Quad/Core2 Extreme/Core 2 Duo/奔腾4/赛扬D/PentiumD",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持英特尔酷睿四核/双核/Pentium D/Pentium 4/Celeron D 处理器",
+      "内存类型": "DDR2",
+      "内存描述": "支持双通道DDR2 800/667/533内存",
+      "PCI-E标准": "3条PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽，2条PCI-E 1X",
+      "存储接口": "6个SATA II接口",
+      "USB接口": "10个USB2.0",
+      "视频接口": "音频接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型"
+    }
+  }
+]
