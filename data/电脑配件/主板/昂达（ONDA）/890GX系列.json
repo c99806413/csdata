@@ -1,0 +1,58 @@
+[
+  {
+    "name": "昂达魔剑A890GX",
+    "manufacturer": "昂达",
+    "series": "890GX系列",
+    "opendb_id": "____a890gx",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "AMD 890GX",
+      "芯片组描述": "AMD 890GX北桥+SB850南桥芯片组",
+      "显示芯片": "集成ATI Radeon HD4290显示核心",
+      "音频芯片": "集成Realtek ALC883 8声道音效芯片",
+      "网卡芯片": "板载Realtek RTL8111DL千兆网卡",
+      "CPU类型": "Phenom II/Athlon II",
+      "CPU插槽": "Socket AM3",
+      "CPU描述": "支持AMD Socket AM3接口处理器",
+      "内存类型": "4×DDR3 DIMM",
+      "最大内存容量": "16GB",
+      "内存描述": "支持双通道DDR3 1333/1066/1600MHz内存",
+      "PCI-E插槽": "1×PCI-E X16显卡插槽，1×PCI-E X8显卡插槽，2×mini PCI-E插槽",
+      "PCI插槽": "2×PCI插槽",
+      "存储接口": "5×SATA III接口",
+      "视频接口": "1×VGA接口，1×DVI接口，1×HDMI接口",
+      "电源接口": "一个8针，一个24针电源接口",
+      "其它接口": "1×RJ45网络接口，1×同轴输出接口，1×光纤接口，USB接口，音频接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "供电模式": "八相",
+      "RAID功能": "支持RAID 0，1，10",
+      "其它特点": "2倍铜，倍稳固，调频，调压旋钮"
+    }
+  },
+  {
+    "name": "昂达A89GT/128M魔固版",
+    "manufacturer": "昂达",
+    "series": "890GX系列",
+    "opendb_id": "__a89gt_128m___",
+    "metadata": {
+      "集成芯片": "显卡/声卡/网卡",
+      "主芯片组": "AMD 890GX",
+      "芯片组描述": "AMD 890GX北桥+SB850南桥芯片组",
+      "显示芯片": "集成ATI Radeon HD4290显示核心",
+      "音频芯片": "集成8声道音效芯片",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "Phenom II x4/Phenom II x3/Phenom II x2/Athlon II x4/Athlon II x3/Athlon II x2/ Sempron",
+      "CPU插槽": "Socket AM3",
+      "内存类型": "4×DDR3 DIMM",
+      "最大内存容量": "16GB",
+      "内存描述": "支持双通道DDR3 1333/1066/800MHz内存",
+      "PCI-E插槽": "1×PCI-E X16显卡插槽",
+      "PCI插槽": "2×PCI插槽",
+      "存储接口": "6×SATA III接口",
+      "视频接口": "1×VGA接口，1×DVI接口，1×HDMI接口",
+      "电源接口": "一个8针，一个24针电源接口",
+      "其它接口": "1×RJ45网络接口，1×光纤接口，音频接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "Micro ATX板型"
+    }
+  }
+]
