@@ -1,0 +1,35 @@
+[
+  {
+    "name": "5050 (8GB)",
+    "manufacturer": "影驰",
+    "series": "5050",
+    "opendb_id": "5050_8gb",
+    "metadata": {
+      "产品型号": "GeForce RTX 5050 FIRE Lite/GeForce RTX 5050 魔刃 OC/GeForce RTX 5050 圣刃 OC/GeForce RTX 5050 FIRE Lite V2/GeForce RTX 5050 魔刃/GeForce RTX 5050 圣刃",
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 5050",
+      "显示芯片系列": "NVIDIA RTX 50系列",
+      "核心代号": "Blackwell",
+      "核心频率": "基础频率：2317MHz加速频率：2572MHz/基础频率：2317MHz加速频率：2617MHz",
+      "CUDA核心": "2560个",
+      "显存频率": "20000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "128bit",
+      "接口类型": "PCI Express 5.0 16X",
+      "I/O接口": "1×HDMI2.1b接口，3×DisplayPort2.1b接口",
+      "电源接口": "8pin",
+      "显卡类型": "入门级",
+      "显卡设计": "非公版",
+      "散热方式": "双风扇散热+热管散热/三风扇散热+热管散热",
+      "散热设计": "游星L散热器/刃式散热装甲",
+      "3D API": "DirectX 12 Ultimate，OpenGL 4.6",
+      "供电模式": "4+2相/3+2相",
+      "支持HDCP": "是",
+      "产品尺寸": "含挡片：235.5×129×40mm不含挡片：223×114×40mm/含挡片：316.5×140×40mm不含挡片：304×125×40mm",
+      "最大功耗": "130W",
+      "建议电源": "550W",
+      "多屏设计": "4"
+    }
+  }
+]
