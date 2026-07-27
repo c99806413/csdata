@@ -1,0 +1,60 @@
+[
+  {
+    "name": "华硕Blitz Extreme",
+    "manufacturer": "华硕",
+    "series": "P35玩家国度系列",
+    "opendb_id": "__blitz_extreme",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel P35",
+      "芯片组描述": "采用Intel P35/ICH9R芯片组",
+      "显示芯片": "无",
+      "音频芯片": "集成ADI 1988B 8声道声卡",
+      "网卡芯片": "板载千兆网卡",
+      "CPU类型": "Core 2 Quad/Core2 Extreme/Core 2 Duo/奔腾4/赛扬D/PentiumD",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel Core2 Extreme/Core2 Quad/Core 2 Duo/Pentium Extreme/Pentium D/Pentium 4/Celeron D处理器",
+      "内存类型": "4×DDR3 DIMM",
+      "内存描述": "支持双通道DDR3 1066内存",
+      "PCI-E标准": "2条PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽,3条PCI-E 1X",
+      "存储接口": "6个SATA II接口,支持RAID 0, 1, 5,10",
+      "USB接口": "12个USB 接口",
+      "视频接口": "音频接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "IEEE 1394a接口，PS/2鼠标，PS/2键盘接口",
+      "主板板型": "ATX板型",
+      "外形尺寸": "30.5×24.5cm"
+    }
+  },
+  {
+    "name": "华硕Blitz Formula",
+    "manufacturer": "华硕",
+    "series": "P35玩家国度系列",
+    "opendb_id": "__blitz_formula",
+    "metadata": {
+      "集成芯片": "声卡/网卡",
+      "主芯片组": "Intel P35",
+      "芯片组描述": "采用Intel P35/ICH9R芯片组",
+      "显示芯片": "无",
+      "音频芯片": "集成ADI 1988B 8声道声卡",
+      "网卡芯片": "板载双千兆网卡",
+      "CPU类型": "Core 2 Quad/Core2 Extreme/Core 2 Duo/奔腾4/赛扬D/PentiumD",
+      "CPU插槽": "LGA 775",
+      "CPU描述": "支持Intel Core2 Extreme/Core2 Quad/Core 2 Duo/Pentium Extreme/Pentium D/Pentium 4/Celeron D处理器",
+      "内存类型": "4×DDR2 DIMM",
+      "内存描述": "支持双通道DDR2 800内存(芯片支持内存频率可达DDR2 800MHz。可通过华硕独家技术调整主板支持至DDR2 1066MHz)",
+      "PCI-E标准": "2条PCI-E 16X",
+      "PCI插槽": "2条PCI 插槽,3条PCI-E 1X",
+      "存储接口": "6个SATA II接口,支持RAID 0, 1, 5,10",
+      "USB接口": "12个USB 接口",
+      "视频接口": "音频接口",
+      "电源接口": "一个八针，一个24针电源接口",
+      "其它接口": "IEEE 1394a接口1个同轴+1个光纤S/PDIF数字音频输出",
+      "主板板型": "ATX板型",
+      "外形尺寸": "30.5×24.5cm",
+      "超频功能": "Fusion Block SystemCrosslinx技术Extreme Tweaker二相式DDR2Loadline Calibration智能型超频工具：CPU level UpAI NOS™（实时超频，绝不延迟）AI Overclocking（智能型处理器频率调整）华硕AI Booster工具O.C Profile超频设置共享超频防护：COP EX（零件过热防护——EX）Voltiminder LED华硕C.P.R.（CPU参数恢复）",
+      "操作系统": "支持ATI CrossFire交叉火力显卡（均以x8模式运行）"
+    }
+  }
+]

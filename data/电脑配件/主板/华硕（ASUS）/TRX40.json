@@ -1,0 +1,92 @@
+[
+  {
+    "name": "华硕ROG ZENITH II EXTREME",
+    "manufacturer": "华硕",
+    "series": "TRX40",
+    "opendb_id": "__rog_zenith_ii_extreme",
+    "metadata": {
+      "主芯片组": "AMD TRX40",
+      "芯片组描述": "采用IAMD TRX40芯片组",
+      "显示芯片": "CPU内置显示芯片(需要CPU支持)",
+      "音频芯片": "SupremeFX S1220旗舰级音频芯片",
+      "网卡芯片": "板载Aquantia 10G万兆网卡",
+      "存储接口": "5×M.2接口",
+      "USB接口": "7×USB 3.1 10Gbps(包括一个USB-C)接口，1×USB-C 3.2 20Gbps接口，4×USB 3.0接口，3×USB 2.0接口和2×前置USB 3.1接口",
+      "无线功能": "Intel AX200 Wi-Fi 6无线网卡",
+      "蓝牙": "支持蓝牙5.0",
+      "其它特点": "全彩LiveDash OLED系统显示屏，板载可编程灯带接针"
+    }
+  },
+  {
+    "name": "华硕PRIME TRX40-PRO S",
+    "manufacturer": "华硕",
+    "series": "TRX40",
+    "opendb_id": "__prime_trx40_pro_s",
+    "metadata": {
+      "主芯片组": "AMD TRX40",
+      "芯片组描述": "采用IAMD TRX40芯片组",
+      "显示芯片": "CPU内置显示芯片(需要CPU支持)",
+      "音频芯片": "集成Realtek ALC S1220 8声道音效芯片",
+      "网卡芯片": "集成Intel I211-AT网卡",
+      "存储接口": "3×M.2接口，8×SATA III接口",
+      "USB接口": "AMD TRX40 芯片：1×USB3.2 Gen2前置 连接端口 (1前)AMD 锐龙Threadripper处理器：4×USB3.2 Gen2连接端口(4后，3×Type-A+1×Type-C)AMD TRX40 芯片：6×USB3.2 Gen 1 连接端口(2后，4前，Type-A)AMD TRX40 芯片：2×USB2.0连接端口(2前)ASMedia USB3.0控制器：4×USB3.2 Gen1连接端口(4后，Type-A)GL852G USB Hub：2×USB2.0连接端口(2前)",
+      "无线功能": "Intel AX200 Wi-Fi 6无线网卡，802.11a/b/g/n/ac/ax，支持2.4/5GHz无线双频",
+      "蓝牙": "支持蓝牙5.0",
+      "其它特点": "搭载5重优化的第5代华硕双智能处理器ASUS SafeSlot高强度安全插槽华硕静音散热解决方案Aura RGB灯带接针Aura灯效与兼容的华硕ROG设备进行同步",
+      "CPU类型": "第三代AMD Ryzen Threadripper处理器",
+      "CPU插槽": "Socket sTRX4",
+      "内存类型": "8×DDR4 DIMM",
+      "最大内存容量": "256GB",
+      "内存描述": "支持双通道DDR4 4600(超频)/4666(O.C.)/4400(超频)/4333(超频)/4266(超频)/4133(超频)/3800(超频)/3733(超频)/3466(超频)/3400(超频)/3200/2933/2800/2666/2400/2133MHz内存",
+      "主板板型": "ATX板型",
+      "外形尺寸": "30.5×24.4cm"
+    }
+  },
+  {
+    "name": "华硕PRIME TRX40-PRO",
+    "manufacturer": "华硕",
+    "series": "TRX40",
+    "opendb_id": "__prime_trx40_pro",
+    "metadata": {
+      "主芯片组": "AMD TRX40",
+      "芯片组描述": "采用IAMD TRX40芯片组",
+      "显示芯片": "CPU内置显示芯片(需要CPU支持)",
+      "音频芯片": "集成Realtek ALC S1220 8声道音效芯片",
+      "网卡芯片": "集成Intel I211-AT网卡",
+      "存储接口": "3×M.2接口，8×SATA III接口",
+      "USB接口": "AMD TRX40 芯片：1×USB3.2 Gen2前置 连接端口 (1前)AMD 锐龙Threadripper处理器：4×USB3.2 Gen2连接端口(4后，3×Type-A+1×Type-C)AMD TRX40 芯片：6×USB3.2 Gen 1 连接端口(2后，4前，Type-A)AMD TRX40 芯片：2×USB2.0连接端口(2前)ASMedia USB3.0控制器：4×USB3.2 Gen1连接端口(4后，Type-A)GL852G USB Hub：2×USB2.0连接端口(2前)",
+      "其它特点": "搭载5重优化的第5代华硕双智能处理器ASUS SafeSlot高强度安全插槽华硕静音散热解决方案Aura RGB灯带接针Aura灯效与兼容的华硕ROG设备进行同步",
+      "CPU类型": "第三代AMD Ryzen Threadripper处理器",
+      "CPU插槽": "Socket sTRX4",
+      "内存类型": "8×DDR4 DIMM",
+      "最大内存容量": "256GB",
+      "内存描述": "支持双通道DDR4 4600(超频)/4666(O.C.)/4400(超频)/4333(超频)/4266(超频)/4133(超频)/3800(超频)/3733(超频)/3466(超频)/3400(超频)/3200/2933/2800/2666/2400/2133MHz内存",
+      "主板板型": "ATX板型",
+      "外形尺寸": "30.5×24.4cm"
+    }
+  },
+  {
+    "name": "华硕ROG STRIX TRX40-E GAMING",
+    "manufacturer": "华硕",
+    "series": "TRX40",
+    "opendb_id": "__rog_strix_trx40_e_gaming",
+    "metadata": {
+      "主芯片组": "AMD TRX40",
+      "芯片组描述": "采用IAMD TRX40芯片组",
+      "显示芯片": "CPU内置显示芯片(需要CPU支持)",
+      "音频芯片": "集成Realtek ALC S1220 8声道音效芯片",
+      "网卡芯片": "集成Intel I211-AT千兆网卡，集成Realtek RTL8125-CG 2.5G LAN网卡",
+      "存储接口": "3×M.2接口，8×SATA III接口",
+      "USB接口": "AMD TRX40 芯片：1×USB3.2 Gen2前置 连接端口AMD 锐龙Threadripper处理器：4×USB3.2 Gen2连接端口(4后，红色)AMD TRX40 芯片：4×USB3.2 Gen 2连接端口(4后，红色，3×Type-A+1×Type C)AMD TRX40 芯片：8×USB2.0连接端口ASMedia USB3.0控制器：4×USB3.2 Gen1连接端口(4前)",
+      "无线功能": "Intel AX200 Wi-Fi 6无线网卡，802.11a/b/g/n/ac/ax，支持2.4/5GHz无线双频， 2x2 MU-MIMO",
+      "蓝牙": "支持蓝牙5.0",
+      "CPU类型": "第三代AMD Ryzen Threadripper处理器",
+      "CPU插槽": "Socket sTRX4",
+      "内存类型": "8×DDR4 DIMM",
+      "最大内存容量": "256GB",
+      "内存描述": "支持双通道DDR4 4600(超频)/4666(O.C.)/4400(超频)/4333(超频)/4266(超频)/4133(超频)/3800(超频)/3733(超频)/3466(超频)/3400(超频)/3200/2933/2800/2666/2400/2133MHz内存",
+      "主板板型": "ATX板型",
+      "外形尺寸": "30.5×24.4cm"
+    }
+  }
+]
