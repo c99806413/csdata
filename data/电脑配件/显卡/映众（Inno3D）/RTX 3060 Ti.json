@@ -1,0 +1,32 @@
+[
+  {
+    "name": "RTX 3060 Ti (8GB)",
+    "manufacturer": "映众",
+    "series": "RTX 3060 Ti",
+    "opendb_id": "rtx_3060_ti_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 3060 Ti",
+      "显示芯片系列": "NVIDIA RTX 30系列",
+      "制作工艺": "8纳米",
+      "核心频率": "1725MHz/1665MHz/1680MHz",
+      "CUDA核心": "4864个",
+      "显存频率": "14000MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 4.0 16X",
+      "I/O接口": "1×HDMI 2.1b接口，3×DisplayPort 1.4a接口",
+      "电源接口": "8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热/双风扇散热",
+      "3D API": "DirectX 12，OpenGL 4.6，Vulkan API",
+      "支持HDCP": "是",
+      "RGB": "支持",
+      "产品尺寸": "300×135×60mm/274×120×40mm/240×120×40mm",
+      "建议电源": "650W以上/600W以上",
+      "其它特点": "支持Driver CD Kit，Mouse Pad，3D Mark，VR Mark/Real-Time Ray Tracing，NVIDIA GeForce Experience，NVIDIA Ansel，NVIDIA Highlights，NVIDIA G-SYNC-Ready，Game Ready Drivers"
+    }
+  }
+]

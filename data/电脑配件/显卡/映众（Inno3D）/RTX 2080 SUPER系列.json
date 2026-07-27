@@ -1,0 +1,32 @@
+[
+  {
+    "name": "RTX 2080 SUPER系列",
+    "manufacturer": "映众",
+    "series": "RTX 2080 SUPER系列",
+    "opendb_id": "rtx_2080_super",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce RTX 2080 SUPER",
+      "显示芯片系列": "NVIDIA RTX SUPER系列",
+      "制作工艺": "12纳米",
+      "核心代号": "TU104-450",
+      "核心频率": "1845MHz",
+      "CUDA核心": "3072个",
+      "显存频率": "15500MHz",
+      "显存类型": "GDDR6",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，3×DisplayPort接口",
+      "电源接口": "8pin+8pin",
+      "显卡类型": "发烧级",
+      "散热方式": "三风扇散热+五热管散热",
+      "3D API": "DirectX 12，OpenGL 4.6",
+      "支持HDCP": "是，HDCP2.3",
+      "产品尺寸": "302×140mm",
+      "建议电源": "700W",
+      "其它特点": "支持最多4屏输出，VR Ready级别显卡，NVIDIA G-SYNC技术，支持NVIDIA NVLink技术"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "name": "GTX570系列 (1280GB)",
+    "manufacturer": "映众",
+    "series": "GTX570系列",
+    "opendb_id": "gtx570_1280gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 570",
+      "显示芯片系列": "NVIDIA GTX500系列",
+      "制作工艺": "40纳米",
+      "核心代号": "GF110",
+      "核心频率": "732MHz/780/850MHz/780MHz",
+      "CUDA核心": "480个",
+      "显存频率": "3800MHz/4000/4400MHz/4000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "1280GB",
+      "显存位宽": "320bitbit",
+      "最大分辨率": "2560×1600",
+      "接口类型": "PCI Express 2.1 16X/PCI Express 2.0 16X",
+      "I/O接口": "DisplayPort接口/Mini HDMI接口/DVI接口/Mini HDMI接口/双DVI接口/HDMI接口/DVI接口/VGA接口",
+      "电源接口": "6pin+6pin/6pin+8pin",
+      "显卡类型": "主流级",
+      "散热方式": "散热风扇/散热风扇+热管散热",
+      "3D API": "DirectX 11",
+      "供电模式": "4+2相/6+2相",
+      "支持HDCP": "是",
+      "最大功耗": "225W",
+      "建议电源": "500W以上",
+      "其它特点": "支持NVIDIA SLI技术，支持PhysX物理加速技术，支持节能技术"
+    }
+  }
+]

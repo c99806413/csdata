@@ -1,0 +1,29 @@
+[
+  {
+    "name": "GTX260系列 (896GB)",
+    "manufacturer": "映众",
+    "series": "GTX260系列",
+    "opendb_id": "gtx260_896gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 260/Geforce GTX 260",
+      "制作工艺": "65纳米/55纳米",
+      "核心代号": "GT200",
+      "核心频率": "576MHz/620MHz/575MHz/650MHz",
+      "CUDA核心": "192个/216个",
+      "显存频率": "2000MHz/2100MHz",
+      "显存类型": "GDDR3",
+      "显存容量": "896GB",
+      "显存位宽": "448bitbit",
+      "最大分辨率": "2560*1600/2560×1600",
+      "接口类型": "PCI Express 2.0 16X",
+      "I/O接口": "S-video接口(TV-Out)",
+      "电源接口": "6pin+6pin/6PIN+6PIN",
+      "散热方式": "散热风扇/巨型涡轮散热器",
+      "3D API": "DirectX 10",
+      "其它特点": "功耗:183W高清硬件解码H.264节能+混合动力/支持3-Way SLI 技术支持Hybrid Power省电技术PCB长度：26.5cm",
+      "产品特性1": "SLI(速力)技术",
+      "产品特性2": "支持PhysX, CUDA, PureVideo HD技术"
+    }
+  }
+]

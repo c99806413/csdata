@@ -1,0 +1,35 @@
+[
+  {
+    "name": "GTX1070系列 (8GB)",
+    "manufacturer": "映众",
+    "series": "GTX1070系列",
+    "opendb_id": "gtx1070_8gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1070",
+      "显示芯片系列": "NVIDIA GTX 10系列",
+      "制作工艺": "16纳米",
+      "核心代号": "GP104-200",
+      "核心频率": "1620/1822MHz/1582/1771MHz/1506/1683MHz/1556/1746MHz",
+      "CUDA核心": "1920个",
+      "显存频率": "8200MHz/8008MHz/8000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "8GB",
+      "显存位宽": "256bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，3×DisplayPort接口",
+      "电源接口": "8pin",
+      "显卡类型": "主流级",
+      "散热方式": "四风扇散热+七热管散热/三风扇散热+热管散热/涡轮风扇/三风扇散热+水冷散热/双风扇散热",
+      "3D API": "DirectX 12，OpenGL 4.5/DirectX 12.1，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "302×111mm/266×111mm/266×111×2.5mm/280×135mm",
+      "最大功耗": "150W/190W/180W",
+      "建议电源": "450W以上/500W以上",
+      "其它特点": "VR Ready级别显卡/VR Ready级别显卡，支持Multi-Projection技术，支持NVIDIA Ansel技术，支持NVIDIA SLI Ready技术，支持VIDIA G-SYNC-Ready技术/支持NVIDIA GPU Boost 3.0技术支持NVIDIA GameStream技术支持NVIDIA SLI技术支持NVIDIA G-SYNC Ready技术",
+      "上市日期": "2016年06月/2016年09月/2017年",
+      "性能评分": "114855"
+    }
+  }
+]

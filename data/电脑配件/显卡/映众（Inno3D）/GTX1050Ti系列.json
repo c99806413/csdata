@@ -1,0 +1,35 @@
+[
+  {
+    "name": "GTX1050Ti系列 (4GB)",
+    "manufacturer": "映众",
+    "series": "GTX1050Ti系列",
+    "opendb_id": "gtx1050ti_4gb",
+    "metadata": {
+      "芯片厂商": "NVIDIA",
+      "显卡芯片": "GeForce GTX 1050 Ti/GeForce GTX 1050Ti",
+      "显示芯片系列": "NVIDIA GTX 10系列",
+      "制作工艺": "14纳米",
+      "核心代号": "GP107-400",
+      "核心频率": "1290/1392MHz",
+      "CUDA核心": "768个",
+      "显存频率": "7000MHz",
+      "显存类型": "GDDR5",
+      "显存容量": "4GB",
+      "显存位宽": "128bit",
+      "最大分辨率": "7680×4320",
+      "接口类型": "PCI Express 3.0 16X",
+      "I/O接口": "1×HDMI接口，1×DVI接口，1×DisplayPort接口",
+      "电源接口": "无外接电源接口",
+      "显卡类型": "入门级",
+      "散热方式": "双风扇散热/散热风扇",
+      "3D API": "DirectX 12，OpenGL 4.5",
+      "支持HDCP": "是",
+      "产品尺寸": "192×111mm/145×100mm",
+      "最大功耗": "75W",
+      "建议电源": "350W以上/300W以上",
+      "其它特点": "支持NVIDIA GameWorks技术，支持NVIDIA Ansel截取和分享专业级游戏照片，NVIDIA G-SYNC-Ready技术，Vulkan API技术，NVIDIA GPU Boost 3.0技术",
+      "上市日期": "2016年10月",
+      "性能评分": "56602"
+    }
+  }
+]
