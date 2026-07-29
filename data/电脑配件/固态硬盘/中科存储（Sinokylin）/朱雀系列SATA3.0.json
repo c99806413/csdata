@@ -1,0 +1,24 @@
+[
+  {
+    "name": "朱雀系列SATA3.0",
+    "manufacturer": "中科存储",
+    "series": "朱雀系列SATA3.0",
+    "opendb_id": "sata3_0",
+    "metadata": {
+      "产品型号": "ZKSZQ128G/ZKSZQ256G/ZKSZQ2TB/ZKSZQ512G/ZKSZQ1TB/ZKSZQ4TB",
+      "产品定位": "消费类",
+      "存储容量": "128GB/256GB/2TB/1TB/4TB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "原厂闪存颗粒",
+      "缓存": "无缓存",
+      "读取速度": "520MB/s/550MB/s",
+      "写入速度": "280MB/s/480MB/s/500MB/s",
+      "外形尺寸": "100*69.85*6.8mm",
+      "产品重量": "37g",
+      "工作温度": "0℃~70℃",
+      "存储温度": "-45℃~85℃",
+      "其它特点": "TBW：80TBW/TBW：160TBW/TBW：1200TBW/TBW：320TBW/TBW：640TBW/TBW：1800TBW"
+    }
+  }
+]
