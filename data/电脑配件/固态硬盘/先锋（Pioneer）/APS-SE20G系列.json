@@ -1,0 +1,16 @@
+[
+  {
+    "name": "APS-SE20G系列",
+    "manufacturer": "先锋",
+    "series": "APS-SE20G系列",
+    "opendb_id": "aps_se20g",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "2TB/512GB/256GB/1TB",
+      "接口类型": "M.2 PCIe接口",
+      "读取速度": "3400MB/s/3000MB/s",
+      "写入速度": "3000MB/s/2100MB/s/1000MB/s",
+      "工作温度": "0-70℃"
+    }
+  }
+]

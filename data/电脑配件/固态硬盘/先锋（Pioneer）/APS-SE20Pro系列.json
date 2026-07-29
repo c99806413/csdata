@@ -1,0 +1,22 @@
+[
+  {
+    "name": "APS-SE20Pro系列",
+    "manufacturer": "先锋",
+    "series": "APS-SE20Pro系列",
+    "opendb_id": "aps_se20pro",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "256GB/1TB/512GB/2TB",
+      "接口类型": "M.2 PCIe接口",
+      "闪存架构": "TLC三层单元",
+      "缓存": "128MB/512MB/256MB/1GB",
+      "通道": "Gen3×4",
+      "读取速度": "3400MB/s/3500MB/s",
+      "写入速度": "1300MB/s/1850MB/s/1950MB/s",
+      "外形尺寸": "22×80mm",
+      "工作温度": "0-70℃",
+      "存储温度": "-40-85℃",
+      "其它特点": "TBW：150TBW/TBW：600TBW/TBW：300TBW/TBW：1200TBW"
+    }
+  }
+]
