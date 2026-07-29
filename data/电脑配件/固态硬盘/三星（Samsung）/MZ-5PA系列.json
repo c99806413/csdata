@@ -1,0 +1,25 @@
+[
+  {
+    "name": "MZ-5PA系列",
+    "manufacturer": "三星",
+    "series": "MZ-5PA系列",
+    "opendb_id": "mz_5pa",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "128GB/64GB/256GB",
+      "接口类型": "SATA2（3Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "缓存": "256MB",
+      "主控芯片": "3-core ARM base Controller（MAX）",
+      "读取速度": "250MB/s",
+      "写入速度": "220MB/s/170MB/s",
+      "IOPS读取": "31000 IOPS",
+      "IOPS写入": "20000 IOPS",
+      "平均无故障时间": "150万小时",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "外形尺寸": "100×9.5×69.85mm",
+      "其它性能": "Self-GC（Garbage Collection）Magician软件/Se-GC（Garbage Collection）Magician软件/TRIM***Self-GC（Garbage Collection）Magician软件/TRIMSelf-GC（Garbage Collection）Magician软件"
+    }
+  }
+]

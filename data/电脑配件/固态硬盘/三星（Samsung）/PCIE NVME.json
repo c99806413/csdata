@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PCIE NVME",
+    "manufacturer": "三星",
+    "series": "PCIE NVME",
+    "opendb_id": "pcie_nvme",
+    "metadata": {
+      "产品定位": "OEM",
+      "存储容量": "512GB/256GB/1TB",
+      "接口类型": "PCI-E接口",
+      "硬盘尺寸": "M.2-2280",
+      "平均无故障时间": "150万小时",
+      "防震能力": "1500G",
+      "工作温度": "0-70℃"
+    }
+  }
+]

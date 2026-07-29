@@ -1,0 +1,19 @@
+[
+  {
+    "name": "PM1653",
+    "manufacturer": "三星",
+    "series": "PM1653",
+    "opendb_id": "pm1653",
+    "metadata": {
+      "产品型号": "三星 PM1653",
+      "产品定位": "企业级",
+      "存储容量": "960GB",
+      "接口类型": "SAS接口（24.0 Gbps）",
+      "闪存架构": "其他（128层V-NAND）",
+      "读取速度": "4200mb/s",
+      "写入速度": "1200mb/s/3300mb/s/3700mb/s/2400mb/s",
+      "4K随机读": "800K IOPS/770K IOPS/720K IOPS",
+      "4K随机写": "55K IOPS/140K IOPS/135K IOPS/85K IOPS"
+    }
+  }
+]

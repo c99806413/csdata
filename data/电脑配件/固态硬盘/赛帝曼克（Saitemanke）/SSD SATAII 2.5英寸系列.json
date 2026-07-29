@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SSD SATAII 2.5英寸系列",
+    "manufacturer": "赛帝曼克",
+    "series": "SSD SATAII 2.5英寸系列",
+    "opendb_id": "ssd_sataii_2_5",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "128GB/256GB",
+      "接口类型": "SATA2（3Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC多层单元",
+      "外形设计": "黑色金属外壳"
+    }
+  }
+]
