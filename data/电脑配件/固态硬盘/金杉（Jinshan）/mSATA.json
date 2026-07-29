@@ -1,0 +1,23 @@
+[
+  {
+    "name": "mSATA",
+    "manufacturer": "金杉",
+    "series": "mSATA",
+    "opendb_id": "msata",
+    "metadata": {
+      "产品型号": "幻蝶系列 mSATA",
+      "产品定位": "消费类",
+      "存储容量": "60GB/64GB/120GB/128GB/240GB/256GB/1TB/32GB/512GB",
+      "接口类型": "MSATA接口",
+      "闪存架构": "QLC",
+      "缓存": "无缓存",
+      "读取速度": "349MB/s/512MB/s/529MB/s/544MB/s/550MB/s/165MB/s/534MB/s",
+      "写入速度": "101MB/s/444MB/s/488MB/s/487MB/s/480MB/s/48MB/s/475MB/s",
+      "电源功耗": "3.3V/1A",
+      "系统要求": "Windows/Mac/Linux",
+      "外形尺寸": "50×30mm",
+      "工作温度": "0℃~70℃",
+      "随机附件": "固态硬盘，螺丝螺丝刀"
+    }
+  }
+]

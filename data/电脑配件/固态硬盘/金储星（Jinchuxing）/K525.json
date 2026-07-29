@@ -1,0 +1,24 @@
+[
+  {
+    "name": "K525",
+    "manufacturer": "金储星",
+    "series": "K525",
+    "opendb_id": "k525",
+    "metadata": {
+      "产品型号": "K525",
+      "产品定位": "消费类",
+      "存储容量": "120GB/360GB/512GB/2TB/32GB/64GB/128GB/240GB/256GB/480GB/1TB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "缓存": "无缓存",
+      "存储介质": "3D NAND Flash",
+      "读取速度": "370MB/s/488MB/s/500MB/s/527MB/s/255MB/s/200MB/s/426MB/s/440MB/s/492MB/s",
+      "写入速度": "465MB/s/456MB/s/470MB/s/535MB/s/140MB/s/412MB/s/460MB/s/475MB/s/480MB/s/468MB/s/525MB/s",
+      "电源功耗": "输入电压：5V±5%，3W-5W",
+      "系统要求": "Mac os XP Win7 Win8 Win10 Linux",
+      "TRIM功能": "支持TRIM",
+      "工作温度": "0℃~70℃",
+      "其它特点": "TBW：40TBW/TBW：120TBW/TBW：160TBW/TBW：600TBW/TBW：10TBW/TBW：20TBW/TBW：80TBW/TBW：300TBW"
+    }
+  }
+]
