@@ -1,0 +1,29 @@
+[
+  {
+    "name": "M550系列",
+    "manufacturer": "美光",
+    "series": "M550系列",
+    "opendb_id": "m550",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "256GB/1TB/128GB/512GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC多层单元",
+      "缓存": "512MB/1GB",
+      "主控芯片": "Marvell 9189",
+      "读取速度": "550MB/s",
+      "写入速度": "500MB/s/350MB/s",
+      "IOPS读取": "90000 IOPS/95000 IOPS",
+      "IOPS写入": "80000 IOPS/85000 IOPS/75000 IOPS",
+      "平均寻道时间": "1ms",
+      "平均无故障时间": "120万小时",
+      "系统要求": "Microsoft Windows Family，Linux，Mac OS",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "外形尺寸": "100×69.85×7mm",
+      "工作温度": "0-70℃",
+      "其它性能": "TRIM，NCQ，TCG Opal 2.0，IEEE-1667，掉电保护/NCQ，TCG Opal 2.0，IEEE-1667，掉电保护"
+    }
+  }
+]

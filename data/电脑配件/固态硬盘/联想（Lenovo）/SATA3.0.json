@@ -1,0 +1,22 @@
+[
+  {
+    "name": "SATA3.0",
+    "manufacturer": "联想",
+    "series": "SATA3.0",
+    "opendb_id": "sata3_0",
+    "metadata": {
+      "产品型号": "联想 KTS3 SATA3.0 128GB 固态硬盘/联想 KTS3 SATA3.0 1TB 固态硬盘/联想 KTS3 SATA3.0 512GB 固态硬盘/联想 KTS3 SATA3.0 256GB 固态硬盘/联想 KTS3 SATA3.0 2TB 固态硬盘",
+      "产品定位": "消费类",
+      "存储容量": "128GB/1TB/512GB/256GB/2TB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "读取速度": "500MB/s",
+      "写入速度": "420MB/s",
+      "平均无故障时间": "150万小时",
+      "TRIM功能": "支持TRIM",
+      "外形设计": "黑色",
+      "外形尺寸": "70×100×7mm",
+      "其它性能": "TBW：80TB/TBW：640TB/TBW：320TB/TBW：160TB/TBW：1200TB"
+    }
+  }
+]

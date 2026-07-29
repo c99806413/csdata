@@ -1,0 +1,19 @@
+[
+  {
+    "name": "mSATA",
+    "manufacturer": "联想",
+    "series": "mSATA",
+    "opendb_id": "msata",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "128GB/256GB/512GB/1TB",
+      "接口类型": "mSATA接口",
+      "读取速度": "547MB/s",
+      "写入速度": "207MB/s",
+      "IOPS读取": "80K IOPS",
+      "IOPS写入": "50K IOPS",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM"
+    }
+  }
+]
