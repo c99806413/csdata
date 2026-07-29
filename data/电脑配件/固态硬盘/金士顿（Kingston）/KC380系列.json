@@ -1,0 +1,29 @@
+[
+  {
+    "name": "KC380系列",
+    "manufacturer": "金士顿",
+    "series": "KC380系列",
+    "opendb_id": "kc380",
+    "metadata": {
+      "产品定位": "企业级",
+      "存储容量": "480GB/240GB/60GB/120GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "1.8英寸",
+      "读取速度": "530MB/s/540MB/s/550MB/s",
+      "写入速度": "340MB/s/530MB/s/520MB/s",
+      "4K随机读": "72000 IOPS/86000 IOPS",
+      "4K随机写": "18000 IOPS/40000 IOPS/79000 IOPS/48000 IOPS",
+      "IOPS读取": "21000 IOPS/14000 IOPS/17000 IOPS",
+      "IOPS写入": "13000 IOPS/41000 IOPS/77000 IOPS/45000 IOPS",
+      "电源功耗": "空闲：0.4W读取：1.2W写入：1.8W",
+      "平均无故障时间": "100万小时",
+      "TRIM功能": "支持TRIM",
+      "防震能力": "运行时：最大2.17G非运行时：最大2G",
+      "外形尺寸": "78.5×54×5mm",
+      "产品重量": "27.43g",
+      "工作温度": "0-70℃",
+      "存储温度": "-40-85℃",
+      "其它特点": "总写入字节：1562TB 3 DWPDPCMARK Vantage HDD Suite得分：60,000/总写入字节：585TB 2 DWPDPCMARK Vantage HDD Suite得分：60,000/总写入字节：218TB 3 DWPDPCMARK Vantage HDD Suite得分：60,000/总写入字节：337TB 2 DWPDPCMARK Vantage HDD Suite得分：60,000"
+    }
+  }
+]
