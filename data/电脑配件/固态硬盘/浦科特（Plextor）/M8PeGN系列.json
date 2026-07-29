@@ -1,0 +1,30 @@
+[
+  {
+    "name": "M8PeGN系列",
+    "manufacturer": "浦科特",
+    "series": "M8PeGN系列",
+    "opendb_id": "m8pegn",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "1TB/256GB/512GB/128GB",
+      "接口类型": "M.2 PCIe接口",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC多层单元",
+      "缓存": "1024MB LPDDR3/512MB LPDDR3",
+      "主控芯片": "Marvell 88SS1093",
+      "读取速度": "2500MB/s/2000MB/s/2300MB/s/1600MB/s",
+      "写入速度": "1400MB/s/900MB/s/1300MB/s/500MB/s",
+      "IOPS读取": "280000 IOPS/210000 IOPS/260000 IOPS/120000 IOPS",
+      "IOPS写入": "240000 IOPS/230000 IOPS/250000 IOPS/130000 IOPS",
+      "电源功耗": "DC 3.3V，2.0A(最大)",
+      "平均无故障时间": "240万小时",
+      "系统要求": "Windows 8.1，Windows10/Linux OS/Windows 10，Windows 8.1/Linux OS/Microsoft Windows OS/Linux OS",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "防震能力": "1500G，7-800Hz",
+      "外形尺寸": "80×22×3.65mm/80×22×2.3mm",
+      "产品重量": "10g",
+      "工作温度": "0-70℃"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "M5M+系列",
+    "manufacturer": "浦科特",
+    "series": "M5M+系列",
+    "opendb_id": "m5m",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "128GB/64GB",
+      "接口类型": "SATA3（6Gbps）",
+      "闪存架构": "MLC多层单元",
+      "缓存": "512MB/256MB",
+      "主控芯片": "Marvell 88SS9187/Marvell 88SS9187",
+      "读取速度": "540MB/s",
+      "写入速度": "320MB/s/160MB/s",
+      "IOPS读取": "73000 IOPS",
+      "IOPS写入": "42000 IOPS",
+      "电源功耗": "0.2W",
+      "平均寻道时间": "1ms",
+      "平均无故障时间": "240万小时",
+      "系统要求": "微软 Windows，Linux，Mac OS",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "防震能力": "1500G",
+      "外形尺寸": "29.8×50.8×3.6mm",
+      "产品重量": "9g",
+      "工作温度": "0-70℃",
+      "其它性能": "安规：UL，CE，BSMI，WHQL，RoHS，FCC，KCC，VCCINCQ指令集平均抹写补偿/安规：UL，CE，BSMI，WHQL，RoHS，FCC，KCC，VCCINCQ指令集TRIM指令集平均抹写补偿"
+    }
+  }
+]

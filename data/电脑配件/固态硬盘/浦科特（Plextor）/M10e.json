@@ -1,0 +1,28 @@
+[
+  {
+    "name": "M10e",
+    "manufacturer": "浦科特",
+    "series": "M10e",
+    "opendb_id": "m10e",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "256GB/1TB/512GB",
+      "接口类型": "M.2 PCIe接口",
+      "闪存架构": "TLC三层单元",
+      "主控芯片": "SMI2267XT",
+      "通道": "Gen4×4",
+      "存储介质": "KIOXIA BiCS 5 FLASH",
+      "读取速度": "3600MB/s/3700MB/s",
+      "写入速度": "2100MB/s/2600MB/s/2200MB/s",
+      "4K随机读": "440000 IOPS/550000 IOPS",
+      "4K随机写": "430000 IOPS/460000 IOPS",
+      "电源功耗": "工作电压：3.3V，2.8A（最大）",
+      "平均无故障时间": "250万小时",
+      "系统要求": "Windows 8.1/10，Linux OS",
+      "外形尺寸": "80.0×22.0×2.3mm",
+      "产品重量": "10g",
+      "工作温度": "0-70℃",
+      "其它性能": "耐用性（TBW）：160安规认证：UL，TUV，FCC，CE，BSMI，VCCI，RCM，KCC，EAC，ROHS固件更新：支持/耐用性（TBW）：640安规认证：UL，TUV，FCC，CE，BSMI，VCCI，RCM，KCC，EAC，ROHS固件更新：支持/耐用性（TBW）：320安规认证：UL，TUV，FCC，CE，BSMI，VCCI，RCM，KCC，EAC，ROHS固件更新：支持"
+    }
+  }
+]

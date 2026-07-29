@@ -1,0 +1,24 @@
+[
+  {
+    "name": "M3P系列",
+    "manufacturer": "浦科特",
+    "series": "M3P系列",
+    "opendb_id": "m3p",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "512GB/128GB/256GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC多层单元",
+      "缓存": "512MB/256MB",
+      "主控芯片": "Marvell 9174",
+      "读取速度": "535MB/s/540MB/s",
+      "写入速度": "450MB/s/350MB/s/420MB/s",
+      "IOPS读取": "56000 IOPS/75000 IOPS",
+      "IOPS写入": "34000 IOPS/69000 IOPS/68000 IOPS",
+      "TRIM功能": "支持TRIM",
+      "外形尺寸": "69.5×100×7mm/69.85×100×7mm",
+      "其它性能": "密码保护NCQ CommandTRIM Command"
+    }
+  }
+]

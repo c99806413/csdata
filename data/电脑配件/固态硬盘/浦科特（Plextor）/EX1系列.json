@@ -1,0 +1,20 @@
+[
+  {
+    "name": "EX1系列",
+    "manufacturer": "浦科特",
+    "series": "EX1系列",
+    "opendb_id": "ex1",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "256GB/128GB/512GB",
+      "接口类型": "USB Type-C接口/USB3.1 Type-C接口",
+      "读取速度": "550MB/s",
+      "写入速度": "500MB/s",
+      "平均无故障时间": "150万小时",
+      "系统要求": "Windows OS/Mac OS/Linux OS/Android OS",
+      "外形设计": "颜色：金、钛银",
+      "外形尺寸": "101.2×31.6×8.7mm",
+      "产品重量": "30g"
+    }
+  }
+]

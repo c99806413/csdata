@@ -1,0 +1,25 @@
+[
+  {
+    "name": "M6M系列",
+    "manufacturer": "浦科特",
+    "series": "M6M系列",
+    "opendb_id": "m6m",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "128GB/64GB/256GB/512GB",
+      "接口类型": "mSATA接口/SATA（6Gbps）/SATA3（6Gbps）",
+      "闪存架构": "MLC多层单元",
+      "缓存": "256MB/128MB/512MB/768MB",
+      "主控芯片": "Marvell",
+      "读取速度": "520MB/s",
+      "写入速度": "340MB/s/160MB/s/440MB/s",
+      "IOPS读取": "90000 IOPS/73000 IOPS/94000 IOPS",
+      "IOPS写入": "76000 IOPS/42000 IOPS/80000 IOPS",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "外形尺寸": "50.8×29.8×3.6mm",
+      "其它性能": "闪存工艺：A19nm",
+      "其它特点": "NCQ指令集平均抹写补偿/NCQ指令集TRIM 指令集平均抹写补偿"
+    }
+  }
+]
