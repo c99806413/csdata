@@ -1,0 +1,19 @@
+[
+  {
+    "name": "GWOMB MINI MSATA",
+    "manufacturer": "云存科技",
+    "series": "GWOMB MINI MSATA",
+    "opendb_id": "gwomb_mini_msata",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "16GB/32GB/64GB/128GB",
+      "接口类型": "MINI mSATA接口",
+      "闪存架构": "MLC二层单元",
+      "读取速度": "430MB/s",
+      "写入速度": "320MB/s",
+      "防震能力": "2000G",
+      "外形尺寸": "50×30×3.5mm",
+      "工作温度": "0-70℃"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "MX100系列",
+    "manufacturer": "英睿达",
+    "series": "MX100系列",
+    "opendb_id": "mx100",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "256GB/512GB/128GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "MLC多层单元",
+      "主控芯片": "Marvell 88SS9189",
+      "读取速度": "550MB/s",
+      "写入速度": "330MB/s/500MB/s/150MB/s",
+      "性能评分": "12345",
+      "工作温度": "0-70℃",
+      "其它特点": "合规性：CE、 FCC、BSMI、C-Tick、 VCCI、Kcc、RoHS、 China RoHS、 WEEE、 TUV、 UL、SATA-IO、IC"
+    }
+  }
+]

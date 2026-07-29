@@ -1,0 +1,23 @@
+[
+  {
+    "name": "MX300 M.2系列",
+    "manufacturer": "英睿达",
+    "series": "MX300 M.2系列",
+    "opendb_id": "mx300_m_2",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "275GB/1TB/525GB",
+      "接口类型": "M.2 SATA接口（NGFF）",
+      "闪存架构": "Micron 3D NAND",
+      "主控芯片": "Marvell 88SS1074",
+      "读取速度": "530MB/s",
+      "写入速度": "500MB/s/510MB/s",
+      "4K随机读": "550000 IOPS/92000 IOPS",
+      "4K随机写": "830000 IOPS/83000 IOPS",
+      "平均无故障时间": "150万小时",
+      "TRIM功能": "支持TRIM",
+      "工作温度": "0-70℃",
+      "其它特点": "耐久性：总字节写入量：80TBAES 256位加密，RAIN技术，专用数据防护技术，自适应热保护技术，支持Storage Executive中的Momentum Cache功能，Dynamic Write Acceleration技术"
+    }
+  }
+]

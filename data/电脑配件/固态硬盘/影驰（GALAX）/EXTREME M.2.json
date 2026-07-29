@@ -1,0 +1,24 @@
+[
+  {
+    "name": "EXTREME M.2",
+    "manufacturer": "影驰",
+    "series": "EXTREME M.2",
+    "opendb_id": "extreme_m_2",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "1TB/2TB",
+      "接口类型": "M.2 PCIe接口",
+      "缓存": "1024MB/2048MB",
+      "主控芯片": "PS5018-E18",
+      "通道": "PCIe Gen4×4",
+      "读取速度": "7000MB/s",
+      "写入速度": "5500MB/s/6850MB/s",
+      "4K随机读": "700000 IOPS",
+      "4K随机写": "350000 IOPS/650000 IOPS",
+      "系统要求": "Windows OS，Mac OS，Linux",
+      "散热马甲": "有",
+      "外形尺寸": "80×23.6×10mm",
+      "其它特点": "白色定制版PCB，丝印专属HOF系列logo/银色冰境散热器"
+    }
+  }
+]

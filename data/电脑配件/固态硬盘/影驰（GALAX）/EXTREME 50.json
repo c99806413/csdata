@@ -1,0 +1,18 @@
+[
+  {
+    "name": "EXTREME 50",
+    "manufacturer": "影驰",
+    "series": "EXTREME 50",
+    "opendb_id": "extreme_50",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "1TB",
+      "接口类型": "PCIe5.0接口",
+      "闪存架构": "TLC三层单元",
+      "读取速度": "12000MB/s",
+      "写入速度": "10000MB/s",
+      "4K随机读": "1500KIOPS",
+      "4K随机写": "1250KIOPS"
+    }
+  }
+]

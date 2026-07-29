@@ -1,0 +1,22 @@
+[
+  {
+    "name": "YSIT 2242",
+    "manufacturer": "元存",
+    "series": "YSIT 2242",
+    "opendb_id": "ysit_2242",
+    "metadata": {
+      "产品型号": "YSIT 2242",
+      "产品定位": "消费类",
+      "存储容量": "128GB/256GB/512GB/1TB/32GB/64GB",
+      "接口类型": "M.2 SATA接口",
+      "硬盘尺寸": "42mm*22mm*3.5mm",
+      "闪存架构": "TLC",
+      "读取速度": "510MB/s/560MB/s/320MB/s/350MB/s",
+      "写入速度": "400MB/s/430MB/s/450MB/s/480MB/s/150MB/s/260MB/s",
+      "系统要求": "Windows/RHEL/CentOS/Ubuntu/Linux等",
+      "工作温度": "0℃~70℃",
+      "存储温度": "-40℃~85℃",
+      "其它特点": "TBW：125/TBW：250/TBW：500/TBW：1000/TBW：30/TBW：60"
+    }
+  }
+]

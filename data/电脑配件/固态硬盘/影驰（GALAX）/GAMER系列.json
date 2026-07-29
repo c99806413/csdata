@@ -1,0 +1,24 @@
+[
+  {
+    "name": "GAMER系列",
+    "manufacturer": "影驰",
+    "series": "GAMER系列",
+    "opendb_id": "gamer",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "512GB/240GB/480GB/960GB/120GB/128GB/1TB/256GB",
+      "接口类型": "M.2 PCIe接口/SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "主控芯片": "高规格专业主控/Galaxy Heracles/PS3110-S10/GALAXY Heracles/Heracles",
+      "读取速度": "2400MB/s/560MB/s/520MB/s/520.91MB/s/2000MB/s",
+      "写入速度": "1200MB/s/470MB/s/500MB/s/430MB/s/445.78MB/s/530MB/s/650MB/s",
+      "4K随机读": "220000 IOPS/75000 IOPS/99000 IOPS/80000 IOPS/95000 IOPS/210000 IOPS/98000 IOPS/100000 IOPS",
+      "4K随机写": "180000 IOPS/75000 IOPS/90000 IOPS/85000 IOPS/160000 IOPS/80000 IOPS",
+      "平均无故障时间": "200万小时",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "外形尺寸": "80×22×3.8mm/100×69.85×6.9mm",
+      "工作温度": "0-70℃"
+    }
+  }
+]

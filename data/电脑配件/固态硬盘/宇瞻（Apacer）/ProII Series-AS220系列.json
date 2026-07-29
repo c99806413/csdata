@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ProII Series-AS220系列",
+    "manufacturer": "宇瞻",
+    "series": "ProII Series-AS220系列",
+    "opendb_id": "proii_series_as220",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "64GB/32GB/128GB",
+      "接口类型": "SATA3（6Gbps）",
+      "闪存架构": "MLC多层单元",
+      "读取速度": "550MB/s",
+      "写入速度": "475MB/s",
+      "4K随机读": "22000 IOPS",
+      "4K随机写": "22000 IOPS",
+      "外形尺寸": "50.8×29.85×4.85mm",
+      "工作温度": "0-70℃",
+      "存储温度": "-40-85℃",
+      "其它性能": "I.S.R.T技术，win7优化指令TRIM command，AES 256-bit数据加密与解密技术开机速度：＜7秒ECC支持：72bit/1K Bytes冲击：Sine，3.13G，5-800Hz振动：Half sine，1500G/1.0msecMTBF：2000000",
+      "其它特点": "湿度：操作：25℃，8-95%，非操作：40℃，8-93%"
+    }
+  }
+]
