@@ -1,0 +1,22 @@
+[
+  {
+    "name": "PCI-E 存储卡系列",
+    "manufacturer": "金胜维",
+    "series": "PCI-E 存储卡系列",
+    "opendb_id": "pci_e",
+    "metadata": {
+      "产品定位": "工控类",
+      "存储容量": "500GB/2TB/1TB",
+      "接口类型": "PCI-E 2.0 X8/PCI-E接口",
+      "读取速度": "1200MB/s/4000MB/s",
+      "写入速度": "800MB/s/2400MB/s",
+      "电源功耗": "12V+/_8%",
+      "平均寻道时间": "0.1ms",
+      "系统要求": "Microsoft Windows，Linux（SuSE，Red Hat）Solaris，Vmware，FreeBSD",
+      "S.M.A.R.T.支持": "支持",
+      "外形尺寸": "190×83×20mm",
+      "其它性能": "读寿命：无限均衡抹除算法：动态与静态的平衡抹除算法数据保存：在25度下可以存放10年以上性能：技术支持方面有TRIM/SCSI unmap，S.M.A.R.T，128/256-bit AES加密，ECC错误校验，数据写入保证（DataWrite Assurance）技术",
+      "其它特点": "新功能：支持RADIO 0,1,0+1坏块管理：系统自动坏块管理"
+    }
+  }
+]

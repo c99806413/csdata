@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Datekeep系列",
+    "manufacturer": "金胜维",
+    "series": "Datekeep系列",
+    "opendb_id": "datekeep",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "64GB/32GB",
+      "接口类型": "USB2.0接口，WiFi/USB3.0接口Ligtning",
+      "硬盘尺寸": "53×53×12.5mm/37×31×7.5mm/59×28×9mm",
+      "读取速度": "PC端：20MB/sWiFi：4MB/s/8-30MB/s",
+      "写入速度": "PC端：5MB/sWiFi：3MB/s/32-100MB/s",
+      "电源功耗": "输入：DC 5V/1A",
+      "系统要求": "iOS8.0以上，Android 4.0以上Windows系统(暂不支持，固件版本更新后支持)/Microsoft Win10/Win8/Win7/Vista/Win XPMac OS 10.XLinux kernels 2.5 and above",
+      "外形设计": "颜色：苹果白外形：ABS+PC塑料胶",
+      "外形尺寸": "53×53×12.5mm/37×31×7.5mm/59×28×9mm",
+      "产品重量": "35.9g",
+      "其它性能": "LED指示灯：蓝灯电池容量：600mAh使用/充电时间：2小时WiFi覆盖距离：无障碍空间10m范围同时连接人数：可支持8位用户，并支持1-3位用户同时观看系统要求：ios 8.0以上，Android 4.0以上图片格式：jpg，jpeg，png，tif，gif，ico，bmp视频格式：mov，mp4，m4v，rm，rmvp，avi，wmv，mkv音频格式：mp3，m4a，acc文档格式：xls，xlsx，txt，rtf，ppt，doc，pdf，key，numbers，pages通讯录备份压缩/解压缩/lightning读写速度：W=3-8MB/S，R=15-25MB/S",
+      "其它特点": "1.解决手机空间不足的困扰2.可多人进行进行无线连接使用，同时传送文件或在线观看音视频及文档，分享功能，加密功能3.支持中继设置，通过将U盘接入家庭或公司Wifi的操作实现使用U盘的同时不影响上互联网4.独立开发的专用APP，持续发布更新包以解决用户反馈的问题/1、弹性Lightning数据接口2、小巧轻便，紧握掌心，随心随行3、支持iPhone、iPad、iPod等苹果设备，同时兼容安卓系统设备，如三星、vivo、OPPO、华为等移动设备4、支持OTG功能5、即插即用，支持热插拨6、苹果官方MFi认证7、可进行文件管理如：复制、粘贴、删除、创建文件夹及移动文件8、备份和恢复苹果设备通讯录/1、弹性Lightning数据接口2、小巧轻便，紧握掌心，随心随行3、支持iPhone、iPad、iPod等苹果设备4、支持OTG功能5、即插即用，支持热插拨6、苹果官方MFi认证7、可进行文件管理如：复制、粘贴、删除、创建文件夹及移动文件8、备份和恢复苹果设备通讯录"
+    }
+  }
+]
