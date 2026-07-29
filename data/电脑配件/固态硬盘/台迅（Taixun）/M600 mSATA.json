@@ -1,0 +1,16 @@
+[
+  {
+    "name": "M600 mSATA",
+    "manufacturer": "台迅",
+    "series": "M600 mSATA",
+    "opendb_id": "m600_msata",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "240GB/64GB/128GB/120GB",
+      "接口类型": "mSATA接口",
+      "平均寻道时间": "0.15ms",
+      "外形尺寸": "30×50mm",
+      "工作温度": "0-70℃"
+    }
+  }
+]

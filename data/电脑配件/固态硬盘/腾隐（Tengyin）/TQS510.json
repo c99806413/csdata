@@ -1,0 +1,21 @@
+[
+  {
+    "name": "TQS510",
+    "manufacturer": "腾隐",
+    "series": "TQS510",
+    "opendb_id": "tqs510",
+    "metadata": {
+      "产品型号": "TQS510",
+      "产品定位": "消费类",
+      "存储容量": "1TB/2TB/256GB/512GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "读取速度": "540MB/s/560MB/s",
+      "写入速度": "480MB/s/520MB/s",
+      "4K随机读": "55K IOPS/90K IOPS",
+      "4K随机写": "45K IOPS/75K IOPS",
+      "平均无故障时间": "150万小时",
+      "其它特点": "TBW：400TB/TBW：800TB/TBW：200TB"
+    }
+  }
+]
