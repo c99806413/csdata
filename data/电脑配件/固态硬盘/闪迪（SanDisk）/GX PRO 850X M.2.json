@@ -1,0 +1,22 @@
+[
+  {
+    "name": "GX PRO 850X M.2",
+    "manufacturer": "闪迪",
+    "series": "GX PRO 850X M.2",
+    "opendb_id": "gx_pro_850x_m_2",
+    "metadata": {
+      "产品型号": "Optimus GX PRO 850X M.2",
+      "产品定位": "消费类",
+      "存储容量": "1TB/2TB/4TB/8TB",
+      "接口类型": "M.2 PCIe接口",
+      "通道": "Gen4×4",
+      "读取速度": "7300MB/s/7200MB/s",
+      "写入速度": "6300MB/s/6600MB/s",
+      "4K随机读": "800K IOPS/1.2M IOPS",
+      "4K随机写": "1.1M IOPS/1.2M IOPS",
+      "外形尺寸": "80×22×2.38mm/80×22×3.88mm",
+      "产品重量": "7.5g/8.6g",
+      "其它特点": "TBW：600/TBW：1200/TBW：2400/TBW：4800"
+    }
+  }
+]

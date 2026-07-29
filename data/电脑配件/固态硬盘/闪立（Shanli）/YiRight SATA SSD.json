@@ -1,0 +1,22 @@
+[
+  {
+    "name": "YiRight SATA SSD",
+    "manufacturer": "闪立",
+    "series": "YiRight SATA SSD",
+    "opendb_id": "yiright_sata_ssd",
+    "metadata": {
+      "产品型号": "YiRight SATA SSD",
+      "产品定位": "消费类",
+      "存储容量": "256GB/512GB/1TB/128GB",
+      "接口类型": "SATA3（6Gbps）",
+      "硬盘尺寸": "2.5英寸",
+      "闪存架构": "TLC三层单元",
+      "读取速度": "560MB/s",
+      "写入速度": "520MB/s",
+      "S.M.A.R.T.支持": "支持",
+      "TRIM功能": "支持TRIM",
+      "外形尺寸": "100.2×69.85×7mm",
+      "产品重量": "34.6g"
+    }
+  }
+]

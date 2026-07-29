@@ -1,0 +1,12 @@
+[
+  {
+    "name": "pSSD S2系列",
+    "manufacturer": "闪迪",
+    "series": "pSSD S2系列",
+    "opendb_id": "pssd_s2",
+    "metadata": {
+      "存储容量": "8GB",
+      "接口类型": "SATA"
+    }
+  }
+]

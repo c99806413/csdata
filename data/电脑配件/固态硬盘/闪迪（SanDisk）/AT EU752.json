@@ -1,0 +1,20 @@
+[
+  {
+    "name": "AT EU752",
+    "manufacturer": "闪迪",
+    "series": "AT EU752",
+    "opendb_id": "at_eu752",
+    "metadata": {
+      "产品型号": "SDINHDL6-256GB-ZA/SDINHDL6-512GB-ZA/SDINHDL6-1T00-ZA",
+      "产品定位": "企业级",
+      "存储容量": "256GB/512GB/1TB",
+      "接口类型": "UFS 4.1接口",
+      "读取速度": "3400MB/s/4200MB/s/4300MB/s",
+      "写入速度": "2500MB/s/3900MB/s/4100MB/s",
+      "4K随机读": "260000 IOPS/400000 IOPS/450000 IOPS",
+      "4K随机写": "430000 IOPS",
+      "外形尺寸": "11.5×13×1.2mm",
+      "工作温度": "-40°C-105°C"
+    }
+  }
+]
