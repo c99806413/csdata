@@ -1,0 +1,14 @@
+[
+  {
+    "name": "S501 V2系列",
+    "manufacturer": "威刚",
+    "series": "S501 V2系列",
+    "opendb_id": "s501_v2",
+    "metadata": {
+      "存储容量": "512GB/64GB/32GB/128GB/256GB",
+      "接口类型": "SATA3（6Gbps）",
+      "读取速度": "读出：480MB/s，写入：310MB/s/308MB/s/355MB/s",
+      "其它性能": "支持TRIM，S.M.A.R.T采用了Marell SATA 6Gbps主控制器，搭载东芝MLC NAND闪存芯片"
+    }
+  }
+]

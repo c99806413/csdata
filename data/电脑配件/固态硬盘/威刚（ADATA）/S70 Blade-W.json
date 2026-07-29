@@ -1,0 +1,22 @@
+[
+  {
+    "name": "S70 Blade-W",
+    "manufacturer": "威刚",
+    "series": "S70 Blade-W",
+    "opendb_id": "s70_blade_w",
+    "metadata": {
+      "产品型号": "XPG S70 Blade",
+      "产品定位": "消费类",
+      "存储容量": "1TB/2TB/4TB",
+      "接口类型": "M.2 PCIe接口",
+      "闪存架构": "TLC三层单元",
+      "缓存": "2GB",
+      "通道": "Gen4×4",
+      "读取速度": "7400MB/s",
+      "写入速度": "5500MB/s/6800MB/s/6600MB/s",
+      "工作温度": "0-70℃",
+      "其它性能": "支持 SLC 模拟缓存技术，自带 DRAM 缓存，LDPC 纠错，AES 256-bit 加密",
+      "其它特点": "TBW：740TB/TBW：1480TB/TBW：2960TB"
+    }
+  }
+]

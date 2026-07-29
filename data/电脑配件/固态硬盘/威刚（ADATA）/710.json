@@ -1,0 +1,21 @@
+[
+  {
+    "name": "710",
+    "manufacturer": "威刚",
+    "series": "710",
+    "opendb_id": "710",
+    "metadata": {
+      "产品型号": "LEGEND 710",
+      "产品定位": "消费类",
+      "存储容量": "1TB/2TB/256GB/512GB",
+      "接口类型": "M.2 PCIe接口",
+      "闪存架构": "QLC",
+      "缓存": "无缓存",
+      "通道": "Gen3×3",
+      "读取速度": "2400MB/s/2100MB/s",
+      "写入速度": "1800MB/s/1000MB/s/1600MB/s",
+      "散热马甲": "合金散热片",
+      "其它特点": "TBW：260TBLDPC ECC技术/TBW：520TBLDPC ECC技术/TBW：65TBLDPC ECC技术/TBW：130TBLDPC ECC技术"
+    }
+  }
+]

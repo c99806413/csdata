@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Premier Pro SP300 mSATA Solid State Drive系列",
+    "manufacturer": "威刚",
+    "series": "Premier Pro SP300 mSATA Solid State Drive系列",
+    "opendb_id": "premier_pro_sp300_msata_solid_state_drive",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "32GB/64GB",
+      "接口类型": "SATA2（3Gbps）",
+      "闪存架构": "MLC多层单元",
+      "主控芯片": "LSI SandForce SF-2141",
+      "读取速度": "280MB/s",
+      "写入速度": "260MB/s",
+      "平均寻道时间": "0.5ms",
+      "平均无故障时间": "120万小时",
+      "防震能力": "1500G",
+      "外形尺寸": "50.95×30×4mm",
+      "产品重量": "7g",
+      "工作温度": "0-70℃",
+      "存储温度": "-40-85℃",
+      "其它性能": "Form Factor：Full-size mSATAECC错误侦测回复：Up to 55 bits correctable per 512-byte sector（BCH）国际认证：RoHS，CE，FCC/Form Factor：Full-size mSATA"
+    }
+  }
+]
