@@ -1,0 +1,17 @@
+[
+  {
+    "name": "X8 加速器系列",
+    "manufacturer": "希捷",
+    "series": "X8 加速器系列",
+    "opendb_id": "x8",
+    "metadata": {
+      "产品定位": "企业级",
+      "存储容量": "555GB/2222GB/1111GB",
+      "接口类型": "PCI-E接口",
+      "闪存架构": "MLC多层单元",
+      "电源功耗": "典型的闲置：15W运行：25W/闲置：15W运行：25W",
+      "产品重量": "198.45g",
+      "其它性能": "虚拟桌面架构（VDI）Oracle企业级服务器应用MySQL应用Microsoft SQL Server应用VMware应用"
+    }
+  }
+]

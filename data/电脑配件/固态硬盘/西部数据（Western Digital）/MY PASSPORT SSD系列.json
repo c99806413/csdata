@@ -1,0 +1,21 @@
+[
+  {
+    "name": "MY PASSPORT SSD系列",
+    "manufacturer": "西部数据",
+    "series": "MY PASSPORT SSD系列",
+    "opendb_id": "my_passport_ssd",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "2TB/256GB/1TB/512GB",
+      "接口类型": "USB3.1接口",
+      "读取速度": "540MB/s",
+      "系统要求": "Windows 10/8.1/7macOS High Sierra、Sierra 或 El Capitan",
+      "防震能力": "最高能承受 6.5 英尺（1.98 米）的跌落高度",
+      "外形尺寸": "10×45×90mm",
+      "产品重量": "32g",
+      "工作温度": "5-35℃",
+      "存储温度": "-20-65℃",
+      "其它特点": "便携式固态硬盘"
+    }
+  }
+]

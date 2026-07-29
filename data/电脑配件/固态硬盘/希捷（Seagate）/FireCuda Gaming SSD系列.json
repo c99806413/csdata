@@ -1,0 +1,20 @@
+[
+  {
+    "name": "FireCuda Gaming SSD系列",
+    "manufacturer": "希捷",
+    "series": "FireCuda Gaming SSD系列",
+    "opendb_id": "firecuda_gaming_ssd",
+    "metadata": {
+      "产品定位": "消费类",
+      "存储容量": "500GB/2TB/1TB",
+      "接口类型": "USB Type-C接口",
+      "通道": "Gen2×2",
+      "读取速度": "2000MB/s",
+      "写入速度": "2000MB/s",
+      "外形尺寸": "104.4×52.5×10mm",
+      "产品重量": "100g",
+      "其它性能": "无需外接电源，可自定义RGB LED灯光",
+      "随机附件": "FireCuda Gaming SSD ×1USB Type-C连接线 ×1快速入门指南 ×1"
+    }
+  }
+]
